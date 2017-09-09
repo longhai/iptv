@@ -1,0 +1,6 @@
+#EXTM3U Long Hải
+
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s30.postimg.org/9jankmvsx/VF_PNG.png", Hải Ngoại
+https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Haingoai.m3u
+#EXTINF:-1 group-title="ca Nhạc" tvg-logo="https://s30.postimg.org/9jankmvsx/VF_PNG.png", Ca Nhạc 
+https://raw.githubusercontent.com/thanh51/repository.thanh51/master/CaNhac.m3u
