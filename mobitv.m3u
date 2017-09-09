@@ -1,6 +1,8 @@
+#EXTM3U
 
-http://bit.ly/MobitvVTV1HD|User-Agent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
 
-http://bit.ly/MobitvVTV2HD|User-Agent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
-
-http://bit.ly/MobitvVTV3HD|User-Agent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
+#EXTINF:-1,ALB: Super Sport 6
+http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/616.ts?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDE3IDEyOjM2OjI1IEFNJmhhc2hfdXmFsdWU9felN3WHpkMOkM0RGZvcmuJENHFUdHo5QT09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1,ALB: Super Sport 5
+http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/617.ts?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDE3IDEyOjM2OjI1IEFNJmhhc2hfdXmFsdWU9felN3WHpkMOkM0RGZvcmuJENHFUdHo5QT09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1,ALB: Super Sport 4
