@@ -1,5 +1,5 @@
 #EXTM3U Long Hải
-#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-1综合
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-1 Tổng hợp
 http://tv6.byr.cn/hls/cctv1.m3u8
 #EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-2财经
 http://tv6.byr.cn/hls/cctv2.m3u8
