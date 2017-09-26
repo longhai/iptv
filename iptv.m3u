@@ -1,249 +1,249 @@
 #EXTM3U Long Hải
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-1综合
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-1综合
 http://tv6.byr.cn/hls/cctv1.m3u8
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-2财经
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-2财经
 http://tv6.byr.cn/hls/cctv2.m3u8
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-3综艺
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-3综艺
 http://tv6.byr.cn/hls/cctv3.m3u8
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-4中文国际
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-4中文国际
 http://tv6.byr.cn/hls/cctv4.m3u8
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-5体育
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-5体育
 http://tv6.byr.cn/hls/cctv5.m3u8
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-6电影
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-6电影
 http://tv6.byr.cn/hls/cctv6.m3u8
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-7军事农业
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-7军事农业
 http://tv6.byr.cn/hls/cctv7.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-8电视剧
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-8电视剧
 http://tv6.byr.cn/hls/cctv8.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-9纪录
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-9纪录
 http://tv6.byr.cn/hls/cctv9.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-10科教
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-10科教
 http://tv6.byr.cn/hls/cctv10.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-11戏曲
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-11戏曲
 http://tv6.byr.cn/hls/cctv11.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-12社会与法
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-12社会与法
 http://tv6.byr.cn/hls/cctv12.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-13新闻
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-13新闻
 http://tv6.byr.cn/hls/cctv13.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-14少儿
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-14少儿
 http://tv6.byr.cn/hls/cctv14.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-15音乐
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-15音乐
 http://tv6.byr.cn/hls/cctv15.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CGTN
+#EXTINF:-1, group-title=TQ, tvg-logo="", CGTN
 http://tv6.byr.cn/hls/cctv16.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-电影剧场
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-电影剧场
 http://tv6.byr.cn/hls/dyjctv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-风云剧场
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-风云剧场
 http://tv6.byr.cn/hls/fyjctv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-风云音乐
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-风云音乐
 http://tv6.byr.cn/hls/fyyytv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-风云足球
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-风云足球
 http://tv6.byr.cn/hls/fyzqtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-国防军事
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-国防军事
 http://tv6.byr.cn/hls/gfjstv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-怀旧剧场
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-怀旧剧场
 http://tv6.byr.cn/hls/hjjctv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-世界地理
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-世界地理
 http://tv6.byr.cn/hls/sjdltv.m3u8 
 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-1HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-1HD
 http://tv6.byr.cn/hls/cctv1hd.m3u8
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-2HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-2HD
 http://tv6.byr.cn/hls/cctv2hd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-3HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-3HD
 http://tv6.byr.cn/hls/cctv3hd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-5HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-5HD
 http://tv6.byr.cn/hls/cctv5hd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-5+HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-5+HD
 http://tv6.byr.cn/hls/cctv5phd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-6HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-6HD
 http://tv6.byr.cn/hls/cctv6hd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CCTV-8HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", CCTV-8HD
 http://tv6.byr.cn/hls/cctv8hd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CHCHD电影
+#EXTINF:-1, group-title=TQ, tvg-logo="", CHCHD电影
 http://tv6.byr.cn/hls/chchd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京卫视HD
 http://tv6.byr.cn/hls/btv1hd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc,  tvg-logo="", 北京文艺HD
+#EXTINF:-1, group-title=TQ,  tvg-logo="", 北京文艺HD
 http://tv6.byr.cn/hls/btv2hd.m3u8
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京体育HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京体育HD
 http://tv6.byr.cn/hls/btv6hd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京纪实HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京纪实HD
 http://tv6.byr.cn/hls/btv11hd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 湖南卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 湖南卫视HD
 http://tv6.byr.cn/hls/hunanhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 浙江卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 浙江卫视HD
 http://tv6.byr.cn/hls/zjhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 江苏卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 江苏卫视HD
 http://tv6.byr.cn/hls/jshd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 东方卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 东方卫视HD
 http://tv6.byr.cn/hls/dfhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 安徽卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 安徽卫视HD
 http://tv6.byr.cn/hls/ahhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 黑龙江卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 黑龙江卫视HD
 http://tv6.byr.cn/hls/hljhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 辽宁卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 辽宁卫视HD
 http://tv6.byr.cn/hls/lnhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 深圳卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 深圳卫视HD
 http://tv6.byr.cn/hls/szhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 广东卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 广东卫视HD
 http://tv6.byr.cn/hls/gdhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 天津卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 天津卫视HD
 http://tv6.byr.cn/hls/tjhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 湖北卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 湖北卫视HD
 http://tv6.byr.cn/hls/hbhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 山东卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 山东卫视HD
 http://tv6.byr.cn/hls/sdhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 重庆卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 重庆卫视HD
 http://tv6.byr.cn/hls/cqhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 上海纪实HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 上海纪实HD
 http://tv6.byr.cn/hls/docuchina.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 四川卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 四川卫视HD
 http://tv6.byr.cn/hls/schd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 金鹰纪实HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 金鹰纪实HD
 http://tv6.byr.cn/hls/gedocu.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 福建东南卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 福建东南卫视HD
 http://tv6.byr.cn/hls/dnhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 河北卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 河北卫视HD
 http://tv6.byr.cn/hls/hebhd.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 江西卫视HD
+#EXTINF:-1, group-title=TQ, tvg-logo="", 江西卫视HD
 http://tv6.byr.cn/hls/jxhd.m3u8 
 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京卫视
 http://tv6.byr.cn/hls/btv1.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京文艺
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京文艺
 http://tv6.byr.cn/hls/btv2.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京科教
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京科教
 http://tv6.byr.cn/hls/btv3.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京影视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京影视
 http://tv6.byr.cn/hls/btv4.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京财经
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京财经
 http://tv6.byr.cn/hls/btv5.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京体育
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京体育
 http://tv6.byr.cn/hls/btv6.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京生活
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京生活
 http://tv6.byr.cn/hls/btv7.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京青年
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京青年
 http://tv6.byr.cn/hls/btv8.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京新闻
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京新闻
 http://tv6.byr.cn/hls/btv9.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 北京卡酷少儿
+#EXTINF:-1, group-title=TQ, tvg-logo="", 北京卡酷少儿
 http://tv6.byr.cn/hls/btv10.m3u8 
 
 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 浙江卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 浙江卫视
 http://tv6.byr.cn/hls/zjtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 湖南卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 湖南卫视
 http://tv6.byr.cn/hls/hunantv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 江苏卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 江苏卫视
 http://tv6.byr.cn/hls/jstv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 东方卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 东方卫视
 http://tv6.byr.cn/hls/dftv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 深圳卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 深圳卫视
 http://tv6.byr.cn/hls/sztv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 安徽卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 安徽卫视
 http://tv6.byr.cn/hls/ahtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 河南卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 河南卫视
 http://tv6.byr.cn/hls/hntv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 陕西卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 陕西卫视
 http://tv6.byr.cn/hls/sxtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 吉林卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 吉林卫视
 http://tv6.byr.cn/hls/jltv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 广东卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 广东卫视
 http://tv6.byr.cn/hls/gdtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 山东卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 山东卫视
 http://tv6.byr.cn/hls/sdtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 湖北卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 湖北卫视
 http://tv6.byr.cn/hls/hbtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 广西卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 广西卫视
 http://tv6.byr.cn/hls/gxtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 河北卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 河北卫视
 http://tv6.byr.cn/hls/hebtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 西藏卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 西藏卫视
 http://tv6.byr.cn/hls/xztv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 内蒙古卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 内蒙古卫视
 http://tv6.byr.cn/hls/nmtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 青海卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 青海卫视
 http://tv6.byr.cn/hls/qhtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 四川卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 四川卫视
 http://tv6.byr.cn/hls/sctv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 天津卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 天津卫视
 http://tv6.byr.cn/hls/tjtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 山西卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 山西卫视
 http://tv6.byr.cn/hls/sxrtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 辽宁卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 辽宁卫视
 http://tv6.byr.cn/hls/lntv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 厦门卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 厦门卫视
 http://tv6.byr.cn/hls/xmtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 新疆卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 新疆卫视
 http://tv6.byr.cn/hls/xjtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 黑龙江卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 黑龙江卫视
 http://tv6.byr.cn/hls/hljtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 云南卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 云南卫视
 http://tv6.byr.cn/hls/yntv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 江西卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 江西卫视
 http://tv6.byr.cn/hls/jxtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 福建东南卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 福建东南卫视
 http://tv6.byr.cn/hls/dntv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 贵州卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 贵州卫视
 http://tv6.byr.cn/hls/gztv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 宁夏卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 宁夏卫视
 http://tv6.byr.cn/hls/nxtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 甘肃卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 甘肃卫视
 http://tv6.byr.cn/hls/gstv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 重庆卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 重庆卫视
 http://tv6.byr.cn/hls/cqtv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 兵团卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 兵团卫视
 http://tv6.byr.cn/hls/bttv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 旅游卫视
+#EXTINF:-1, group-title=TQ, tvg-logo="", 旅游卫视
 http://tv6.byr.cn/hls/lytv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 中国教育-1
+#EXTINF:-1, group-title=TQ, tvg-logo="", 中国教育-1
 http://tv6.byr.cn/hls/cetv1.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 中国教育-3
+#EXTINF:-1, group-title=TQ, tvg-logo="", 中国教育-3
 http://tv6.byr.cn/hls/cetv3.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 中国教育-4
+#EXTINF:-1, group-title=TQ, tvg-logo="", 中国教育-4
 http://tv6.byr.cn/hls/cetv4.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CHC动作电影
+#EXTINF:-1, group-title=TQ, tvg-logo="", CHC动作电影
 http://tv6.byr.cn/hls/chcatv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", CHC家庭影院
+#EXTINF:-1, group-title=TQ, tvg-logo="", CHC家庭影院
 http://tv6.byr.cn/hls/chctv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 党建生活-1
+#EXTINF:-1, group-title=TQ, tvg-logo="", 党建生活-1
 http://tv6.byr.cn/hls/djsh1.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 党建生活-2
+#EXTINF:-1, group-title=TQ, tvg-logo="", 党建生活-2
 http://tv6.byr.cn/hls/djsh2.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 党建生活-3
+#EXTINF:-1, group-title=TQ, tvg-logo="", 党建生活-3
 http://tv6.byr.cn/hls/djsh3.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 党建生活-4
+#EXTINF:-1, group-title=TQ, tvg-logo="", 党建生活-4
 http://tv6.byr.cn/hls/djsh4.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 党建生活-5
+#EXTINF:-1, group-title=TQ, tvg-logo="", 党建生活-5
 http://tv6.byr.cn/hls/djsh5.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 嘉佳卡通
+#EXTINF:-1, group-title=TQ, tvg-logo="", 嘉佳卡通
 http://tv6.byr.cn/hls/jjkttv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 金鹰卡通
+#EXTINF:-1, group-title=TQ, tvg-logo="", 金鹰卡通
 http://tv6.byr.cn/hls/jykttv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 山东教育
+#EXTINF:-1, group-title=TQ, tvg-logo="", 山东教育
 http://tv6.byr.cn/hls/sdetv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 炫动卡通
+#EXTINF:-1, group-title=TQ, tvg-logo="", 炫动卡通
 http://tv6.byr.cn/hls/xdkttv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 优漫卡通
+#EXTINF:-1, group-title=TQ, tvg-logo="", 优漫卡通
 http://tv6.byr.cn/hls/ymkttv.m3u8 
 
 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 凤凰卫视中文台
+#EXTINF:-1, group-title=TQ, tvg-logo="", 凤凰卫视中文台
 http://tv6.byr.cn/hls/fhzw.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", 凤凰卫视资讯台
+#EXTINF:-1, group-title=TQ, tvg-logo="", 凤凰卫视资讯台
 http://tv6.byr.cn/hls/fhzx.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", fhdy
+#EXTINF:-1, group-title=TQ, tvg-logo="", fhdy
 http://tv6.byr.cn/hls/fhdy.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", discovery
+#EXTINF:-1, group-title=TQ, tvg-logo="", discovery
 http://tv6.byr.cn/hls/discovery.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", natlgeo
+#EXTINF:-1, group-title=TQ, tvg-logo="", natlgeo
 http://tv6.byr.cn/hls/natlgeo.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", Startv
+#EXTINF:-1, group-title=TQ, tvg-logo="", Startv
 http://tv6.byr.cn/hls/startv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", Channel[V]
+#EXTINF:-1, group-title=TQ, tvg-logo="", Channel[V]
 http://tv6.byr.cn/hls/channelv.m3u8 
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", Starsports
+#EXTINF:-1, group-title=TQ, tvg-logo="", Starsports
 http://tv6.byr.cn/hls/starsports.m3u8
-#EXTINF:-1, group-title=Trung Quốc, tvg-logo="", Documentary
+#EXTINF:-1, group-title=TQ, tvg-logo="", Documentary
 http://tv6.byr.cn/hls/documentary.m3u8 
