@@ -196,11 +196,11 @@ http://tv6.byr.cn/hls/cqtv.m3u8
 http://tv6.byr.cn/hls/bttv.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Truyền hình du lịch
 http://tv6.byr.cn/hls/lytv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giáo dục Trung Quốc-1
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giáo dục Trung Quốc CETV-1
 http://tv6.byr.cn/hls/cetv1.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giáo dục Trung Quốc-3
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giáo dục Trung Quốc CETV-3
 http://tv6.byr.cn/hls/cetv3.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giáo dục Trung Quốc-4
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giáo dục Trung Quốc CETV-4
 http://tv6.byr.cn/hls/cetv4.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Phim hành động CHC
 http://tv6.byr.cn/hls/chcatv.m3u8 
@@ -233,13 +233,13 @@ http://tv6.byr.cn/hls/fhzw.m3u8
 http://tv6.byr.cn/hls/fhzx.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Movie
 http://tv6.byr.cn/hls/fhdy.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", discovery
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Discovery
 http://tv6.byr.cn/hls/discovery.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", natlgeo
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", National Geographic
 http://tv6.byr.cn/hls/natlgeo.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Startv
 http://tv6.byr.cn/hls/startv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Channel[V]
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Channel [V]
 http://tv6.byr.cn/hls/channelv.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Starsports
 http://tv6.byr.cn/hls/starsports.m3u8
