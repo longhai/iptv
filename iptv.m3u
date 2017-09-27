@@ -1,50 +1,49 @@
-#EXTM3U Long Hải
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-1综合
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-1
 http://tv6.byr.cn/hls/cctv1.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-2财经
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-2 Tài chính
 http://tv6.byr.cn/hls/cctv2.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-3综艺
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", loại hình CCTV-3
 http://tv6.byr.cn/hls/cctv3.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-4中文国际
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-4 Trung Quốc Quốc tế
 http://tv6.byr.cn/hls/cctv4.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-5体育
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-5 Thể thao
 http://tv6.byr.cn/hls/cctv5.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-6电影
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", phim CCTV-6
 http://tv6.byr.cn/hls/cctv6.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-7军事农业
-http://tv6.byr.cn/hls/cctv7.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-8电视剧
-http://tv6.byr.cn/hls/cctv8.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-9纪录
-http://tv6.byr.cn/hls/cctv9.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-10科教
-http://tv6.byr.cn/hls/cctv10.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-11戏曲
-http://tv6.byr.cn/hls/cctv11.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-12社会与法
-http://tv6.byr.cn/hls/cctv12.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-13新闻
-http://tv6.byr.cn/hls/cctv13.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-14少儿
-http://tv6.byr.cn/hls/cctv14.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-15音乐
-http://tv6.byr.cn/hls/cctv15.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CGTN
-http://tv6.byr.cn/hls/cctv16.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-电影剧场
-http://tv6.byr.cn/hls/dyjctv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-风云剧场
-http://tv6.byr.cn/hls/fyjctv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-风云音乐
-http://tv6.byr.cn/hls/fyyytv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-风云足球
-http://tv6.byr.cn/hls/fyzqtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-国防军事
-http://tv6.byr.cn/hls/gfjstv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-怀旧剧场
-http://tv6.byr.cn/hls/hjjctv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-世界地理
-http://tv6.byr.cn/hls/sjdltv.m3u8 
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", nông nghiệp quân sự CCTV-7
+http://tv6.byr.cn/hls/cctv7.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", loạt phim truyền hình CCTV-8
+http://tv6.byr.cn/hls/cctv8.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", bản ghi CCTV-9
+http://tv6.byr.cn/hls/cctv9.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-10 khoa học và giáo dục
+http://tv6.byr.cn/hls/cctv10.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", vở opera CCTV-11
+http://tv6.byr.cn/hls/cctv11.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-12 xã hội và luật pháp
+http://tv6.byr.cn/hls/cctv12.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", tin tức CCTV-13
+http://tv6.byr.cn/hls/cctv13.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-14 trẻ em
+http://tv6.byr.cn/hls/cctv14.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", nhạc CCTV-15
+http://tv6.byr.cn/hls/cctv15.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CGTN
+http://tv6.byr.cn/hls/cctv16.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", rạp chiếu phim CCTV
+http://tv6.byr.cn/hls/dyjctv.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", Nhà hát CCTV-Storm
+http://tv6.byr.cn/hls/fyjctv.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-
+http://tv6.byr.cn/hls/fyyytv.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-
+http://tv6.byr.cn/hls/fyzqtv.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-Quốc phòng
+http://tv6.byr.cn/hls/gfjstv.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", nhà hát hoài cổ CCTV
+http://tv6.byr.cn/hls/hjjctv.m3u8
+#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV- Địa lý Thế giới
+http://tv6.byr.cn/hls/sjdltv.m3u8
 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-1HD
 http://tv6.byr.cn/hls/cctv1hd.m3u8
