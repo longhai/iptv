@@ -1,49 +1,49 @@
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-1
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-1 Tổng hợp
 http://tv6.byr.cn/hls/cctv1.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-2 Tài chính
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-2 Tài chính
 http://tv6.byr.cn/hls/cctv2.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", loại hình CCTV-3
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-3 综艺
 http://tv6.byr.cn/hls/cctv3.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-4 Trung Quốc Quốc tế
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-4 Trung Quốc & Quốc Tế
 http://tv6.byr.cn/hls/cctv4.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-5 Thể thao
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-5 Thể thao
 http://tv6.byr.cn/hls/cctv5.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", phim CCTV-6
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-6 Phim
 http://tv6.byr.cn/hls/cctv6.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", nông nghiệp quân sự CCTV-7
-http://tv6.byr.cn/hls/cctv7.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", loạt phim truyền hình CCTV-8
-http://tv6.byr.cn/hls/cctv8.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", bản ghi CCTV-9
-http://tv6.byr.cn/hls/cctv9.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-10 khoa học và giáo dục
-http://tv6.byr.cn/hls/cctv10.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", vở opera CCTV-11
-http://tv6.byr.cn/hls/cctv11.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-12 xã hội và luật pháp
-http://tv6.byr.cn/hls/cctv12.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", tin tức CCTV-13
-http://tv6.byr.cn/hls/cctv13.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-14 trẻ em
-http://tv6.byr.cn/hls/cctv14.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", nhạc CCTV-15
-http://tv6.byr.cn/hls/cctv15.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CGTN
-http://tv6.byr.cn/hls/cctv16.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", rạp chiếu phim CCTV
-http://tv6.byr.cn/hls/dyjctv.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", Nhà hát CCTV-Storm
-http://tv6.byr.cn/hls/fyjctv.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-
-http://tv6.byr.cn/hls/fyyytv.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-
-http://tv6.byr.cn/hls/fyzqtv.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV-Quốc phòng
-http://tv6.byr.cn/hls/gfjstv.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", nhà hát hoài cổ CCTV
-http://tv6.byr.cn/hls/hjjctv.m3u8
-#EXTINF: -1 group-title = "Trung Quốc" tvg-logo = "", CCTV- Địa lý Thế giới
-http://tv6.byr.cn/hls/sjdltv.m3u8
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-7 Nông nghiệp
+http://tv6.byr.cn/hls/cctv7.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-8 Phim truyền hình
+http://tv6.byr.cn/hls/cctv8.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-9 纪录
+http://tv6.byr.cn/hls/cctv9.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-10 Khoa học giáo dục
+http://tv6.byr.cn/hls/cctv10.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-11 戏曲
+http://tv6.byr.cn/hls/cctv11.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-12 Xã hội & Luật
+http://tv6.byr.cn/hls/cctv12.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-13 Tin tức
+http://tv6.byr.cn/hls/cctv13.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-14 Thiếu nhi
+http://tv6.byr.cn/hls/cctv14.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-15 Nhạc
+http://tv6.byr.cn/hls/cctv15.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CGTN
+http://tv6.byr.cn/hls/cctv16.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV - Phim chiếu rạp
+http://tv6.byr.cn/hls/dyjctv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV - Nhà hát storm
+http://tv6.byr.cn/hls/fyjctv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV - Nhạc
+http://tv6.byr.cn/hls/fyyytv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV - Bóng đá
+http://tv6.byr.cn/hls/fyzqtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV - Quốc phòng
+http://tv6.byr.cn/hls/gfjstv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV - Nhà hát hoài cổ
+http://tv6.byr.cn/hls/hjjctv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV- Địa lý Thế Giới
+http://tv6.byr.cn/hls/sjdltv.m3u8 
 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-1HD
 http://tv6.byr.cn/hls/cctv1hd.m3u8
@@ -59,53 +59,53 @@ http://tv6.byr.cn/hls/cctv5phd.m3u8
 http://tv6.byr.cn/hls/cctv6hd.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-8HD
 http://tv6.byr.cn/hls/cctv8hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CHCHD电影
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CHC HD - Phim
 http://tv6.byr.cn/hls/chchd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 北京卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Bắc Kinh TV HD
 http://tv6.byr.cn/hls/btv1hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc"  tvg-logo="", 北京文艺HD
+#EXTINF:-1 group-title="Trung Quốc"  tvg-logo="", Văn học & nghệ thuật Bắc Kinh HD
 http://tv6.byr.cn/hls/btv2hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 北京体育HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Thể thao Bắc Kinh HD
 http://tv6.byr.cn/hls/btv6hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 北京纪实HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Tài liệu về Bắc Kinh HD
 http://tv6.byr.cn/hls/btv11hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 湖南卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Truyền hình vệ tinh Hồ Nam HD
 http://tv6.byr.cn/hls/hunanhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 浙江卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Chiết Giang TV HD
 http://tv6.byr.cn/hls/zjhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 江苏卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giang Tô TV HD
 http://tv6.byr.cn/hls/jshd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 东方卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Truyền hình phương Đông HD
 http://tv6.byr.cn/hls/dfhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 安徽卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", An Huy TV HD
 http://tv6.byr.cn/hls/ahhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 黑龙江卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Hắc Long Giang HD
 http://tv6.byr.cn/hls/hljhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 辽宁卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Liêu Ninh truyền hình vệ tinh HD
 http://tv6.byr.cn/hls/lnhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 深圳卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Thâm Quyến TV HD
 http://tv6.byr.cn/hls/szhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 广东卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Quảng Đông HD
 http://tv6.byr.cn/hls/gdhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 天津卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Thiên Tân HD
 http://tv6.byr.cn/hls/tjhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 湖北卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Hubei TV HD
 http://tv6.byr.cn/hls/hbhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 山东卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Sơn Đông HD
 http://tv6.byr.cn/hls/sdhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 重庆卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Trùng Khánh TV HD
 http://tv6.byr.cn/hls/cqhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 上海纪实HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Tài liệu Thượng Hải HD
 http://tv6.byr.cn/hls/docuchina.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 四川卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Tứ Xuyên HD
 http://tv6.byr.cn/hls/schd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 金鹰纪实HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Tài liệu về Golden Eagle HD
 http://tv6.byr.cn/hls/gedocu.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 福建东南卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Fujian Đông Nam HD
 http://tv6.byr.cn/hls/dnhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 河北卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Hà Bắc HD
 http://tv6.byr.cn/hls/hebhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 江西卫视HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giang Tây HD
 http://tv6.byr.cn/hls/jxhd.m3u8 
 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", 北京卫视
