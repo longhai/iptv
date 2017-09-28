@@ -1,5 +1,5 @@
 #EXTM3U Long Hải
-#PLAYLISTV: pltv-logo="http://i.imgur.com/yUGQ583.jpg" pltv-name="Canais PLTV" pltv-description="Lista Exclusiva para PlaylisTV" pltv-cover="http://i.imgur.com/2z4FAhJ.jpg" pltv-author="DouglasDuffor@PlaylisTV" pltv-site="http://dougtutoriais.com" pltv-email="DouglasDuffor@PlaylisTV"
+
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-1 Tổng hợp
 http://tv6.byr.cn/hls/cctv1.m3u8
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-2 Tài chính
