@@ -222,19 +222,19 @@ http://tv6.byr.cn/hls/hjjctv.m3u8
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png", CCTV- Địa lý Thế Giới
 http://tv6.byr.cn/hls/sjdltv.m3u8 
 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-1HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png", CCTV-1HD
 http://tv6.byr.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-2HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/CCTV-2%E8%B4%A2%E7%BB%8F.png", CCTV-2HD
 http://tv6.byr.cn/hls/cctv2hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-3HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CCTV-3%E7%BB%BC%E8%89%BA.png", CCTV-3HD
 http://tv6.byr.cn/hls/cctv3hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-5HD Thể thao
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png", CCTV-5HD Thể thao
 http://tv6.byr.cn/hls/cctv5hd.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png", CCTV-5+HD Thể thao
 http://tv6.byr.cn/hls/cctv5phd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-6HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6%E7%94%B5%E5%BD%B1.png", CCTV-6HD
 http://tv6.byr.cn/hls/cctv6hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-8HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png", CCTV-8HD
 http://tv6.byr.cn/hls/cctv8hd.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://ttylwang.com/?d/file/2016/1021/fdbd0781c2d7d6404320dd4890ced2b1.jpg", CHC HD - Phim
 http://tv6.byr.cn/hls/chchd.m3u8 
@@ -285,25 +285,25 @@ http://tv6.byr.cn/hls/hebhd.m3u8
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png", Giang Tây HD
 http://tv6.byr.cn/hls/jxhd.m3u8 
 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Bắc Kinh TV
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", Bắc Kinh TV
 http://tv6.byr.cn/hls/btv1.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Văn học và nghệ thuật - Bắc Kinh
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv2.jpg", Văn học và nghệ thuật - Bắc Kinh
 http://tv6.byr.cn/hls/btv2.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Khoa học và Giáo dục - Bắc Kinh
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.gyimc.com/uploads/logo/btv3.jpg", Khoa học và Giáo dục - Bắc Kinh
 http://tv6.byr.cn/hls/btv3.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Phim và truyền hình - Bắc Kinh
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv4.jpg", Phim và truyền hình - Bắc Kinh
 http://tv6.byr.cn/hls/btv4.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Tài chính và Kinh tế - Bắc Kinh
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv5.jpg", Tài chính và Kinh tế - Bắc Kinh
 http://tv6.byr.cn/hls/btv5.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Thể thao - Bắc Kinh
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.5175.cc/uploadfile/2014/0724/20140724041638861.jpg", Thể thao - Bắc Kinh
 http://tv6.byr.cn/hls/btv6.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Cuộc sống - Bắc Kinh
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv7.jpg", Cuộc sống - Bắc Kinh
 http://tv6.byr.cn/hls/btv7.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Thanh niên - Bắc Kinh
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv8.jpg", Thanh niên - Bắc Kinh
 http://tv6.byr.cn/hls/btv8.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Tin tức - Bắc Kinh
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv9.jpg", Tin tức - Bắc Kinh
 http://tv6.byr.cn/hls/btv9.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Thiếu nhi - Bắc Kinh
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png", Thiếu nhi - Bắc Kinh
 http://tv6.byr.cn/hls/btv10.m3u8 
 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Chiết Giang TV
