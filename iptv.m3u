@@ -236,53 +236,53 @@ http://tv6.byr.cn/hls/cctv5phd.m3u8
 http://tv6.byr.cn/hls/cctv6hd.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CCTV-8HD
 http://tv6.byr.cn/hls/cctv8hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", CHC HD - Phim
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://ttylwang.com/?d/file/2016/1021/fdbd0781c2d7d6404320dd4890ced2b1.jpg", CHC HD - Phim
 http://tv6.byr.cn/hls/chchd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Bắc Kinh TV HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", Bắc Kinh TV HD
 http://tv6.byr.cn/hls/btv1hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc"  tvg-logo="", Văn học & nghệ thuật Bắc Kinh HD
+#EXTINF:-1 group-title="Trung Quốc"  tvg-logo="http://www.hlyy.cc/uploadfile/20150411/z1c2qunjnbs.jpg", Văn học & nghệ thuật Bắc Kinh HD
 http://tv6.byr.cn/hls/btv2hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Thể thao Bắc Kinh HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.24zbw.com/uploadfile/2016/1231/20161231023227769.jpg", Thể thao Bắc Kinh HD
 http://tv6.byr.cn/hls/btv6hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Tài liệu về Bắc Kinh HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.zhiboba.cc/zbbimg/btv-12jishi.jpg", Tài liệu về Bắc Kinh HD
 http://tv6.byr.cn/hls/btv11hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Truyền hình vệ tinh Hồ Nam HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png", Truyền hình vệ tinh Hồ Nam HD
 http://tv6.byr.cn/hls/hunanhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Chiết Giang TV HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://bpic.588ku.com/element_pic/00/16/09/0657ce6a5d5cc73.jpg", Chiết Giang TV HD
 http://tv6.byr.cn/hls/zjhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giang Tô TV HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", Giang Tô TV HD
 http://tv6.byr.cn/hls/jshd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Truyền hình phương Đông HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png", Truyền hình phương Đông HD
 http://tv6.byr.cn/hls/dfhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", An Huy TV HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png", An Huy TV HD
 http://tv6.byr.cn/hls/ahhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Hắc Long Giang HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png", Hắc Long Giang HD
 http://tv6.byr.cn/hls/hljhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Liêu Ninh truyền hình vệ tinh HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.zitichina.com/Uploadfile/allimg/130914/1_130914181627_1.jpg", Liêu Ninh truyền hình vệ tinh HD
 http://tv6.byr.cn/hls/lnhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Thâm Quyến TV HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img1.3png.com/937cdc0d43e2225e30e86bcba9d2fe361473.png", Thâm Quyến TV HD
 http://tv6.byr.cn/hls/szhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Quảng Đông HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img2.3png.com/5e263bb3dd7305f9787b27d09ddb2cf434cf.png", Quảng Đông HD
 http://tv6.byr.cn/hls/gdhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Thiên Tân HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225143116316.png", Thiên Tân HD
 http://tv6.byr.cn/hls/tjhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Hubei TV HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.weixinyidu.com/160327/2546a869.jpg", Hubei TV HD
 http://tv6.byr.cn/hls/hbhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Sơn Đông HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://siac.com.cn/Upload/%E9%80%9A%E8%AE%AFLOGO/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86LOGO-09075932268.jpg", Sơn Đông HD
 http://tv6.byr.cn/hls/sdhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Trùng Khánh TV HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e5/CQTV_new_logo.png/150px-CQTV_new_logo.png", Trùng Khánh TV HD
 http://tv6.byr.cn/hls/cqhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Tài liệu Thượng Hải HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.gctvmedia.com/upload/images/2017-04-13/6362770661926562506242618.jpg", Tài liệu Thượng Hải HD
 http://tv6.byr.cn/hls/docuchina.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Tứ Xuyên HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.ft69.com/upLoad/product/170728/201707281958071030.jpg", Tứ Xuyên HD
 http://tv6.byr.cn/hls/schd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Tài liệu về Golden Eagle HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://a4.att.hudong.com/03/30/01300543769589145887304945363_s.png", Tài liệu về Golden Eagle HD
 http://tv6.byr.cn/hls/gedocu.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Fujian Đông Nam HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://tva3.sinaimg.cn/crop.1.1.178.178.1024/5ee639b1jw8ev72hh4i0fj2050050weh.jpg", Fujian Đông Nam HD
 http://tv6.byr.cn/hls/dnhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Hà Bắc HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.rologo.com/images/uploads/2013/09/hbws-new-logo.png", Hà Bắc HD
 http://tv6.byr.cn/hls/hebhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giang Tây HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png", Giang Tây HD
 http://tv6.byr.cn/hls/jxhd.m3u8 
 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Bắc Kinh TV
