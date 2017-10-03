@@ -36,7 +36,7 @@ rtmp://118.69.205.213/livepkgr/livestream2?adbe-live-event=liveevent
 rtmp://113.163.94.245/livepkgr/audiostream
 #EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/fssccb49v/ca_mau.png", Cà Mau 
 rtmp://113.161.220.254/livepkgr/livestream4
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/q5xh0q89v/th_can_tho.png", Cần Thơ 97,3Mhz
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/q5xh0q89v/th_can_tho.png", Cần Thơ 97.3Mhz
 rtmp://tv.canthotv.vn/livepkgr/livestream4?adbe-live-event=liveevent
 #EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/h44oyip9f/dong_thap.png", Đồng Tháp  
 rtmp://123.30.110.170:1939/thdt/radio
@@ -44,17 +44,17 @@ rtmp://123.30.110.170:1939/thdt/radio
 rtmp://123.30.110.170:1939/hgradio/pthg
 #EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/jll1jiyjn/kien_giang.png", Kiên Giang
 http://tv.kgtv.vn/hls/kgaudio.m3u8
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/6f0nh495v/long_an.png", Long An 96,8Mhz 
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/6f0nh495v/long_an.png", Long An 96.8Mhz 
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/radio.m3u8
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/51dlzjzab/soc_trang.png", Sóc Trăng 103,2Mhz 
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/51dlzjzab/soc_trang.png", Sóc Trăng 103.2Mhz 
 rtmp://115.78.3.164/live/FMsoctrang
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/ofefz8qqr/tieng_giang.png",  Tiền Giang 96,2 Mhz
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/ofefz8qqr/tieng_giang.png",  Tiền Giang 96.2 Mhz
 rtmp://123.30.141.4:1935/live/radio
 #EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/mrjvyc28z/tra_vinh.png",  Trà Vinh
 rtmp://vov.radiovietnam.vn:1935/live
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/n5l7xxmcj/vinh_long.png", Vĩnh Long 90,2Mhz 
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/n5l7xxmcj/vinh_long.png", Vĩnh Long 90.2Mhz 
 http://113.161.196.80:8000/radiothvl/stream.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/lbuvtj1b7/ba_ria_vung_tau.png", Vũng Tàu 92,0Mhz
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/lbuvtj1b7/ba_ria_vung_tau.png", Vũng Tàu 92.0Mhz
 rtmp://113.163.216.24:80/livepkgr/livestream
 #EXTINF:-1 group-title="Radio" tvg-logo="", Bình Dương  
 #EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/enya6xhsz/binh_phuoc.png",  Bình Phước
