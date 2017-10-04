@@ -1,9 +1,7 @@
 #EXTM3U Long Hải
 
-#EXTINF:-1 group-title="Radio" group-title="Radio" tvg-logo="https://s19.postimg.org/6iesz428z/vov1.png", VOV 1
-rtmp://210.245.60.242:1935/nghehevov1/vov1
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/ggzrllboj/vov2.png",  VOV 2
-rtmp://210.245.60.242:1935/nghehevov2/vov2
+#EXTINF:-1 group-title="Radio" group-title="Radio" tvg-logo="https://s19.postimg.org/6iesz428z/vov1.png", VOV 1 rtmp://210.245.60.242:1935/nghehevov1/vov1
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/ggzrllboj/vov2.png",  VOV 2 rtmp://210.245.60.242:1935/nghehevov2/vov2
 #EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/tmf9rp5k3/vov3.png", VOV 3
 rtmp://210.245.60.242:1935/nghehevov3/vov3
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/vov-4.png",  VOV 4
