@@ -285,7 +285,7 @@ http://tv6.byr.cn/hls/hebhd.m3u8
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png", Giang Tây HD
 http://tv6.byr.cn/hls/jxhd.m3u8 
 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", Bắc Kinh TV
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.ppntv.com/uploads/allimg/140825/1-140R514264H09.jpg", Bắc Kinh TV
 http://tv6.byr.cn/hls/btv1.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv2.jpg", Văn học và nghệ thuật - Bắc Kinh
 http://tv6.byr.cn/hls/btv2.m3u8 
@@ -415,7 +415,7 @@ http://tv6.byr.cn/hls/discovery.m3u8
 http://tv6.byr.cn/hls/natlgeo.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.zhiboba.cc/zbbimg/xingkongweishi.jpg", Startv
 http://tv6.byr.cn/hls/startv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_channelV_422x278.png", Channel [V]
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Channel [V]
 http://tv6.byr.cn/hls/channelv.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg", Starsports
 http://tv6.byr.cn/hls/starsports.m3u8
