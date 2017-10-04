@@ -1,4 +1,4 @@
-#EXTM3U Long Hải cache=500 aspect-ratio=16:9 crop=690x550+15+10 tvg-shift=0
+#EXTM3U Long Hải aspect-ratio=16:9
 
 #EXTINF:-1 group-title="Radio" group-title="Radio" tvg-logo="https://s19.postimg.org/6iesz428z/vov1.png", VOV 1 
 rtmp://210.245.60.242:1935/nghehevov1/vov1
