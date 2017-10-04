@@ -1,7 +1,9 @@
-#EXTM3U Long Hải
+#EXTM3U Long Hải cache=500 aspect-ratio=16:9 crop=690x550+15+10 tvg-shift=0
 
-#EXTINF:-1 group-title="Radio" group-title="Radio" tvg-logo="https://s19.postimg.org/6iesz428z/vov1.png", VOV 1 rtmp://210.245.60.242:1935/nghehevov1/vov1
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/ggzrllboj/vov2.png",  VOV 2 rtmp://210.245.60.242:1935/nghehevov2/vov2
+#EXTINF:-1 group-title="Radio" group-title="Radio" tvg-logo="https://s19.postimg.org/6iesz428z/vov1.png", VOV 1 
+rtmp://210.245.60.242:1935/nghehevov1/vov1
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/ggzrllboj/vov2.png",  VOV 2 
+rtmp://210.245.60.242:1935/nghehevov2/vov2
 #EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/tmf9rp5k3/vov3.png", VOV 3
 rtmp://210.245.60.242:1935/nghehevov3/vov3
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/vov-4.png",  VOV 4
@@ -173,7 +175,7 @@ http://stream.rveritas-asia.org:8000/Vietnamese.mp3
  
 
 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png", CCTV-1 Tổng hợp
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png" aspect-ratio=16:9, CCTV-1 Tổng hợp
 http://tv6.byr.cn/hls/cctv1.m3u8
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/CCTV-2%E8%B4%A2%E7%BB%8F.png", CCTV-2 Tài chính
 http://tv6.byr.cn/hls/cctv2.m3u8
