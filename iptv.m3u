@@ -234,7 +234,7 @@ http://tv6.byr.cn/hls/cctv5hd.m3u8
 http://tv6.byr.cn/hls/cctv5phd.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6%E7%94%B5%E5%BD%B1.png", CCTV-6HD
 http://tv6.byr.cn/hls/cctv6hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png", CCTV-8HD
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png", CCTV-8HD
 http://tv6.byr.cn/hls/cctv8hd.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://ttylwang.com/?d/file/2016/1021/fdbd0781c2d7d6404320dd4890ced2b1.jpg", CHC HD - Phim
 http://tv6.byr.cn/hls/chchd.m3u8 
