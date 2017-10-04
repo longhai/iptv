@@ -59,7 +59,7 @@ rtmp://113.163.216.24:80/livepkgr/livestream
 #EXTINF:-1 group-title="Radio" tvg-logo="", Bình Dương  
 #EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/enya6xhsz/binh_phuoc.png",  Bình Phước
 http://118.69.197.145/hls/radio.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="", Đồng Nai 97,5Mhz
+#EXTINF:-1 group-title="Radio" tvg-logo="", Đồng Nai 97.5Mhz
 #EXTINF:-1 group-title="Radio" tvg-logo="", Tây Ninh
 #EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/3s6wbkwv7/da_nang.png", Đà Nẵng
 http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
