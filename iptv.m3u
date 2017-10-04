@@ -415,7 +415,7 @@ http://tv6.byr.cn/hls/discovery.m3u8
 http://tv6.byr.cn/hls/natlgeo.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.zhiboba.cc/zbbimg/xingkongweishi.jpg", Startv
 http://tv6.byr.cn/hls/startv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Channel [V]
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_channelV_422x278.png", Channel [V]
 http://tv6.byr.cn/hls/channelv.m3u8 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg", Starsports
 http://tv6.byr.cn/hls/starsports.m3u8
