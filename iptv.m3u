@@ -168,16 +168,34 @@ http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
 http://vpr.serverroom.us:7492/;?.mp3
 #EXTINF:-1 group-title="Radio" tvg-logo="http://www.littlesaigonradio.com/images/main.jpg", Little Saigòn
 http://mp3.littlesaigonradio.com:8000/live
-#EXTINF:-1 group-title="Radio" tvg-logo="http://vi.radiovaticana.va/Modules/Presentation/Styles/images-common/layout/logo-rv-up-bar.png", vaticana
-http://www2.vaticanwebradio.org/webcasting/vietnamita_1.mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="http://vietnamese.rveritas-asia.org/img/rvlogo.png", RVA-Chân Lý Á Châu
-http://stream.rveritas-asia.org:8000/Vietnamese.mp3
 #EXTINF:-1 group-title="Radio" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rWeUKu7LtA.png",VNU - VN UNITED Vietnamese
 http://96.227.91.98:8000/;/;&topspeed=on
 #EXTINF:-1 group-title="Radio" tvg-logo="https://www.nvradio.co/images/radio.jpg", nationwide viet radio
 http://162.244.80.33:4480/;stream.mp3:4480
-#EXTINF:-1 group-title="Radio" tvg-logo="http://vienthao.com/v_logo.gif",VIEN THAO 1290AM Radio
+#EXTINF:-1 group-title="Radio" tvg-logo="http://vienthao.com/v_logo.gif", VIEN THAO 1290AM Radio
 http://173.193.205.96:8047/;stream.nsv
+#EXTINF:-1 group-title="Radio" tvg-logo="",Lac Viet radio vancouver
+http://mp3.littlesaigonradio.com:8000/live
+#EXTINF:-1 group-title="Radio" tvg-logo="",Việt Sóng Radio, Atlana City, Georgia
+http://ice1.securenetsystems.net/DEMOSTN?playSessionID=2BDD5416-A091-4093-ED91B830BF23657B
+#EXTINF:-1 group-title="Radio" tvg-logo="",VOC RADIO FM 106.3 FM SATURDAYS – NAM CALIFORNIA
+http://ice5.securenetsystems.net/KALI?playSessionID=2BFC14A4-934A-1E42-01528E5CF1DAFFE1
+#EXTINF:-1 group-title="Radio" tvg-logo="",THỜI BÁO RADIO – Canada
+http://209.250.131.2:8000/;stream.mp3%3Cbr%20/%3E
+#EXTINF:-1 group-title="Radio" tvg-logo="", RTI đài loan
+rtmp://live2.rti.org.tw/vod/mp4:vod156/record/5_20171005_0100_76.mp4
+#EXTINF:-1 group-title="Radio" tvg-logo="",
+#EXTINF:-1 group-title="Radio" tvg-logo="",
+#EXTINF:-1 group-title="Radio" tvg-logo="",
+#EXTINF:-1 group-title="Radio" tvg-logo="",
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://vi.radiovaticana.va/Modules/Presentation/Styles/images-common/layout/logo-rv-up-bar.png", vaticana
+http://www2.vaticanwebradio.org/webcasting/vietnamita_1.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="http://vietnamese.rveritas-asia.org/img/rvlogo.png", RVA-Chân Lý Á Châu
+http://stream.rveritas-asia.org:8000/Vietnamese.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s141508q.png",Chúa Đến Radio – Jesus Coming FM
+http://live.jesuscomingfm.com:8316/;
+
 
 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png", CCTV-1 Tổng hợp
