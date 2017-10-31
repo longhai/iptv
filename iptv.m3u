@@ -8,8 +8,9 @@
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV6
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV7
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV8
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", Vtv9
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC1
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV9
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="http://i.imgur.com/HC5iUuK.png", VTC1
+http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC2
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC3
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC4
@@ -20,11 +21,13 @@
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC9
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC10
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC11
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg", VTC Ca Nhạc
+http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV1
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV2
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV3
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV4
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png", HTV7
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png", HTV7 HD
 http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd.m3u8
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png", HTV9
 http://113.160.49.39/lives/origin04/htv9sd.isml/htv9sd.m3u8
