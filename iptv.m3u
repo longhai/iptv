@@ -24,8 +24,10 @@
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV2
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV3
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV4
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", 
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="",
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png", HTV7
+http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd.m3u8
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png", HTV9
+http://113.160.49.39/lives/origin04/htv9sd.isml/htv9sd.m3u8
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="",
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="",
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="",
