@@ -160,8 +160,6 @@ http://ice5.securenetsystems.net:80/KREH
 http://170.75.194.209:8888
 #EXTINF:-1 group-title="Radio" tvg-logo="", Thời Báo Radio Toronto
 http://209.250.131.2:8000/;stream.mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="", Nationwide Viet Radio (NVR)
-http://vndcradio2.serverroom.us:4480/
 #EXTINF:-1 group-title="Radio" tvg-logo="", VNHN/VABC Falls Church
 http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://www.radioguide.fm/uploads/radiostation/vinaradio.PNG", VINA VietNam
@@ -170,7 +168,7 @@ http://vpr.serverroom.us:7492/;?.mp3
 http://mp3.littlesaigonradio.com:8000/live
 #EXTINF:-1 group-title="Radio" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rWeUKu7LtA.png",VNU - VN UNITED Vietnamese
 http://96.227.91.98:8000/;/;&topspeed=on
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.nvradio.co/images/radio.jpg", nationwide viet radio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.nvradio.co/images/radio.jpg", Nationwide Viet Radio (NVR)
 http://162.244.80.33:4480/;stream.mp3:4480
 #EXTINF:-1 group-title="Radio" tvg-logo="http://vienthao.com/v_logo.gif", VIEN THAO 1290AM Radio
 http://173.193.205.96:8047/;stream.nsv
@@ -444,26 +442,3 @@ http://tv6.byr.cn/hls/channelv.m3u8
 http://tv6.byr.cn/hls/starsports.m3u8
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.yqdtv.com/uploadfile/image/20150327/20150327025714_53250.jpg", Documentary
 http://tv6.byr.cn/hls/documentary.m3u8 
-
-#EXTINF:-1 group-title="18+" ,Babestation (18+)
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
-#EXTINF:-1,Fundorado (18+)
-http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
-#EXTINF:-1,Jasmin TV (18+)
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,Jasmin TV HD (18+)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,Live Sex Latinas (18+)
-http://publish.thewebstream.co:1935/leved/_definst_/livesexlatinas/playlist.m3u8
-#EXTINF:-1,Playboy TV Chat (18+)
-http://publish.thewebstream.co:1935/rlc/_definst_/livestream1/playlist.m3u8
-#EXTINF:-1,STUDIO 66 TV (18+)
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8
-#EXTINF:-1,STUDIO 66 TV 2 (18+)
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel21/playlist.m3u8
-#EXTINF:-1,STUDIO 66 TV 3 (18+)
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8
-#EXTINF:-1,STUDIO 66 TV 4 (18+)
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8
-#EXTINF:-1,VISIT-X TV (18+)
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
