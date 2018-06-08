@@ -120,15 +120,7 @@
       "32k": "http://mp3.littlesaigonradio.com:8000/live"
     }
   },
-  "16": {
-    "title": "VOA Tiếng Việt",
-    "url": "",
-    "image": "",
-    "streams": {
-      "voa1": "https://www.datviet.com/radio/voa1.mp3",
-      "voa2": "https://www.datviet.com/radio/voa2.mp3"
-    }
-  },
+ 
   "Gia Lai": {
     "title": "Gia Lai",
     "url": "",
