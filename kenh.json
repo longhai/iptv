@@ -4,7 +4,7 @@
     "url": "http://www.nashe.ru/",
     "image": "http://www.nashe.ru/wp-content/themes/nashe/img/sh-nashe.jpg",
     "streams": {
-      "128K": "http://nashe1.hostingradio.ru/nashe-128.mp3",
+      "128K": "http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8",
       "64K": "http://nashe1.hostingradio.ru/nashe-64.mp3"
     }
   },
