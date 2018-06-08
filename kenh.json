@@ -9,20 +9,19 @@
     }
   },
   "nashe_spb": {
-    "title": "Наше Радио Питер",
-    "url": "http://www.nashe.ru/?city=spb",
-    "image": "http://www.nashe.ru/wp-content/themes/nashe/img/sh-nashe.jpg",
+    "title": "Nhạc trẻ (Cherry Radio)",
+    "url": "",
+    "image": "http://www.cherryradio.com.au/templates/times_plazza/images/default/cherry_radio_logo.gif",
     "streams": {
-      "128K": "http://nashe1.hostingradio.ru/nashespb128.mp3"
+      "128K": "http://50.7.96.210:8618/;stream.mp3"
     }
   },
   "nashe20": {
-    "title": "Наше 2.0",
-    "url": "http://www.nashe.ru/nashe20/",
+    "title": "Nhạc trữ tình (Cherry Radio)",
+    "url": "",
     "image": "http://www.nashe.ru/wp-content/themes/nashe/img/sh-nashe.jpg",
     "streams": {
-      "128K": "http://nashe1.hostingradio.ru/nashe20-128.mp3",
-      "64K": "http://nashe1.hostingradio.ru/nashe20-64.mp3"
+      "128K": "http://68.168.101.146:8454/stream.mp3"
     }
   },
   "maximum": {
