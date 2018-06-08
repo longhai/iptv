@@ -132,17 +132,17 @@
   "17": {
     "title": "Radio SG Dallas",
     "url": "",
-    "image": "",
+    "image": "http://www.saigondallasradio.com/files/bluemarine_logo.gif",
     "streams": {
       "128K": "http://stream.zenolive.com/agsn9vhsqy5tv"
     }
   },
-  "Khánh Hòa": {
-    "title": "Khánh Hòa",
+  "18": {
+    "title": "NHK Radio - Japan",
     "url": "",
-    "image": "",
+    "image": "https://swling.com/blog/wp-content/uploads/2018/03/NHK-World-Japan-Logo.png",
     "streams": {
-      "32K": "http://210.245.20.94/hls/radio.m3u8"
+      "32K": "https://www.datviet.com/radio/nhk.mp3"
     }
   },
   "Đà Nẵng": {
