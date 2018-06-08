@@ -25,35 +25,35 @@
     }
   },
   "maximum": {
-    "title": "Максимум",
-    "url": "http://www.maximum.ru/online/",
-    "image": "http://onlainradio.ru/image/radio/radio_maxsimum.jpg",
+    "title": "Radio Tiếng Nước Tôi",
+    "url": "",
+    "image": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-tieng-nuroc-toi.png",
     "streams": {
-      "96K": "http://icecast.radiomaximum.cdnvideo.ru/maximum.mp3"
+      "96K": "http://162.244.80.118:3092/stream/1/"
     }
   },
   "hitfm": {
-    "title": "Хит FМ",
-    "url": "http://www.hitfm.ru/online_player.asp",
-    "image": "http://onlainradio.ru/image/radio/hit_fm_pryamoi_efir.jpg",
+    "title": "VABC Radio",
+    "url": "",
+    "image": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-viet-nam-hai-ngoai.png",
     "streams": {
-      "96K": "http://icecast.radiohitfm.cdnvideo.ru/hit.mp3"
+      "96K": "http://vpr.serverroom.us:7492/;stream.mp3"
     }
   },
   "dfm": {
-    "title": "DFM",
-    "url": "http://www.dfm.ru/listen/dfmonline/",
-    "image": "http://onlainradio.ru/image/radio/dfm_radio.jpg",
+    "title": "Đài á châu tự do",
+    "url": "",
+    "image": "http://www.rfa.org/english/images/rfa-logo-400.jpg",
     "streams": {
-      "96K": "http://icecast.radiodfm.cdnvideo.ru/dfm.mp3"
+      "96K": "http://rfalive2.akacast.akamaistream.net/7/985/433978/v1/ibb.akacast.akamaistream.net/RFALive2.m3u"
     }
   },
   "russkoe": {
-    "title": "Русское Радио",
-    "url": "http://www.rusradio.ru/",
-    "image": "http://onlainradio.ru/image/radio/russkoe_radio1.jpg",
+    "title": "RFI",
+    "url": "",
+    "image": "http://www.radioguide.fm/uploads/radiostation/rfi_tieng-viet1.jpg",
     "streams": {
-      "96K": "http://icecast.russkoeradio.cdnvideo.ru/rr.mp3"
+      "64K": "http://live02.rfi.fr/rfienvietnamien-64.mp3"
     }
   },
   "rockfm": {
