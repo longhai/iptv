@@ -324,13 +324,11 @@
     }
   },
   "shanson": {
-    "title": "Радио Шансон",
+    "title": "Vĩnh Long 90.2Mhz",
     "url": "http://radioshanson.fm/",
-    "image": "http://radioshanson.fm/assets/2a380c6a/img/logo-09-06-2016.png",
+    "image": "",
     "streams": {
-      "256K": "http://chanson.hostingradio.ru:8041/chanson256.mp3",
-      "128K": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
-      "64K": "http://chanson.hostingradio.ru:8041/chanson64.mp3"
+      "64K": "http://113.161.196.80:8000/radiothvl/stream.m3u8"
     }
   }
 }
