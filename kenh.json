@@ -19,7 +19,7 @@
   "nashe20": {
     "title": "Nhạc trữ tình (Cherry Radio)",
     "url": "",
-    "image": "http://www.nashe.ru/wp-content/themes/nashe/img/sh-nashe.jpg",
+    "image": "http://www.cherryradio.com.au/templates/times_plazza/images/default/cherry_radio_logo.gif",
     "streams": {
       "128K": "http://68.168.101.146:8454/stream.mp3"
     }
