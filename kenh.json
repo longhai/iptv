@@ -315,15 +315,15 @@
       "128K": "http://play.radioradio.ru/irk"
     }
   },
-  "swhrock": {
-    "title": "Radio SWH Rock",
+  "binh phuoc": {
+    "title": "Bình Phước",
     "url": "http://www.radioswhrock.lv/",
-    "image": "http://www.radioswhrock.lv/wp-content/themes/radioswhrock/img/logo-bez.png",
+    "image": "",
     "streams": {
-      "96K": "http://80.232.162.149:8000/rock96mp3"
+      "96K": "http://118.69.197.145/hls/radio.m3u8"
     }
   },
-  "shanson": {
+  "Vinh long": {
     "title": "Vĩnh Long 90.2Mhz",
     "url": "http://radioshanson.fm/",
     "image": "",
