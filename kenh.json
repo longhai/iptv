@@ -32,7 +32,7 @@
       "96K": "http://162.244.80.118:3092/stream/1/"
     }
   },
-  "hitfm": {
+  "5": {
     "title": "VABC Radio",
     "url": "",
     "image": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-viet-nam-hai-ngoai.png",
@@ -40,7 +40,7 @@
       "96K": "http://vpr.serverroom.us:7492/;stream.mp3"
     }
   },
-  "5": {
+  "6": {
     "title": "Đài á châu tự do",
     "url": "",
     "image": "http://www.rfa.org/english/images/rfa-logo-400.jpg",
@@ -48,7 +48,7 @@
       "96K": "http://rfalive2.akacast.akamaistream.net/7/985/433978/v1/ibb.akacast.akamaistream.net/RFALive2.m3u"
     }
   },
-  "6": {
+  "7": {
     "title": "RFI",
     "url": "",
     "image": "http://www.radioguide.fm/uploads/radiostation/rfi_tieng-viet1.jpg",
@@ -56,7 +56,7 @@
       "64K": "http://live02.rfi.fr/rfienvietnamien-64.mp3"
     }
   },
-  "7": {
+  "8": {
     "title": "VINA VietNam",
     "url": "",
     "image": "http://www.radioguide.fm/uploads/radiostation/vinaradio.PNG",
@@ -64,7 +64,7 @@
       "128K": "http://vpr.serverroom.us:7492/;?.mp3"
     }
   },
-  "8": {
+  "9": {
     "title": "RVA-Chân Lý Á Châu",
     "url": "",
     "image": "http://vietnamese.rveritas-asia.org/img/rvlogo.png",
@@ -72,7 +72,7 @@
       "128K": "http://stream.rveritas-asia.org:8000/Vietnamese.mp3"
     }
   },
-  "9": {
+  "10": {
     "title": "Little Saigòn",
     "url": "",
     "image": "http://www.littlesaigonradio.com/images/main.jpg",
