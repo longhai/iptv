@@ -1,5 +1,5 @@
 {
-  "nashe": {
+  "VOV": {
     "title": "VOV 1",
     "url": "http://vov1.vov.vn/",
     "image": "http://media.vov1.vn/UploadImages/Config/logo%20VOV.png",
@@ -8,7 +8,7 @@
       
     }
   },
-  "nashe_spb": {
+  "Cherry Radio": {
     "title": "Nhạc trẻ (Cherry Radio)",
     "url": "",
     "image": "http://www.cherryradio.com.au/templates/times_plazza/images/default/cherry_radio_logo.gif",
@@ -16,7 +16,7 @@
       "128K": "http://50.7.96.210:8618/;stream.mp3"
     }
   },
-  "nashe20": {
+  "Cherry Radio": {
     "title": "Nhạc trữ tình (Cherry Radio)",
     "url": "",
     "image": "http://www.cherryradio.com.au/templates/times_plazza/images/default/cherry_radio_logo.gif",
