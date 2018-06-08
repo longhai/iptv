@@ -72,6 +72,14 @@
       "128K": "http://stream.rveritas-asia.org:8000/Vietnamese.mp3"
     }
   },
+  "9": {
+    "title": "Little Saigòn",
+    "url": "",
+    "image": "http://www.littlesaigonradio.com/images/main.jpg",
+    "streams": {
+      "128K": "http://mp3.littlesaigonradio.com:8000/live"
+    }
+  },
   "Hà Tĩnh": {
     "title": "Hà Tĩnh",
     "url": "",
