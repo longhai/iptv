@@ -1,14 +1,14 @@
 {
-  "VOV": {
-    "title": "VOV 1",
-    "url": "http://vov1.vov.vn/",
-    "image": "http://media.vov1.vn/UploadImages/Config/logo%20VOV.png",
+  "1": {
+    "title": "Vaticana",
+    "url": "",
+    "image": "http://vi.radiovaticana.va/Modules/Presentation/Styles/images-common/layout/logo-rv-up-bar.png",
     "streams": {
-      "128K": "http://118.69.211.87:1935/vov1/vov1.stream_aac/chunklist_w546255934.m3u8"
+      "128K": "http://www2.vaticanwebradio.org/webcasting/vietnamita_1.mp3"
       
     }
   },
-  "Cherry Radio": {
+  "2": {
     "title": "Nhạc trẻ (Cherry Radio)",
     "url": "",
     "image": "http://www.cherryradio.com.au/templates/times_plazza/images/default/cherry_radio_logo.gif",
@@ -16,7 +16,7 @@
       "128K": "http://50.7.96.210:8618/;stream.mp3"
     }
   },
-  "Cherry Radio2": {
+  "3": {
     "title": "Nhạc trữ tình (Cherry Radio)",
     "url": "",
     "image": "http://www.cherryradio.com.au/templates/times_plazza/images/default/cherry_radio_logo.gif",
@@ -24,7 +24,7 @@
       "128K": "http://68.168.101.146:8454/stream.mp3"
     }
   },
-  "maximum": {
+  "4": {
     "title": "Radio Tiếng Nước Tôi",
     "url": "",
     "image": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-tieng-nuroc-toi.png",
@@ -40,7 +40,7 @@
       "96K": "http://vpr.serverroom.us:7492/;stream.mp3"
     }
   },
-  "dfm": {
+  "5": {
     "title": "Đài á châu tự do",
     "url": "",
     "image": "http://www.rfa.org/english/images/rfa-logo-400.jpg",
@@ -48,7 +48,7 @@
       "96K": "http://rfalive2.akacast.akamaistream.net/7/985/433978/v1/ibb.akacast.akamaistream.net/RFALive2.m3u"
     }
   },
-  "russkoe": {
+  "6": {
     "title": "RFI",
     "url": "",
     "image": "http://www.radioguide.fm/uploads/radiostation/rfi_tieng-viet1.jpg",
@@ -56,7 +56,22 @@
       "64K": "http://live02.rfi.fr/rfienvietnamien-64.mp3"
     }
   },
-  
+  "7": {
+    "title": "VINA VietNam",
+    "url": "",
+    "image": "http://www.radioguide.fm/uploads/radiostation/vinaradio.PNG",
+    "streams": {
+      "128K": "http://vpr.serverroom.us:7492/;?.mp3"
+    }
+  },
+  "8": {
+    "title": "RVA-Chân Lý Á Châu",
+    "url": "",
+    "image": "http://vietnamese.rveritas-asia.org/img/rvlogo.png",
+    "streams": {
+      "128K": "http://stream.rveritas-asia.org:8000/Vietnamese.mp3"
+    }
+  },
   "Hà Tĩnh": {
     "title": "Hà Tĩnh",
     "url": "",
@@ -99,7 +114,7 @@
   },
   "Vinh long": {
     "title": "Vĩnh Long 90.2Mhz",
-    "url": "http://radioshanson.fm/",
+    "url": "",
     "image": "",
     "streams": {
       "64K": "http://113.161.196.80:8000/radiothvl/stream.m3u8"
