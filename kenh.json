@@ -280,44 +280,41 @@
       "128K": "http://choco.hostingradio.ru:10010/fm128"
     }
   },
-  "komsomol": {
-    "title": "Комсомольская правда",
-    "url": "http://www.kp.ru/radio/fm/index.html",
-    "image": "http://www.kp.ru/share/i/4/1071708/big.png",
+  "Hà Tĩnh": {
+    "title": "Hà Tĩnh",
+    "url": "",
+    "image": "",
     "streams": {
-      "128K": "http://russia.radiokp128.mp3.streamr.ru",
-      "64K": "http://russia.radiokp64.mp3.streamr.ru",
-      "32K": "http://russia.radiokp32.mp3.streamr.ru"
+      "32K": "http://hatinhtv.vn/phatthanh/m3u8/audio.m3u8"
     }
   },
-  "pilotfm": {
-    "title": "Пилот FM",
-    "url": "https://pilotfm.ru/online",
-    "image": "https://pilotfm.ru/img/logo.jpg",
+  "Gia Lai": {
+    "title": "Gia Lai",
+    "url": "",
+    "image": "",
     "streams": {
-      "128K": "https://online.pilotfm.ru:8443/pilot"
+      "128K": "http://113.161.25.3:8134/hls-live/livepkgr/_definst_/liveevent/radio.m3u8"
     }
   },
-  "rockarsenal": {
-    "title": "Rock Arsenal",
-    "url": "http://www.rockarsenal.ru/",
-    "image": "http://www.rockarsenal.ru/bitrix/templates/main/images/logo.png",
+  "Khánh Hòa": {
+    "title": "Khánh Hòa",
+    "url": "",
+    "image": "",
     "streams": {
-      "128K": "http://online.rockarsenal.ru:8000/rockarsenal",
-      "32K": "http://online.rockarsenal.ru:8000/rockarsenal32"
+      "32K": "http://210.245.20.94/hls/radio.m3u8"
     }
   },
-  "radioradioirk": {
-    "title": "RadioRadio - Иркутск",
-    "url": "http://radioradio.ru/geo/geo_city/4.html",
-    "image": "http://radioradio.ru/img/logo.png",
+  "Đà Nẵng": {
+    "title": "Đà Nẵng",
+    "url": "",
+    "image": "",
     "streams": {
-      "128K": "http://play.radioradio.ru/irk"
+      "128K": "http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8"
     }
   },
   "binh phuoc": {
     "title": "Bình Phước",
-    "url": "http://www.radioswhrock.lv/",
+    "url": "",
     "image": "",
     "streams": {
       "96K": "http://118.69.197.145/hls/radio.m3u8"
