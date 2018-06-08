@@ -85,7 +85,7 @@
     "url": "",
     "image": "",
     "streams": {
-      "48k": "http://vndcradio2.serverroom.us:4480/"
+      "48k": "http://vndcradio2.serverroom.us:4480/;?type=http&nocache=139492"
     }
   },
   "12": {
