@@ -80,6 +80,46 @@
       "128K": "http://mp3.littlesaigonradio.com:8000/live"
     }
   },
+  "11": {
+    "title": "Nationwide Viet Radio (NVR)",
+    "url": "",
+    "image": "",
+    "streams": {
+      "48k": "http://vndcradio2.serverroom.us:4480/"
+    }
+  },
+  "12": {
+    "title": "VNHN/VABC Falls Church",
+    "url": "",
+    "image": "",
+    "streams": {
+      "48k": "http://vndcradio2.serverroom.us:4480/"
+    }
+  },
+  "13": {
+    "title": "Thời Báo Radio Toronto",
+    "url": "",
+    "image": "",
+    "streams": {
+      "128k": "http://209.250.131.2:8000/;stream.mp3"
+    }
+  },
+  "14": {
+    "title": "Saigon Radio Seattle",
+    "url": "",
+    "image": "",
+    "streams": {
+      "32k": "http://170.75.194.209:8888"
+    }
+  },
+  "15": {
+    "title": "Little Saigon Radio 1480 A.M",
+    "url": "",
+    "image": "http://www.radioguide.fm/uploads/radiostation/little-saigon-radio-small.png",
+    "streams": {
+      "32k": "http://mp3.littlesaigonradio.com:8000/live"
+    }
+  },
   "Hà Tĩnh": {
     "title": "Hà Tĩnh",
     "url": "",
