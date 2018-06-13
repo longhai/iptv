@@ -1,0 +1,479 @@
+#EXTM3U Long Hải
+
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV1
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV2
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV3
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV4
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV5
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV6
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV7
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV8
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV9
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="http://i.imgur.com/HC5iUuK.png", VTC1
+http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC2
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC3
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC4
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC5
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC8
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC7
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC8
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC9
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC10
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC11
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg", VTC Ca Nhạc
+http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV1
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV2
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV3
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV4
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png", HTV7 HD
+http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd.m3u8
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png", HTV9
+http://113.160.49.39/lives/origin04/htv9sd.isml/htv9sd.m3u8
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="",
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="",
+#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="",
+
+#EXTINF:-1 group-title="Radio" group-title="Radio" tvg-logo="https://s19.postimg.org/6iesz428z/vov1.png", VOV 1 
+rtmp://210.245.60.242:1935/nghehevov1/vov1
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/ggzrllboj/vov2.png",  VOV 2 
+rtmp://210.245.60.242:1935/nghehevov2/vov2
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/tmf9rp5k3/vov3.png", VOV 3
+rtmp://210.245.60.242:1935/nghehevov3/vov3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/vov-4.png",  VOV 4
+rtmp://123.30.189.223:1935/vov4NamBo
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/6nik8s9k3/vov5.png", VOV 5
+rtmp://210.245.60.242/vov5/vov5
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/9wbwbkmzn/vov_247.png", VOV 24/7
+rtmp://210.245.60.242:1935/vov247/vov247
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/qoiaxzxwj/vov_giao_thong_ha_noi.png", VOV Giao thông Hà Nội
+rtmp://117.6.129.102/live/vovgthn.sdp
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/gonei3mn7/vov_giao_thong_tp_hcm.png", VOV Giao thông HCM
+rtmp://117.6.129.102/live/vovgthcm.sdp
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/ba3j6vm8z/vov_mokong.png", VOV Mekong 90.0Mhz
+rtmp://117.6.129.102/live/mekong.sdp
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/lf26wg4tf/xone.png", XONE 
+http://118.69.80.81:8000/http://118.69.80.81:8000
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/v3fmzkzmr/joy_fm.png", Joy FM - Radio sức khỏe 
+rtmp://radio.joyfm.vn:1935/live/RadioOnline
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/voh-95-6-fm.png", Tp.HCM FM 95.6MHz
+rtmp://221.132.38.110:1935/live/channel1
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/voh-610-am.png", Tp.HCM AM 610KHz
+rtmp://221.132.38.110:1935/live/channel2
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/voh-99-9-fm.png", Tp.HCM FM 99.9MHz
+rtmp://221.132.38.110:1935/live/channel3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/x4o3k08df/an_giang.png", An Giang  
+rtmp://113.161.212.25/live/radio
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/l6mj644mb/bac_lieu.png", Bạc Liêu 
+rtmp://118.69.205.213/livepkgr/livestream2?adbe-live-event=liveevent
+#EXTINF:-1 group-title="Radio"tvg-logo="https://s19.postimg.org/l42nja0yr/ben_tre.png", Bến Tre 
+rtmp://113.163.94.245/livepkgr/audiostream
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/fssccb49v/ca_mau.png", Cà Mau 
+rtmp://113.161.220.254/livepkgr/livestream4
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/q5xh0q89v/th_can_tho.png", Cần Thơ 97.3Mhz
+rtmp://tv.canthotv.vn/livepkgr/livestream4?adbe-live-event=liveevent
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/h44oyip9f/dong_thap.png", Đồng Tháp  
+rtmp://123.30.110.170:1939/thdt/radio
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/lau4rle8z/hau_giang.png", Hậu Giang 
+rtmp://123.30.110.170:1939/hgradio/pthg
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/jll1jiyjn/kien_giang.png", Kiên Giang
+http://tv.kgtv.vn/hls/kgaudio.m3u8
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/6f0nh495v/long_an.png", Long An 96.8Mhz 
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/radio.m3u8
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/51dlzjzab/soc_trang.png", Sóc Trăng 103.2Mhz 
+rtmp://115.78.3.164/live/FMsoctrang
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/ofefz8qqr/tieng_giang.png",  Tiền Giang 96.2 Mhz
+rtmp://123.30.141.4:1935/live/radio
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/mrjvyc28z/tra_vinh.png",  Trà Vinh
+rtmp://vov.radiovietnam.vn:1935/live
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/n5l7xxmcj/vinh_long.png", Vĩnh Long 90.2Mhz 
+http://113.161.196.80:8000/radiothvl/stream.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/lbuvtj1b7/ba_ria_vung_tau.png", Vũng Tàu 92.0Mhz
+rtmp://113.163.216.24:80/livepkgr/livestream
+#EXTINF:-1 group-title="Radio" tvg-logo="", Bình Dương  
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/enya6xhsz/binh_phuoc.png",  Bình Phước
+http://118.69.197.145/hls/radio.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="", Đồng Nai 97.5Mhz
+#EXTINF:-1 group-title="Radio" tvg-logo="", Tây Ninh
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/3s6wbkwv7/da_nang.png", Đà Nẵng
+http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/g9rsncd43/quang_nam.png", Quảng Nam
+rtmp://113.161.6.157:1935/live/audiostream
+#EXTINF:-1 group-title="Radio" tvg-logo="", Quảng Ngãi
+#EXTINF:-1 group-title="Radio" tvg-logo="", Bình Định
+#EXTINF:-1 group-title="Radio" tvg-logo="", Phú Yên
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/yvkwqpu1v/khanh_hoa.png",  Khánh Hòa
+http://210.245.20.94/hls/radio.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/3orbjxcgz/ninh_thuan.png",  Ninh Thuận 
+rtmp://203.113.166.233/live/NTV_AUDIO
+#EXTINF:-1 group-title="Radio"  tvg-logo="", Bình Thuận 
+#EXTINF:-1 group-title="Radio" tvg-logo="", Đak Lák
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/ajxbeflur/dak_nong.png", Đắk Nông 
+rtmp://222.255.158.22:1935/live2/phatthanh
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/g4ee2ta3n/gia_lai.png", Gia Lai
+http://113.161.25.3:8134/hls-live/livepkgr/_definst_/liveevent/radio.m3u8
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/8ec7bex5v/kon_tum.png", Kon Tum 
+http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumaudio.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="", Lâm Đồng
+#EXTINF:-1 group-title="Radio" tvg-logo="", Thanh Hóa
+#EXTINF:-1 group-title="Radio" tvg-logo="", Nghệ An
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/cakxtnsrn/ha_tinh.png", Hà Tĩnh
+http://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="", Quảng Bình
+#EXTINF:-1 group-title="Radio" tvg-logo="", Quảng Trị
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/nra6u1her/thua_thien_hue.png", Huế 
+rtmp://118.69.176.149:1936/live/radio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/awtayctib/ha_noi.png", Hà Nội FM 90Mhz
+rtmp://123.30.185.123/live/hn1audio
+#EXTINF:-1 group-title="Radio" tvg-logo="", Vĩnh Phúc
+#EXTINF:-1 group-title="Radio" tvg-logo="", Bắc Ninh
+#EXTINF:-1 group-title="Radio" tvg-logo="", Quảng Ninh
+#EXTINF:-1 group-title="Radio"  tvg-logo="http://www.qtv.vn/common/v1/image/qnr1.png", Quảng Ninh Radio 1 
+rtmp://123.29.68.44/hctv/vsrd001
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.qtv.vn/common/v1/image/qnr2.png", Quảng Ninh Radio 2
+rtmp://123.29.68.44/hctv/vsrd004
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/k5vh8h2eb/hai_duong.png", Hải Dương
+http://113.160.131.11:8000/
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/jue0vplyb/hai_phong.png", Hải Phòng
+http://118.107.76.15:1983/live/HPradio.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="", Hưng Yên
+#EXTINF:-1 group-title="Radio" tvg-logo="", Thái Bình
+#EXTINF:-1 group-title="Radio" tvg-logo="",  Hà Nam
+#EXTINF:-1 group-title="Radio" tvg-logo="", Nam Định 
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/qxvjm6n37/ninh_binh.png", Ninh Bình
+http://117.6.94.35:8001/
+#EXTINF:-1 group-title="Radio" tvg-logo="", Lạng Sơn
+#EXTINF:-1 group-title="Radio" tvg-logo="", Cao Bằng
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/hx6opzp7n/dpt_bac_kan.png", Bắc Kạn
+http://118.107.76.15:1983/live/BKradio.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="", Thái Nguyên
+#EXTINF:-1 group-title="Radio" tvg-logo="http://stream2.mobiradio.vn/thumb/0x0/crop//Uploads/images/RADIOVN/08182016/kenh%20phat%20thanh/yenbai.png", Yên Bái
+rtmp://123.30.186.141/oflaDemo/livestream
+#EXTINF:-1 group-title="Radio" tvg-logo="", Lào Cai
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/vx8qi4qxr/dpt_ha_giang.png", Hà Giang
+http://118.107.76.15:1983/live/HGradio.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/tlplaa5ib/tuyen_quang.png", Tuyên Quang
+rtmp://210.245.89.40:1935/live/liveaudiostream
+#EXTINF:-1 group-title="Radio" tvg-logo="", Phú Thọ
+#EXTINF:-1 group-title="Radio" tvg-logo="", Bắc Giang
+#EXTINF:-1 group-title="Radio" tvg-logo="", Hòa Bình
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/6uginvkgz/son_la.png", Sơn La
+http://118.107.76.15:1983/live/SLradio.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="", Điện Biên
+#EXTINF:-1 group-title="Radio" tvg-logo="", Lai Châu
+#EXTINF:-1 group-title="Radio" tvg-logo="", Lào Cai 
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.cherryradio.com.au/templates/times_plazza/images/default/cherry_radio_logo.gif", Giải trí (Cherry Radio) 
+http://192.240.102.195:9055/stream.mp3
+#EXTINF:-1 group-title="Radio"  tvg-logo="http://www.cherryradio.com.au/templates/times_plazza/images/default/cherry_radio_logo.gif", Nhạc trẻ (Cherry Radio) 
+http://50.7.96.210:8618/;stream.mp3
+#EXTINF:-1 group-title="Radio"  tvg-logo="http://www.cherryradio.com.au/templates/times_plazza/images/default/cherry_radio_logo.gif", Nhạc trữ tình (Cherry Radio)
+http://68.168.101.146:8454/stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/radio-tieng-nuroc-toi.png", Radio Tiếng Nước Tôi
+http://162.244.80.118:3092/stream/1/
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/radio-viet-nam-hai-ngoai.png", VABC Radio 
+http://vpr.serverroom.us:7492/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/nhk-vietnam.png", NHK Vietnam  
+rtmp://flv.nhk.or.jp/ondemand//mp4:flv/nhkworld/upld/medias/vi/radio/news/20170903200000_vietnamese_1.m4a
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.rfa.org/english/images/rfa-logo-400.jpg", Đài á châu tự do
+http://rfalive2.akacast.akamaistream.net/7/985/433978/v1/ibb.akacast.akamaistream.net/RFALive2.m3u
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.radioguide.fm/uploads/radiostation/rfi_tieng-viet1.jpg", RFI
+http://live02.rfi.fr/rfienvietnamien-64.mp3
+
+#EXTINF:-1 group-title="Radio" tvg-logo="", Bolsa Westminster  
+http://ice7.securenetsystems.net/RBVU?type=.flv
+#EXTINF:-1 group-title="Radio"  tvg-logo="http://www.radioguide.fm/uploads/radiostation/little-saigon-radio-small.png", Little Saigon Radio 1480 A.M 
+http://mp3.littlesaigonradio.com:8000/live
+#EXTINF:-1 group-title="Radio" tvg-logo="https://pbs.twimg.com/profile_images/489683116148006912/NH2ugxW__400x400.jpeg", Saigon Radio 106.3 FM Los Angeles
+http://ice5.securenetsystems.net:80/KALI
+#EXTINF:-1 group-title="Radio" tvg-logo="", Saigon Radio 1430 AM San Jose
+http://ice5.securenetsystems.net:80/KVVN
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.radioguide.fm/uploads/images-2-0001.jpg", Saigon Radio 900 AM Houston
+http://ice5.securenetsystems.net:80/KREH
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.radioguide.fm/uploads/radiostation/saigon-radio-dallas.PNG",  Saigon Radio 890am Dallas
+#EXTINF:-1 group-title="Radio" tvg-logo="", Saigon Radio Seattle
+http://170.75.194.209:8888
+#EXTINF:-1 group-title="Radio" tvg-logo="", Thời Báo Radio Toronto
+http://209.250.131.2:8000/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="", VNHN/VABC Falls Church
+http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.radioguide.fm/uploads/radiostation/vinaradio.PNG", VINA VietNam
+http://vpr.serverroom.us:7492/;?.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.littlesaigonradio.com/images/main.jpg", Little Saigòn
+http://mp3.littlesaigonradio.com:8000/live
+#EXTINF:-1 group-title="Radio" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rWeUKu7LtA.png",VNU - VN UNITED Vietnamese
+http://96.227.91.98:8000/;/;&topspeed=on
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.nvradio.co/images/radio.jpg", Nationwide Viet Radio (NVR)
+http://162.244.80.33:4480/;stream.mp3:4480
+#EXTINF:-1 group-title="Radio" tvg-logo="http://vienthao.com/v_logo.gif", VIEN THAO 1290AM Radio
+http://173.193.205.96:8047/;stream.nsv
+#EXTINF:-1 group-title="Radio" tvg-logo="",Lac Viet radio vancouver
+http://mp3.littlesaigonradio.com:8000/live
+#EXTINF:-1 group-title="Radio" tvg-logo="",Việt Sóng Radio, Atlana City, Georgia
+http://ice1.securenetsystems.net/DEMOSTN?playSessionID=2BDD5416-A091-4093-ED91B830BF23657B
+#EXTINF:-1 group-title="Radio" tvg-logo="",VOC RADIO FM 106.3 FM SATURDAYS – NAM CALIFORNIA
+http://ice5.securenetsystems.net/KALI?playSessionID=2BFC14A4-934A-1E42-01528E5CF1DAFFE1
+#EXTINF:-1 group-title="Radio" tvg-logo="",THỜI BÁO RADIO – Canada
+http://209.250.131.2:8000/;stream.mp3%3Cbr%20/%3E
+#EXTINF:-1 group-title="Radio" tvg-logo="", RTI đài loan
+rtmp://live2.rti.org.tw/vod/mp4:vod156/record/5_20171005_0100_76.mp4
+#EXTINF:-1 group-title="Radio" tvg-logo="",
+#EXTINF:-1 group-title="Radio" tvg-logo="",
+#EXTINF:-1 group-title="Radio" tvg-logo="",
+#EXTINF:-1 group-title="Radio" tvg-logo="",
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://vi.radiovaticana.va/Modules/Presentation/Styles/images-common/layout/logo-rv-up-bar.png", vaticana
+http://www2.vaticanwebradio.org/webcasting/vietnamita_1.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="http://vietnamese.rveritas-asia.org/img/rvlogo.png", RVA-Chân Lý Á Châu
+http://stream.rveritas-asia.org:8000/Vietnamese.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s141508q.png",Chúa Đến Radio – Jesus Coming FM
+http://live.jesuscomingfm.com:8316/;
+
+
+
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png", CCTV-1 Tổng hợp
+http://tv6.byr.cn/hls/cctv1.m3u8
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/CCTV-2%E8%B4%A2%E7%BB%8F.png", CCTV-2 Tài chính
+http://tv6.byr.cn/hls/cctv2.m3u8
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CCTV-3%E7%BB%BC%E8%89%BA.png", CCTV-3 Đa dạng
+http://tv6.byr.cn/hls/cctv3.m3u8
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/CCTV-4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png", CCTV-4 Trung Quốc & Quốc Tế
+http://tv6.byr.cn/hls/cctv4.m3u8
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png", CCTV-5 Thể thao
+http://tv6.byr.cn/hls/cctv5.m3u8
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6%E7%94%B5%E5%BD%B1.png", CCTV-6 Phim
+http://tv6.byr.cn/hls/cctv6.m3u8
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7%E5%86%9B%E4%BA%8B%E5%86%9C%E4%B8%9A.png", CCTV-7 Nông nghiệp
+http://tv6.byr.cn/hls/cctv7.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png", CCTV-8 Phim truyền hình
+http://tv6.byr.cn/hls/cctv8.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9%E7%BA%AA%E5%BD%95.png", CCTV-9 Ghi lại
+http://tv6.byr.cn/hls/cctv9.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10%E7%A7%91%E6%95%99.png", CCTV-10 Khoa học giáo dục
+http://tv6.byr.cn/hls/cctv10.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/CCTV-11%E6%88%8F%E6%9B%B2.png", CCTV-11 Opera
+http://tv6.byr.cn/hls/cctv11.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95.png", CCTV-12 Xã hội & Luật
+http://tv6.byr.cn/hls/cctv12.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CCTV-13%E6%96%B0%E9%97%BB.png", CCTV-13 Tin tức
+http://tv6.byr.cn/hls/cctv13.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14%E5%B0%91%E5%84%BF.png", CCTV-14 Thiếu nhi
+http://tv6.byr.cn/hls/cctv14.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15%E9%9F%B3%E4%B9%90.png", CCTV-15 Nhạc
+http://tv6.byr.cn/hls/cctv15.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg", CGTN
+http://tv6.byr.cn/hls/cctv16.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png", CCTV - Phim chiếu rạp
+http://tv6.byr.cn/hls/dyjctv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png", CCTV - Nhà hát storm
+http://tv6.byr.cn/hls/fyjctv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png", CCTV - Nhạc
+http://tv6.byr.cn/hls/fyyytv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png", CCTV - Bóng đá
+http://tv6.byr.cn/hls/fyzqtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/CCTV-%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.png", CCTV - Quốc phòng
+http://tv6.byr.cn/hls/gfjstv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png", CCTV - Nhà hát hoài cổ
+http://tv6.byr.cn/hls/hjjctv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png", CCTV- Địa lý Thế Giới
+http://tv6.byr.cn/hls/sjdltv.m3u8 
+
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png", CCTV-1HD
+http://tv6.byr.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/CCTV-2%E8%B4%A2%E7%BB%8F.png", CCTV-2HD
+http://tv6.byr.cn/hls/cctv2hd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CCTV-3%E7%BB%BC%E8%89%BA.png", CCTV-3HD
+http://tv6.byr.cn/hls/cctv3hd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png", CCTV-5HD Thể thao
+http://tv6.byr.cn/hls/cctv5hd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png", CCTV-5+HD Thể thao
+http://tv6.byr.cn/hls/cctv5phd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6%E7%94%B5%E5%BD%B1.png", CCTV-6HD
+http://tv6.byr.cn/hls/cctv6hd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png", CCTV-8HD
+http://tv6.byr.cn/hls/cctv8hd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://ttylwang.com/?d/file/2016/1021/fdbd0781c2d7d6404320dd4890ced2b1.jpg", CHC HD - Phim
+http://tv6.byr.cn/hls/chchd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", Bắc Kinh TV HD
+http://tv6.byr.cn/hls/btv1hd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc"  tvg-logo="http://www.hlyy.cc/uploadfile/20150411/z1c2qunjnbs.jpg", Văn học & nghệ thuật Bắc Kinh HD
+http://tv6.byr.cn/hls/btv2hd.m3u8
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.24zbw.com/uploadfile/2016/1231/20161231023227769.jpg", Thể thao Bắc Kinh HD
+http://tv6.byr.cn/hls/btv6hd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.zhiboba.cc/zbbimg/btv-12jishi.jpg", Tài liệu về Bắc Kinh HD
+http://tv6.byr.cn/hls/btv11hd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png", Truyền hình vệ tinh Hồ Nam HD
+http://tv6.byr.cn/hls/hunanhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://bpic.588ku.com/element_pic/00/16/09/0657ce6a5d5cc73.jpg", Chiết Giang TV HD
+http://tv6.byr.cn/hls/zjhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", Giang Tô TV HD
+http://tv6.byr.cn/hls/jshd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png", Truyền hình phương Đông HD
+http://tv6.byr.cn/hls/dfhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png", An Huy TV HD
+http://tv6.byr.cn/hls/ahhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png", Hắc Long Giang HD
+http://tv6.byr.cn/hls/hljhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.zitichina.com/Uploadfile/allimg/130914/1_130914181627_1.jpg", Liêu Ninh truyền hình vệ tinh HD
+http://tv6.byr.cn/hls/lnhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img1.3png.com/937cdc0d43e2225e30e86bcba9d2fe361473.png", Thâm Quyến TV HD
+http://tv6.byr.cn/hls/szhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img2.3png.com/5e263bb3dd7305f9787b27d09ddb2cf434cf.png", Quảng Đông HD
+http://tv6.byr.cn/hls/gdhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225143116316.png", Thiên Tân HD
+http://tv6.byr.cn/hls/tjhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.weixinyidu.com/160327/2546a869.jpg", Hubei TV HD
+http://tv6.byr.cn/hls/hbhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://siac.com.cn/Upload/%E9%80%9A%E8%AE%AFLOGO/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86LOGO-09075932268.jpg", Sơn Đông HD
+http://tv6.byr.cn/hls/sdhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e5/CQTV_new_logo.png/150px-CQTV_new_logo.png", Trùng Khánh TV HD
+http://tv6.byr.cn/hls/cqhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.gctvmedia.com/upload/images/2017-04-13/6362770661926562506242618.jpg", Tài liệu Thượng Hải HD
+http://tv6.byr.cn/hls/docuchina.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.ft69.com/upLoad/product/170728/201707281958071030.jpg", Tứ Xuyên HD
+http://tv6.byr.cn/hls/schd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://a4.att.hudong.com/03/30/01300543769589145887304945363_s.png", Tài liệu về Golden Eagle HD
+http://tv6.byr.cn/hls/gedocu.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://tva3.sinaimg.cn/crop.1.1.178.178.1024/5ee639b1jw8ev72hh4i0fj2050050weh.jpg", Fujian Đông Nam HD
+http://tv6.byr.cn/hls/dnhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.rologo.com/images/uploads/2013/09/hbws-new-logo.png", Hà Bắc HD
+http://tv6.byr.cn/hls/hebhd.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png", Giang Tây HD
+http://tv6.byr.cn/hls/jxhd.m3u8 
+
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.ppntv.com/uploads/allimg/140825/1-140R514264H09.jpg", Bắc Kinh TV
+http://tv6.byr.cn/hls/btv1.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv2.jpg", Văn học và nghệ thuật - Bắc Kinh
+http://tv6.byr.cn/hls/btv2.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.gyimc.com/uploads/logo/btv3.jpg", Khoa học và Giáo dục - Bắc Kinh
+http://tv6.byr.cn/hls/btv3.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv4.jpg", Phim và truyền hình - Bắc Kinh
+http://tv6.byr.cn/hls/btv4.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv5.jpg", Tài chính và Kinh tế - Bắc Kinh
+http://tv6.byr.cn/hls/btv5.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.5175.cc/uploadfile/2014/0724/20140724041638861.jpg", Thể thao - Bắc Kinh
+http://tv6.byr.cn/hls/btv6.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv7.jpg", Cuộc sống - Bắc Kinh
+http://tv6.byr.cn/hls/btv7.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv8.jpg", Thanh niên - Bắc Kinh
+http://tv6.byr.cn/hls/btv8.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv9.jpg", Tin tức - Bắc Kinh
+http://tv6.byr.cn/hls/btv9.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png", Thiếu nhi - Bắc Kinh
+http://tv6.byr.cn/hls/btv10.m3u8 
+
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://bpic.588ku.com/element_pic/00/16/09/0657ce6a5d5cc73.jpg", Chiết Giang TV
+http://tv6.byr.cn/hls/zjtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png", Truyền hình vệ tinh Hồ Nam
+http://tv6.byr.cn/hls/hunantv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", Giang Tô TV
+http://tv6.byr.cn/hls/jstv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png", Truyền hình phương Đông
+http://tv6.byr.cn/hls/dftv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.gst88.com/UploadFile//%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86logo.jpg", Thâm Quyến TV
+http://tv6.byr.cn/hls/sztv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png", TV An Huy
+http://tv6.byr.cn/hls/ahtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png", TV Hà Nam
+http://tv6.byr.cn/hls/hntv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0d/Shaanxi_Satellite_TV.png/150px-Shaanxi_Satellite_TV.png", Thiểm Tây truyền hình vệ tinh TV
+http://tv6.byr.cn/hls/sxtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/63/JLTV_logo.png", Cát Lâm TV
+http://tv6.byr.cn/hls/jltv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/GRT_Satellite_Channel_2016_logo.jpg/400px-GRT_Satellite_Channel_2016_logo.jpg", Quảng Đông truyền hình
+http://tv6.byr.cn/hls/gdtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/79/SDTV_logo.png/170px-SDTV_logo.png", TV Sơn Đông
+http://tv6.byr.cn/hls/sdtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/HBTV_logo.png", Hubei TV
+http://tv6.byr.cn/hls/hbtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.jnhxgg.com/upload/jinanhongxiao2014925155801.jpg", Quảng Tây TV
+http://tv6.byr.cn/hls/gxtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.rologo.com/images/uploads/2013/09/hbws-new-logo.png", TV Hà Bắc
+http://tv6.byr.cn/hls/hebtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.ft69.com/upLoad/product/170728/201707282026010491.jpg", Truyền hình vệ tinh Tây Tạng
+http://tv6.byr.cn/hls/xztv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.weishi.tv/upload/tv/4508a64148d483ba76423102a0e94c7f.jpg", Truyền hình Mông Cổ Nội Mông
+http://tv6.byr.cn/hls/nmtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg", Truyền hình vệ tinh Thanh Hải
+http://tv6.byr.cn/hls/qhtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://a3.att.hudong.com/45/03/01300543754469145914031773240_s.jpg", Truyền hình Tứ Xuyên
+http://tv6.byr.cn/hls/sctv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.ijizhi.com/img/UploadFile/20111251581103.jpg", TV Thiên Tân
+http://tv6.byr.cn/hls/tjtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/shanxitv.jpg", Shanxi TV
+http://tv6.byr.cn/hls/sxrtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.hlyy.cc/uploadfile/20150411/vr5yfxjmlf1.jpg", Liêu Ninh truyền hình vệ tinh
+http://tv6.byr.cn/hls/lntv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.logonews.cn/uploads/2015/04/2015042300363441.jpg", Xiamen TV
+http://tv6.byr.cn/hls/xmtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.ft69.com/upLoad/product/170728/201707282130515763.jpg", Tân Cương TV
+http://tv6.byr.cn/hls/xjtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png", TV Hắc Long Giang
+http://tv6.byr.cn/hls/hljtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/55/YNtv.png/170px-YNtv.png", Truyền hình Vân Nam
+http://tv6.byr.cn/hls/yntv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png", Truyền hình Giang Tây
+http://tv6.byr.cn/hls/jxtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.logo11.cn/uploads/allimg/150413/1_150413160055_1.png", Fujian Đông Nam truyền hình
+http://tv6.byr.cn/hls/dntv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225161204205.png", Quảng Châu truyền hình
+http://tv6.byr.cn/hls/gztv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225130HR22.png", Truyền hình vệ tinh Ningxia
+http://tv6.byr.cn/hls/nxtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png", Truyền hình vệ tinh Gansu
+http://tv6.byr.cn/hls/gstv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e5/CQTV_new_logo.png/150px-CQTV_new_logo.png", Trùng Khánh TV
+http://tv6.byr.cn/hls/cqtv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e8/Bingtuan_Television_Logo_20090828.png/200px-Bingtuan_Television_Logo_20090828.png", Quân đoàn Truyền hình
+http://tv6.byr.cn/hls/bttv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/05/Travel_Channel_Logo.png/440px-Travel_Channel_Logo.png", Truyền hình du lịch
+http://tv6.byr.cn/hls/lytv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg", Giáo dục Trung Quốc CETV-1
+http://tv6.byr.cn/hls/cetv1.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giáo dục Trung Quốc CETV-3
+http://tv6.byr.cn/hls/cetv3.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giáo dục Trung Quốc CETV-4
+http://tv6.byr.cn/hls/cetv4.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.xfcatv.com/zyyw/image/93.gif", Phim hành động CHC
+http://tv6.byr.cn/hls/chcatv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://tva4.sinaimg.cn/crop.784.467.490.490.180/77eb3ddejw1e9oaedgw1pj21kw16ojun.jpg", Nhà hát CHC
+http://tv6.byr.cn/hls/chctv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Đời sống-1
+http://tv6.byr.cn/hls/djsh1.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Đời sống-2
+http://tv6.byr.cn/hls/djsh2.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Đời sống-3
+http://tv6.byr.cn/hls/djsh3.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Đời sống-4
+http://tv6.byr.cn/hls/djsh4.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Đời sống-5
+http://tv6.byr.cn/hls/djsh5.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.114tuku.com/uploadfile/2014/1231/20141231053501240.png", Phim hoạt hình Jiajia
+http://tv6.byr.cn/hls/jjkttv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.114tuku.com/uploadfile/2014/1231/20141231053502481.png", Golden Eagle Cartoon
+http://tv6.byr.cn/hls/jykttv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Sơn Đông Giáo dục
+http://tv6.byr.cn/hls/sdetv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://qu.meitj.com/wp-content/uploads/2016/02/1-52.jpg", Phim hoạt hình Hyun
+http://tv6.byr.cn/hls/xdkttv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E5%8D%AB%E8%A7%86.png", Phim hoạt hình xuất sắc
+http://tv6.byr.cn/hls/ymkttv.m3u8 
+
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://video.seatelgroup.com/uploads/thumbs/585311fd-1.jpg", Đài truyền hình Phoenix TV
+http://tv6.byr.cn/hls/fhzw.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://video.seatelgroup.com/uploads/thumbs/37b065a4-1.jpg", Phòng truyền hình vệ tinh Phoenix
+http://tv6.byr.cn/hls/fhzx.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.f5vi.com/uploadfck/Image/feng%20huang%20tv%20logo%2006.png", Movie
+http://tv6.byr.cn/hls/fhdy.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/50/Discovery_Logo.png", Discovery
+http://tv6.byr.cn/hls/discovery.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225233J2323.png", National Geographic
+http://tv6.byr.cn/hls/natlgeo.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.zhiboba.cc/zbbimg/xingkongweishi.jpg", Startv
+http://tv6.byr.cn/hls/startv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Channel[V]
+http://tv6.byr.cn/hls/channelv.m3u8 
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg", Starsports
+http://tv6.byr.cn/hls/starsports.m3u8
+#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.yqdtv.com/uploadfile/image/20150327/20150327025714_53250.jpg", Documentary
+http://tv6.byr.cn/hls/documentary.m3u8 
