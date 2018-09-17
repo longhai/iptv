@@ -1,415 +1,413 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", Update 21/8/2018 ♥♥♥
+# EXTM3U
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/ecmin", ♥♥♥ Liệt kê theo Admin Update Update 30/8/2018 ♥♥♥
 https://gg.gg/ecmin
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-1" group-title="THVL", Vĩnh Long 1 S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/thvl-1" tên nhóm = "THVL", Vĩnh Long 1 S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-1" group-title="THVL", Vĩnh Long 1 S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/thvl-1" nhóm-tiêu đề = "THVL", Vĩnh Long 1 S2
 http://live.cdn.mobifonetv.vn/motv/mythvl1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-2" group-title="THVL", Vĩnh Long 2 S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/thvl-2" tên nhóm = "THVL", Vĩnh Long 2 S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-2" group-title="THVL", Vĩnh Long 2 S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/thvl-2" tên nhóm = "THVL", Vĩnh Long 2 S2
 http://live.cdn.mobifonetv.vn/motv/mythvl2_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-1" group-title="VTV", VTV1 HD S1
-https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-1" group-title="VTV", VTV1 HD S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-1" nhóm tiêu đề = "VTV", VTV1 HD S1
+https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-1" nhóm-tiêu đề = "VTV", VTV1 HD S2
 http://118.107.68.10:1935/live/_definst_/VTV1_H_6374560ab1atyu33dfee617ce3516ca502d/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-2" group-title="VTV", VTV2 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-3" group-title="VTV", VTV3 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b2000000.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-4" group-title="VTV", VTV4 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-2" nhóm tiêu đề = "VTV", VTV2 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-3" nhóm tiêu đề = "VTV", VTV3 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b2000000.m3u8
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-4" tên nhóm = "VTV", VTV4 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-5" group-title="VTV", VTV5 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-5" nhóm tiêu đề = "VTV", VTV5 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-6" group-title="VTV", VTV6 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b2000000.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-7" group-title="VTV", VTV7 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-6" nhóm tiêu đề = "VTV", VTV6 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b2000000.m3u8
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-7" nhóm tiêu đề = "VTV", VTV7 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-8" group-title="VTV", VTV8 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-8" tên nhóm = "VTV", VTV8 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-9" group-title="VTV", VTV9 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-9" nhóm-tiêu đề = "VTV", VTV9 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-1" group-title="VTV WEB", VTV1 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-1" nhóm tiêu đề = "VTV WEB", VTV1 HD
 http://play.vtv.vn/?v=dnR2MQ==&t=1528356637343
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-2" group-title="VTV WEB", VTV2 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-2" nhóm tiêu đề = "VTV WEB", VTV2 HD
 http://play.vtv.vn/?v=dnR2Mg==&t=1528356963323
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-3" group-title="VTV WEB", VTV3 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-3" nhóm tiêu đề = "VTV WEB", VTV3 HD
 http://play.vtv.vn/?v=dnR2Mw==&t=1528357706136
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-4" group-title="VTV WEB", VTV4 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-4" nhóm tiêu đề = "VTV WEB", VTV4 HD
 http://play.vtv.vn/?v=dnR2NA==&t=1528357922464
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-5" group-title="VTV WEB", VTV5 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-5" nhóm tiêu đề = "VTV WEB", VTV5 HD
 http://play.vtv.vn/?v=dnR2NQ==&t=1528358046628
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-5" group-title="VTV WEB", VTV5 Tây Nguyên
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-5" nhóm tiêu đề = "VTV WEB", VTV5 Tây Nguyên
 http://play.vtv.vn/?v=dnR2NXRu&t=1528358183372
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-5" group-title="VTV WEB", VTV5 Tây Nam Bộ
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-5" nhóm tiêu đề = "VTV WEB", VTV5 Tây Nam Bộ
 http://play.vtv.vn/?v=dnR2NWtt&t=1528358307381
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-6" group-title="VTV WEB", VTV6 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-6" nhóm tiêu đề = "VTV WEB", VTV6 HD
 http://play.vtv.vn/?v=dnR2Ng==&t=1528358800027
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-7" group-title="VTV WEB", VTV7  HD
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-7" nhóm tiêu đề = "VTV WEB", VTV7 HD
 http://play.vtv.vn/?v=dnR2Nw==&t=1528358932575
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-8" group-title="VTV WEB", VTV8 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-8" nhóm tiêu đề = "VTV WEB", VTV8 HD
 http://play.vtv.vn/?v=dnR2OA==&t=1528359015350
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-9" group-title="VTV WEB", VTV9 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtv-9" nhóm tiêu đề = "VTV WEB", VTV9 HD
 http://play.vtv.vn/?v=dnR2OQ==&t=1528359172663
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-1" group-title="HTV", HTV1 S1
-http://baochinh.ga/iptv-hplus.php?kenh=htv1	
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-1" group-title="HTV", HTV1 S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-1" tên nhóm = "HTV", HTV1 S1
+http://baochinh.ga/iptv-hplus.php?kenh=htv1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-1" nhóm-tiêu đề = "HTV", HTV1 S2
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-1" group-title="HTV", HTV1 S3
-http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1	
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-2" group-title="HTV", HTV2 S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-1" nhóm-tiêu đề = "HTV", HTV1 S3
+http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-2" tên nhóm = "HTV", HTV2 S1
 http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-2" group-title="HTV", HTV2 S2
-http://ott.realplaytv.net:12388/?header=hplus&name=htv2&cdn=1	
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-2" group-title="HTV", HTV2 S3
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-2" tên nhóm = "HTV", HTV2 S2
+http://ott.realplaytv.net:12388/?header=hplus&name=htv2&cdn=1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-2" tên nhóm = "HTV", HTV2 S3
 http://baochinh.ga/iptv-hplus.php?kenh=htv2hd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-3" group-title="HTV", HTV3 S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-3" tên nhóm = "HTV", HTV3 S1
 http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-3" group-title="HTV", HTV3 S2
-http://ott.realplaytv.net:12388/?header=hplus&name=htv3&cdn=1	
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-3" group-title="HTV", HTV3 S3
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-3" tên nhóm = "HTV", HTV3 S2
+http://ott.realplaytv.net:12388/?header=hplus&name=htv3&cdn=1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-3" tên nhóm = "HTV", HTV3 S3
 http://baochinh.ga/iptv-hplus.php?kenh=htv3
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-4" group-title="HTV", HTV4 S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-4" tên nhóm = "HTV", HTV4 S1
 http://baochinh.ga/iptv-hplus.php?kenh=htv4
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-4" group-title="HTV", HTV4 S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-4" tên nhóm = "HTV", HTV4 S2
 http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-4" group-title="HTV", HTV4 S3
-http://ott.realplaytv.net:12388/?header=hplus&name=htv4&cdn=1	
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-7" group-title="HTV", HTV7 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-4" tên nhóm = "HTV", HTV4 S3
+http://ott.realplaytv.net:12388/?header=hplus&name=htv4&cdn=1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-7" tên nhóm = "HTV", HTV7
 http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-9" group-title="HTV", HTV9 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htv-9" tên nhóm = "HTV", HTV9
 http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/HTV-coop" group-title="SHOP", HTV CO.OP
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/HTV-coop" nhóm tiêu đề = "SHOP", CO.OP của HTV
 http://baochinh.ga/iptv-hplus.php?kenh=htvc-coop
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-ms" group-title="MUSIC", VTC Ca Nhạc
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-ms" nhóm-title = "MUSIC", VTC Ca Nhạc
 http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-1" group-title="VTC", VTC1 HD S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-1" nhóm-tiêu đề = "VTC", VTC1 HD S1
 http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/chunklist_b1296000_slVI.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-1" group-title="VTC", VTC1 HD S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-1" nhóm-tiêu đề = "VTC", VTC1 HD S2
 http://ott.realplaytv.net:12388/?header=hplus&name=vtc1&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-1" group-title="VTC", VTC1 HD S3
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-1" nhóm tiêu đề = "VTC", VTC1 HD S3
 http://baochinh.ga/iptv-hplus.php?kenh=vtc1hd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-1" group-title="VTC", VTC1 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-1" tên nhóm = "VTC", VTC1
 http://live.cdn.mobifonetv.vn/motv2/myvtc1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-3" group-title="VTC", VTC3
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-3" tên nhóm = "VTC", VTC3
 http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-4" group-title="VTC", VTC4 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-4" tên nhóm = "VTC", VTC4
 http://ott.realplaytv.net:12388/?header=hplus&name=vtc4&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://bit.ly/vtc-5" group-title="VTC", VTC5 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://bit.ly/vtc-5" nhóm-tiêu đề = "VTC", VTC5
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_b2292000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-7" group-title="VTC", VTC7 HD-Today 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-7" tên nhóm = "VTC", VTC7 HD-Hôm nay
 http://live.cdn.mobifonetv.vn/motv2/mytodaytv_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-8" group-title="VTC", VTC8 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-8" tên nhóm = "VTC", VTC8
 http://ott.realplaytv.net:12388/?header=hplus&name=vtc8&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-9" group-title="VTC", VTC9 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-9" tên nhóm = "VTC", VTC9
 http://live.cdn.mobifonetv.vn/motv2/myletsviet_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-10" group-title="VTC", VTC10-Nét Việt S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-10" tên nhóm = "VTC", VTC10-Nét Việt S1
 http://ott.realplaytv.net:12388/?header=hplus&name=vtc10&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-10" group-title="VTC", VTC10-Nét Việt S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-10" tên nhóm = "VTC", VTC10-Nét Việt S2
 http://live.cdn.mobifonetv.vn/motv2/myvtc10_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-11" group-title="VTC", VTC11-Kids S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-11" tên nhóm = "VTC", VTC11-Kids S1
 http://ott.realplaytv.net:12388/?header=hplus&name=vtc11&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-11" group-title="VTC", VTC11-Kids S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-11" nhóm-tiêu đề = "VTC", VTC11-Kids S2
 http://live.cdn.mobifonetv.vn/motv2/myvtc11_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-11" group-title="VTC", VTC11-Kids S3
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-11" tên nhóm = "VTC", VTC11-Kids S3
 http://baochinh.ga/iptv-hplus.php?kenh=vtc16
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-14" group-title="VTC", VTC14 HD S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-14" tên nhóm = "VTC", VTC14 HD S1
 http://ott.realplaytv.net:12388/?header=hplus&name=vtc14&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-14" group-title="VTC", VTC14 HD S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-14" tên nhóm = "VTC", VTC14 HD S2
 http://baochinh.ga/iptv-hplus.php?kenh=vtc14hd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-16" group-title="VTC", VTC16 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtc-16" tên nhóm = "VTC", VTC16
 http://ott.realplaytv.net:12388/?header=hplus&name=vtc16&cdn=1
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-f" group-title="PHIM TỔNG HỢP", HTVC Phim HD S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-f" tên nhóm = "PHIM TỔNG HỢP", HTVC Phim HD S1
 http://live.cdn.mobifonetv.vn//motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-f" group-title="HTVC", HTVC Phim HD S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-f" nhóm tiêu đề = "HTVC", HTVC Phim HD S2
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phim&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-f" group-title="HTVC", HTVC Phim HD S3
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-f" nhóm tiêu đề = "HTVC", HTVC Phim HD S3
 http://baochinh.ga/iptv-hplus.php?kenh=htvc-phimhd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fimhay" group-title="PHIM TỔNG HỢP", Phim Hay HD
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/fimhay" tên nhóm = "PHIM TỔNG HỢP", Phim Hay HD
 http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-dl" group-title="DU LỊCH & KHÁM PHÁ", HTVC Du Lịch S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-dl" tên nhóm = "DU LỊCH & KHÁM PHÁ", HTVC Du lịch S1
 http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-dl" group-title="HTVC", HTVC Du Lịch S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-dl" nhóm-tiêu đề = "HTVC", HTVC Du Lịch S2
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_du_lich&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-dl" group-title="HTVC", HTVC Du Lịch S3
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-dl" tên nhóm = "HTVC", HTVC Du Lịch S3
 http://baochinh.ga/iptv-hplus.php?kenh=htvc-dulichhd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-ms" group-title="MUSIC", HTVC Ca Nhạc S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-ms" nhóm-tiêu đề = "NHẠC", HTVC Ca Nhạc S1
 http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-ms" group-title="HTVC", HTVC Ca Nhạc S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-ms" nhóm-tiêu đề = "HTVC", HTVC Ca Nhạc S2
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_ca_nhac&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-ms" group-title="HTVC", HTVC Ca Nhạc S3
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-ms" nhóm-tiêu đề = "HTVC", HTVC Ca Nhạc S3
 http://baochinh.ga/iptv-hplus.php?kenh=htvc-canhachd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-gd" group-title="PHIM TỔNG HỢP", HTVC Gia Đình S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-gd" tên nhóm = "PHIM TỔNG HỢP", HTVC Gia Đình S1
 http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-gd" group-title="HTVC", HTVC Gia Đình S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-gd" nhóm-tiêu đề = "HTVC", HTVC Gia Đình S2
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_gia_dinh&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-gd" group-title="HTVC", HTVC Gia Đình S3
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-gd" tên nhóm = "HTVC", HTVC Gia Đình S3
 http://baochinh.ga/iptv-hplus.php?kenh=htvc-giadinhhd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-pn" group-title="HTVC", HTVC Phụ Nữ S1
-
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-pn" group-title="PHIM TỔNG HỢP", HTVC Phụ Nữ S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-pn" tên nhóm = "PHIM TỔNG HỢP", HTVC Phụ Nữ
 http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-tv" group-title="PHIM TỔNG HỢP", HTVC Thuần Việt S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-tv" tên nhóm = "PHIM TỔNG HỢP", HTVC Thuần Việt S1
 http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-tv" group-title="HTVC", HTVC Thuần Việt S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-tv" tên nhóm = "HTVC", HTVC Thuần Việt S2
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_thuan_viet&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-tt" group-title="SPORT", HTVC Thể Thao HD
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-tt" group-title = "SPORT", HTVC Thể Thao HD
 http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-pl" group-title="HTVC", HTVC Plus S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-pl" nhóm-tiêu đề = "HTVC", HTVC Plus S1
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_fbnc&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-pl" group-title="HTVC", HTVC Plus S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-pl" nhóm-tiêu đề = "HTVC", HTVC Plus S2
 http://baochinh.ga/iptv-hplus.php?kenh=htvc-plushd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-fbnc" group-title="HTVC",HTVC FBNC HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-fbnc" tên nhóm = "HTVC", HTVC FBNC HD
 http://baochinh.ga/iptv-hplus.php?kenh=htvc-fbnchd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-vgs" group-title="SHOP", HTVC Shopping-VGS Shop S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-vgs" nhóm tiêu đề = "SHOP", Cửa hàng mua sắm HTVC-VGS S1
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_shopping&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-vgs" group-title="SHOP", HTVC Shopping-VGS Shop S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/htvc-vgs" nhóm-tiêu đề = "SHOP", Cửa hàng mua sắm HTVC-VGS S2
 http://baochinh.ga/iptv-hplus.php?kenh=htvc-muasam
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", SCTV1 HD-HÀI
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-1" nhóm tiêu đề = "SCTV", SCTV1 HD-HÀI
 https://bit.ly/sc-tv-1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-2" group-title="SCTV", SCTV2 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-2" nhóm tiêu đề = "SCTV", SCTV2 HD
 https://bit.ly/sc-tv-2
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-3" group-title="SCTV", SCTV3 HD-THIẾU NHI
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-3" tên nhóm = "SCTV", SCTV3 HD-THIẾU NHI
 https://bit.ly/sc-tv-3
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-4" group-title="SCTV", SCTV4-LET'S VIET
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-4" tên nhóm = "SCTV", SCTV4-LET'S VIET
 https://bit.ly/sc-tv-4
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-5" group-title="SCTV", SCTV5 HD-SCJ  
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-5" nhóm-tiêu đề = "SCTV", SCTV5 HD-SCJ
 https://bit.ly/sc-tv-5
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-6" group-title="SCTV", SCTV6 HD
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-6" nhóm tiêu đề = "SCTV", SCTV6 HD
 https://bit.ly/sc-tv-6
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-7" group-title="SCTV", SCTV7 HD-SÂN KHẤU
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-7" tên nhóm = "SCTV", SCTV7 HD-SÂN KHẤU
 https://bit.ly/sc-tv-7
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-8" group-title="SCTV", SCTV8 HD
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-8" tên nhóm = "SCTV", SCTV8 HD
 https://bit.ly/sc-tv-8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-9" group-title="SCTV", SCTV9 HD-PHIM CHÂU Á
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-9" tên nhóm = "SCTV", SCTV9 HD-PHIM CHÂU Á
 https://bit.ly/sc-tv-9
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-10" group-title="SCTV", SCTV10 HD-SaoNamShopping
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-10" tên nhóm = "SCTV", SCTV10 HD-SaoNamMua sắm
 https://bit.ly/sc-tv-10
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-11" group-title="SCTV", SCTV11 HD
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-11" tên nhóm = "SCTV", SCTV11 HD
 https://bit.ly/sc-tv-11
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-12" group-title="SCTV", SCTV12 HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-12" tên nhóm = "SCTV", SCTV12 HD
 https://bit.ly/sc-tv-12
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-13" group-title="SCTV", SCTV13 HD
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-13" nhóm tiêu đề = "SCTV", SCTV13 HD
 https://bit.ly/sc-tv-13
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-14" group-title="SCTV", SCTV14 HD-PHIM VIỆT 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-14" tên nhóm = "SCTV", SCTV14 HD-PHIM VIỆT
 https://bit.ly/sc-tv-14
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-15" group-title="SCTV", SCTV15 HD-SSPORT2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-15" tên nhóm = "SCTV", SCTV15 HD-SSPORT2
 https://bit.ly/sc-tv-15
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-16" group-title="SCTV", SCTV16 HD-PHIM NƯỚC NGOÀI
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-16" tên nhóm = "SCTV", SCTV16 HD-PHIM NGOÀI NGOÀI
 https://bit.ly/sc-tv-16
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-17" group-title="SCTV", SCTV17 HD-SSPORT
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-17" nhóm-tiêu đề = "SCTV", SCTV17 HD-SSPORT
 https://bit.ly/sc-tv-17
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-18" group-title="SCTV", SCTV18 HD
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-18" nhóm-tiêu đề = "SCTV", SCTV18 HD
 https://bit.ly/sc-tv-18
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-19" group-title="SCTV", SCTV19 HD-(T)CHANNEL
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-19" nhóm-tiêu đề = "SCTV", SCTV19 HD- (T) CHANNEL
 https://bit.ly/sc-tv-19
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-20" group-title="SCTV", SCTV20 HD-iTV MUSIC S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-20" nhóm tiêu đề = "SCTV", SCTV20 HD-iTV MUSIC S1
 https://bit.ly/sc-tv-20
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-20" group-title="MUSIC", SCTV20 HD-iTV MUSIC S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctv-20" nhóm-tiêu đề = "NHẠC", SCTV20 HD-iTV MUSIC S2
 http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctvhd" group-title="SCTV", SCTV HD-PHIM TỔNG HỢP
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/sctvhd" nhóm-tiêu đề = "SCTV", SCTV HD-PHIM TỔNG HỢP
 https://bit.ly/sc-tv-th
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/btv-10" group-title="BTV", BTV10-NCM
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/btv-10" nhóm-tiêu đề = "BTV", BTV10-NCM
 http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/btv-11" group-title="BTV", BTV11-SAM
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/btv-11" nhóm-tiêu đề = "BTV", BTV11-SAM
 http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/azshop" group-title="SHOP", DN9-AZSHOP
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/azshop" nhóm-tiêu đề = "SHOP", DN9-AZSHOP
 http://baochinh.ga/iptv-hplus.php?kenh=azshop
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtvcab11" group-title="SHOP", VTVcab11-VGS SHOP 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vtvcab11" nhóm tiêu đề = "SHOP", VTVcab11-VGS SHOP
 https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/chunklist.m3u8
 
-~♥Kênh Ca Nhạc♥~
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-country" group-title="MUSIC", Nhạc Country
+~ ♥ Kênh Ca Nhạc ♥ ~
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/ms-country" nhóm-tiêu đề = "MUSIC", Nhạc Quốc gia
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vietteen" group-title="MUSIC", Vietteen
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vietteen" nhóm-tiêu đề = "NHẠC", Vietteen
 http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/keeng" group-title="MUSIC", KEENG MUSIC S1
-http://125.235.29.16/livetv/keeng.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/keeng" group-title="MUSIC", KEENG MUSIC S2
-http://media5.keeng.vn/livetv/keeng.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/keeng" group-title="PHIM TỔNG HỢP", KEENG MOVIES
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/keeng" nhóm-tiêu đề = "NHẠC", KEENG ÂM NHẠC S1
+http://125.235.29.16/livetv/keeng.m3u8
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/keeng" nhóm-tiêu đề = "NHẠC", KEENG ÂM NHẠC S2
+http://media5.keeng.vn/livetv/keeng.m3u8
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/keeng" tên nhóm = "PHIM TỔNG HỢP", KEENG PHIM
 http://vip.media5.keeng.vn/5dtv/5dtv.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/heart-tv" group-title="MUSIC", Heart TV 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/heart-tv" nhóm-tiêu đề = "NHẠC", Truyền hình trái tim
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/boxhits" group-title="MUSIC", Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/capital-tv" group-title="MUSIC", Capital TV
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/boxhits" nhóm-tiêu đề = "NHẠC", Lượt truy cập hộp
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads% 2fboxhits% 2f
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/capital-tv" nhóm-title = "MUSIC", Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cmc-ms" group-title="MUSIC", California Music Channel
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/cmc-ms" nhóm-title = "MUSIC", California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-choice" group-title="MUSIC", Music Choice
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/ms-choice" group-title = "MUSIC", Lựa chọn Âm nhạc
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-one" group-title="MUSIC", ONE 1080P
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/ms-one" nhóm-tiêu đề = "NHẠC", MỘT 1080P
 http://rtmp.one.by:1300
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-one" group-title="MUSIC", ONE RUSIA 1080P 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/ms-one" nhóm-tiêu đề = "NHẠC", MỘT RUSIA 1080P
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="MUSIC", O 1080P
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/ecmin" nhóm-tiêu đề = "NHẠC", O 1080P
 http://77.232.128.68/bks.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-1hd" group-title="MUSIC", 1 HD MUSIC
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/ms-1hd" nhóm-tiêu đề = "NHẠC", 1 HD NHẠC
 http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-box" group-title="MUSIC", MUSIC BOX
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/ms-box" nhóm-tiêu đề = "NHẠC", HỘP NHẠC
 http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vibee-tv" group-title="MUSIC", V2BEAT HD
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vibee-tv" nhóm-tiêu đề = "NHẠC", V2BEAT HD
 http://139.59.166.48:8081/live/live3/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-bolero" group-title="MUSIC", Nhạc Bolero
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/ms-bolero" nhóm-tiêu đề = "NHẠC", Nhạc Bolero
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/playlist.m3u8
 
-~♥Kênh Địa Phương♥~
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hn-1" group-title="ĐỊA PHƯƠNG", HÀ NỘI 1 HD
+~ ♥ Channel Địa Phương ♥ ~
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/hn-1" nhóm-tiêu đề = "PHA PHƯƠNG", HÀ NỘI 1 HD
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hn-2" group-title="ĐỊA PHƯƠNG", HÀ NỘI 2 HD
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/hn-2" nhóm-tiêu đề = "PHA PHƯƠNG", HÀ NỘI 2 HD
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi2.smil/chunklist_b3500000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/mientay" group-title="ĐỊA PHƯƠNG", MIỀN TÂY
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/mientay" nhóm-tiêu đề = "PHA PHƯƠNG", MIỀN TÂY
 http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ninhthuan" group-title="ĐỊA PHƯƠNG", NINH THUẬN
-rtmp://203.113.166.233/live/NTV_VIDEO
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/danang-1" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 1 S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/ninhthuan" nhóm-tiêu đề = "PHA PHƯƠNG", NINH THUẬN
+rtmp: //203.113.166.233/live/NTV_VIDEO
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/danang-1" tên nhóm = "START_A PHƯƠNG", ĐÀ NẴNG 1 S1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/danang-1" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 1 S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/danang-1" tên nhóm = "START_A PHƯƠNG", ĐÀ NẴNG 1 S2
 http://ott.realplaytv.net:12388/?header=hplus&name=Da_Nang_1&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/danang-2" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 2 S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/danang-2" nhóm tiêu đề = "PHA PHƯƠNG", ĐÀ NẴNG 2 S1
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/danang-2" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 2 S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/danang-2" tên nhóm = "START_A PHƯƠNG", ĐÀ NẴNG 2 S2
 http://ott.realplaytv.net:12388/?header=hplus&name=Da_Nang_2&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/travinh" group-title="ĐỊA PHƯƠNG", TRÀ VINH S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/travinh" nhóm-tiêu đề = "PHA PHƯƠNG", TRÀ VINH S1
 http://123.30.191.202/hls/travinh.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/travinh" group-title="ĐỊA PHƯƠNG", TRÀ VINH S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/travinh" nhóm-tiêu đề = "PHA PHƯƠNG", TRÀ VINH S2
 http://ott.realplaytv.net:12388/?header=hplus&name=Tra_Vinh&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/travinh" group-title="ĐỊA PHƯƠNG", TRÀ VINH S3
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/travinh" nhóm-tiêu đề = "NÓI PHƯƠNG", TRÀ VINH S3
 http://live.cdn.mobifonetv.vn/motv2/mytravinh_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/haugiang" group-title="ĐỊA PHƯƠNG", HGTV HD-HẬU GIANG
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/haugiang" nhóm tiêu đề = "PHA PHƯƠNG", HGTV HD-HẬU GIANG
 http://123.30.110.170:1939/thhg/thhg/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hphong-pl" group-title="ĐỊA PHƯƠNG", THP Plus-HẢI PHÒNG
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/hphong-pl" nhóm-tiêu đề = "PHA PHƯƠNG", THP Plus-HẢI PHÒNG
 http://118.107.68.10:1935/live/smil:Haiphongplus.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hphong" group-title="ĐỊA PHƯƠNG", THP-HẢI PHÒNG S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/hphong" nhóm-tiêu đề = "TIẾNG PHƯƠNG", THP-HẢI PHÒNG S1
 http://118.107.68.10:1935/live/smil:Haiphong1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hphong" group-title="ĐỊA PHƯƠNG", THP-HẢI PHÒNG S2
-http://live.cdn.mobifonetv.vn/motv2/mythp_hls.smil/chunklist_b1200000.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thanhhoa" group-title="ĐỊA PHƯƠNG", TTV-THANH HÓA
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/hphong" nhóm-tiêu đề = "PHA PHƯƠNG", THP-HẢI PHÒNG S2
+http://live.cdn.mobifonetv.vn/motv2/mythp_hls.smil/chunklist_b1200000.m3u8
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/thanhhoa" nhóm-tiêu đề = "PHA PHƯƠNG", TTV-THANH HÓA
 http://123.30.191.202/hls/ttv.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/quangninh-1" group-title="ĐỊA PHƯƠNG", QTV1-QUẢNG NINH
-rtmp://123.29.68.44/hctv/vstv020
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/quangninh-3" group-title="ĐỊA PHƯƠNG", QTV3-QUẢNG NINH
-rtmp://123.29.68.44/hctv/vstv021
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vinh-phuc" group-title="ĐỊA PHƯƠNG", VP-VĨNH PHÚC
-rtmp://117.6.162.63/live/thvp
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/khanh-hoa" group-title="ĐỊA PHƯƠNG", KTV-KHÁNH HÒA S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/quangninh-1" tên nhóm = "PHA PHƯƠNG", QTV1-QUẢNG NINH
+rtmp: //123.29.68.44/hctv/vstv020
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/quangninh-3" tên nhóm = "PHA PHƯƠNG", QTV3-QUẢNG NINH
+rtmp: //123.29.68.44/hctv/vstv021
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vinh-phuc" tên nhóm = "PHA PHƯƠNG", VP-VĨNH PHÚC
+rtmp: //117.6.162.63/live/thvp
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/khanh-hoa" nhóm-tiêu đề = "PHA PHƯƠNG", KTV-KHÁNH HÒA S1
 http://210.245.20.94/hls/ktv1.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/khanh-hoa" group-title="ĐỊA PHƯƠNG", KTV-KHÁNH HÒA S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/khanh-hoa" nhóm-tiêu đề = "PHA PHƯƠNG", KTV-KHÁNH HÒA S2
 http://ott.realplaytv.net:12388/?header=hplus&name=Khanh_Hoa&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bacgiang" group-title="ĐỊA PHƯƠNG", BẮC GIANG
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/bacgiang" nhóm-tiêu đề = "TIẾNG PHƯƠNG", BẮC GIANG
 http://ott.realplaytv.net:12388/?header=hplus&name=Bac_Giang&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/binhphuoc1" group-title="ĐỊA PHƯƠNG", BÌNH PHƯỚC 1 S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/binhphuoc1" nhóm tiêu đề = "PHA PHƯƠNG", BÌNH PHƯỚC 1 S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Phuoc_1&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/binhphuoc1" group-title="ĐỊA PHƯƠNG", BÌNH PHƯỚC 1 S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/binhphuoc1" tên nhóm = "PHA PHƯƠNG", BÌNH PHƯỚC 1 S2
 http://118.69.197.145/hls/bptv1.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/binhphuoc2" group-title="ĐỊA PHƯƠNG", BÌNH PHƯỚC 2-HOMETV 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/binhphuoc2" nhóm tiêu đề = "PHA PHƯƠNG", BÌNH PHƯỚC 2-HOMETV
 http://118.69.197.145/hls/bptv2.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/baclieu" group-title="ĐỊA PHƯƠNG", BẠC LIÊU
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/baclieu" nhóm-tiêu đề = "PHA PHƯƠNG", BẠC LIÊU
 http://ott.realplaytv.net:12388/?header=hplus&name=Bac_Lieu&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/binhdinh" group-title="ĐỊA PHƯƠNG", BÌNH ĐỊNH
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/binhdinh" nhóm-tiêu đề = "PHA PHƯƠNG", BÌNH ĐỊNH
 http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Dinh&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/binhduong1" group-title="ĐỊA PHƯƠNG", BÌNH DƯƠNG 1 S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/binhduong1" nhóm tiêu đề = "PHA PHƯƠNG", BÌNH DƯƠNG 1 S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_1&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/binhduong1" group-title="ĐỊA PHƯƠNG", BÌNH DƯƠNG 1 S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/binhduong1" nhóm-tiêu đề = "PHA PHƯƠNG", BÌNH DƯƠNG 1 S2
 http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/binhduong2" group-title="ĐỊA PHƯƠNG", BÌNH DƯƠNG 2 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/binhduong2" nhóm-tiêu đề = "PHA PHƯƠNG", BÌNH DƯƠNG 2
 http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bentre" group-title="ĐỊA PHƯƠNG", BẾN TRE S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/bentre" nhóm-tiêu đề = "PHA PHƯƠNG", BẾN TRE S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Ben_Tre&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bentre" group-title="ĐỊA PHƯƠNG", BẾN TRE S2
-rtmp://113.163.94.245/livepkgr/thbt
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/can-tho" group-title="ĐỊA PHƯƠNG", CẦN THƠ S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/bentre" nhóm-tiêu đề = "PHA PHƯƠNG", BẾN TRE S2
+rtmp: //113.163.94.245/livepkgr/thbt
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/can-tho" nhóm-tiêu đề = "PHA PHƯƠNG", CẦN THƠ S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Can_Tho&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/can-tho" group-title="ĐỊA PHƯƠNG", CẦN THƠ S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/can-tho" nhóm-tiêu đề = "PHA PHƯƠNG", CẦN THƠ S2
 http://live.cdn.mobifonetv.vn/motv2/mythtpct_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/haiduong" group-title="ĐỊA PHƯƠNG", HẢI DƯƠNG 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/haiduong" nhóm-tiêu đề = "NÓI PHƯƠNG", HẢI DƯƠNG
 http://ott.realplaytv.net:12388/?header=hplus&name=Hai_Duong&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ha-tinh" group-title="ĐỊA PHƯƠNG", HÀ TĨNH S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/ha-tinh" nhóm-tiêu đề = "PHA PHƯƠNG", HÀ TĨNH S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Ha_Tinh&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ha-tinh" group-title="ĐỊA PHƯƠNG", HÀ TĨNH S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/ha-tinh" nhóm-tiêu đề = "PHA PHƯƠNG", HÀ TĨNH S2
 http://hatinhtv.vn:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/tt-hue" group-title="ĐỊA PHƯƠNG", HUẾ
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/tt-hue" nhóm-tiêu đề = "TIẾNG PHƯƠNG", HUẾ
 http://ott.realplaytv.net:12388/?header=hplus&name=Hue&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/kiengiang" group-title="ĐỊA PHƯƠNG", KIÊN GIANG S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/kiengiang" nhóm-tiêu đề = "PHA PHƯƠNG", KIÊN GIANG S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Kien_Giang_1&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/kiengiang" group-title="ĐỊA PHƯƠNG", KIÊN GIANG S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/kiengiang" nhóm-tiêu đề = "PHA PHƯƠNG", KIÊN GIANG S2
 http://live.cdn.mobifonetv.vn/motv/mykiengiang_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/kiengiang" group-title="ĐỊA PHƯƠNG", KIÊN GIANG S3
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/kiengiang" nhóm-tiêu đề = "TIẾNG PHƯƠNG", KIÊN GIANG S3
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/kiengiang" group-title="ĐỊA PHƯƠNG", KIÊN GIANG 1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/kiengiang" nhóm-tiêu đề = "PHA PHƯƠNG", KIÊN GIANG 1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/longan" group-title="ĐỊA PHƯƠNG", LONG AN S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/longan" nhóm-tiêu đề = "PHA PHƯƠNG", LONG AN S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Long_An_34&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/longan" group-title="ĐỊA PHƯƠNG", LONG AN S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/longan" nhóm-tiêu đề = "PHA PHƯƠNG", LONG AN S2
 http://live.cdn.mobifonetv.vn/motv/mylongan_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/langson" group-title="ĐỊA PHƯƠNG", LẠNG SƠN S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/langson" nhóm-tiêu đề = "NÓI PHƯƠNG", LẠNG SƠN S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Lang_Son&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/langson" group-title="ĐỊA PHƯƠNG", LẠNG SƠN S2
-rtmp://123.18.206.40/live/livestream
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/lamdong" group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/langson" nhóm-tiêu đề = "PHA PHƯƠNG", LẠNG SƠN S2
+rtmp: //123.18.206.40/live/livestream
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/lamdong" nhóm-tiêu đề = "PHA PHƯƠNG", LÂM ĐỒNG S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Lam_Dong&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/lamdong" group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG S2
-http://118.107.68.10:1935/live/smil:Lamdongtv.smil/chunklist.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hanam" group-title="ĐỊA PHƯƠNG", HÀ NAM S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/lamdong" nhóm-tiêu đề = "PHA PHƯƠNG", LÂM ĐỒNG S2
+http://118.107.68.10:1935/live/smil:Lamdongtv.smil/chunklist.m3u8
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/hanam" nhóm-tiêu đề = "PHA PHƯƠNG", HÀ NAM S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Nam_Dinh&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hanam" group-title="ĐỊA PHƯƠNG", HÀ NAM S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/hanam" nhóm-tiêu đề = "PHA PHƯƠNG", HÀ NAM S2
 http://113.160.198.111/Medias/HaNam/720P/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/quang-nam" group-title="ĐỊA PHƯƠNG", QUẢNG NAM S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/quang-nam" nhóm-tiêu đề = "PHA PHƯƠNG", QUẢNG NAM S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Quang_Nam&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/quang-nam" group-title="ĐỊA PHƯƠNG", QUẢNG NAM S2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/quang-nam" nhóm-tiêu đề = "PHA PHƯƠNG", QUẢNG NAM S2
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/soctrang1" group-title="ĐỊA PHƯƠNG", SÓC TRĂNG 1 S1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/soctrang1" nhóm tiêu đề = "PHA PHƯƠNG", SÓC TRĂNG 1 S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Soc_Trang&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/soctrang1" group-title="ĐỊA PHƯƠNG", SÓC TRĂNG 1 S2
-rtmp://115.78.3.164/live/stv1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/soctrang1" group-title="ĐỊA PHƯƠNG", SÓC TRĂNG 1 S3
-rtmp://113.163.189.104/live/stv1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/soctrang2" group-title="ĐỊA PHƯƠNG", SÓC TRĂNG 2
-rtmp://113.163.189.104/live/stv2
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/tayninh" group-title="ĐỊA PHƯƠNG", TÂY NINH
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/soctrang1" nhóm-tiêu đề = "PHA PHƯƠNG", SÓC TRĂNG 1 S2
+rtmp: //115.78.3.164/live/stv1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/soctrang1" nhóm tiêu đề = "PHA PHƯƠNG", SÓC TRĂNG 1 S3
+rtmp: //113.163.189.104/live/stv1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/soctrang2" nhóm-tiêu đề = "PHA PHƯƠNG", SÓC TRĂNG 2
+rtmp: //113.163.189.104/live/stv2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/tayninh" nhóm-tiêu đề = "TIẾNG PHƯƠNG", TÂY NINH
 http://ott.realplaytv.net:12388/?header=hplus&name=Tay_Ninh&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/angiang" group-title="ĐỊA PHƯƠNG", AN GIANG
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/angiang" tên nhóm = "PHA PHƯƠNG", AN GIANG
 http://live.cdn.mobifonetv.vn/motv/myangiang_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vung-tau" group-title="ĐỊA PHƯƠNG", BÀ RỊA VŨNG TÀU HD
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vung-tau" nhóm-tiêu đề = "PHA PHƯƠNG", BÀ RỊA VŨNG TÀU HD
 http://113.163.216.23:1935/live/tv1.stream_480p/chunklist_w434547077.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vung-tau" group-title="ĐỊA PHƯƠNG", BÀ RỊA VŨNG TÀU  
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/vung-tau" nhóm tiêu đề = "PHA PHƯƠNG", BÀ RỊA VŨNG TÀU
 http://live.cdn.mobifonetv.vn/motv/mybrt_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/dongthap1" group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 1 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/dongthap1" nhóm tiêu đề = "PHA PHƯƠNG", ĐỒNG THÁP 1
 http://live.cdn.mobifonetv.vn/motv2/mythdt_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/backan" group-title="ĐỊA PHƯƠNG", BẮC KẠN
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/backan" nhóm-tiêu đề = "NÓI PHƯƠNG", BẮC KẠN
 http://118.107.68.10:1935/live/_definst_/BK_live/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bacninh" group-title="ĐỊA PHƯƠNG", Bắc Ninh HD 
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/bacninh" nhóm-tiêu đề = "PHA PHƯƠNG", Bắc Ninh HD
 http://118.107.68.10:1935/live/_definst_/BTVHD_12806b51bdf7ac364126%20/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/binhthuan" group-title="ĐỊA PHƯƠNG", BÌNH THUẬN
-rtmp://222.255.123.4:1939/thbttv/bttv
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/dongnai1" group-title="ĐỊA PHƯƠNG", ĐỒNG NAI 1
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/binhthuan" nhóm-tiêu đề = "PHA PHƯƠNG", BÌNH THUẬN
+rtmp: //222.255.123.4: 1939 / thbttv / bttv
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/dongnai1" nhóm-tiêu đề = "PHA PHƯƠNG", ĐỒNG NAI 1
 http://118.107.68.10:1935/live/smil:Dongnai1.smil/chunklist_b1264000_slVIE.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/dongnai2" group-title="ĐỊA PHƯƠNG", ĐỒNG NAI 2
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/dongnai2" nhóm tiêu đề = "PHA PHƯƠNG", ĐỒNG NAI 2
 http://118.107.68.10:1935/live/smil:DNAI2WEB.smil/chunklist_b1264000_slVIE.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/dongnai3" group-title="ĐỊA PHƯƠNG", ĐỒNG NAI 3
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/dongnai3" tên nhóm = "PHA PHƯƠNG", ĐỒNG NAI 3
 http://tranvinh.xyz/hplus.php?id=dongnai3
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/gialai" group-title="ĐỊA PHƯƠNG", GIA LAI
-rtmp://113.161.25.3/livepkgr/gltv?adbe-live-event=liveevent
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hagiang" group-title="ĐỊA PHƯƠNG", HÀ GIANG
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/gialai" nhóm-tiêu đề = "PHA PHƯƠNG", GIA LAI
+rtmp: //113.161.25.3/livepkgr/gltv? adbe-live-event = liveevent
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/hagiang" nhóm-tiêu đề = "PHA PHƯƠNG", HÀ GIANG
 http://118.107.68.10:1935/live/_definst_/HG_live/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hoabinh" group-title="ĐỊA PHƯƠNG", HÒA BÌNH
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/hoabinh" nhóm-tiêu đề = "PHA PHƯƠNG", HÒA BÌNH
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hungyen" group-title="ĐỊA PHƯƠNG", HƯNG YÊN
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/hungyen" nhóm-tiêu đề = "PHA PHƯƠNG", HƯNG YÊN
 http://live.hungyentv.vn:1935/live/HYTV/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/kontum" group-title="ĐỊA PHƯƠNG", KON TUM
-rtmp://117.2.88.22/livepkgr/kontumtv?adbe-live-event=liveevent
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/laocai" group-title="ĐỊA PHƯƠNG", LÀO CAI
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/kontum" nhóm-tiêu đề = "PHA PHƯƠNG", KON TUM
+rtmp: //117.2.88.22/livepkgr/kontumtv? adbe-live-event = liveevent
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/laocai" nhóm-tiêu đề = "PHA PHƯƠNG", LÀO CAI
 http://tructuyen.laocaitv.vn:1935/live_/LCTV/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/phutho" group-title="ĐỊA PHƯƠNG", PHÚ THỌ HD
+#EXTINF: -1 tvg-id = "Ecmin" tvg-logo = "https://gg.gg/phutho" nhóm-tiêu đề = "PHA PHƯƠNG", PHÚ THỌ HD
 http://118.107.68.10:1935/live/smil:PhuthoBU.smil/chunklist_b1264000_slVIE.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/phu-yen" group-title="ĐỊA PHƯƠNG", PHÚ YÊN
 http://113.161.4.48:8080/phuyen/tv.m3u8
@@ -429,20 +427,22 @@ rtmp://210.245.89.40:1935/live/livestream
 rtmp://103.48.83.44/oflaDemo/livestream
 
 ~♥Kênh Phim Quốc Tế♥~
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-mv" group-title="PHIM QUỐC TẾ", Fox Movies FHD
-http://106bec9d8.vws.vegacdn.vn/b706724d5a66b715292120e0bd4280f80e00007f/1535041380/cliptv_live/amlst:foxmovieshd/chunklist_b3620000.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxlife" group-title="PHIM QUỐC TẾ", Fox Life FHD
-http://106bec9d8.vws.vegacdn.vn/1f19278eb79216cb667c75cfab196a2a020e6bd0/1535041384/cliptv_live/amlst:foxlifehd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-hd" group-title="PHIM QUỐC TẾ", FOX FHD
-http://106a8e566.vws.vegacdn.vn/205fc06653d954ac1bc89a0ba0f37491071e79a3/1535041338/cliptv_live/amlst:foxhd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/red-hbo" group-title="PHIM QUỐC TẾ", Red By HBO FHD
-http://106bec9d8.vws.vegacdn.vn/01b94ae42fda64837e07d1e2046d63f374009456/1535041615/cliptv_live/amlst:redbyhbohd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/warner" group-title="PHIM QUỐC TẾ", WarnerTV FHD
-http://106bec9d8.vws.vegacdn.vn/bebf2d540a981348dcddb37225a4d719724ebb4a/1535041346/cliptv_live/amlst:warnertvhd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cinemaworld" group-title="PHIM QUỐC TẾ", Cinema World FHD
-http://106bec9d8.vws.vegacdn.vn/445e293b0c0920a0a3561f7550a4a9ca81beaa86/1535041408/cliptv_live/amlst:cinemaworldhd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN T.Việt FHD
-http://106bec9d8.vws.vegacdn.vn/ffc43884679c5fbe17f13470c09f14f0a41ac920/1535041342/cliptv_live/amlst:axnhd/chunklist_b3620000.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hbo-ad" group-title="PHIM QUỐC TẾ", HBO S1
+http://huuvinh.ooo/get/mytv.php?id=redhbo
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hbo-ad" group-title="PHIM QUỐC TẾ", HBO S2
+http://huuvinh.ooo/get/mytv.php?id=hbosd
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-mv" group-title="PHIM QUỐC TẾ", Fox Movies HD
+http://huuvinh.ooo/get/hplus.php?id=foxmovies-hd
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxlife" group-title="PHIM QUỐC TẾ", Fox Life HD
+http://huuvinh.ooo/get/hplus.php?id=foxlife-hd
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/red-hbo" group-title="PHIM QUỐC TẾ", Red By HBO HD
+http://huuvinh.ooo/get/hplus.php?id=redhbo
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/warner" group-title="PHIM QUỐC TẾ", WarnerTV HD
+http://huuvinh.ooo/get/hplus.php?id=warner-tv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cinemaworld" group-title="PHIM QUỐC TẾ", Cinema World 
+http://huuvinh.ooo/get/hplus.php?id=cinemaworld
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN T.Việt 
+http://huuvinh.ooo/get/hplus.php?id=axn
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxfamily" group-title="PHIM QUỐC TẾ", Fox Family 
 http://baochinh.ga/iptv-hplus.php?kenh=foxfamilymovies
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/zee-tv" group-title="PHIM QUỐC TẾ", Zee TV T.Việt
@@ -451,6 +451,14 @@ http://baochinh.ga/iptv-hplus.php?kenh=zeetv
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 ~♥Kênh Thiếu Nhi♥~
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cartoon-nw" group-title="KID", Cartoon Network T.Việt 
+http://huuvinh.ooo/get/hplus.php?id=cartoon
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/boomerang-tv" group-title="KID", Boomerang T.Việt
+http://huuvinh.ooo/get/hplus.php?id=boomerang
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/disney-cn" group-title="KID", Disney Channel T.Việt
+http://huuvinh.ooo/get/mytv.php?id=disney
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/davici" group-title="KID", Da Vinci Learning 
+http://huuvinh.ooo/get/mytv.php?id=davinci
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-kid" group-title="KID", DISCOVERY KID
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bb-first" group-title="KID", BABY FIRST
@@ -464,15 +472,15 @@ https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 1 (Chỉ phát khi có bóng đá) 
 http://cdn2.xoilac.tv/3e86f64e74f6112975edfbe1713cccddcc449911/1535047479/template_mitomtv/amlst:live1/chunklist_b3120000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 2 (Chỉ phát khi có bóng đá) 
-https://talk2.vcdn.vn/hls/17a6662ee8b170697d5881dec82fc5fb/1655b6fb348/bbsport.com/index.m3u8
+http://cdn2.xoilac.tv/72567483973dfac0ca6096c07362a6a5e5422c7b/1535058535/template_mitomtv/live3/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 3 (Chỉ phát khi có bóng đá) 
-https://talk2.vcdn.vn/hls/c2298c40282693a107a1df86de591c3b/1655b73e50f/gfhgfjgh/index.m3u8
+https://talk2.vcdn.vn/hls/311807f20fd1438b217da67fb098aeb8/165660be5fe/bbsport.org/index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 4 (Chỉ phát khi có bóng đá) 
-https://talk2.vcdn.vn/hls/ad2764026100eca2520feeff44fbaebe/1655b7212d7/gfhgfjghjghj/index.m3u8
+https://talk2.vcdn.vn/hls/343c833ac5d69d4ad2a73f8e26a10db0/165660a101c/livetvup.commotmot/index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 5 (Chỉ phát khi có bóng đá) 
-http://cdn2.xoilac.tv/f2ebb9635d74ec208e7694296b627d3f7cacf1a2/1534643900/template_mitomtv/live4/chunklist.m3u8
+https://talk2.vcdn.vn/hls/2b8d1d5ba31aa947c3f99503a72fbe40/165660a79e0/gfhgfjgh/index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 6 (Chỉ phát khi có bóng đá) 
-http://cdn2.xoilac.tv/template_mitomtv/live6/chunklist.m3u8
+https://talk2.vcdn.vn/hls/4e1b09688ed359e4a36d39cd28cfa642/165660d6a89/tienvan.live/index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 7 (Chỉ phát khi có bóng đá) 
 http://tranvinh.xyz/play.php?link=http://gg.gg/livedabanh
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/match-bd" group-title="SPORT", K+ Bóng Đá 1
@@ -481,10 +489,6 @@ http://persik.by/stream/3903/293564/346.m3u8
 http://persik.by/stream/3903/293564/10217.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/match-bd" group-title="SPORT", K+ Bóng Đá 3
 http://persik.by/stream/3903/293564/10218.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports 1 HD 
-http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports 2 HD
-http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD Sport 1 HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD Sport 2 HD 
@@ -493,212 +497,46 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/real-tv" group-title="SPORT", Realmadrid TV 
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/mu-tv" group-title="SPORT", MU TV HD
-http://vapi.vaders.tv/play/2589.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/chelsea-tv" group-title="SPORT", Chelsea TV HD
-http://vapi.vaders.tv/play/40881.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", UFC TV HD
-http://vapi.vaders.tv/play/42469.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NBA TV HD
-http://vapi.vaders.tv/play/2788.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Gol TV HD
-http://vapi.vaders.tv/play/46466.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", WWE Network HD
-http://vapi.vaders.tv/play/3047.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Motors TV UK
-http://vapi.vaders.tv/play/40683.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Boxnation 
-http://vapi.vaders.tv/play/39646.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports F1 HD 
-http://vapi.vaders.tv/play/2483.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Cricket HD 
-http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Action HD 
-http://vapi.vaders.tv/play/2480.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Golf HD 
-http://vapi.vaders.tv/play/2481.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Premier League HD 
-http://vapi.vaders.tv/play/2482.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sport 1 HD
-http://vapi.vaders.tv/play/2487.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sport 2 HD
-http://vapi.vaders.tv/play/2488.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sport 3 HD
-http://vapi.vaders.tv/play/2489.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sports Golf Channel
-http://vapi.vaders.tv/play/2561.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NBC Sports Network HD
-http://vapi.vaders.tv/play/2562.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BeIN Sports USA HD
-http://vapi.vaders.tv/play/2563.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPNews HD
-http://vapi.vaders.tv/play/2564.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN HD
-http://vapi.vaders.tv/play/2565.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN 2 HD
-http://vapi.vaders.tv/play/2566.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN U HD
-http://vapi.vaders.tv/play/2567.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports 1 HD
-http://vapi.vaders.tv/play/2568.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports 2 HD
-http://vapi.vaders.tv/play/2569.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports News HD
-http://vapi.vaders.tv/play/2570.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Eir Sports 1 HD
-http://vapi.vaders.tv/play/2593.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet 360 HD
-http://vapi.vaders.tv/play/2669.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet West HD
-http://vapi.vaders.tv/play/2671.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet One HD
-http://vapi.vaders.tv/play/2672.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet Ontario HD
-http://vapi.vaders.tv/play/2673.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet Pacific HD
-http://vapi.vaders.tv/play/2674.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet East HD
-http://vapi.vaders.tv/play/2694.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NFL Network HD
-http://vapi.vaders.tv/play/2744.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NHL Network HD
-http://vapi.vaders.tv/play/2786.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", MLB Network HD
-http://vapi.vaders.tv/play/2787.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CBS Sports Network HD
-http://vapi.vaders.tv/play/2789.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sports ESPN HD
-http://vapi.vaders.tv/play/2790.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TSN 1 HD
-http://vapi.vaders.tv/play/2845.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TSN 2 HD
-http://vapi.vaders.tv/play/2846.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TSN 3 HD
-http://vapi.vaders.tv/play/2847.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TSN 4 HD
-http://vapi.vaders.tv/play/2848.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TSN 5 HD
-http://vapi.vaders.tv/play/2849.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Main Event HD
-http://vapi.vaders.tv/play/2889.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", LFC TV HD
-http://vapi.vaders.tv/play/3009.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Willow HD
-http://vapi.vaders.tv/play/3077.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN Deportes HD
-http://vapi.vaders.tv/play/3136.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sony Six HD
-http://vapi.vaders.tv/play/8259.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", EuroSport 1 HD
-http://vapi.vaders.tv/play/19293.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", EuroSport 2 HD
-http://vapi.vaders.tv/play/19294.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Racing UK HD
-http://vapi.vaders.tv/play/19295.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Premier Sports HD
-http://vapi.vaders.tv/play/19296.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", At The Races
-http://vapi.vaders.tv/play/19297.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", YES Network HD
-http://vapi.vaders.tv/play/33511.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Star Sports 1 HD
-http://vapi.vaders.tv/play/37198.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Star Sports 2 HD
-http://vapi.vaders.tv/play/37199.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Star Sports 1 Select HD
-http://vapi.vaders.tv/play/37200.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Star Sports 2 Select HD
-http://vapi.vaders.tv/play/37201.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Mix HD
-http://vapi.vaders.tv/play/37235.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Univision Deportes HD
-http://vapi.vaders.tv/play/38911.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SEC Network HD
-http://vapi.vaders.tv/play/39621.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Golf
-http://vapi.vaders.tv/play/39823.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Premier League
-http://vapi.vaders.tv/play/39824.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports News
-http://vapi.vaders.tv/play/39826.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Mix
-http://vapi.vaders.tv/play/39827.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sports 1
-http://vapi.vaders.tv/play/39828.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sports ESPN
-http://vapi.vaders.tv/play/39831.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", PAC 12 Network HD
-http://vapi.vaders.tv/play/39848.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", PAC 12 Mountain HD
-http://vapi.vaders.tv/play/39852.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", PAC 12 Bay Area HD
-http://vapi.vaders.tv/play/39854.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Big Ten Network HD
-http://vapi.vaders.tv/play/39861.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BeIN Sports 11 HD
-http://vapi.vaders.tv/play/40879.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BeIN Sports 12 HD
-http://vapi.vaders.tv/play/40880.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CSN California HD
-http://vapi.vaders.tv/play/41143.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Football HD
-http://vapi.vaders.tv/play/42360.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Arena HD
-http://vapi.vaders.tv/play/42361.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Arena 
-http://vapi.vaders.tv/play/47385.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Football
-http://vapi.vaders.tv/play/47386.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Soccer Plus HD
-http://vapi.vaders.tv/play/52188.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Deportes HD
-http://vapi.vaders.tv/play/52189.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports South HD
-http://vapi.vaders.tv/play/52200.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports South East HD
-http://vapi.vaders.tv/play/52201.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CSN New England HD
-http://vapi.vaders.tv/play/52206.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CSN Mid Atlantic HD
-http://vapi.vaders.tv/play/52207.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NESN HD
-http://vapi.vaders.tv/play/52208.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NESN Plus HD
-http://vapi.vaders.tv/play/52209.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Longhorn Network HD
-http://vapi.vaders.tv/play/52210.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", RDS HD
-http://vapi.vaders.tv/play/57579.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TVA Sports HD
-http://vapi.vaders.tv/play/73296.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CBS Sports HD
-http://vapi.vaders.tv/play/77169.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", RDS 2 HD
-http://vapi.vaders.tv/play/77718.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Spectrum SportsNet LA HD
-http://vapi.vaders.tv/play/77882.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Spectrum SportsNet HD
-http://vapi.vaders.tv/play/77883.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CSN Philly HD
-http://vapi.vaders.tv/play/78564.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", MAVTV HD
-http://vapi.vaders.tv/play/79263.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Footy HD
-http://vapi.vaders.tv/play/79278.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet New York HD
-http://vapi.vaders.tv/play/79279.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox League HD
-http://vapi.vaders.tv/play/79281.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Ten 1 HD
-http://vapi.vaders.tv/play/79282.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Ten 2 HD
-http://vapi.vaders.tv/play/79283.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Ten 3 HD
-http://vapi.vaders.tv/play/79284.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Ten Cricket HD
-http://vapi.vaders.tv/play/79285.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", PTV Sports
-http://vapi.vaders.tv/play/79288.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS MX
+http://premium.darkiptv.com/ahivaelporno/foxsports_mx.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 2 MX
+http://premium.darkiptv.com/ahivaelporno/foxsports2_mx.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 3 MX
+http://premium.darkiptv.com/ahivaelporno/foxsports3_mx.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS
+http://premium.darkiptv.com/ahivaelporno/foxsports.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 2
+http://premium.darkiptv.com/ahivaelporno/foxsports2.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 3
+http://premium.darkiptv.com/ahivaelporno/foxsports3.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", GOLF CHANNEL
+http://premium.darkiptv.com/ahivaelporno/golfchannel.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CLARO SPORTS
+http://premium.darkiptv.com/ahivaelporno/clarosport1.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CLARO SPORTS 2
+http://premium.darkiptv.com/ahivaelporno/clarosport2.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN
+http://premium.darkiptv.com/ahivaelporno/espn.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN+
+http://premium.darkiptv.com/ahivaelporno/espnplus.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", WIN SPORTS
+http://premium.darkiptv.com/ahivaelporno/winsports.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD SPORT EXTRA
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", All SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Arena Sport 1
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Arena Sport 2
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Arena Sport 3
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Arena Sport 4
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
 
 ~♥Kênh Du Lịch & Khám Phá♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-tv" group-title="DU LỊCH & KHÁM PHÁ", Discovery HD
@@ -820,7 +658,7 @@ http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
 http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 4
 http://alhls.cdn.zhanqi.tv/zqlive/44509_4oiYY.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 5
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 5 (Kinh dị, KH-VT, Hài kịch)
 http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 6
 http://alhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
@@ -852,9 +690,9 @@ http://alhls.cdn.zhanqi.tv/zqlive/213167_Dw1GU.m3u8
 http://alhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 20
 http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 21
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 21 (Conan)
 http://alhls.cdn.zhanqi.tv/zqlive/174685_XWnGj.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 22
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 22 (One piece)
 http://alhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 23
 http://alhls.cdn.zhanqi.tv/zqlive/154733_xcVyM.m3u8
@@ -1058,6 +896,52 @@ http://liveal.quanmin.tv/live/2031799856_quanmin720.flv
 http://liveal.quanmin.tv/live/2019468332_quanmin720.flv
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 94 (Moto GP)
 http://liveal.quanmin.tv/live/2132332338.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 95
+http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 96 (Conan)
+http://alhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 97
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9_1024/index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 98
+http://liveal.quanmin.tv/live/2117651770.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 99
+http://liveal.quanmin.tv/live/2059397482.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 100 (HT Lý Tiểu Long)
+http://liveal.quanmin.tv/live/1534700896.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 101
+http://liveal.quanmin.tv/live/1524215162.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 102
+http://liveal.quanmin.tv/live/2142817570.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 103
+http://liveal.quanmin.tv/live/1543089528.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 104
+http://liveal.quanmin.tv/live/2057235314.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 105 (Phong Vân)
+http://liveal.quanmin.tv/live/1543090016.flv  
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 106 (Siêu nhân)
+http://liveal.quanmin.tv/live/1532538232.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 107 (Những nụ hôn ngọt ngào)
+http://liveal.quanmin.tv/live/2134506790.flv  
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 108 (Hot Shot)
+http://liveal.quanmin.tv/live/2124348716.flv  
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 109
+http://liveal.quanmin.tv/live/2019468332.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 110
+http://liveal.quanmin.tv/live/2134495018.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 111 (Phim hài)
+http://liveal.quanmin.tv/live/1579085168.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Music 1
+http://liveal.quanmin.tv/live/1524215674.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Music 2
+http://liveal.quanmin.tv/live/130742.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Music 3
+http://liveal.quanmin.tv/live/2040262444_quanmin720.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Music 4
+http://liveal.quanmin.tv/live/2021587312_quanmin720.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Music 5
+http://liveal.quanmin.tv/live/1526312810.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", WWE
+http://liveal.quanmin.tv/live/2115620138.flv 
 
 ~♥Kênh VIDEO MUSIC♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/video-ms" group-title="VIDEO MUSIC", VIDEO 1
@@ -1595,6 +1479,12 @@ https://5a6872aace0ce.streamlock.net/vovgt+hcm/vovgt+hcm.stream_aac/chunklist_w1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/binhduong-fm" group-title="RADIO", BÌNH DƯƠNG FM
 http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_FM&cdn=1
 
+~♥Kênh Thời Trang♥~
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ftv-ad" group-title="FASHION", Fashion TV HD
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ftv-lt" group-title="FASHION", HD Fashion & Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
 ~♥Kênh Sinh Học♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", ♥~LH: fb.com/ecmin.tin Mở Lại 4 Kênh S+ Nếu Die~♥
 https://gg.gg/ecmin
@@ -1627,66 +1517,66 @@ http://5.135.92.130:58143/out/u/109_1.m3u8
 
 ~♥Update 22/8/2018♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/4RDfiSY.png" group-title="SINH HỌC", Varmint TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/530.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/530.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/UTx5Mzl.jpg" group-title="SINH HỌC", Studio 66 TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/550.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/550.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/78vOY9r.jpg" group-title="SINH HỌC", Sextosenso TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/525.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/525.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/uhb2QGU.jpg" group-title="SINH HỌC", SCT TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/521.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/521.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/CjwTlFk.png" group-title="SINH HỌC", Russian Night TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/527.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/527.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/CslNAu9.jpg" group-title="SINH HỌC", Redlight HD Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/520.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/520.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/ojcpuVz.png" group-title="SINH HỌC", Playboy TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/546.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/546.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/cw2f4vz.jpg" group-title="SINH HỌC", Penthouse 1 TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/528.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/528.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/cw2f4vz.jpg" group-title="SINH HỌC", Penthouse 2 TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/532.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/532.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/EnpaLdc.jpg" group-title="SINH HỌC", Passie XXX TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/522.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/522.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/pvoB5GU.jpg" group-title="SINH HỌC", O-la-la 18+ TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/515.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/515.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/F4keFDj.png" group-title="SINH HỌC", LEO TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/518.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/518.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/UecfXsj.jpg" group-title="SINH HỌC", Legal Porno TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/537.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/537.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/XhElVdG.jpg" group-title="SINH HỌC", Hustler HD
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/517.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/517.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fnInDYm.png" group-title="SINH HỌC", FAP TV 2 Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/533.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/533.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fnInDYm.png" group-title="SINH HỌC", FAP TV 2 HD Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/534.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/534.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fnInDYm.png" group-title="SINH HỌC", FAP TV 3 Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/535.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/535.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fnInDYm.png" group-title="SINH HỌC", FAP TV 4 Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/536.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/536.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/aUbCyBD.png" group-title="SINH HỌC", FAP TV Teens Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/540.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/540.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/OrGUIly.png" group-title="SINH HỌC", FAP TV Pissing Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/544.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/544.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/lqgZHJc.png" group-title="SINH HỌC", FAP TV Parody Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/538.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/538.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/0vKpdKe.png" group-title="SINH HỌC", FAP TV Lesbian Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/539.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/539.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/AbcoxRE.png" group-title="SINH HỌC", FAP TV Compilation Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/543.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/543.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/3DzXyeD.png" group-title="SINH HỌC", FAP TV BBW Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/542.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/542.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/9zJwh4p.png" group-title="SINH HỌC", FAP TV Anal Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/541.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/541.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/8i925xW.png" group-title="SINH HỌC", FAP TV Amateur Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/545.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/545.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/tx17CKG.png" group-title="SINH HỌC", Eroxxx TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/531.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/531.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/wcHNDtK.png" group-title="SINH HỌC", Dusk TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/523.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/523.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/9S32PU9.jpg" group-title="SINH HỌC", Dorcel TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/529.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/529.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/A2GhFZC.jpg" group-title="SINH HỌC", Cento X Cento TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/526.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/526.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/xVVcx64.png" group-title="SINH HỌC", Brazzers HD TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/516.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/516.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/imwARSC.png" group-title="SINH HỌC", Blue Hustler TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/E8A80FF4AB514E50950A3C199B4AE458/519.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/EB82604786EB4540A59537E557F24A26/519.ts
