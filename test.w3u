@@ -2,26 +2,30 @@
     "name": "test",
     "author": "w3u format",
     "url": "https://pastebin.com/G0R2ZgPR",
-    "contact": "admin@w3uformat.com",
+    "contact": "lelonghai@gmail.com",
     "info": "Tutorial w3u",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png",
     "groups": [{
-		"name": "TIVI",
-		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png",
-		"groups": [{
-			"name": "KENH VIET",
-			"image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
-			"stations": [{
-				"name": "VTV 1",
-				"image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
-				"url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
-			}, {
-				"name": "VTV 2",
-				"image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
-				"url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
-			}]
-		}]
-	}, {
+        "name": "TIVI",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png",
+        "groups": [{
+            "name": "Việt Nam",
+            "image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
+            "stations": [{
+                "name": "VTV 1",
+                "image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
+                "url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
+            }, {
+                "name": "VTV 2",
+                "image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
+                "url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
+            }, {
+                "name": "VTV 3",
+                "image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
+                "url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
+            }]
+        }]
+    }, {
         "name": "Live",
         "image": "http://i.imgur.com/WH7HT2B.png",
         "stations":
