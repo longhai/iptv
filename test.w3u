@@ -7,7 +7,7 @@
     "info": "Giải trí đa phương tiện, xem tivi, Radio cho người Việt",
     "groups": [{
         "name": "Tivi",
-        "image": "https://www.almamedia.fi/images/default-source/product-and-case-images/talentum/logot/tivi_370_2.png",
+        "image": "http://src.onlinedown.net/supply/sup_logo/logo-1122/42982_g.jpg",
         "groups": [{
             "name": "Việt",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/250px-Flag_of_Vietnam.svg.png",
@@ -71,7 +71,7 @@
         }]
     }, {
         "name": "Youtube",
-        "image": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg",
         "groups": [{
             "name": "Tieu de con 3",
             "image": "",
