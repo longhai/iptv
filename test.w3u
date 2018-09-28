@@ -13,16 +13,16 @@
             "image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
             "stations": [{
                 "name": "VTV 1",
-                "image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
-                "url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
+                "image": "https://i.imgur.com/WpQtg0z.png",
+                "url": "http://tranvinh.tk/load/nexttv/?id=vtv1"
             }, {
                 "name": "VTV 2",
-                "image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
-                "url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
+                "image": "https://i.imgur.com/R7q7HZj.png",
+                "url": "http://tranvinh.xyz/hls/vtv2.m3u8"
             }, {
                 "name": "VTV 3",
-                "image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
-                "url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
+                "image": "https://i.imgur.com/o6SxT3q.png",
+                "url": "http://tranvinh.tk/load/mytv/?id=vtv3hd"
             }]
         }]
     }, {
