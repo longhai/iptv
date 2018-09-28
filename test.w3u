@@ -1,6 +1,6 @@
 {
     "name": "Giải trí",
-    "image": "",
+    "image": "https://www.shareicon.net/data/128x128/2016/08/18/814078_tv_512x512.png",
     "url": "",
     "author": "LongHải",
     "contact": "lelonghai@gmail.com",
@@ -9,7 +9,7 @@
         "name": "Tivi",
         "image": "https://www.shareicon.net/data/128x128/2015/10/10/653903_television_512x512.png",
         "groups": [{
-            "name": "Việt",
+            "name": "Việt Nam",
             "image": "https://www.shareicon.net/data/128x128/2015/10/17/126415_vietnam_256x256.png",
             "stations": [{
                 "name": "ten 1",
