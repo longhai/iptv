@@ -1,0 +1,166 @@
+{
+    "name": "Giải trí",
+    "image": "https://www.shareicon.net/data/128x128/2016/08/18/814078_tv_512x512.png",
+    "url": "",
+    "author": "LongHải",
+    "contact": "lelonghai@gmail.com",
+    "info": "Giải trí đa phương tiện, xem tivi, Radio cho người Việt",
+    "groups": [{
+        "name": "Tivi",
+        "image": "https://www.shareicon.net/data/128x128/2015/10/10/653903_television_512x512.png",
+        "groups": [{
+            "name": "ðŸ“¡ Việt Nam",
+            "image": "https://www.shareicon.net/data/128x128/2015/10/17/126415_vietnam_256x256.png",
+            "stations": [{
+                "name": "VTV 1 HD",
+                "image": "https://i.imgur.com/WpQtg0z.png",
+                "url": "http://tranvinh.xyz/hls/vtv1.m3u8"
+            }, {
+                "name": "VTV 2 HD",
+                "image": "https://i.imgur.com/R7q7HZj.png",
+                "url": "http://tranvinh.xyz/hls/vtv2.m3u8"
+            }, {
+                "name": "VTV 3 HD",
+                "image": "https://i.imgur.com/o6SxT3q.png",
+                "url": "http://tranvinh.xyz/hls/vtv3.m3u8"
+			}, {
+                "name": "VTV 4 HD",
+                "image": "https://i.imgur.com/4yhPtDf.png",
+                "url": "http://tranvinh.xyz/hls/vtv4.m3u8"
+			}, {
+                "name": "VTV 5 HD",
+                "image": "https://i.imgur.com/VBErOd8.png",
+                "url": "http://tranvinh.xyz/hls/vtv5.m3u8"
+			}, {
+                "name": "VTV 6 HD",
+                "image": "https://i.imgur.com/GtnRg0D.png",
+                "url": "http://tranvinh.xyz/hls/vtv6.m3u8"
+			}, {
+                "name": "VTV 7 HD",
+                "image": "https://i.imgur.com/EQaqb0h.png",
+                "url": "http://tranvinh.xyz/hls/vtv7.m3u8"
+			}, {
+                "name": "VTV 8 HD",
+                "image": "https://i.imgur.com/9XsZ2fd.png",
+                "url": "http://tranvinh.xyz/hls/vtv8.m3u8"
+			}, {
+                "name": "VTV 9 HD",
+                "image": "https://i.imgur.com/UBN3r3k.png",
+                "url": "http://tranvinh.xyz/hls/vtv9.m3u8"
+			}, {
+                "name": "VTC Play",
+                "image": "https://i.imgur.com/zWkZ5In.png",
+                "url": "http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8"
+			}, {
+                "name": "ITV",
+                "image": "https://i.imgur.com/kAEIsbp.png",
+                "url": "http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8"
+			}, {
+                "name": "VTC1 HD",
+                "image": "",
+                "url": ""
+			}, {
+                "name": "VTC2 HD",
+                "image": "",
+                "url": ""
+			}, {
+                "name": "VTC3 HD",
+                "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png",
+                "url": "http://tranvinh.xyz/hls/vtc3.m3u8"
+			}, {	
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 4",
+                "image": "",
+                "url": ""
+            }]
+        }, {
+            "name": "Thai lan",
+            "image": "https://www.shareicon.net/data/128x128/2015/11/13/164926_flag_256x256.png",
+            "stations": [{
+                "name": "ten 1",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 4",
+                "image": "",
+                "url": ""
+            }]
+		}, {
+            "name": "Trung Quốc",
+            "image": "https://www.shareicon.net/data/128x128/2015/10/17/126399_china_256x256.png",
+            "stations": [{
+                "name": "ten 1",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 4",
+                "image": "",
+                "url": ""
+            }]
+        }]
+    }, {
+        "name": "Video",
+        "image": "https://www.shareicon.net/data/128x128/2016/01/11/701666_cinema_512x512.png",
+        "groups": [{
+            "name": "tieu de con 2",
+            "image": "",
+            "stations": [{
+                "name": "ten 1",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }]
+        }]
+    }, {
+        "name": "Youtube",
+        "image": "https://www.shareicon.net/data/128x128/2015/09/13/100540_watch_512x512.png",
+        "groups": [{
+            "name": "Tieu de con 3",
+            "image": "",
+            "stations": [{
+                "name": "ten 1",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }]
+
+        }]
+    }]
+}
