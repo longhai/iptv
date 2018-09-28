@@ -1,58 +1,75 @@
 {
-    "name": "test",
-    "author": "w3u format",
-    "url": "https://pastebin.com/G0R2ZgPR",
-    "contact": "lelonghai@gmail.com",
-    "info": "Tutorial w3u",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png",
+    "name": "tên",
+    "image": "",
+    "url": "",
+    "author": "tac gia",
+    "contact": "mail@gmail.com",
+    "info": "thong tin",
     "groups": [{
-        "name": "TIVI",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png",
+        "name": "Tieu de 1",
+        "image": "",
         "groups": [{
-            "name": "Việt Nam",
-            "image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
+            "name": "tieu de con 1",
+            "image": "",
             "stations": [{
-                "name": "VTV 1",
-                "image": "https://i.imgur.com/WpQtg0z.png",
-                "url": "http://tranvinh.tk/load/nexttv/?id=vtv1"
+                "name": "ten 1",
+                "image": "",
+                "url": ""
             }, {
-                "name": "VTV 2",
-                "image": "https://i.imgur.com/R7q7HZj.png",
-                "url": "http://tranvinh.xyz/hls/vtv2.m3u8"
+                "name": "ten 2",
+                "image": "",
+                "url": ""
             }, {
-                "name": "VTV 3",
-                "image": "https://i.imgur.com/o6SxT3q.png",
-                "url": "http://tranvinh.tk/load/mytv/?id=vtv3hd"
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 4",
+                "image": "",
+                "url": ""
             }]
         }]
     }, {
-        "name": "Live",
-        "image": "http://i.imgur.com/WH7HT2B.png",
-        "stations":
+        "name": "Tieu de 2",
+        "image": "",
+        "groups": [{
+            "name": "tieu de con 2",
+            "image": "",
+            "stations": [{
+                "name": "ten 1",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }]
+        }]
+    }, {
+        "name": "Tieu de 3",
+        "image": "",
+        "groups": [{
+            "name": "Tieu de con 3",
+			"image": "",
+            "stations": [{
+                "name": "ten 1",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }]
 
-            [
-
-            {
-                "name": "NASA",
-                "image": "http://i.imgur.com/aCj27P5.png",
-                "url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
-            },
-
-
-            {
-                "name": "Clubbing TV",
-                "image": "http://i.imgur.com/SzzEGN4.png",
-                "url": "http://www.filmon.com/tv/channel/export?channel_id=691",
-                "isHost": true
-            },
-
-
-            {
-                "name": "RT Español",
-                "image": "http://i.imgur.com/hZVHJba.jpg",
-                "url": "https://www.youtube.com/watch?v=OALyNX4IbBI"
-            }
-
-        ]
+        }]
     }]
+
 }
