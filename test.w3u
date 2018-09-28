@@ -1,16 +1,16 @@
 {
-    "name": "Long Hải",
+    "name": "Giải trí",
     "image": "",
     "url": "",
-    "author": "tac gia",
-    "contact": "mail@gmail.com",
-    "info": "thong tin",
+    "author": "LongHải",
+    "contact": "lelonghai@gmail.com",
+    "info": "Giải trí đa phương tiện, xem tivi, Radio cho người Việt",
     "groups": [{
         "name": "Tivi",
-        "image": "",
+        "image": "https://www.almamedia.fi/images/default-source/product-and-case-images/talentum/logot/tivi_370_2.png",
         "groups": [{
             "name": "Việt",
-            "image": "",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/250px-Flag_of_Vietnam.svg.png",
             "stations": [{
                 "name": "ten 1",
                 "image": "",
