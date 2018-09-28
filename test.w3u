@@ -6,10 +6,10 @@
     "contact": "mail@gmail.com",
     "info": "thong tin",
     "groups": [{
-        "name": "Tieu de 1",
+        "name": "Tivi",
         "image": "",
         "groups": [{
-            "name": "tieu de con 1",
+            "name": "Việt",
             "image": "",
             "stations": [{
                 "name": "ten 1",
@@ -28,9 +28,24 @@
                 "image": "",
                 "url": ""
             }]
+			"name": "ten 1",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 4",
+                "image": "",
+                "url": ""
         }]
     }, {
-        "name": "Tieu de 2",
+        "name": "Video",
         "image": "",
         "groups": [{
             "name": "tieu de con 2",
@@ -50,7 +65,7 @@
             }]
         }]
     }, {
-        "name": "Tieu de 3",
+        "name": "Youtube",
         "image": "",
         "groups": [{
             "name": "Tieu de con 3",
