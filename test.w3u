@@ -5,24 +5,19 @@
     "contact": "admin@w3uformat.com",
     "info": "Tutorial w3u",
     "groups": [{
-		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png",
 		"name": "TIVI",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png",
 		"groups": [{
-			"image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
 			"name": "KENH VIET",
+			"image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
 			"stations": [{
+				"name": "VTV 1",
 				"image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
-				"referer": "v7g1cRTVMn423XzIEwQxwEGsG4I4z1fvW+9XHEeTBDafTTHKdl2FRI/+nsiVOb7TuU+bJ0TZu5t1Br2r5MOcl4ylOhjhvjPJU1Pd3AcqUeO5YznJTsEaYCkG+chfBXpQleGZ6/ousyhdZJnEJyS1nQ==",
-				"embed_Splive": "true",
-				"name": "Tennis: Roland Garros  - Eurosport 1(ESP) 11:00",
-				"url": "2GmslKV9bNfKpTa1y5eZTOvxfkZXYZndK0rOS1iGp6F220Mhp/YklLOILVYrb4erWlsHwHeJwUdr1Wxp9dg3tJh9ySCDnCtJixaBzQFX8tjoyZkZMpY3Xxog4egPw86l+gHIiA+E6yihaHg8ch/45w=="
+				"url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
 			}, {
-				
+				"name": "VTV 2",
 				"image": "https://pbs.twimg.com/profile_images/688387008138493952/TIvrYN3W.jpg",
-				"referer": "kciyZHLtWPooMNpJvdWPYRFShSid38+ePp7hRgF+vqFsrRahPtxckw0L6Dq4ysQ86tYRa6c/CeHmOC0wTLxZjpXpsZChrXLvHZ4WPnXPbkwIXUZgoLuxtb49X5QTnqRx9DR4ejfdUmbVMhzYHJQWpQ==",
-				"embed_Splive": "true",
-				"name": "MLB: San Francisco Giants vs Washington Nationals(ENG) 4:00",
-				"url": "gq90WXU1/96aGzf2VMOkl8njCZaqQbzWsfudPHIE5Doir/yYP9MgbxEo1qq+7Q3MhAGMtIyohtM3ujfNlhIjY4zfn5TimcgzVfZJ8ux+BuHVEeStth0kS/G5BoLj1xFIXHQogCf1r3m3unc7nDheGw=="
+				"url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
 			}]
 		}]
 	}, {
