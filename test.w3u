@@ -48,47 +48,48 @@
                 "image": "",
                 "url": ""
             }]
-        }, {
-            "name": "Video",
+        }]
+    }, {
+        "name": "Video",
+        "image": "",
+        "groups": [{
+            "name": "tieu de con 2",
             "image": "",
-            "groups": [{
-                "name": "tieu de con 2",
+            "stations": [{
+                "name": "ten 1",
                 "image": "",
-                "stations": [{
-                    "name": "ten 1",
-                    "image": "",
-                    "url": ""
-                }, {
-                    "name": "ten 2",
-                    "image": "",
-                    "url": ""
-                }, {
-                    "name": "ten 3",
-                    "image": "",
-                    "url": ""
-                }]
-            }]
-        }, {
-            "name": "Youtube",
-            "image": "",
-            "groups": [{
-                "name": "Tieu de con 3",
+                "url": ""
+            }, {
+                "name": "ten 2",
                 "image": "",
-                "stations": [{
-                    "name": "ten 1",
-                    "image": "",
-                    "url": ""
-                }, {
-                    "name": "ten 2",
-                    "image": "",
-                    "url": ""
-                }, {
-                    "name": "ten 3",
-                    "image": "",
-                    "url": ""
-                }]
-
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
             }]
         }]
+    }, {
+        "name": "Youtube",
+        "image": "",
+        "groups": [{
+            "name": "Tieu de con 3",
+            "image": "",
+            "stations": [{
+                "name": "ten 1",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }]
+
+        }]
     }]
+
 }
