@@ -6,86 +6,89 @@
     "contact": "mail@gmail.com",
     "info": "thong tin",
     "groups": [{
-        "name": "Tivi",
-        "image": "",
-        "groups": [{
-            "name": "Việt",
-            "image": "",
-            "stations": [{
-                "name": "ten 1",
+                "name": "Tivi",
                 "image": "",
-                "url": ""
-            }, {
-                "name": "ten 2",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 3",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 4",
-                "image": "",
-                "url": ""
-            }]
-        }, {
-            "name": "Thai lan",
-            "image": "",
-            "url": ""
-        }, {
-            "name": "ten 2",
-            "image": "",
-            "url": ""
-        }, {
-            "name": "ten 3",
-            "image": "",
-            "url": ""
-        }, {
-            "name": "ten 4",
-            "image": "",
-            "url": ""
-        }]
-    }, {
-        "name": "Video",
-        "image": "",
-        "groups": [{
-            "name": "tieu de con 2",
-            "image": "",
-            "stations": [{
-                "name": "ten 1",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 2",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 3",
-                "image": "",
-                "url": ""
-            }]
-        }]
-    }, {
-        "name": "Youtube",
-        "image": "",
-        "groups": [{
-            "name": "Tieu de con 3",
-            "image": "",
-            "stations": [{
-                "name": "ten 1",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 2",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 3",
-                "image": "",
-                "url": ""
-            }]
+                "groups": [{
+                    "name": "Việt",
+                    "image": "",
+                    "stations": [{
+                        "name": "ten 1",
+                        "image": "",
+                        "url": ""
+                    }, {
+                        "name": "ten 2",
+                        "image": "",
+                        "url": ""
+                    }, {
+                        "name": "ten 3",
+                        "image": "",
+                        "url": ""
+                    }, {
+                        "name": "ten 4",
+                        "image": "",
+                        "url": ""
+                    }]
+                }, {
+                    "name": "Thai lan",
+                    "image": "",
+                    "stations": [{
+                        "name": "ten 1",
+                        "image": "",
+                        "url": ""
+                    }, {
+                        "name": "ten 2",
+                        "image": "",
+                        "url": ""
+                    }, {
+                        "name": "ten 3",
+                        "image": "",
+                        "url": ""
+                    }, {
+                        "name": "ten 4",
+                        "image": "",
+                        "url": ""
+                    }]
+                }, {
+                    "name": "Video",
+                    "image": "",
+                    "groups": [{
+                        "name": "tieu de con 2",
+                        "image": "",
+                        "stations": [{
+                            "name": "ten 1",
+                            "image": "",
+                            "url": ""
+                        }, {
+                            "name": "ten 2",
+                            "image": "",
+                            "url": ""
+                        }, {
+                            "name": "ten 3",
+                            "image": "",
+                            "url": ""
+                        }]
+                    }]
+                }, {
+                    "name": "Youtube",
+                    "image": "",
+                    "groups": [{
+                        "name": "Tieu de con 3",
+                        "image": "",
+                        "stations": [{
+                            "name": "ten 1",
+                            "image": "",
+                            "url": ""
+                        }, {
+                            "name": "ten 2",
+                            "image": "",
+                            "url": ""
+                        }, {
+                            "name": "ten 3",
+                            "image": "",
+                            "url": ""
+                        }]
 
-        }]
-    }]
+                    }]
+                }]
 
-}
+            }
