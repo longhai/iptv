@@ -17,11 +17,11 @@
                 "stations": [{
                     "name": "An Ninh Thế Giới",
                     "image": "http://mobion.vn/Files/Image/lqthinh/2017/12/08/temp_3153232049504426.jpg",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0"
+                    "url": "http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8"
                 }, {
                     "name": "NCM BTV10",
                     "image": "https://i.imgur.com/VEyRTxf.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0"
+                    "url": "http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8"
                 }, {
                     "name": "Phim Hay",
                     "image": "http://img.hplus.com.vn/355x200/poster/2016/07/15/901788-phim.hay_.png",
