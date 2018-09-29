@@ -136,9 +136,10 @@
                     "image": "",
                     "url": ""
                 }]
+            }]
 
-
-                    "name": "htvc",
+                "groups": [{
+                "name": "Mobifone TV",
                 "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
                 "stations": [{
                     "name": "VTV1 HD s1",
@@ -152,8 +153,8 @@
                     "name": "VTV2 HD",
                     "image": "https://i.imgur.com/R7q7HZj.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv2_hls.smil/chunklist_b1200000.m3u8"
-                
-				}]
+
+                }]
             }]
         }, {
             "name": "Thai lan",
