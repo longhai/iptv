@@ -18,11 +18,7 @@
                     "name": "VTV1 HD s1",
                     "image": "https://i.imgur.com/WpQtg0z.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv1_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "",
-                    "image": "",
-                    "url": ""
-                }]
+                }, ]
 
             }, {
                 "groups": [{
