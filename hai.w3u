@@ -18,30 +18,22 @@
                     "name": "VTV1 HD s1",
                     "image": "https://i.imgur.com/WpQtg0z.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv1_hls.smil/chunklist_b1200000.m3u8"
-				}, {	
-					"name": "VTV1 HD s2",
+                }, {
+                    "name": "VTV1 HD s2",
                     "image": "https://i.imgur.com/WpQtg0z.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8"
                 }, {
-				    "name": "VTV2 HD",
+                    "name": "VTV2 HD",
                     "image": "https://i.imgur.com/R7q7HZj.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv2_hls.smil/chunklist_b1200000.m3u8"
-				}, {	
-				"name": "VTV3 HD",
+                }, {
+                    "name": "VTV3 HD",
                     "image": "https://i.imgur.com/o6SxT3q.png",
                     "url": ""
-				}, {
-				"name": "",
-                    "image": "",
-                    "url": ""
-				}, {
+                }, {
                     "name": "VTV5 HD",
                     "image": "https://i.imgur.com/VBErOd8.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv3/vtv5_hls.smil/chunklist.m3u8"
-                }, {
-                    "name": "TTXVN",
-                    "image": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8"
                 }, {
                     "name": "HTV1",
                     "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/437995-htv1.png",
@@ -106,6 +98,10 @@
                     "name": "VTC3 HD",
                     "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "TTXVN",
+                    "image": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8"
                 }, {
                     "name": "An Ninh Thế Giới",
                     "image": "http://mobion.vn/Files/Image/lqthinh/2017/12/08/temp_3153232049504426.jpg",
