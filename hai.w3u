@@ -136,29 +136,8 @@
                     "image": "",
                     "url": ""
                 }]
-
-                    "groups": [{
-                    "name": "Tivi",
-                    "image": "https://www.shareicon.net/data/128x128/2015/10/10/653903_television_512x512.png",
-                    "stations": [{
-                        "name": "",
-                        "image": "",
-                        "url": ""
-                    }, {
-                        "name": "ten 2",
-                        "image": "",
-                        "url": ""
-                    }, {
-                        "name": "ten 3",
-                        "image": "",
-                        "url": ""
-                    }, {
-                        "name": "ten 4",
-                        "image": "",
-                        "url": ""
-                    }]
-                }]
-            }]
+				
+			}]
         }, {
             "name": "Thai lan",
             "image": "https://www.shareicon.net/data/128x128/2015/11/13/164926_flag_256x256.png",
@@ -200,7 +179,6 @@
                 "url": ""
             }]
         }]
-
     }, {
         "name": "Video",
         "image": "https://www.shareicon.net/data/128x128/2016/01/11/701666_cinema_512x512.png",
