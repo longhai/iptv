@@ -27,8 +27,8 @@
                     "image": "",
                     "url": ""
                 }]
-			}]
-			"groups": [{
+            }]
+            "groups": [{
                 "name": "HTVC",
                 "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
                 "stations": [{
@@ -44,7 +44,7 @@
                     "image": "",
                     "url": ""
                 }]
-			}]
+            }]
         }, {
             "name": "Thai lan",
             "image": "https://www.shareicon.net/data/128x128/2015/11/13/164926_flag_256x256.png",
