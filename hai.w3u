@@ -19,18 +19,6 @@
                     "image": "https://i.imgur.com/WpQtg0z.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8"
                 }, {
-                    "name": "VTV2 HD",
-                    "image": "https://i.imgur.com/R7q7HZj.png",
-                    "url": ""
-                }, {
-                    "name": "VTV3 HD",
-                    "image": "https://i.imgur.com/o6SxT3q.png",
-                    "url": ""
-                }, {
-                    "name": "VTV4 HD",
-                    "image": "https://i.imgur.com/4yhPtDf.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/chunklist_b1200000.m3u8"
-                }, {
                     "name": "VTV5 HD",
                     "image": "https://i.imgur.com/VBErOd8.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv3/vtv5_hls.smil/chunklist.m3u8"
