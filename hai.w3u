@@ -45,7 +45,7 @@
                 }, {
                     "name": "VTV 8 HD",
                     "image": "https://i.imgur.com/9XsZ2fd.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/vtv8_hls.smil/playlist.m3u8"
+                    "url": "http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8"
                 }, {
                     "name": "VTV 9 HD",
                     "image": "https://i.imgur.com/UBN3r3k.png",
