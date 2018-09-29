@@ -12,137 +12,19 @@
             "name": "Việt Nam",
             "image": "https://www.shareicon.net/data/128x128/2015/10/17/126415_vietnam_256x256.png",
             "groups": [{
-                "name": "VTV1 HD s1",
+                "name": "Mobifone TV",
+                "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
+                "stations": [{
+                    "name": "VTV1 HD s1",
                     "image": "https://i.imgur.com/WpQtg0z.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv1_hls.smil/chunklist_b1200000.m3u8"
                 }, {
-                    "name": "VTV1 HD s2",
-                    "image": "https://i.imgur.com/WpQtg0z.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "VTV2 HD",
-                    "image": "https://i.imgur.com/R7q7HZj.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv2_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "VTV3 HD",
-                    "image": "https://i.imgur.com/o6SxT3q.png",
+                    "name": "",
+                    "image": "",
                     "url": ""
-                }, {
-                    "name": "VTV5 HD",
-                    "image": "https://i.imgur.com/VBErOd8.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv3/vtv5_hls.smil/chunklist.m3u8"
-                }, {
-                    "name": "HTV1",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/437995-htv1.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "HTV2",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/playlist.m3u8"
-                }, {
-                    "name": "HTV3",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/628083-htv3.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8"
-                }, {
-                    "name": "HTV4",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/740302-htv4.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/playlist.m3u8"
-                }, {
-                    "name": "HTV7",
-                    "image": "https://s5.postimg.cc/qdv4jgs9j/htv7.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/playlist.m3u8"
-                }, {
-                    "name": "HTV9",
-                    "image": "https://s5.postimg.cc/ixvuxoc9z/htv9.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/playlist.m3u8"
-                }, {
-                    "name": "HTVC - Ca nhạc",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2017/04/20/593179-Canhac_FullHD.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "HTVC - Thuần Việt",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2018/04/19/510395-thuanviet_stroke.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "HTVC - Phim",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2018/04/19/489883-phim_stroke.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "HTVC - Thể Thao",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/238258-htvtt.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "HTVC - Gia Đình",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/playlist.m3u8"
-                }, {
-                    "name": "HTVC - Phụ Nữ",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2018/04/19/449039-phunu_stroke.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "HTVC - Du Lịch",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "VTC1 HD",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_151489099811.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv2/myvtc1_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "VTC2 HD",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_151489100971.png",
-                    "url": ""
-                }, {
-                    "name": "VTC3 HD",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "TTXVN",
-                    "image": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "An Ninh Thế Giới",
-                    "image": "http://mobion.vn/Files/Image/lqthinh/2017/12/08/temp_3153232049504426.jpg",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "NCM BTV10",
-                    "image": "https://i.imgur.com/VEyRTxf.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "Phim Hay",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2016/07/15/901788-phim.hay_.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "Miền Tây",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2016/07/15/201349-mien.tay_.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "Viet Teen",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2017/08/09/734304-vieteen.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "SAM CHANNEL",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2017/08/09/330368-sam.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "An Viên HD",
-                    "image": "https://i.imgur.com/NF5YDkn.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/playlist.m3u8"
-            }]
-
-        }, {
-
-            "name": "HTVC",
-            "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
-            "stations": [{
-                "name": "VTV1 HD s1",
-                "image": "https://i.imgur.com/WpQtg0z.png",
-                "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv1_hls.smil/chunklist_b1200000.m3u8"
-            }, {
-                "name": "",
-                "image": "",
-                "url": ""
-            }]
-
+                }]
+				
+			}]
         }, {
             "name": "Thai lan",
             "image": "https://www.shareicon.net/data/128x128/2015/11/13/164926_flag_256x256.png",
