@@ -128,8 +128,7 @@
                     "image": "https://i.imgur.com/NF5YDkn.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/playlist.m3u8"
                 }]
-            }]
-        }]
+            
     }, {
         "groups": [{
             "name": "HTVC",
@@ -144,7 +143,8 @@
                 "url": ""
             }]
 
-
+}]
+        }]
 
         }, {
             "name": "Thai lan",
