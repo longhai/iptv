@@ -1,7 +1,7 @@
 {
     "name": "Giải trí",
     "image": "https://www.shareicon.net/data/128x128/2016/08/18/814078_tv_512x512.png",
-    "url": "",
+    "url": "https://raw.githubusercontent.com/longhai/iptv/master/hai.w3u",
     "author": "LongHải",
     "contact": "lelonghai@gmail.com",
     "info": "Giải trí đa phương tiện, xem tivi, Radio cho người Việt",
@@ -9,7 +9,7 @@
         "name": "Tivi",
         "image": "https://www.shareicon.net/data/128x128/2015/10/10/653903_television_512x512.png",
         "groups": [{
-            "name": "ðŸ“¡ Việt Nam",
+            "name": "Việt Nam",
             "image": "https://www.shareicon.net/data/128x128/2015/10/17/126415_vietnam_256x256.png",
             "stations": [{
                 "name": "VTV 1 HD",
@@ -57,11 +57,11 @@
                 "url": "http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8"
 			}, {
                 "name": "VTC1 HD",
-                "image": "",
+                "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_151489099811.png",
                 "url": ""
 			}, {
                 "name": "VTC2 HD",
-                "image": "",
+                "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_151489100971.png",
                 "url": ""
 			}, {
                 "name": "VTC3 HD",
