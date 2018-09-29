@@ -29,7 +29,7 @@
                     "url": ""
                 }]
 
-            }, {
+            }, 
                 "groups": [{
                     "name": "HTVC",
                     "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
@@ -43,7 +43,7 @@
                         "url": ""
                     }]
                 }]
-            }]
+            ]
 
         }, {
             "name": "Thai lan",
