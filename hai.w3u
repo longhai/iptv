@@ -21,7 +21,7 @@
                 }, {
                     "name": "VTV2 HD",
                     "image": "https://i.imgur.com/R7q7HZj.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/vtv2hd_hls.smil/chunklist_b1200000.m3u8"
+                    "url": ""
                 }, {
                     "name": "VTV3 HD",
                     "image": "https://i.imgur.com/o6SxT3q.png",
@@ -97,16 +97,11 @@
                 }, {
                     "name": "VTC2 HD",
                     "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_151489100971.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv2/myvtc2_hls.smil/chunklist_b1200000.m3u8"
+                    "url": ""
                 }, {
                     "name": "VTC3 HD",
                     "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-
-                    "name": "",
-                    "image": "",
-                    "url": ""
                 }, {
                     "name": "An Ninh Thế Giới",
                     "image": "http://mobion.vn/Files/Image/lqthinh/2017/12/08/temp_3153232049504426.jpg",
@@ -137,7 +132,7 @@
                     "url": "http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/playlist.m3u8"
                 }, {
 
-                    "name": "ten 4",
+                    "name": "",
                     "image": "",
                     "url": ""
                 }]
