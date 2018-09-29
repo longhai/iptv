@@ -12,39 +12,30 @@
             "name": "Việt Nam",
             "image": "https://www.shareicon.net/data/128x128/2015/10/17/126415_vietnam_256x256.png",
             "groups": [{
-                "name": "VTV1 HD s1",
-                "image": "https://i.imgur.com/WpQtg0z.png",
-                "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv1_hls.smil/chunklist_b1200000.m3u8"
+                "name": "Mobifone TV",
+                "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
+                "stations": [{
+                    "name": "VTV1 HD s1",
+                    "image": "https://i.imgur.com/WpQtg0z.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv1_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "",
+                    "image": "",
+                    "url": ""
+                }]
             }, {
-                "name": "VTV1 HD s2",
-                "image": "https://i.imgur.com/WpQtg0z.png",
-                "url": "http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8"
-            }, {
-                "name": "VTV2 HD",
-                "image": "https://i.imgur.com/R7q7HZj.png",
-                "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv2_hls.smil/chunklist_b1200000.m3u8"
-            }, {
-                "name": "VTV3 HD",
-                "image": "https://i.imgur.com/o6SxT3q.png",
-                "url": ""
+                "name": "Mobifone TV",
+                "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
+                "stations": [{
+                    "name": "VTV1 HD s1",
+                    "image": "https://i.imgur.com/WpQtg0z.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv1_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "",
+                    "image": "",
+                    "url": ""
+                }]
             }]
-
-        }, {
-
-            "name": "HTVC",
-            "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
-            "stations": [{
-                "name": "VTV1 HD s1",
-                "image": "https://i.imgur.com/WpQtg0z.png",
-                "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv1_hls.smil/chunklist_b1200000.m3u8"
-            }, {
-                "name": "",
-                "image": "",
-                "url": ""
-            }]
-
-
-
         }, {
             "name": "Thai lan",
             "image": "https://www.shareicon.net/data/128x128/2015/11/13/164926_flag_256x256.png",
