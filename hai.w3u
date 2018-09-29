@@ -131,13 +131,11 @@
                     "image": "https://i.imgur.com/NF5YDkn.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/playlist.m3u8"
                 }, {
-
                     "name": "",
                     "image": "",
                     "url": ""
                 }]
             }]
-
                 "groups": [{
                 "name": "Mobifone TV",
                 "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
