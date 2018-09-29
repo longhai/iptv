@@ -136,7 +136,7 @@
                     "url": ""
                 }]
             }]
-                "groups": [{
+            "groups": [{
                 "name": "Mobifone TV",
                 "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
                 "stations": [{
@@ -154,87 +154,88 @@
 
                 }]
             }]
-        }, {
-            "name": "Thai lan",
-            "image": "https://www.shareicon.net/data/128x128/2015/11/13/164926_flag_256x256.png",
-            "stations": [{
-                "name": "ten 1",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 2",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 3",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 4",
-                "image": "",
-                "url": ""
-            }]
-        }, {
-            "name": "Trung Quốc",
-            "image": "https://www.shareicon.net/data/128x128/2015/10/17/126399_china_256x256.png",
-            "stations": [{
-                "name": "VTC 4",
-                "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png",
-                "url": "http://hplus.vungtau.ml:12388/?header=hplus&name=vtc4&cdn=1"
-            }, {
-                "name": "ten 2",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 3",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 4",
-                "image": "",
-                "url": ""
-            }]
         }]
     }, {
-        "name": "Video",
-        "image": "https://www.shareicon.net/data/128x128/2016/01/11/701666_cinema_512x512.png",
-        "groups": [{
-            "name": "tieu de con 2",
+        "name": "Thai lan",
+        "image": "https://www.shareicon.net/data/128x128/2015/11/13/164926_flag_256x256.png",
+        "stations": [{
+            "name": "ten 1",
             "image": "",
-            "stations": [{
-                "name": "ten 1",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 2",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 3",
-                "image": "",
-                "url": ""
-            }]
+            "url": ""
+        }, {
+            "name": "ten 2",
+            "image": "",
+            "url": ""
+        }, {
+            "name": "ten 3",
+            "image": "",
+            "url": ""
+        }, {
+            "name": "ten 4",
+            "image": "",
+            "url": ""
         }]
     }, {
-        "name": "Youtube",
-        "image": "https://www.shareicon.net/data/128x128/2015/09/13/100540_watch_512x512.png",
-        "groups": [{
-            "name": "Tieu de con 3",
+        "name": "Trung Quốc",
+        "image": "https://www.shareicon.net/data/128x128/2015/10/17/126399_china_256x256.png",
+        "stations": [{
+            "name": "VTC 4",
+            "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png",
+            "url": "http://hplus.vungtau.ml:12388/?header=hplus&name=vtc4&cdn=1"
+        }, {
+            "name": "ten 2",
             "image": "",
-            "stations": [{
-                "name": "ten 1",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 2",
-                "image": "",
-                "url": ""
-            }, {
-                "name": "ten 3",
-                "image": "",
-                "url": ""
-            }]
-
+            "url": ""
+        }, {
+            "name": "ten 3",
+            "image": "",
+            "url": ""
+        }, {
+            "name": "ten 4",
+            "image": "",
+            "url": ""
         }]
     }]
+}, {
+    "name": "Video",
+    "image": "https://www.shareicon.net/data/128x128/2016/01/11/701666_cinema_512x512.png",
+    "groups": [{
+        "name": "tieu de con 2",
+        "image": "",
+        "stations": [{
+            "name": "ten 1",
+            "image": "",
+            "url": ""
+        }, {
+            "name": "ten 2",
+            "image": "",
+            "url": ""
+        }, {
+            "name": "ten 3",
+            "image": "",
+            "url": ""
+        }]
+    }]
+}, {
+    "name": "Youtube",
+    "image": "https://www.shareicon.net/data/128x128/2015/09/13/100540_watch_512x512.png",
+    "groups": [{
+        "name": "Tieu de con 3",
+        "image": "",
+        "stations": [{
+            "name": "ten 1",
+            "image": "",
+            "url": ""
+        }, {
+            "name": "ten 2",
+            "image": "",
+            "url": ""
+        }, {
+            "name": "ten 3",
+            "image": "",
+            "url": ""
+        }]
+
+    }]
+}]
 }
