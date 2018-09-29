@@ -15,6 +15,99 @@
                 "name": "Mobifone TV",
                 "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
                 "stations": [{
+                    "name": "VTV1 HD",
+                    "image": "https://i.imgur.com/WpQtg0z.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "VTV2 HD",
+                    "image": "https://i.imgur.com/R7q7HZj.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/vtv2hd_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "VTV3 HD",
+                    "image": "https://i.imgur.com/o6SxT3q.png",
+                    "url": ""
+                }, {
+                    "name": "VTV4 HD",
+                    "image": "https://i.imgur.com/4yhPtDf.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "VTV5 HD",
+                    "image": "https://i.imgur.com/VBErOd8.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv3/vtv5_hls.smil/chunklist.m3u8"
+                }, {
+                    "name": "TTXVN",
+                    "image": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "HTV1",
+                    "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/437995-htv1.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "HTV2",
+                    "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/playlist.m3u8"
+                }, {
+                    "name": "HTV3",
+                    "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/628083-htv3.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8"
+                }, {
+                    "name": "HTV4",
+                    "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/740302-htv4.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/playlist.m3u8"
+                }, {
+                    "name": "HTV7",
+                    "image": "https://s5.postimg.cc/qdv4jgs9j/htv7.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/playlist.m3u8"
+                }, {
+                    "name": "HTV9",
+                    "image": "https://s5.postimg.cc/ixvuxoc9z/htv9.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/playlist.m3u8"
+                }, {
+                    "name": "HTVC - Ca nhạc",
+                    "image": "http://img.hplus.com.vn/355x200/poster/2017/04/20/593179-Canhac_FullHD.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "HTVC - Thuần Việt",
+                    "image": "http://img.hplus.com.vn/355x200/poster/2018/04/19/510395-thuanviet_stroke.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "HTVC - Phim",
+                    "image": "http://img.hplus.com.vn/355x200/poster/2018/04/19/489883-phim_stroke.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "HTVC - Thể Thao",
+                    "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/238258-htvtt.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "HTVC - Gia Đình",
+                    "image": "http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/playlist.m3u8"
+                }, {
+                    "name": "HTVC - Phụ Nữ",
+                    "image": "http://img.hplus.com.vn/355x200/poster/2018/04/19/449039-phunu_stroke.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "HTVC - Du Lịch",
+                    "image": "http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "VTC1 HD",
+                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_151489099811.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/myvtc1_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "VTC2 HD",
+                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_151489100971.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/myvtc2_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "VTC3 HD",
+                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+
+                    "name": "",
+                    "image": "",
+                    "url": ""
+                }, {
                     "name": "An Ninh Thế Giới",
                     "image": "http://mobion.vn/Files/Image/lqthinh/2017/12/08/temp_3153232049504426.jpg",
                     "url": "http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8"
@@ -43,70 +136,7 @@
                     "image": "https://i.imgur.com/NF5YDkn.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/playlist.m3u8"
                 }, {
-                    "name": "VTV 8 HD",
-                    "image": "https://i.imgur.com/9XsZ2fd.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8"
-                }, {
-                    "name": "VTV 9 HD",
-                    "image": "https://i.imgur.com/UBN3r3k.png",
-                    "url": "http://tranvinh.xyz/hls/vtv9.m3u8"
-                }, {
-                    "name": "VTC Play",
-                    "image": "https://i.imgur.com/zWkZ5In.png",
-                    "url": "http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8"
-                }, {
-                    "name": "ITV",
-                    "image": "https://i.imgur.com/kAEIsbp.png",
-                    "url": "http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8"
-                }, {
-                    "name": "VTC1 HD",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_151489099811.png",
-                    "url": ""
-                }, {
-                    "name": "VTC2 HD",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_151489100971.png",
-                    "url": ""
-                }, {
-                    "name": "VTC3 HD s1",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png",
-                    "url": "http://tranvinh.tk/load/hplus/?id=vtc3hd"
-                }, {
-                    "name": "VTC3 HD s2",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png",
-                    "url": "http://tranvinh.tk/load/hplus/?id=vtc3hd"
-                }, {
-                    "name": "VTC4",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png",
-                    "url": "http://hplus.vungtau.ml:12388/?header=hplus&name=vtc4&cdn=1"
-                }, {
-                    "name": "VTC7 HD",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc7-todaytv_145673310065.jpg",
-                    "url": "http://hplus.vungtau.ml:12388/?header=hplus&name=vtc7&cdn=1"
-                }, {
-                    "name": "VTC8",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_151489105074.png",
-                    "url": "http://hplus.vungtau.ml:12388/?header=hplus&name=vtc8&cdn=1"
-                }, {
-                    "name": "VTC9 HD",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc9_151496638696.png",
-                    "url": "http://hplus.vungtau.ml:12388/?header=hplus&name=vtc9&cdn=1"
-                }, {
-                    "name": "VTC10",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_151489106288.png",
-                    "url": "http://hplus.vungtau.ml:12388/?header=hplus&name=vtc10&cdn=1"
-                }, {
-                    "name": "VTC11",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png",
-                    "url": "http://hplus.vungtau.ml:12388/?header=hplus&name=vtc11&cdn=1"
-                }, {
-                    "name": "VTC14",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png",
-                    "url": "http://hplus.vungtau.ml:12388/?header=hplus&name=vtc14&cdn=1"
-                }, {
-                    "name": "VTC16",
-                    "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_151489098635.png",
-                    "url": "http://hplus.vungtau.ml:12388/?header=hplus&name=vtc16&cdn=1"
-                }, {
+
                     "name": "ten 4",
                     "image": "",
                     "url": ""
