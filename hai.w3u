@@ -1,1 +1,129 @@
+{
+    "name": "Giải trí",
+    "image": "https://www.shareicon.net/data/128x128/2016/08/18/814078_tv_512x512.png",
+    "url": "https://raw.githubusercontent.com/longhai/iptv/master/hai.w3u",
+    "author": "LongHải",
+    "contact": "lelonghai@gmail.com",
+    "info": "Giải trí đa phương tiện, xem tivi, Radio cho người Việt",
+    "groups": [{
+        "name": "Tivi",
+        "image": "https://www.shareicon.net/data/128x128/2015/10/10/653903_television_512x512.png",
+        "groups": [{
+            "name": "Việt Nam",
+            "image": "https://www.shareicon.net/data/128x128/2015/10/17/126415_vietnam_256x256.png",
+            "groups": [{
+                "name": "VTV1 HD s1",
+                "image": "https://i.imgur.com/WpQtg0z.png",
+                "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv1_hls.smil/chunklist_b1200000.m3u8"
+            }, {
+                "name": "VTV1 HD s2",
+                "image": "https://i.imgur.com/WpQtg0z.png",
+                "url": "http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8"
+            }, {
+                "name": "VTV2 HD",
+                "image": "https://i.imgur.com/R7q7HZj.png",
+                "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv2_hls.smil/chunklist_b1200000.m3u8"
+            }, {
+                "name": "VTV3 HD",
+                "image": "https://i.imgur.com/o6SxT3q.png",
+                "url": ""
+            }]
 
+        }, {
+
+            "name": "HTVC",
+            "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
+            "stations": [{
+                "name": "VTV1 HD s1",
+                "image": "https://i.imgur.com/WpQtg0z.png",
+                "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv1_hls.smil/chunklist_b1200000.m3u8"
+            }, {
+                "name": "",
+                "image": "",
+                "url": ""
+            }]
+
+        }, {
+            "name": "Thai lan",
+            "image": "https://www.shareicon.net/data/128x128/2015/11/13/164926_flag_256x256.png",
+            "stations": [{
+                "name": "ten 1",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 4",
+                "image": "",
+                "url": ""
+            }]
+        }, {
+            "name": "Trung Quốc",
+            "image": "https://www.shareicon.net/data/128x128/2015/10/17/126399_china_256x256.png",
+            "stations": [{
+                "name": "VTC 4",
+                "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png",
+                "url": "http://hplus.vungtau.ml:12388/?header=hplus&name=vtc4&cdn=1"
+            }, {
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 4",
+                "image": "",
+                "url": ""
+            }]
+        }]
+    }, {
+        "name": "Video",
+        "image": "https://www.shareicon.net/data/128x128/2016/01/11/701666_cinema_512x512.png",
+        "groups": [{
+            "name": "tieu de con 2",
+            "image": "",
+            "stations": [{
+                "name": "ten 1",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }]
+        }]
+    }, {
+        "name": "Youtube",
+        "image": "https://www.shareicon.net/data/128x128/2015/09/13/100540_watch_512x512.png",
+        "groups": [{
+            "name": "Tieu de con 3",
+            "image": "",
+            "stations": [{
+                "name": "ten 1",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 2",
+                "image": "",
+                "url": ""
+            }, {
+                "name": "ten 3",
+                "image": "",
+                "url": ""
+            }]
+
+        }]
+    }]
+}
