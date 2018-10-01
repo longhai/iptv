@@ -133,11 +133,12 @@
                 }]
             }, {
                 "name": "HTVC",
-                "image": "http://hcm.mobifonetv.vn/html/img/mobi/mobitv.png",
+                "image": "http://static.hplus.com.vn/themes/front/images/logohtvc.png",
                 "stations": [{
-                    "name": "VTV1 HD s1",
-                    "image": "https://i.imgur.com/WpQtg0z.png",
-                    "url": "http://live.cdn.mobifonetv.vn/motv2/myvtv1_hls.smil/chunklist_b1200000.m3u8"
+                    "name": "",
+                    "image": "",
+                    "url": "http://hplus.com.vn/xem-kenh-htv3-2535.html",
+					"isHost": true
                 }, {
                     "name": "",
                     "image": "",
