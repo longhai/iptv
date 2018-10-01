@@ -99,6 +99,22 @@
                     "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8"
                 }, {
+                    "name": "VTC7 HD-Today",
+                    "image": "https://i.imgur.com/VYm0bOc.png",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/mytodaytv_hls.smil/chunklist.m3u8"
+                }, {
+                    "name": "VTC9",
+                    "image": "https://gg.gg/vtc-9",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/myletsviet_hls.smil/chunklist.m3u8"
+                }, {
+                    "name": "VTC10-Nét Việt",
+                    "image": "https://gg.gg/vtc-10",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/myvtc10_hls.smil/chunklist.m3u8"
+                }, {
+                    "name": "VTC11-Kids",
+                    "image": "https://gg.gg/vtc-11",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/myvtc11_hls.smil/chunklist.m3u8"
+                }, {
                     "name": "TTXVN",
                     "image": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8"
@@ -130,16 +146,63 @@
                     "name": "An Viên HD",
                     "image": "https://i.imgur.com/NF5YDkn.png",
                     "url": "http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/playlist.m3u8"
+                }, {
+                    "name": "Vĩnh Long 1",
+                    "image": "https://i.imgur.com/jrqRa5G.jpg",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/mythvl1_hls.smil/chunklist.m3u8"
+                }, {
+                    "name": "Vĩnh Long 2",
+                    "image": "https://i.imgur.com/4dl2oLg.jpg",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/mythvl2_hls.smil/chunklist.m3u8"
+                }, {
+                    "name": "TRÀ VINH",
+                    "image": "https://gg.gg/travinh",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/mytravinh_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "THP-HẢI PHÒNG",
+                    "image": "https://gg.gg/hphong",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/mythp_hls.smil/chunklist_b1200000.m3u8 "
+                }, {
+                    "name": "BÌNH DƯƠNG 1",
+                    "image": "https://gg.gg/binhduong1",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "BÌNH DƯƠNG 2",
+                    "image": "https://gg.gg/binhduong2",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "CẦN THƠ",
+                    "image": "https://gg.gg/can-tho",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/mythtpct_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "KIÊN GIANG",
+                    "image": "https://gg.gg/kiengiang",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/mykiengiang_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "LONG AN",
+                    "image": "https://gg.gg/longan",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/mylongan_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": "AN GIANG",
+                    "image": "https://gg.gg/angiang",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/myangiang_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": " BÀ RỊA VŨNG TÀU",
+                    "image": "https://gg.gg/vung-tau",
+                    "url": "http://live.cdn.mobifonetv.vn/motv/mybrt_hls.smil/chunklist_b1200000.m3u8"
+                }, {
+                    "name": " ĐỒNG THÁP 1",
+                    "image": "https://gg.gg/dongthap1",
+                    "url": "http://live.cdn.mobifonetv.vn/motv2/mythdt_hls.smil/chunklist_b1200000.m3u8"
                 }]
             }, {
                 "name": "HTVC",
                 "image": "http://static.hplus.com.vn/themes/front/images/logohtvc.png",
                 "stations": [{
-                    "name": "HTV3",
-                    "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/628083-htv3.png",
+                    "name": "",
+                    "image": "",
                     "url": "http://hplus.com.vn/xem-kenh-htv3-2535.html",
-		    "referrer": "http://hplus.com.vn/xem-kenh-htv3-2535.html",
-		    "isHost": true
+                    "isHost": true
                 }, {
                     "name": "",
                     "image": "",
@@ -209,7 +272,7 @@
         }]
     }, {
         "name": "Youtube",
-        "image": "https://www.shareicon.net/data/128x128/2016/06/19/603925_youtube_512x512.png",
+        "image": "https://www.shareicon.net/data/128x128/2015/09/13/100540_watch_512x512.png",
         "groups": [{
             "name": "Tieu de con 3",
             "image": "",
