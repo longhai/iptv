@@ -135,8 +135,8 @@
                 "name": "HTVC",
                 "image": "http://static.hplus.com.vn/themes/front/images/logohtvc.png",
                 "stations": [{
-                    "name": "",
-                    "image": "",
+                    "name": "HTV3",
+                    "image": "http://img.hplus.com.vn/355x200/poster/2016/10/10/628083-htv3.png",
                     "url": "http://hplus.com.vn/xem-kenh-htv3-2535.html",
 					"isHost": true
                 }, {
