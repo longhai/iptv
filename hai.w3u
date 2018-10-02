@@ -215,7 +215,15 @@
                     "image": "https://gg.gg/htv-4",
                     "url": "http://ott.realplaytv.net:12388/?header=hplus&name=htv4&cdn=1"
                 }, {
-                    "name": "VTC1 HD",
+                    "name": "HTV7 HD",
+                    "image": "https://gg.gg/htv-7",
+                    "url": "http://lich.xemtiviso.tv/90min.php?id=htv7&token=Yrl8y0qM_ccDBo9IKpJo1g&e=1538439798"
+				}, {
+                    "name": "HTV9 HD",
+                    "image": "https://gg.gg/htv-9",
+                    "url": "http://lich.xemtiviso.tv/90min.php?id=htv9&token=SNwiI1nPNIQRXAIXgFh-jQ&e=1538440402"
+				}, {	
+					"name": "VTC1 HD",
                     "image": "https://gg.gg/vtc-1",
                     "url": "http://ott.realplaytv.net:12388/?header=hplus&name=vtc1&cdn=1"
                 }, {
