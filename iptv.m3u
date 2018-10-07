@@ -1,4 +1,886 @@
 #EXTM3U Long Hải
+#EXTINF:-1 group-title="VTV",VTV
+#EXTINF: -1,VTV1 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8
+#EXTINF: -1,VTV2 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8
+#EXTINF: -1,VTV3 HD
+http://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b1500000.m3u8
+#EXTINF: -1,VTV4 HD
+http://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b1500000.m3u8
+#EXTINF: -1,VTV5 HD
+http://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,VTV6 HD
+http://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,VTV7 HD
+
+
+
+http://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b1500000.m3u8
+#EXTINF:0,VTV8 HD
+http://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/playlist.m3u8
+#EXTINF:-1,VTV9 HD
+http://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="VTVcab",VTVcab
+#EXTINF:-1,VTVcab1
+
+#EXTINF:-1,VTVcab2
+
+#EXTINF:-1,VTVcab3
+
+#EXTINF:-1,VTVcab6
+
+#EXTINF:-1,VTVcab7
+
+#EXTINF:-1,VTVcab8
+
+#EXTINF:-1,VTVcab10
+
+#EXTINF:-1,VTVcab11
+https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/chunklist.m3u8
+#EXTINF:-1, VTVcab12
+
+#EXTINF:-1,VTVcab16
+
+#EXTINF:-1,VTVcab17
+
+#EXTINF:-1,VTVcab19
+
+#EXTINF:-1,VTVcab20
+
+#EXTINF:-1 group-title="SCTV",SCTV
+#EXTINF: -1,SCTV1 HD
+
+#EXTINF: -1, SCTV5
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
+#EXTINF: -1,SCTV7
+
+#EXTINF: -1, SCTV8
+
+#EXTINF: -1,SCTV9 HD
+
+#EXTINF: -1, SCTV10
+rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_3
+#EXTINF: -1,SCTV12 HD
+
+#EXTINF: -1,SCTV14 HD
+
+#EXTINF: -1,SCTV15
+
+#EXTINF: -1,SCTV17
+
+#EXTINF: -1,SCTV19
+
+#EXTINF: -1,SCTV20
+http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC",VTC
+#EXTINF:-1 ,VTC Play
+http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
+#EXTINF:-1 ,VTC1
+
+#EXTINF:-1 ,VTC3
+
+#EXTINF:-1 ,VTC4
+
+#EXTINF:-1 ,VTC5
+http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_w973536658_b2292000.m3u8
+#EXTINF:-1 ,VTC7
+
+#EXTINF:-1 ,VTC8
+
+#EXTINF:-1 ,VTC9
+
+#EXTINF:-1 ,VTC10
+
+#EXTINF:-1 ,VTC11
+
+#EXTINF:-1,VTC14 HD
+
+#EXTINF:-1,VTC16
+
+
+#EXTINF:-1 group-title="HTV-HTVC",HTV-HTVC
+#EXTINF:-1,HTV1
+http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1
+#EXTINF:-1,HTV2
+http://ott.realplaytv.net:12388/?header=hplus&name=htv2&cdn=1
+#EXTINF:-1,HTV3
+http://ott.realplaytv.net:12388/?header=hplus&name=htv3&cdn=1
+#EXTINF:-1,HTV4
+http://ott.realplaytv.net:12388/?header=hplus&name=htv4&cdn=1
+#EXTINF:-1,HTV7
+
+#EXTINF:-1,HTV9
+
+#EXTINF:-1,HTV The Thao
+
+#EXTINF:-1,HTVC+
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_fbnc&cdn=1
+#EXTINF:-1,HTVC FBNC HD
+
+#EXTINF:-1,HTVC Ca Nhac
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_ca_nhac&cdn=1
+#EXTINF:-1,HTVC Phim
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phim&cdn=1
+#EXTINF:-1,HTVC VGS Shop
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_shopping&cdn=1
+#EXTINF:-1,HTVC Thuan Viet
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_thuan_viet&cdn=1
+#EXTINF:-1,HTVC Du Lich va Cuoc Song
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_du_lich&cdn=1
+#EXTINF:-1,HTVC Gia Dinh
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_gia_dinh&cdn=1
+#EXTINF:-1, HTV CO.OP
+
+#EXTINF:-1,HTVC Phu Nu
+
+
+#EXTINF:-1 group-title="VIET NAM KHAC",VIET NAM KHAC
+#EXTINF:-1,Keeng Music
+http://125.235.29.16/livetv/keeng.m3u8
+#EXTINF:-1 ,NHAN DAN
+http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
+#EXTINF:-1 ,QPVN
+rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
+#EXTINF:-1,TTXVN
+rtmp://live.vnanet.vn/Live//DRC
+#EXTINF:-1,ANTV HD
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1,Quoc Hoi
+http://1.54.250.40:1935/live/quochoitvlive.stream_360p/chunklist_w1173139067.m3u8
+#EXTINF:0,VOV
+
+
+#EXTINF:-1 group-title="MOBITV",MOBITV
+#EXTINF:-1,ANVIEN HD
+
+#EXTINF:-1 ,ANTG HD
+
+#EXTINF:-1 ,NCM
+
+#EXTINF:-1 ,Phim Hay HD
+
+#EXTINF:-1 ,Mien Tay
+
+#EXTINF:-1, VIETTEEN HD
+
+#EXTINF:-1 ,SAM HD
+
+
+#EXTINF:-1 group-title="KENH DIA PHUONG",DIA PHUONG
+#EXTINF:-1,Ha Noi 1 HD
+http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
+#EXTINF:-1 ,Ha Noi 2 HD
+
+#EXTINF:-1 ,Lang Son
+
+#EXTINF:-1 ,Thai Nguyen 1 HD
+rtmp://45.124.85.26/oflaDemo/livestream
+#EXTINF:-1 ,Hoa Binh
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:-1 ,Quang Ninh 1
+rtmp://123.29.68.44/hctv/vstv020
+#EXTINF:-1,Quang Ninh 3
+rtmp://123.29.68.44/hctv/vstv021
+#EXTINF:-1 ,Hung Yen
+http://42.112.16.101:1935/live/HYTV/playlist.m3u8
+#EXTINF:-1 ,Ha Nam
+http://113.160.198.111/Medias/HaNam/720P/playlist.m3u8
+#EXTINF:-1 ,Phu Tho HD
+http://118.107.68.10:1935/live/smil:PhuthoBU.smil/chunklist_w529681116_b1264000_slVIE.m3u8
+#EXTINF:-1,Bac Kan
+http://118.107.68.10:1935/live/_definst_/BK_live/chunklist_w585681733.m3u8
+#EXTINF:-1,Son La
+http://118.107.68.10:1935/live/smil:Sonlatv.smil/chunklist_w653354115_b1264000_slVIE.m3u8
+#EXTINF:-1,Hai Phong HD
+http://118.107.68.10:1935/live/smil:Haiphong1.smil/playlist.m3u8
+#EXTINF:-1,Hai Phong+
+
+#EXTINF:-1,Tuyen Quang 1
+rtmp://210.245.89.40:1935/live/livestream
+#EXTINF:-1,Thai Binh HD
+rtmp://118.70.118.191/live/thaibinhtv
+#EXTINF:-1,Bac Ninh HD
+http://118.107.68.10:1935/live/_definst_/BTVHD_12806b51bdf7ac364126%20/chunklist_w906928145.m3u8
+#EXTINF:-1,Vinh Phuc
+rtmp://117.6.162.63/live/thvp
+#EXTINF:-1,Ha Giang
+http://118.107.68.10:1935/live/_definst_/HG_live/chunklist_w1552249793.m3u8
+
+Trung Bo
+
+#EXTINF:-1 ,Da Nang 1 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 ,Da Nang 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 ,TT-Hue
+http://ott.realplaytv.net:12388/?header=hplus&name=Hue&cdn=1
+#EXTINF:-1 ,Ha Tinh
+http://hatinhtv.vn/liveevent.m3u8
+#EXTINF:-1 ,Phu Yen
+http://113.161.4.48:8080/phuyen/tv.m3u8
+#EXTINF:-1 ,Quang Tri
+http://118.107.68.10:1935/live/smil:Quangtri.smil/chunklist_w483478358_b1264000_slVIE.m3u8
+#EXTINF:-1,Quang Ngai
+http://118.107.68.10:1935/live/smil:QuangNgaitv.smil/chunklist_w808231548_b864000_slVIE.m3u8
+#EXTINF:-1,Lam Dong
+http://118.107.68.10:1935/live/smil:Lamdongtv.smil/chunklist_w1902035114_b1264000_slVIE.m3u8
+#EXTINF:-1,Dak Lak
+http://118.69.161.9:8134/liveevent.m3u8
+#EXTINF:-1 ,Gia Lai
+http://113.161.25.3:8134/hls-live/livepkgr/_definst_/liveevent/gltv.m3u8
+#EXTINF:-1,Kon Tum
+http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
+#EXTINF:-1,Ninh Thuan
+rtmp://203.113.166.233/live/NTV_VIDEO
+#EXTINF:-1,Binh Thuan
+http://222.255.123.4:1939/thbttv/bttv/playlist.m3u8
+#EXTINF:-1 ,Thanh Hoa
+http://123.30.191.202/hls/ttv.m3u8
+
+Nam Bo
+
+#EXTINF:-1 ,Ba Ria-Vung Tau HD
+http://113.163.216.23:1935/live/tv1.stream_480p/chunklist_w799717235.m3u8
+#EXTINF:-1 ,Binh Phuoc 1
+http://118.69.197.145/hls/bptv1.m3u8
+#EXTINF:-1 ,Binh Phuoc 2
+http://118.69.197.145/hls/bptv2.m3u8
+#EXTINF:-1 ,Ben Tre
+rtmp://113.163.94.245/livepkgr/thbt
+#EXTINF:-1 ,Soc Trang 1
+rtmp://115.78.3.164/live/stv1
+#EXTINF:-1 ,Bac Lieu
+rtmp://118.69.205.213/livepkgr/livestream1
+#EXTINF:-1,Binh Duong 1 HD
+http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Tien Giang
+rtmp://123.30.141.4/live/thtg
+#EXTINF:-1,Ca Mau
+
+#EXTINF:-1,Vinh Long 1 HD
+http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
+#EXTINF:-1,Vinh Long 2
+http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
+#EXTINF:-1,Tra Vinh
+http://123.30.191.202/hls/travinh.m3u8
+#EXTINF:-1,Dong Nai 1 HD
+http://118.107.68.10:1935/live/smil:Dongnai1.smil/playlist.m3u8
+#EXTINF:-1,Dong Nai 2 HD
+http://118.107.68.10:1935/live/smil:DNAI2WEB.smil/playlist.m3u8
+#EXTINF:-1,Dong Nai 9
+http://118.107.68.10:1935/live/smil:DNAI9WEB.smil/chunklist_w366232911_b1264000_slVIE.m3u8
+#EXTINF:-1 ,An Giang 1
+rtmp://221.133.9.35/live//1.stream_360p
+#EXTINF:-1 ,Long An
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+#EXTINF:-1 ,Ben Tre
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+#EXTINF:-1 ,Can Tho
+
+#EXTINF:-1 ,Soc Trang 1
+rtmp://113.163.189.104/live/stv1
+#EXTINF:-1 ,Soc Trang 2
+rtmp://113.163.189.104/live/stv2
+#EXTINF:-1,Kien Giang
+
+
+#EXTINF:-1 group-title="KENH HAI NGOAI",KENH HAI NGOAI
+#EXTINF:-1 ,VietNews TV
+http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
+#EXTINF:-1 ,IBC 57.8
+http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/playlist.m3u8
+#EXTINF:-1,VNATV 57.3
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
+#EXTINF:-1,VIET MY
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+#EXTINF:-1,VBS 57.6
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+#EXTINF:-1,VSAM 1040 TV
+rtmp://uni5rtmp.tulix.tv/playout2multi10/playout2multi10.stream
+#EXTINF:-1,KVLA TV 56.5
+http://fosive89.flashmediacast.com:1935/fosive89/livestream/playlist.m3u8
+#EXTINF:-1,Cong Giao
+http://saigontvtv.saigon.ns01.us:1935/conggiao/myStream/playlist.m3u8
+#EXTINF:-1,S CHANNEL TV 56.6
+http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w503091201.m3u8
+#EXTINF:-1 ,Vpop TV
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vpoptv/playlist.m3u8&u=guest
+#EXTINF:-1 ,Rang Dong
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/rangdong/playlist.m3u8&u=guest
+#EXTINF:-1 ,VBolero TV
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/playlist.m3u8&u=guest
+
+#EXTINF:-1 group-title="Quoc Te Vietnamese",Quoc Te Vietnamese
+
+#EXTINF:-1 group-title="Radio",Radio
+#EXTINF: -1 ,VOV 2
+https://5a6872aace0ce.streamlock.net/vov2/vov2.stream_aac/chunklist_w896439428.m3u8
+#EXTINF: -1 ,VOV 5
+https://5a6872aace0ce.streamlock.net/vov5/vov5.stream_aac/chunklist_w2088471830.m3u8
+#EXTINF:-1 ,Ba Ria-Vung Tau FM 92.0 Mhz
+http://113.163.216.23:1935/live/radio1.sdp_audio/chunklist_w1204585038.m3u8
+#EXTINF:-1,Ben Tre FM 97.9 Mhz
+rtmp://113.163.94.245/livepkgr/audiostream
+#EXTINF:-1,Binh Phuoc FM 89.4 Mhz
+http://118.69.197.145/hls/radio.m3u8
+#EXTINF:-1, Binh Thuan FM 92.3 Mhz
+rtmp://222.255.123.4:1939/thbtradio/btradio
+#EXTINF:-1 ,Da Nang FM 96.3 Mhz
+http://drtdnglive.e49a7c38.cdnviet.com/liveradio/chunklist.m3u8
+#EXTINF:-1 ,Dong Thap FM 98.4 Mhz
+rtmp://123.30.110.170:1939/thdt/radio
+#EXTINF:-1,Gia Lai FM 102 Mhz
+rtmp://113.161.25.3/livepkgr/radio?adbe-live-event=liveevent
+#EXTINF:-1,Hau Giang FM 89.6 Mhz
+rtmp://123.30.110.170:1939/hgradio/pthg
+#EXTINF:-1 ,Thua Thien-Hue FM 106.1 Mhz
+rtmp://118.69.176.149:1936/live/radio
+#EXTINF:-1,JOYFM
+rtmp://radio.joyfm.vn:1935/live/RadioOnline
+#EXTINF:-1,VOH FM 99.9 MHz
+http://120.72.118.102:1935/live/channel3/playlist.m3u8
+#EXTINF:-1,VOH AM 610 KHz
+http://120.72.118.102:1935/live/channel2/playlist.m3u8
+#EXTINF:-1,VOH FM 95.6 Mhz
+http://120.72.118.102:1935/live/channel1/playlist.m3u8
+#EXTINF:-1,Cherry Radio:Tin Tuc va Am Nhac Viet Nam
+http://50.7.96.210:8618/;stream.mp3
+#EXTINF:-1,Cherry Radio:Nhac Tru Tinh
+http://174.37.252.208:8500/;stream.mp3
+#EXTINF:-1,Viet Thao Radio
+http://173.193.205.96:8047/;stream.nsv
+#EXTINF:-1,Nationwide Viet Radio (NVR)
+http://vndcradio2.serverroom.us:4480/;
+#EXTINF:-1 ,Thoi Bao Radio
+http://209.250.131.2:8000/;stream.mp3
+#EXTINF:-1 ,Vietnamese Public Radio Washington DC
+http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1,Saigon Radio Seattle (SRBS)
+http://170.75.194.209:8888
+#EXTINF:-1,99.5 The Word
+http://17553.live.streamtheworld.com/KGUFM_SC
+#EXTINF:-1,VOA
+http://voa28.akacast.akamaistream.net/7/325/437810/v1/ibb.akacast.akamaistream.net/voa28
+#EXTINF:-1 ,Retro FM
+http://retroserver.streamr.ru:8043/retro64
+#EXTINF:-1,Applaus
+http://mp3stream3.abradio.cz:8000/applaus128.mp3
+#EXTINF:-1,Radio Humor
+http://mp3stream4.abradio.cz/humor128.mp3
+#EXTINF:-1,LOUNGE1
+http://188.138.9.183:80/100austria.mp3
+#EXTINF:-1,LOUNGE2
+http://188.138.9.183:80/digital.mp3
+#EXTINF:-1, LOUNGE3
+http://188.138.9.183:80/kaernten.mp3
+#EXTINF:-1, LOUNGE4
+http://188.138.9.183:80/lounge-at.mp3
+#EXTINF:-1, LOUNGE5
+http://188.138.9.183:80/drei.mp3
+#EXTINF:-1, LOUNGE6
+http://188.138.9.183:80/lounge-austria.mp3
+#EXTINF:-1,LOUNGE7
+http://188.138.9.183:80/lounge-grz.mp3
+#EXTINF:-1,LOUNGE8
+http://188.138.9.183:80/reeperbahn.mp3
+#EXTINF:-1,LOUNGE9
+http://188.138.9.183:80/ukwwien.mp3
+#EXTINF:-1,FRANCE MAGHREB 2
+http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
+#EXTINF:-1,RAYA
+http://217.66.226.47:8064/;
+#EXTINF:-1,RADIO MARIA ITALIA
+http://dreamsiteradiocp2.com:8016/;
+#EXTINF:-1,Radio Monte Carlo
+http://icecast.unitedradio.it/RMC.mp3
+#EXTINF:-1,Default Radio
+http://194.177.250.69:8000
+#EXTINF:-1,RTL
+http://rtldtl.hoerradar.de/rtldtl-ukw-mp3-128
+#EXTINF:-1,RTHK RADIO
+http://stm1.rthk.hk/radio4
+#EXTINF:-1,Sarika FM
+http://202.79.26.170:5000/province1.mp3
+#EXTINF:-1,ReggaeTrade Radio
+http://sc-reggae.1.fm:7000/
+#EXTINF:-1,ICTunes
+http://mediaserver2.islamicity.com:8000/ictunes
+#EXTINF:-1,Allahu Akbar Radio
+http://66.45.232.132:9996/
+#EXTINF:-1,Zahraun Radio Station
+http://stream.radio.co/sb09935cec/listen
+#EXTINF:-1,RVL Channel 1
+http://live.vaticanwebradio.org/channel1.mp3
+
+#EXTINF:-1,RVL Channel10
+http://live.vaticanwebradio.org/channel10.mp3
+
+#EXTINF:-1,RVL Channel11
+http://live.vaticanwebradio.org/channel11.mp3
+
+#EXTINF:-1,RVL Channel 2
+http://live.vaticanwebradio.org/channel2.mp3
+
+#EXTINF:-1,RVL Channel 3
+
+http://live.vaticanwebradio.org/channel3.mp3
+
+#EXTINF:-1,RVL Channel 4
+
+http://live.vaticanwebradio.org/channel4.mp3
+
+#EXTINF:-1,RVL Channel 5
+http://live.vaticanwebradio.org/channel5.mp3
+
+#EXTINF:-1,RVL Channel 6
+
+http://live.vaticanwebradio.org/channel6.mp3
+
+#EXTINF:-1,RVL Channel 7
+
+http://live.vaticanwebradio.org/channel7.mp3
+
+#EXTINF:-1,RVL Channel 8
+
+http://live.vaticanwebradio.org/channel8.mp3
+
+#EXTINF:-1,RVL Channel 9
+
+http://live.vaticanwebradio.org/channel9.mp3
+#EXTINF:-1,Chill-out Radio
+http://streaming.radionomy.com/Chill-outRadio
+#EXTINF:-1,VOAR1
+http://192.99.17.12:5836/;
+#EXTINF:-1 ,KBS LIVE
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?wowzasessionid=179252988
+#EXTINF:-1,Detskyi kanal
+http://icecast.russkoeradio.cdnvideo.ru/st28.mp3
+#EXTINF:-1,Russian! Radio
+http://play.russianradio.eu/
+#EXTINF:-1,RFI MUSIQUE
+http://live02.rfi.fr/rfimusiquemonde-64k.mp3
+#EXTINF:-1,RFI
+http://live02.rfi.fr/rfimonde-64.mp3
+#EXTINF:-1,RFE/RL
+http://rfe-channel-04.akacast.akamaistream.net/7/885/229654/v1/ibb.akacast.akamaistream.net/rfe_channel_04.mp3
+#EXTINF:-1,K ADDICTS
+http://streaming.radionomy.com/JamendoLounge
+#EXTINF:-1,FARDA RADIO
+http://rfe-channel-21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3
+#EXTINF:-1,KSQQ FM
+http://war.str3am.com:8480/ksqq?type=.mp3/;stream.mp3
+#EXTINF:-1,Al Khaleejiya
+http://20863.live.streamtheworld.com/AL_KHALEEJIA.mp3
+#EXTINF:-1,Abu Dhabi Radio
+http://19643.live.streamtheworld.com/ABU_DHABI.mp3
+#EXTINF:-1,City 101.6
+http://19373.live.streamtheworld.com/ARNCITY.mp3
+#EXTINF:-1,KBIC
+http://kbic.info:8880/;
+#EXTINF:-1,CYPRUS DUB COMMUNITY
+http://50.7.77.114:8479/stream?type=.mp3/;stream.mp3
+#EXTINF:-1,RTHK Putonghua Radio
+http://202.177.192.119/radiopth?type=.mp3/;stream.mp3
+#EXTINF:-1,ARIZONA SPORTS
+http://19793.live.streamtheworld.com:3690/KMVPFM_SC
+#EXTINF:-1,Avanza
+http://icecasthd.net:26262/live
+#EXTINF:-1,Muslim Community
+http://2mfm.org.au:8000/live
+
+#EXTINF:-1 group-title="Quoc Te",Quoc Te
+#EXTINF:-1,Nasa
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF: -1,CBS HD
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1454832910.m3u8
+#EXTINF:-1 ,Aljazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1,Aljazeera Arab
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1, DREAM TURK
+http://188.138.9.246/S2/HLS_LIVE/dreamturktv/index.m3u8
+#EXTINF:-1,KTO
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1,REEMISSIO 3 24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 ,CGTN ESPANOL
+https://live.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 ,CGTN ARAB
+https://live.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1,NEW TV 18
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+#EXTINF:-1,NHK WORLD JAPAN
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1,Sat7 Kids
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1 ,BLUESKY CHANNEL
+http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
+#EXTINF:-1,CHANNEL 2
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:-1,Animal Planet HD WORLD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF:-1,Discovery Kids
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225775/01.m3u8
+#EXTINF:-1 ,ZEE Sarthak TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226107/01.m3u8
+#EXTINF:-1 ,ZeeTV HD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/01.m3u8
+#EXTINF:-1,Zee BIOSKOP
+http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
+#EXTINF:-1 ,BBC WORLD NEWS
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/01.m3u8
+#EXTINF:-1 ,BBC NEW ARAB
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,VASANTH
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226321/01.m3u8
+#EXTINF:-1 ,WOW CINEMA
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226263/index.m3u8
+#EXTINF:-1,K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 ,M20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 ,SKY TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 ,DW ARAB
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 ,RTV
+http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+#EXTINF:-1 ,ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF: -1,Anti terrorism
+http://streamer12.elementssys.com:8080/SAUDI-Channels/Erhab/playlist.m3u8
+#EXTINF: -1,NTV
+http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8
+#EXTINF: -1,Al Quds
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 ,Al AQSA
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1,Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 ,Al RAI
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+#EXTINF:-1 ,LIBYA TV
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:-1 ,ABC NEW
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 ,RTE NEWS NOW
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1 ,VISION 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 ,Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 ,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 ,TLC HD WORLD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+#EXTINF:-1 ,ENTERR 10
+http://mhms8.airtel.tv/wh7f454c46tw3950346535_1991919477/PLTV/88888888/224/3221226218/index.m3u8
+#EXTINF:-1 ,NeoSports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+#EXTINF:-1, ESB Kids
+rtmp://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m
+#EXTINF:-1, SONY BBC EARTH HD
+http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
+#EXTINF:-1 ,SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:-1, SONY TEN 1
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:-1 ,SONY TEN 3
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 ,SONY TEN 2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1,XSport
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/996/index.m3u8
+#EXTINF:-1,thrill
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1,ANIPLUS
+http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
+#EXTINF:-1,Imam Hussein
+http://live.imamhossaintv.com/live/ih201/index.m3u8
+#EXTINF:-1,Angel TV
+http://angeltvnetworkchannel.live-s.cdn.bitgravity.com/cdn-live/_definst_/angeltvnetworkchannel/live/AngelTV_India_3/playlist.m3u8
+#EXTINF:-1,SBT TV
+http://202.142.203.28:1935/live/sbt_tv_aac_300/playlist.m3u8
+#EXTINF:-1,Santo Rosario
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 ,TJK TV
+http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1,Noe Zive
+http://w100.quickmedia.tv/prozeta-live04/_definst_/smil:prozeta-live04.smil/playlist.m3u8?id=mPlBT3LQpFbB8K-03
+#EXTINF:-1,10 SV
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
+#EXTINF:-1,Kabbalah TV
+http://edge1.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8
+#EXTINF:-1,Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,1 TRK
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:-1, A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:-1 ,PAC 12 NETWORK
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+#EXTINF:-1 ,PAC 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1 ,PAC 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1,CCTV 1
+http://202.120.58.89/hls/cctv1.m3u8
+#EXTINF:-1,CCTV 2
+http://202.120.58.89/hls/cctv2.m3u8
+#EXTINF:-1,CCTV 3
+http://202.120.58.89/hls/cctv3.m3u8
+#EXTINF: -1, CCTV 5 HD
+http://202.120.58.89/hls/cctv5hd.m3u8
+#EXTINF: -1, CCTV 5+ HD
+http://202.120.58.89/hls/cctv5phd.m3u8
+#EXTINF: -1, CCTV 6 HD
+http://202.120.58.89/hls/cctv6hd.m3u8
+#EXTINF: -1, CCTV 7
+http://202.120.58.89/hls/cctv7.m3u8
+#EXTINF: -1, CCTV 8
+http://202.120.58.89/hls/cctv8.m3u8
+#EXTINF: -1, CCTV 9
+http://202.120.58.89/hls/cctv9.m3u8
+#EXTINF: -1, CCTV 10
+http://202.120.58.89/hls/cctv10.m3u8
+#EXTINF: -1, CCTV 11
+http://202.120.58.89/hls/cctv11.m3u8
+#EXTINF: -1, CCTV 12
+http://202.120.58.89/hls/cctv12.m3u8
+#EXTINF: -1, CCTV 13
+http://202.120.58.89/hls/cctv13.m3u8
+#EXTINF: -1, CCTV 14
+http://202.120.58.89/hls/cctv14.m3u8
+#EXTINF: -1, CCTV 15
+http://202.120.58.89/hls/cctv15.m3u8
+#EXTINF: -1, CCTV 16
+http://202.120.58.89/hls/cctv16.m3u8
+#EXTINF:-1 ,CCTV4
+http://edge2.everyon.tv/etv2/phd1212/chunklist_w626576626.m3u8
+#EXTINF:-1 ,Sunny News
+http://pulllive-al.wasu.cn/live/1528461345367108.m3u8
+#EXTINF:-1, HNNTV
+http://stream1.hnntv.cn/lyws/sd/live.m3u8
+#EXTINF:-1,Hubei TV
+http://live.cjyun.org/video/s10008-hbws2018/index.m3u8
+#EXTINF:-1,Aussie Sports
+http://103.233.191.135:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1,RTHK 31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+#EXTINF:-1,QSTV
+http://live.scqstv.com:84/live/test.m3u8
+#EXTINF:-1, BHTV1
+http://60.30.52.41/live/bhtv1/chunklist_w1051818975.m3u8
+#EXTINF:-1, NEXTTV
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1, BHTV2
+http://60.30.52.41/live/bhtv2/chunklist_w1962772716.m3u8
+#EXTINF:-1,Oriental Finance Pudong
+http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
+#EXTINF:-1,Satellite TV
+http://iss04.ott.net.tw:8084/live/coship_DCTV0001421917060555_1200.m3u8
+#EXTINF:-1 ,HKS HD
+rtmp://zhibo.hkstv.tv/livestream/zb2yhapo
+#EXTINF:-1 ,TVB Financial Information Desk
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
+#EXTINF:-1,TVB Entertainment News Channel
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+#EXTINF:-1,SXBC
+http://stream.snrtv.com/sxtvs-1.m3u8
+#EXTINF:-1, HEBTV
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1 ,MEDIARORP 8
+https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
+#EXTINF:-1 ,MEDIARORP U
+https://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index.m3u8
+#EXTINF:-1 ,MEDIARORP 5
+https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
+#EXTINF:-1,Abu Dabi Sport 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,Abu Dabi Sport 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 ,5 HD 1
+http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
+#EXTINF:-1,HTC
+http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
+#EXTINF:-1,SEA TV
+http://203.189.147.211:1935/live/mp4:myStream_720p/playlist.m3u8
+#EXTINF:-1,Bayon TV
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
+#EXTINF:-1,BTV
+http://203.176.130.123:8989/live/bayontv1_480k.stream/chunklist_w721285111.m3u8
+#EXTINF:-1 ,Thai PBS 3 HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1,RHM
+rtmp://115.178.24.80:1935/dvr/_definst_/c1.stream
+#EXTINF:-1,PNN
+rtmp://115.178.24.80:1935/dvr/_definst_/c6.stream
+#EXTINF:-1,CTN
+rtmp://115.178.24.80:1935/dvr/_definst_/c8.stream
+#EXTINF:0, ABU DHABI
+http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
+#EXTINF:-1 ,ALL THE K-POP HD
+https://stream-04.sv6.dailymotion.com/dm/3/x4kzk1v/live-3.m3u8
+#EXTINF:-1,Young Star
+http://edge2.everyon.tv/etv2sb/phd1377/chunklist_w703480797.m3u8
+#EXTINF:-1, MTV Rocks
+http://81.200.50.4/hls/MTV_Rocks_nejtv_portable_low.m3u8
+#EXTINF:-1, HeartTV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
+#EXTINF:-1 ,Ynet TV
+http://162.244.83.199:1935/ynettv/ynettv/playlist.m3u8
+#EXTINF:-1 ,Realmadrid TV
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,NewsmaxTV HD
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1,NEO PRIME
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 ,AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
+#EXTINF:-1,Japan Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_3000.m3u8
+#EXTINF:-1,ARY DIGITAL
+http://158.69.228.195:1935/digitalnew/myStream/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225872/01.m3u8
+#EXTINF:-1, DIVINITY
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+#EXTINF:-1 ,DSPORTS HD
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/index.m3u8
+#EXTINF:-1,Bernama TV
+http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama2_all.smil/media.m3u8
+#EXTINF: -1, CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1 ,10 Channel
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1 ,Hidabroot
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:-1,Knesset
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 ,AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 ,Tele-Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF: -1, Assemblee Nationale du Quebec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1,ZIZ
+http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
+#EXTINF:-1,RTV Drenthe
+http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
+#EXTINF:-1,Soyuz
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1, Astro Arena HD
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
+#EXTINF:-1,Tele M1
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1,FOX Crime
+http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8
+#EXTINF:-1,NICK JR
+http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
+#EXTINF:-1,Nat Geo People
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
+#EXTINF:-1 , ForoTV HD
+https://d2an0zg96v9ivp.cloudfront.net/out/u/forotv-flowplayer_5.m3u8
+#EXTINF: -1, Canal Once Mexico
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+#EXTINF:-1, VTV De Venezuela
+http://162.212.178.134:1935/vicatv/vicatv/index.m3u8
+#EXTINF:-1, TRA 45
+http://ss1.domint.net:2310/tra_str/canal45/chunklist_w1584687002.m3u8
+#EXTINF:-1, NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1,OPOJA
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1,REPORT
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:-1,MDF1
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1,Hr
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1,BR
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8%20
+#EXTINF:-1,TELERED
+https://59ef525c24caa.streamlock.net/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1,TeLeSUR
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1,ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,Ishtar TV
+http://162.244.81.145:4436/live/ishtar/playlist.m3u8
+#EXTINF:-1,KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1,KTV 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1,Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1,C MORE FOTBOLL HD
+http://163.172.222.83:8100/live/amir/123456789/2251.m3u8
+#EXTINF:-1,C MORE GOLF HD
+http://163.172.222.83:8100/live/amir/123456789/2249.m3u8
+#EXTINF:-1,24H
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=400000.m3u8
+#EXTINF:-1,3 24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1,3CAT
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF: -1,IRINN
+http://37.156.146.138:1935/e-tv/irinn-300k.stream/playlist.m3u8
+#EXTINF: -1,Baran
+http://37.156.146.138:1935/e-tv/baran-300k.stream/playlist.m3u8
+#EXTINF: -1,Tamasha
+http://37.156.146.138:1935/e-tv/tamasha-300k.stream/playlist.m3u8
+#EXTINF:-1,NTV KOHALPUR
+http://103.213.31.46:8081/ntv-demo/ntvkohalpur/playlist.m3u8
+#EXTINF:-1,NTV NATIONAL
+http://103.213.31.46:8081/ntv-demo/ntvnepal/playlist.m3u8
+#EXTINF:-1,NTV NEWS
+http://103.213.31.46:8081/ntv-demo/ntvnews/playlist.m3u8
+#EXTINF: -1,TV3
+http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
+#EXTINF: -1,TV9
+http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
+#EXTINF: -1,Altyn Asyr
+http://alpha.tv.online.tm/hls/ch001_400/index.m3u8
+#EXTINF: -1,YASLYK
+http://alpha.tv.online.tm/hls/ch002_400/index.m3u8
+#EXTINF: -1,ASGABAT
+http://alpha.tv.online.tm/hls/ch006_400/index.m3u8
+#EXTINF: -1,Turkmenistan TV
+http://217.174.225.146/legacyhls/ch007_400/index.m3u8
+#EXTINF: -1,Dalga
+http://85.132.71.6:8080/dalga/index.m3u8
+#EXTINF: -1,Canli
+http://85.132.71.6:8080/lider/index.m3u8
+EXTINF: -1,Medeniyyet
+http://85.132.71.6:8080/medeniyyet/index.m3u8
+EXTINF: -1,ARB
+http://85.132.71.6:8080/arb/index.m3u8
+EXTINF: -1,CBC
+http://85.132.71.6:8080/cbc/index.m3u8
+EXTINF: -1,SPACE
+http://85.132.71.6:8080/space/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV1
 #EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV2
