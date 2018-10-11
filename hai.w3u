@@ -382,13 +382,16 @@
             "name": "Thai lan",
             "image": "https://www.shareicon.net/data/128x128/2015/11/13/164926_flag_256x256.png",
             "stations": [{
-                "name": "ten 1",
-                "image": "",
-                "url": ""
+                "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-1_145673001289.jpg?w=345&h=210&mode=scale",
+                "name": "test",
+                "url": "https://fptplay.vn/livetv/thvl1",
+                "referrer": "https://fptplay.vn/livetv/thvl1",
+                "isHost": true
             }, {
-                "name": "ten 2",
-                "image": "",
-                "url": ""
+                "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-1_145673001289.jpg?w=345&h=210&mode=scale",
+                "name": "test",
+                "url": "https://fptplay.vn/livetv/thvl1",
+                "isHost": true
             }, {
                 "name": "ten 3",
                 "image": "",
