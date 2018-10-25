@@ -498,3 +498,12 @@ http://42.115.133.57:8889/udp/225.1.1.245:30120
 http://42.115.133.57:8889/udp/225.1.1.139:30120
 #EXTINF:-1,Warner Bros TV HD
 http://42.115.133.57:8889/udp/225.1.1.140:30120
+
+#EXTINF:-1 group-title="XXX", S+1
+http://172.104.114.178/vod/live/1/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
+#EXTINF:-1 , S+2
+http://172.104.114.178/vod/live/2/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
+#EXTINF:-1 , S+3
+http://172.104.114.178/vod/live/3/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
+#EXTINF:-1 , S+4
+http://172.104.114.178/vod/live/4/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
