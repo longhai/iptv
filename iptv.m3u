@@ -1,1361 +1,500 @@
-#EXTM3U Long Hải
-#EXTINF:-1 group-title="VTV",VTV
-#EXTINF: -1,VTV1 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8
-#EXTINF: -1,VTV2 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8
-#EXTINF: -1,VTV3 HD
-http://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b1500000.m3u8
-#EXTINF: -1,VTV4 HD
-http://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b1500000.m3u8
-#EXTINF: -1,VTV5 HD
-http://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b1500000.m3u8
+#EXTM3U Long Hải
+#EXTINF:-1 group-title="VTV",VTV1 HD
+http://42.115.133.57:8889/udp/225.1.2.248:30120
+#EXTINF:-1,VTV1 HD
+http://42.115.133.57:8889/udp/225.1.2.249:30120
+#EXTINF:-1,VTV2 HD
+http://42.115.133.57:8889/udp/225.1.2.14:30120
+#EXTINF:-1,VTV2 HD
+http://42.115.133.57:8889/udp/225.1.2.13:30120
+#EXTINF:-1,VTV3 HD
+http://42.115.133.57:8889/udp/225.1.2.246:30120
+#EXTINF:-1,VTV3 HD
+http://42.115.133.57:8889/udp/225.1.2.247:30120
+#EXTINF:-1,VTV3 HD (HD 2Mbps)
+http://42.115.133.57:8889/udp/225.1.2.101:30120
+#EXTINF:-1,VTV3 HD (HD 720p)
+http://42.115.133.57:8889/udp/225.1.2.102:30120
+#EXTINF:-1,VTV4 HD
+http://42.115.133.57:8889/udp/225.1.1.211:30120
+#EXTINF:-1,VTV4 HD
+http://42.115.133.57:8889/udp/225.1.2.20:30120
+#EXTINF:-1,VTV5 HD
+http://42.115.133.57:8889/udp/225.1.1.129:30120
+#EXTINF:-1,VTV5 HD
+http://42.115.133.57:8889/udp/225.1.1.131:30120
 #EXTINF:-1,VTV6 HD
-http://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b1500000.m3u8
+http://42.115.133.57:8889/udp/225.1.2.244:30120
+#EXTINF:-1,VTV6 HD
+http://42.115.133.57:8889/udp/225.1.2.245:30120
 #EXTINF:-1,VTV7 HD
-
-
-
-http://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b1500000.m3u8
-#EXTINF:0,VTV8 HD
-http://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/playlist.m3u8
+http://42.115.133.57:8889/udp/225.1.2.96:30120
+#EXTINF:-1,VTV7 HD
+http://42.115.133.57:8889/udp/225.1.2.97:30120
+#EXTINF:-1,VTV8 HD
+http://42.115.133.57:8889/udp/225.1.2.142:30120
+#EXTINF:-1,VTV8 HD
+http://42.115.133.57:8889/udp/225.1.2.166:30120
 #EXTINF:-1,VTV9 HD
-http://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b1500000.m3u8
+http://42.115.133.57:8889/udp/225.1.1.126:30120
+#EXTINF:-1,VTV9 HD
+http://42.115.133.57:8889/udp/225.1.1.128:30120
+#EXTINF:-1,VOV
+http://42.115.133.57:8889/udp/225.1.2.171:30120
+#EXTINF:-1,Thông Tấn Xã Việt Nam
+http://42.115.133.57:8889/udp/225.1.1.167:30120
+#EXTINF:-1,Thông Tấn Xã Việt Nam HD
+http://42.115.133.57:8889/udp/225.1.1.43:30120
+#EXTINF:-1,An Ninh TV HD
+http://42.115.133.57:8889/udp/225.1.2.169:30120
+#EXTINF:-1,An Ninh Thế Giới HD
+http://42.115.133.57:8889/udp/225.1.1.208:30120
+#EXTINF:-1,Nhân Dân HD
+http://42.115.133.57:8889/udp/225.1.1.91:30120
+#EXTINF:-1,Quốc Hội HD
+http://42.115.133.57:8889/udp/225.1.2.148:30120
+#EXTINF:-1,Quốc Hội HD
+http://42.115.133.57:8889/udp/225.1.2.149:30120
+#EXTINF:-1,Quốc Phòng Việt Nam HD
+http://42.115.133.57:8889/udp/225.1.2.216:30120
+#EXTINF:-1,Quốc Phòng Việt Nam HD
+http://42.115.133.57:8889/udp/225.1.2.217:30120
 
-#EXTINF:-1 group-title="VTVcab",VTVcab
-#EXTINF:-1,VTVcab1
-
-#EXTINF:-1,VTVcab2
-
-#EXTINF:-1,VTVcab3
-
-#EXTINF:-1,VTVcab6
-
-#EXTINF:-1,VTVcab7
-
-#EXTINF:-1,VTVcab8
-
-#EXTINF:-1,VTVcab10
-
-#EXTINF:-1,VTVcab11
-https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/chunklist.m3u8
-#EXTINF:-1, VTVcab12
-
-#EXTINF:-1,VTVcab16
-
-#EXTINF:-1,VTVcab17
-
-#EXTINF:-1,VTVcab19
-
-#EXTINF:-1,VTVcab20
-
-#EXTINF:-1 group-title="SCTV",SCTV
-#EXTINF: -1,SCTV1 HD
-
-#EXTINF: -1, SCTV5
-http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
-#EXTINF: -1,SCTV7
-
-#EXTINF: -1, SCTV8
-
-#EXTINF: -1,SCTV9 HD
-
-#EXTINF: -1, SCTV10
-rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_3
-#EXTINF: -1,SCTV12 HD
-
-#EXTINF: -1,SCTV14 HD
-
-#EXTINF: -1,SCTV15
-
-#EXTINF: -1,SCTV17
-
-#EXTINF: -1,SCTV19
-
-#EXTINF: -1,SCTV20
-http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="VTC",VTC
-#EXTINF:-1 ,VTC Play
-http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
-#EXTINF:-1 ,VTC1
-
-#EXTINF:-1 ,VTC3
-
-#EXTINF:-1 ,VTC4
-
-#EXTINF:-1 ,VTC5
-http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_w973536658_b2292000.m3u8
-#EXTINF:-1 ,VTC7
-
-#EXTINF:-1 ,VTC8
-
-#EXTINF:-1 ,VTC9
-
-#EXTINF:-1 ,VTC10
-
-#EXTINF:-1 ,VTC11
-
-#EXTINF:-1,VTC14 HD
-
-#EXTINF:-1,VTC16
-
-
-#EXTINF:-1 group-title="HTV-HTVC",HTV-HTVC
-#EXTINF:-1,HTV1
-http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1
+#EXTINF:-1 group-title="HTV",HTV1
+http://42.115.133.57:8889/udp/225.1.1.180:30120
 #EXTINF:-1,HTV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htv2&cdn=1
+http://42.115.133.57:8889/udp/225.1.1.179:30120
+#EXTINF:-1,HTV2 HD
+http://42.115.133.57:8889/udp/225.1.1.193:30120
 #EXTINF:-1,HTV3
-http://ott.realplaytv.net:12388/?header=hplus&name=htv3&cdn=1
-#EXTINF:-1,HTV4
-http://ott.realplaytv.net:12388/?header=hplus&name=htv4&cdn=1
-#EXTINF:-1,HTV7
-
-#EXTINF:-1,HTV9
-
-#EXTINF:-1,HTV The Thao
-
-#EXTINF:-1,HTVC+
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_fbnc&cdn=1
+http://42.115.133.57:8889/udp/225.1.1.178:30120
+#EXTINF:-1,HTV Key
+http://42.115.133.57:8889/udp/225.1.1.177:30120
+#EXTINF:-1,HTV7 HD
+http://42.115.133.57:8889/udp/225.1.1.191:30120
+#EXTINF:-1,HTV7 HD
+http://42.115.133.57:8889/udp/225.1.1.192:30120
+#EXTINF:-1,HTV9 HD
+http://42.115.133.57:8889/udp/225.1.1.189:30120
+#EXTINF:-1,HTV9 HD
+http://42.115.133.57:8889/udp/225.1.1.190:30120
+#EXTINF:-1,HTV Coop
+http://42.115.133.57:8889/udp/225.1.1.210:30120
+#EXTINF:-1,HTV Thể Thao
+http://42.115.133.57:8889/udp/225.1.1.165:30120
+#EXTINF:-1,HTVC Du Lịch và Cuộc Sống
+http://42.115.133.57:8889/udp/225.1.1.166:30120
 #EXTINF:-1,HTVC FBNC HD
+http://42.115.133.57:8889/udp/225.1.1.181:30120
+#EXTINF:-1,HTVC FBNC HD
+http://42.115.133.57:8889/udp/225.1.1.182:30120
+#EXTINF:-1,HTVC Gia Đình
+http://42.115.133.57:8889/udp/225.1.1.170:30120
+#EXTINF:-1,HTVC Phim – Paramount Channel
+http://42.115.133.57:8889/udp/225.1.1.173:30120
+#EXTINF:-1,HTVC Phim – Paramount Channel HD
+http://42.115.133.57:8889/udp/225.1.1.183:30120
+#EXTINF:-1,HTVC Phim – Paramount Channel HD
+http://42.115.133.57:8889/udp/225.1.1.184:30120
+#EXTINF:-1,HTVC Phụ Nữ
+http://42.115.133.57:8889/udp/225.1.1.171:30120
+#EXTINF:-1,HTVC Shopping – VGS Shop
+http://42.115.133.57:8889/udp/225.1.1.172:30120
+#EXTINF:-1,HTVC Thuần Việt
+http://42.115.133.57:8889/udp/225.1.1.174:30120
+#EXTINF:-1,HTVC Thuần Việt HD
+http://42.115.133.57:8889/udp/225.1.1.185:30120
+#EXTINF:-1,HTVC Thuần Việt HD
+http://42.115.133.57:8889/udp/225.1.1.186:30120
 
-#EXTINF:-1,HTVC Ca Nhac
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_ca_nhac&cdn=1
-#EXTINF:-1,HTVC Phim
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phim&cdn=1
-#EXTINF:-1,HTVC VGS Shop
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_shopping&cdn=1
-#EXTINF:-1,HTVC Thuan Viet
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_thuan_viet&cdn=1
-#EXTINF:-1,HTVC Du Lich va Cuoc Song
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_du_lich&cdn=1
-#EXTINF:-1,HTVC Gia Dinh
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_gia_dinh&cdn=1
-#EXTINF:-1, HTV CO.OP
+#EXTINF:-1,VTC1
+http://42.115.133.57:8889/udp/225.1.2.203:30120
+#EXTINF:-1,VTC1 HD
+http://42.115.133.57:8889/udp/225.1.2.254:30120
+#EXTINF:-1,VTC2
+http://42.115.133.57:8889/udp/225.1.2.202:30120
+#EXTINF:-1,VTC3
+http://42.115.133.57:8889/udp/225.1.2.201:30120
+#EXTINF:-1,VTC3 HD
+http://42.115.133.57:8889/udp/225.1.2.251:30120
+#EXTINF:-1,VTC4 HD – Yeah1 !Family
+http://42.115.133.57:8889/udp/225.1.2.200:30120
+#EXTINF:-1,VTC5 – tvBlue
+http://42.115.133.57:8889/udp/225.1.2.199:30120
+#EXTINF:-1,VTC6
+http://42.115.133.57:8889/udp/225.1.2.198:30120
+#EXTINF:-1,VTC7 – Today TV
+http://42.115.133.57:8889/udp/225.1.2.197:30120
+#EXTINF:-1,VTC8 – View TV
+http://42.115.133.57:8889/udp/225.1.2.196:30120
+#EXTINF:-1,VTC9 – Let’s Việt
+http://42.115.133.57:8889/udp/225.1.2.195:30120
+#EXTINF:-1,VTC10 – Nét Việt
+http://42.115.133.57:8889/udp/225.1.2.194:30120
+#EXTINF:-1,VTC11 – Kids & Family TV
+http://42.115.133.57:8889/udp/225.1.2.193:30120
+#EXTINF:-1,VTC12
+http://42.115.133.57:8889/udp/225.1.2.192:30120
+#EXTINF:-1,VTC13
+http://42.115.133.57:8889/udp/225.1.2.189:30120
+#EXTINF:-1,VTC13
+http://42.115.133.57:8889/udp/225.1.2.250:30120
+#EXTINF:-1,VTC14
+http://42.115.133.57:8889/udp/225.1.2.191:30120
+#EXTINF:-1,VTC14 HD
+http://42.115.133.57:8889/udp/225.1.2.88:30120
+#EXTINF:-1,VTC16 – 3NTV
+http://42.115.133.57:8889/udp/225.1.2.190:30120
 
-#EXTINF:-1,HTVC Phu Nu
-
-
-#EXTINF:-1 group-title="VIET NAM KHAC",VIET NAM KHAC
-#EXTINF:-1,Keeng Music
-http://125.235.29.16/livetv/keeng.m3u8
-#EXTINF:-1 ,NHAN DAN
-http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
-#EXTINF:-1 ,QPVN
-rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
-#EXTINF:-1,TTXVN
-rtmp://live.vnanet.vn/Live//DRC
-#EXTINF:-1,ANTV HD
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1,Quoc Hoi
-http://1.54.250.40:1935/live/quochoitvlive.stream_360p/chunklist_w1173139067.m3u8
-#EXTINF:0,VOV
-
-
-#EXTINF:-1 group-title="MOBITV",MOBITV
-#EXTINF:-1,ANVIEN HD
-
-#EXTINF:-1 ,ANTG HD
-
-#EXTINF:-1 ,NCM
-
-#EXTINF:-1 ,Phim Hay HD
-
-#EXTINF:-1 ,Mien Tay
-
-#EXTINF:-1, VIETTEEN HD
-
-#EXTINF:-1 ,SAM HD
+#EXTINF:-1 group-title="VTVCab" ,VTVCab11
+http://42.115.133.57:8889/udp/225.1.2.167:30120
+#EXTINF:-1 ,VTVCab13 - VTV Hyundai Homeshopping
+http://42.115.133.57:8889/udp/225.1.1.122:30120
 
 
-#EXTINF:-1 group-title="KENH DIA PHUONG",DIA PHUONG
-#EXTINF:-1,Ha Noi 1 HD
-http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
-#EXTINF:-1 ,Ha Noi 2 HD
+#EXTINF:-1 group-title="SCTV",SCTV4
+http://42.115.133.57:8889/udp/225.1.2.187:30120
+#EXTINF:-1,SCTV5
+http://42.115.133.57:8889/udp/225.1.1.134:30120
+#EXTINF:-1,SCTV10
+http://42.115.133.57:8889/udp/225.1.2.205:30120
+#EXTINF:-1,SCTV20-iTV
+http://42.115.133.57:8889/udp/225.1.1.203:30120
 
-#EXTINF:-1 ,Lang Son
+#EXTINF:-1 group-title="MobiTV",An Viên HD - BTV9
+http://42.115.133.57:8889/udp/225.1.2.189:30120
+#EXTINF:-1,An Ninh Thế Giới HD
+http://42.115.133.57:8889/udp/225.1.1.208:30120
+#EXTINF:-1,Phim Hay
+http://42.115.133.57:8889/udp/225.1.1.222:30120
+#EXTINF:-1,Miền Tây - THDT2
+http://42.115.133.57:8889/udp/225.1.1.221:30120
+#EXTINF:-1 ,BTV6 - Việt Teen
+http://42.115.133.57:8889/udp/225.1.1.223:30120
+#EXTINF:-1 ,BTV10 - NCM
+http://42.115.133.57:8889/udp/225.1.1.225:30120
+#EXTINF:-1 ,BTV11 - SAM
+http://42.115.133.57:8889/udp/225.1.1.224:30120
 
-#EXTINF:-1 ,Thai Nguyen 1 HD
-rtmp://45.124.85.26/oflaDemo/livestream
-#EXTINF:-1 ,Hoa Binh
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-#EXTINF:-1 ,Quang Ninh 1
-rtmp://123.29.68.44/hctv/vstv020
-#EXTINF:-1,Quang Ninh 3
-rtmp://123.29.68.44/hctv/vstv021
-#EXTINF:-1 ,Hung Yen
-http://42.112.16.101:1935/live/HYTV/playlist.m3u8
-#EXTINF:-1 ,Ha Nam
-http://113.160.198.111/Medias/HaNam/720P/playlist.m3u8
-#EXTINF:-1 ,Phu Tho HD
-http://118.107.68.10:1935/live/smil:PhuthoBU.smil/chunklist_w529681116_b1264000_slVIE.m3u8
-#EXTINF:-1,Bac Kan
-http://118.107.68.10:1935/live/_definst_/BK_live/chunklist_w585681733.m3u8
-#EXTINF:-1,Son La
-http://118.107.68.10:1935/live/smil:Sonlatv.smil/chunklist_w653354115_b1264000_slVIE.m3u8
-#EXTINF:-1,Hai Phong HD
-http://118.107.68.10:1935/live/smil:Haiphong1.smil/playlist.m3u8
-#EXTINF:-1,Hai Phong+
+#EXTINF:-1 group-title="Hanoicab",Hà Nội 1 HD
+http://42.115.133.57:8889/udp/225.1.2.186:30120
+#EXTINF:-1 ,Hà Nội 2 HD
+http://42.115.133.57:8889/udp/225.1.1.125:30120
+#EXTINF:-1 ,HiTV - Hanoicab1
+http://42.115.133.57:8889/udp/225.1.1.209:30120
+#EXTINF:-1 ,You!TV - Hanoicab2
+http://42.115.133.57:8889/udp/225.1.1.207:30120
+#EXTINF:-1 ,MOV - Hanoicab4
+http://42.115.133.57:8889/udp/225.1.1.206:30120
 
-#EXTINF:-1,Tuyen Quang 1
-rtmp://210.245.89.40:1935/live/livestream
-#EXTINF:-1,Thai Binh HD
-rtmp://118.70.118.191/live/thaibinhtv
-#EXTINF:-1,Bac Ninh HD
-http://118.107.68.10:1935/live/_definst_/BTVHD_12806b51bdf7ac364126%20/chunklist_w906928145.m3u8
-#EXTINF:-1,Vinh Phuc
-rtmp://117.6.162.63/live/thvp
-#EXTINF:-1,Ha Giang
-http://118.107.68.10:1935/live/_definst_/HG_live/chunklist_w1552249793.m3u8
-
-Trung Bo
-
-#EXTINF:-1 ,Da Nang 1 HD
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 ,Da Nang 2
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:-1 ,TT-Hue
-http://ott.realplaytv.net:12388/?header=hplus&name=Hue&cdn=1
-#EXTINF:-1 ,Ha Tinh
-http://hatinhtv.vn/liveevent.m3u8
-#EXTINF:-1 ,Phu Yen
-http://113.161.4.48:8080/phuyen/tv.m3u8
-#EXTINF:-1 ,Quang Tri
-http://118.107.68.10:1935/live/smil:Quangtri.smil/chunklist_w483478358_b1264000_slVIE.m3u8
-#EXTINF:-1,Quang Ngai
-http://118.107.68.10:1935/live/smil:QuangNgaitv.smil/chunklist_w808231548_b864000_slVIE.m3u8
-#EXTINF:-1,Lam Dong
-http://118.107.68.10:1935/live/smil:Lamdongtv.smil/chunklist_w1902035114_b1264000_slVIE.m3u8
-#EXTINF:-1,Dak Lak
-http://118.69.161.9:8134/liveevent.m3u8
-#EXTINF:-1 ,Gia Lai
-http://113.161.25.3:8134/hls-live/livepkgr/_definst_/liveevent/gltv.m3u8
+#EXTINF:-1 group-title="Địa phương",Việt Nam Nét
+http://42.115.133.57:8889/udp/225.1.1.194:30120
+#EXTINF:-1,An Giang 1
+http://42.115.133.57:8889/udp/225.1.2.173:30120
+#EXTINF:-1,Bà Rịa Vũng Tàu
+http://42.115.133.57:8889/udp/225.1.2.175:30120
+#EXTINF:-1,Bạc Liêu
+http://42.115.133.57:8889/udp/225.1.1.61:30120
+#EXTINF:-1,Bắc Giang
+http://42.115.133.57:8889/udp/225.1.1.164:30120
+#EXTINF:-1,Bắc Ninh
+http://42.115.133.57:8889/udp/225.1.1.40:30120
+#EXTINF:-1,Bến Tre
+http://42.115.133.57:8889/udp/225.1.1.156:30120
+#EXTINF:-1,Bình Dương 1 HD
+http://42.115.133.57:8889/udp/225.1.1.150:30120
+#EXTINF:-1,Bình Dương 2 HD
+http://42.115.133.57:8889/udp/225.1.1.149:30120
+#EXTINF:-1,iMOVIE TV HD – BTV4 HD
+http://42.115.133.57:8889/udp/225.1.1.30:30120
+#EXTINF:-1,Bình Định
+http://42.115.133.57:8889/udp/225.1.1.145:30120
+#EXTINF:-1,Bình Phước 1
+http://42.115.133.57:8889/udp/225.1.2.23:30120
+#EXTINF:-1,BPTV2 – HOMETV
+http://42.115.133.57:8889/udp/225.1.2.38:30120
+#EXTINF:-1,Bình Thuận
+http://42.115.133.57:8889/udp/225.1.1.124:30120
+#EXTINF:-1,Cà Mau
+http://42.115.133.57:8889/udp/225.1.1.104:30120
+#EXTINF:-1,Cao Bằng
+http://42.115.133.57:8889/udp/225.1.1.102:30120
+#EXTINF:-1,Cần Thơ
+http://42.115.133.57:8889/udp/225.1.1.132:30120
+#EXTINF:-1,Đà Nẵng 1
+http://42.115.133.57:8889/udp/225.1.1.147:30120
+#EXTINF:-1,Đà Nẵng 2 HD
+http://42.115.133.57:8889/udp/225.1.1.146:30120
+#EXTINF:-1,Đắk Lắk
+http://42.115.133.57:8889/udp/225.1.1.64:30120
+#EXTINF:-1,Điện Biên
+http://42.115.133.57:8889/udp/225.1.1.74:30120
+#EXTINF:-1,Đồng Nai 1
+http://42.115.133.57:8889/udp/225.1.1.152:30120
+#EXTINF:-1,Đồng Nai 2
+http://42.115.133.57:8889/udp/225.1.1.151:30120
+#EXTINF:-1,AZSHOP – DN9
+http://42.115.133.57:8889/udp/225.1.1.134:30120
+#EXTINF:-1,Đồng Tháp 1
+http://42.115.133.57:8889/udp/225.1.1.163:30120
+#EXTINF:-1,Gia Lai
+http://42.115.133.57:8889/udp/225.1.2.176:30120
+#EXTINF:-1,Hà Giang
+http://42.115.133.57:8889/udp/225.1.1.62:30120
+#EXTINF:-1,Hà Nam
+http://42.115.133.57:8889/udp/225.1.1.63:30120
+#EXTINF:-1,Hà Tĩnh
+http://42.115.133.57:8889/udp/225.1.1.75:30120
+#EXTINF:-1,Hải Dương
+http://42.115.133.57:8889/udp/225.1.1.158:30120
+#EXTINF:-1,Hải Phòng HD
+http://42.115.133.57:8889/udp/225.1.1.44:30120
+#EXTINF:-1,Hậu Giang
+http://42.115.133.57:8889/udp/225.1.1.157:30120
+#EXTINF:-1,Hòa Bình
+http://42.115.133.57:8889/udp/225.1.2.168:30120
+#EXTINF:-1,Hưng Yên
+http://42.115.133.57:8889/udp/225.1.1.118:30120
+#EXTINF:-1,Khánh Hòa
+http://42.115.133.57:8889/udp/225.1.1.133:30120
+#EXTINF:-1,Kiên Giang
+http://42.115.133.57:8889/udp/225.1.2.182:30120
 #EXTINF:-1,Kon Tum
-http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
-#EXTINF:-1,Ninh Thuan
-rtmp://203.113.166.233/live/NTV_VIDEO
-#EXTINF:-1,Binh Thuan
-http://222.255.123.4:1939/thbttv/bttv/playlist.m3u8
-#EXTINF:-1 ,Thanh Hoa
-http://123.30.191.202/hls/ttv.m3u8
+http://42.115.133.57:8889/udp/225.1.1.36:30120
+#EXTINF:-1,Lạng Sơn
+http://42.115.133.57:8889/udp/225.1.1.160:30120
+#EXTINF:-1,Lào Cai
+http://42.115.133.57:8889/udp/225.1.1.119:30120
+#EXTINF:-1,Lâm Đồng
+http://42.115.133.57:8889/udp/225.1.2.177:30120
+#EXTINF:-1,Long An 34
+http://42.115.133.57:8889/udp/225.1.1.162:30120
+#EXTINF:-1,Nam Định
+http://42.115.133.57:8889/udp/225.1.1.120:30120
+#EXTINF:-1,Nghệ An
+http://42.115.133.57:8889/udp/225.1.2.183:30120
+#EXTINF:-1,Ninh Bình
+http://42.115.133.57:8889/udp/225.1.2.185:30120
+#EXTINF:-1,Ninh Thuận
+http://42.115.133.57:8889/udp/225.1.2.178:30120
+#EXTINF:-1,Phú Thọ
+http://42.115.133.57:8889/udp/225.1.2.165:30120
+#EXTINF:-1,Phú Yên
+http://42.115.133.57:8889/udp/225.1.2.58:30120
+#EXTINF:-1,Quảng Bình
+http://42.115.133.57:8889/udp/225.1.2.164:30120
+#EXTINF:-1,Quảng Nam
+http://42.115.133.57:8889/udp/225.1.2.50:30120
+#EXTINF:-1,Quảng Ngãi
+http://42.115.133.57:8889/udp/225.1.2.174:30120
+#EXTINF:-1,Quảng Ninh 1
+http://42.115.133.57:8889/udp/225.1.2.181:30120
+#EXTINF:-1,Quảng Ninh 3
+http://42.115.133.57:8889/udp/225.1.2.180:30120
+#EXTINF:-1,Quảng Trị
+http://42.115.133.57:8889/udp/225.1.1.117:30120
+#EXTINF:-1,Sóc Trăng 1
+http://42.115.133.57:8889/udp/225.1.1.159:30120
+#EXTINF:-1,Sơn La
+http://42.115.133.57:8889/udp/225.1.1.98:30120
+#EXTINF:-1,Tây Ninh 11
+http://42.115.133.57:8889/udp/225.1.1.130:30120
+#EXTINF:-1,Thái Bình
+http://42.115.133.57:8889/udp/225.1.1.99:30120
+#EXTINF:-1,Thái Nguyên 1
+http://42.115.133.57:8889/udp/225.1.2.179:30120
+#EXTINF:-1,Thanh Hóa
+http://42.115.133.57:8889/udp/225.1.2.184:30120
+#EXTINF:-1,Thừa Thiên Huế
+http://42.115.133.57:8889/udp/225.1.1.161:30120
+#EXTINF:-1,Tiền Giang
+http://42.115.133.57:8889/udp/225.1.2.170:30120
+#EXTINF:-1,Trà Vinh
+http://42.115.133.57:8889/udp/225.1.2.172:30120
+#EXTINF:-1,Tuyên Quang
+http://42.115.133.57:8889/udp/225.1.2.188:30120
+#EXTINF:-1,Vĩnh Long 1 HD
+http://42.115.133.57:8889/udp/225.1.1.155:30120
+#EXTINF:-1,Vĩnh Long 2 HD
+http://42.115.133.57:8889/udp/225.1.1.154:30120
+#EXTINF:-1,Vĩnh Phúc
+http://42.115.133.57:8889/udp/225.1.2.99:30120
+#EXTINF:-1,Yên Bái
+http://42.115.133.57:8889/udp/225.1.1.39:30120
 
-Nam Bo
+#EXTINF:-1 group-title="K+",K+1 HD
+http://42.115.133.57:8889/udp/225.1.1.5:30120
+#EXTINF:-1,K+1 HD
+http://42.115.133.57:8889/udp/225.1.1.78:30120
+#EXTINF:-1,K+NS HD
+http://42.115.133.57:8889/udp/225.1.1.6:30120
+#EXTINF:-1,K+NS HD
+http://42.115.133.57:8889/udp/225.1.1.80:30120
+#EXTINF:-1,K+PM HD
+http://42.115.133.57:8889/udp/225.1.1.73:30120
+#EXTINF:-1,K+PM HD
+http://42.115.133.57:8889/udp/225.1.1.81:30120
+#EXTINF:-1,K+PC HD
+http://42.115.133.57:8889/udp/225.1.1.77:30120
+#EXTINF:-1,K+PC HD
+http://42.115.133.57:8889/udp/225.1.1.82:30120
 
-#EXTINF:-1 ,Ba Ria-Vung Tau HD
-http://113.163.216.23:1935/live/tv1.stream_480p/chunklist_w799717235.m3u8
-#EXTINF:-1 ,Binh Phuoc 1
-http://118.69.197.145/hls/bptv1.m3u8
-#EXTINF:-1 ,Binh Phuoc 2
-http://118.69.197.145/hls/bptv2.m3u8
-#EXTINF:-1 ,Ben Tre
-rtmp://113.163.94.245/livepkgr/thbt
-#EXTINF:-1 ,Soc Trang 1
-rtmp://115.78.3.164/live/stv1
-#EXTINF:-1 ,Bac Lieu
-rtmp://118.69.205.213/livepkgr/livestream1
-#EXTINF:-1,Binh Duong 1 HD
-http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Tien Giang
-rtmp://123.30.141.4/live/thtg
-#EXTINF:-1,Ca Mau
+#EXTINF:-1 group-title="Quảng Cáo",FPT Quảng Cáo HD
+http://42.115.133.57:8889/udp/225.1.1.137:30120
+#EXTINF:-1,Quang cao the thao FPT
+http://42.115.133.57:8889/udp/225.1.2.252:30120
+#EXTINF:-1,FPT Giới Thiệu HD
+http://42.115.133.57:8889/udp/225.1.1.2:30120
+#EXTINF:-1,FPT Mở Két
+http://42.115.133.57:8889/udp/225.1.1.26:30120
+#EXTINF:-1,FPT Mở Két
+http://42.115.133.57:8889/udp/225.1.1.97:30120
 
-#EXTINF:-1,Vinh Long 1 HD
-http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
-#EXTINF:-1,Vinh Long 2
-http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
-#EXTINF:-1,Tra Vinh
-http://123.30.191.202/hls/travinh.m3u8
-#EXTINF:-1,Dong Nai 1 HD
-http://118.107.68.10:1935/live/smil:Dongnai1.smil/playlist.m3u8
-#EXTINF:-1,Dong Nai 2 HD
-http://118.107.68.10:1935/live/smil:DNAI2WEB.smil/playlist.m3u8
-#EXTINF:-1,Dong Nai 9
-http://118.107.68.10:1935/live/smil:DNAI9WEB.smil/chunklist_w366232911_b1264000_slVIE.m3u8
-#EXTINF:-1 ,An Giang 1
-rtmp://221.133.9.35/live//1.stream_360p
-#EXTINF:-1 ,Long An
-http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-#EXTINF:-1 ,Ben Tre
-http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
-#EXTINF:-1 ,Can Tho
-
-#EXTINF:-1 ,Soc Trang 1
-rtmp://113.163.189.104/live/stv1
-#EXTINF:-1 ,Soc Trang 2
-rtmp://113.163.189.104/live/stv2
-#EXTINF:-1,Kien Giang
-
-
-#EXTINF:-1 group-title="KENH HAI NGOAI",KENH HAI NGOAI
-#EXTINF:-1 ,VietNews TV
-http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
-#EXTINF:-1 ,IBC 57.8
-http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/playlist.m3u8
-#EXTINF:-1,VNATV 57.3
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
-#EXTINF:-1,VIET MY
-http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-#EXTINF:-1,VBS 57.6
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
-#EXTINF:-1,VSAM 1040 TV
-rtmp://uni5rtmp.tulix.tv/playout2multi10/playout2multi10.stream
-#EXTINF:-1,KVLA TV 56.5
-http://fosive89.flashmediacast.com:1935/fosive89/livestream/playlist.m3u8
-#EXTINF:-1,Cong Giao
-http://saigontvtv.saigon.ns01.us:1935/conggiao/myStream/playlist.m3u8
-#EXTINF:-1,S CHANNEL TV 56.6
-http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w503091201.m3u8
-#EXTINF:-1 ,Vpop TV
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vpoptv/playlist.m3u8&u=guest
-#EXTINF:-1 ,Rang Dong
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/rangdong/playlist.m3u8&u=guest
-#EXTINF:-1 ,VBolero TV
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/playlist.m3u8&u=guest
-
-#EXTINF:-1 group-title="Quoc Te Vietnamese",Quoc Te Vietnamese
-
-#EXTINF:-1 group-title="Radio",Radio
-#EXTINF: -1 ,VOV 2
-https://5a6872aace0ce.streamlock.net/vov2/vov2.stream_aac/chunklist_w896439428.m3u8
-#EXTINF: -1 ,VOV 5
-https://5a6872aace0ce.streamlock.net/vov5/vov5.stream_aac/chunklist_w2088471830.m3u8
-#EXTINF:-1 ,Ba Ria-Vung Tau FM 92.0 Mhz
-http://113.163.216.23:1935/live/radio1.sdp_audio/chunklist_w1204585038.m3u8
-#EXTINF:-1,Ben Tre FM 97.9 Mhz
-rtmp://113.163.94.245/livepkgr/audiostream
-#EXTINF:-1,Binh Phuoc FM 89.4 Mhz
-http://118.69.197.145/hls/radio.m3u8
-#EXTINF:-1, Binh Thuan FM 92.3 Mhz
-rtmp://222.255.123.4:1939/thbtradio/btradio
-#EXTINF:-1 ,Da Nang FM 96.3 Mhz
-http://drtdnglive.e49a7c38.cdnviet.com/liveradio/chunklist.m3u8
-#EXTINF:-1 ,Dong Thap FM 98.4 Mhz
-rtmp://123.30.110.170:1939/thdt/radio
-#EXTINF:-1,Gia Lai FM 102 Mhz
-rtmp://113.161.25.3/livepkgr/radio?adbe-live-event=liveevent
-#EXTINF:-1,Hau Giang FM 89.6 Mhz
-rtmp://123.30.110.170:1939/hgradio/pthg
-#EXTINF:-1 ,Thua Thien-Hue FM 106.1 Mhz
-rtmp://118.69.176.149:1936/live/radio
-#EXTINF:-1,JOYFM
-rtmp://radio.joyfm.vn:1935/live/RadioOnline
-#EXTINF:-1,VOH FM 99.9 MHz
-http://120.72.118.102:1935/live/channel3/playlist.m3u8
-#EXTINF:-1,VOH AM 610 KHz
-http://120.72.118.102:1935/live/channel2/playlist.m3u8
-#EXTINF:-1,VOH FM 95.6 Mhz
-http://120.72.118.102:1935/live/channel1/playlist.m3u8
-#EXTINF:-1,Cherry Radio:Tin Tuc va Am Nhac Viet Nam
-http://50.7.96.210:8618/;stream.mp3
-#EXTINF:-1,Cherry Radio:Nhac Tru Tinh
-http://174.37.252.208:8500/;stream.mp3
-#EXTINF:-1,Viet Thao Radio
-http://173.193.205.96:8047/;stream.nsv
-#EXTINF:-1,Nationwide Viet Radio (NVR)
-http://vndcradio2.serverroom.us:4480/;
-#EXTINF:-1 ,Thoi Bao Radio
-http://209.250.131.2:8000/;stream.mp3
-#EXTINF:-1 ,Vietnamese Public Radio Washington DC
-http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1,Saigon Radio Seattle (SRBS)
-http://170.75.194.209:8888
-#EXTINF:-1,99.5 The Word
-http://17553.live.streamtheworld.com/KGUFM_SC
-#EXTINF:-1,VOA
-http://voa28.akacast.akamaistream.net/7/325/437810/v1/ibb.akacast.akamaistream.net/voa28
-#EXTINF:-1 ,Retro FM
-http://retroserver.streamr.ru:8043/retro64
-#EXTINF:-1,Applaus
-http://mp3stream3.abradio.cz:8000/applaus128.mp3
-#EXTINF:-1,Radio Humor
-http://mp3stream4.abradio.cz/humor128.mp3
-#EXTINF:-1,LOUNGE1
-http://188.138.9.183:80/100austria.mp3
-#EXTINF:-1,LOUNGE2
-http://188.138.9.183:80/digital.mp3
-#EXTINF:-1, LOUNGE3
-http://188.138.9.183:80/kaernten.mp3
-#EXTINF:-1, LOUNGE4
-http://188.138.9.183:80/lounge-at.mp3
-#EXTINF:-1, LOUNGE5
-http://188.138.9.183:80/drei.mp3
-#EXTINF:-1, LOUNGE6
-http://188.138.9.183:80/lounge-austria.mp3
-#EXTINF:-1,LOUNGE7
-http://188.138.9.183:80/lounge-grz.mp3
-#EXTINF:-1,LOUNGE8
-http://188.138.9.183:80/reeperbahn.mp3
-#EXTINF:-1,LOUNGE9
-http://188.138.9.183:80/ukwwien.mp3
-#EXTINF:-1,FRANCE MAGHREB 2
-http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
-#EXTINF:-1,RAYA
-http://217.66.226.47:8064/;
-#EXTINF:-1,RADIO MARIA ITALIA
-http://dreamsiteradiocp2.com:8016/;
-#EXTINF:-1,Radio Monte Carlo
-http://icecast.unitedradio.it/RMC.mp3
-#EXTINF:-1,Default Radio
-http://194.177.250.69:8000
-#EXTINF:-1,RTL
-http://rtldtl.hoerradar.de/rtldtl-ukw-mp3-128
-#EXTINF:-1,RTHK RADIO
-http://stm1.rthk.hk/radio4
-#EXTINF:-1,Sarika FM
-http://202.79.26.170:5000/province1.mp3
-#EXTINF:-1,ReggaeTrade Radio
-http://sc-reggae.1.fm:7000/
-#EXTINF:-1,ICTunes
-http://mediaserver2.islamicity.com:8000/ictunes
-#EXTINF:-1,Allahu Akbar Radio
-http://66.45.232.132:9996/
-#EXTINF:-1,Zahraun Radio Station
-http://stream.radio.co/sb09935cec/listen
-#EXTINF:-1,RVL Channel 1
-http://live.vaticanwebradio.org/channel1.mp3
-
-#EXTINF:-1,RVL Channel10
-http://live.vaticanwebradio.org/channel10.mp3
-
-#EXTINF:-1,RVL Channel11
-http://live.vaticanwebradio.org/channel11.mp3
-
-#EXTINF:-1,RVL Channel 2
-http://live.vaticanwebradio.org/channel2.mp3
-
-#EXTINF:-1,RVL Channel 3
-
-http://live.vaticanwebradio.org/channel3.mp3
-
-#EXTINF:-1,RVL Channel 4
-
-http://live.vaticanwebradio.org/channel4.mp3
-
-#EXTINF:-1,RVL Channel 5
-http://live.vaticanwebradio.org/channel5.mp3
-
-#EXTINF:-1,RVL Channel 6
-
-http://live.vaticanwebradio.org/channel6.mp3
-
-#EXTINF:-1,RVL Channel 7
-
-http://live.vaticanwebradio.org/channel7.mp3
-
-#EXTINF:-1,RVL Channel 8
-
-http://live.vaticanwebradio.org/channel8.mp3
-
-#EXTINF:-1,RVL Channel 9
-
-http://live.vaticanwebradio.org/channel9.mp3
-#EXTINF:-1,Chill-out Radio
-http://streaming.radionomy.com/Chill-outRadio
-#EXTINF:-1,VOAR1
-http://192.99.17.12:5836/;
-#EXTINF:-1 ,KBS LIVE
-http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?wowzasessionid=179252988
-#EXTINF:-1,Detskyi kanal
-http://icecast.russkoeradio.cdnvideo.ru/st28.mp3
-#EXTINF:-1,Russian! Radio
-http://play.russianradio.eu/
-#EXTINF:-1,RFI MUSIQUE
-http://live02.rfi.fr/rfimusiquemonde-64k.mp3
-#EXTINF:-1,RFI
-http://live02.rfi.fr/rfimonde-64.mp3
-#EXTINF:-1,RFE/RL
-http://rfe-channel-04.akacast.akamaistream.net/7/885/229654/v1/ibb.akacast.akamaistream.net/rfe_channel_04.mp3
-#EXTINF:-1,K ADDICTS
-http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1,FARDA RADIO
-http://rfe-channel-21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3
-#EXTINF:-1,KSQQ FM
-http://war.str3am.com:8480/ksqq?type=.mp3/;stream.mp3
-#EXTINF:-1,Al Khaleejiya
-http://20863.live.streamtheworld.com/AL_KHALEEJIA.mp3
-#EXTINF:-1,Abu Dhabi Radio
-http://19643.live.streamtheworld.com/ABU_DHABI.mp3
-#EXTINF:-1,City 101.6
-http://19373.live.streamtheworld.com/ARNCITY.mp3
-#EXTINF:-1,KBIC
-http://kbic.info:8880/;
-#EXTINF:-1,CYPRUS DUB COMMUNITY
-http://50.7.77.114:8479/stream?type=.mp3/;stream.mp3
-#EXTINF:-1,RTHK Putonghua Radio
-http://202.177.192.119/radiopth?type=.mp3/;stream.mp3
-#EXTINF:-1,ARIZONA SPORTS
-http://19793.live.streamtheworld.com:3690/KMVPFM_SC
-#EXTINF:-1,Avanza
-http://icecasthd.net:26262/live
-#EXTINF:-1,Muslim Community
-http://2mfm.org.au:8000/live
-
-#EXTINF:-1 group-title="Quoc Te",Quoc Te
-#EXTINF:-1,Nasa
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,VOA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 group-title="Quốc tế",Animal Planet
+http://42.115.133.57:8889/udp/225.1.1.231:30120
 #EXTINF:-1,Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF: -1,CBS HD
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1454832910.m3u8
-#EXTINF:-1 ,Aljazeera English
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1,Aljazeera Arab
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1, DREAM TURK
-http://188.138.9.246/S2/HLS_LIVE/dreamturktv/index.m3u8
-#EXTINF:-1,KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1,REEMISSIO 3 24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1 ,CGTN ESPANOL
-https://live.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 ,CGTN ARAB
-https://live.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1,NEW TV 18
-http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-#EXTINF:-1,NHK WORLD JAPAN
-https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1,Sat7 Kids
-http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-#EXTINF:-1 ,BLUESKY CHANNEL
-http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
-#EXTINF:-1,CHANNEL 2
-http://stream.rs.co.th/ch2-hi/index.m3u8
-#EXTINF:-1,Animal Planet HD WORLD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1,Discovery Kids
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225775/01.m3u8
-#EXTINF:-1 ,ZEE Sarthak TV
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226107/01.m3u8
-#EXTINF:-1 ,ZeeTV HD
-http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/01.m3u8
-#EXTINF:-1,Zee BIOSKOP
-http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
-#EXTINF:-1 ,BBC WORLD NEWS
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/01.m3u8
-#EXTINF:-1 ,BBC NEW ARAB
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,VASANTH
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226321/01.m3u8
-#EXTINF:-1 ,WOW CINEMA
-http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226263/index.m3u8
-#EXTINF:-1,K-TV
-http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 ,M20 TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 ,SKY TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 ,DW ARAB
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 ,RTV
-http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
-#EXTINF:-1 ,ANN
-http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF: -1,Anti terrorism
-http://streamer12.elementssys.com:8080/SAUDI-Channels/Erhab/playlist.m3u8
-#EXTINF: -1,NTV
-http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8
-#EXTINF: -1,Al Quds
-http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 ,Al AQSA
-http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1,Al Hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 ,Al RAI
-http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
-#EXTINF:-1 ,LIBYA TV
-http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
-#EXTINF:-1 ,ABC NEW
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:-1 ,RTE NEWS NOW
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-#EXTINF:-1 ,VISION 4
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:-1 ,Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1 ,Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 ,TLC HD WORLD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:-1 ,ENTERR 10
-http://mhms8.airtel.tv/wh7f454c46tw3950346535_1991919477/PLTV/88888888/224/3221226218/index.m3u8
-#EXTINF:-1 ,NeoSports
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
-#EXTINF:-1, ESB Kids
-rtmp://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m
-#EXTINF:-1, SONY BBC EARTH HD
-http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
-#EXTINF:-1 ,SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:-1, SONY TEN 1
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
-#EXTINF:-1 ,SONY TEN 3
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 ,SONY TEN 2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1,XSport
-http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/996/index.m3u8
-#EXTINF:-1,thrill
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1,ANIPLUS
-http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
-#EXTINF:-1,Imam Hussein
-http://live.imamhossaintv.com/live/ih201/index.m3u8
-#EXTINF:-1,Angel TV
-http://angeltvnetworkchannel.live-s.cdn.bitgravity.com/cdn-live/_definst_/angeltvnetworkchannel/live/AngelTV_India_3/playlist.m3u8
-#EXTINF:-1,SBT TV
-http://202.142.203.28:1935/live/sbt_tv_aac_300/playlist.m3u8
-#EXTINF:-1,Santo Rosario
-http://162.212.176.51:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 ,TJK TV
-http://tjktv.ercdn.net/tjktv.m3u8
-#EXTINF:-1,Noe Zive
-http://w100.quickmedia.tv/prozeta-live04/_definst_/smil:prozeta-live04.smil/playlist.m3u8?id=mPlBT3LQpFbB8K-03
-#EXTINF:-1,10 SV
-http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
-#EXTINF:-1,Kabbalah TV
-http://edge1.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8
-#EXTINF:-1,Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1,1 TRK
-http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
-#EXTINF:-1, A+
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
-#EXTINF:-1 ,PAC 12 NETWORK
-http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
-#EXTINF:-1 ,PAC 12 Mountain
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-#EXTINF:-1 ,PAC 12 Washington
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
-#EXTINF:-1,CCTV 1
-http://202.120.58.89/hls/cctv1.m3u8
-#EXTINF:-1,CCTV 2
-http://202.120.58.89/hls/cctv2.m3u8
-#EXTINF:-1,CCTV 3
-http://202.120.58.89/hls/cctv3.m3u8
-#EXTINF: -1, CCTV 5 HD
-http://202.120.58.89/hls/cctv5hd.m3u8
-#EXTINF: -1, CCTV 5+ HD
-http://202.120.58.89/hls/cctv5phd.m3u8
-#EXTINF: -1, CCTV 6 HD
-http://202.120.58.89/hls/cctv6hd.m3u8
-#EXTINF: -1, CCTV 7
-http://202.120.58.89/hls/cctv7.m3u8
-#EXTINF: -1, CCTV 8
-http://202.120.58.89/hls/cctv8.m3u8
-#EXTINF: -1, CCTV 9
-http://202.120.58.89/hls/cctv9.m3u8
-#EXTINF: -1, CCTV 10
-http://202.120.58.89/hls/cctv10.m3u8
-#EXTINF: -1, CCTV 11
-http://202.120.58.89/hls/cctv11.m3u8
-#EXTINF: -1, CCTV 12
-http://202.120.58.89/hls/cctv12.m3u8
-#EXTINF: -1, CCTV 13
-http://202.120.58.89/hls/cctv13.m3u8
-#EXTINF: -1, CCTV 14
-http://202.120.58.89/hls/cctv14.m3u8
-#EXTINF: -1, CCTV 15
-http://202.120.58.89/hls/cctv15.m3u8
-#EXTINF: -1, CCTV 16
-http://202.120.58.89/hls/cctv16.m3u8
-#EXTINF:-1 ,CCTV4
-http://edge2.everyon.tv/etv2/phd1212/chunklist_w626576626.m3u8
-#EXTINF:-1 ,Sunny News
-http://pulllive-al.wasu.cn/live/1528461345367108.m3u8
-#EXTINF:-1, HNNTV
-http://stream1.hnntv.cn/lyws/sd/live.m3u8
-#EXTINF:-1,Hubei TV
-http://live.cjyun.org/video/s10008-hbws2018/index.m3u8
-#EXTINF:-1,Aussie Sports
-http://103.233.191.135:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1,RTHK 31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-#EXTINF:-1,QSTV
-http://live.scqstv.com:84/live/test.m3u8
-#EXTINF:-1, BHTV1
-http://60.30.52.41/live/bhtv1/chunklist_w1051818975.m3u8
-#EXTINF:-1, NEXTTV
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
-#EXTINF:-1, BHTV2
-http://60.30.52.41/live/bhtv2/chunklist_w1962772716.m3u8
-#EXTINF:-1,Oriental Finance Pudong
-http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
-#EXTINF:-1,Satellite TV
-http://iss04.ott.net.tw:8084/live/coship_DCTV0001421917060555_1200.m3u8
-#EXTINF:-1 ,HKS HD
-rtmp://zhibo.hkstv.tv/livestream/zb2yhapo
-#EXTINF:-1 ,TVB Financial Information Desk
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
-#EXTINF:-1,TVB Entertainment News Channel
-http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-#EXTINF:-1,SXBC
-http://stream.snrtv.com/sxtvs-1.m3u8
-#EXTINF:-1, HEBTV
-http://weblive.hebtv.com/live/hbws_bq/index.m3u8
-#EXTINF:-1 ,MEDIARORP 8
-https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
-#EXTINF:-1 ,MEDIARORP U
-https://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index.m3u8
-#EXTINF:-1 ,MEDIARORP 5
-https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
-#EXTINF:-1,Abu Dabi Sport 1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,Abu Dabi Sport 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 ,5 HD 1
-http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
-#EXTINF:-1,HTC
-http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
-#EXTINF:-1,SEA TV
-http://203.189.147.211:1935/live/mp4:myStream_720p/playlist.m3u8
-#EXTINF:-1,Bayon TV
-http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
-#EXTINF:-1,BTV
-http://203.176.130.123:8989/live/bayontv1_480k.stream/chunklist_w721285111.m3u8
-#EXTINF:-1 ,Thai PBS 3 HD
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1,RHM
-rtmp://115.178.24.80:1935/dvr/_definst_/c1.stream
-#EXTINF:-1,PNN
-rtmp://115.178.24.80:1935/dvr/_definst_/c6.stream
-#EXTINF:-1,CTN
-rtmp://115.178.24.80:1935/dvr/_definst_/c8.stream
-#EXTINF:0, ABU DHABI
-http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
-#EXTINF:-1 ,ALL THE K-POP HD
-https://stream-04.sv6.dailymotion.com/dm/3/x4kzk1v/live-3.m3u8
-#EXTINF:-1,Young Star
-http://edge2.everyon.tv/etv2sb/phd1377/chunklist_w703480797.m3u8
-#EXTINF:-1, MTV Rocks
-http://81.200.50.4/hls/MTV_Rocks_nejtv_portable_low.m3u8
-#EXTINF:-1, HeartTV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
-#EXTINF:-1 ,Ynet TV
-http://162.244.83.199:1935/ynettv/ynettv/playlist.m3u8
-#EXTINF:-1 ,Realmadrid TV
-https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1,NewsmaxTV HD
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1,NEO PRIME
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
-#EXTINF:-1 ,AXN HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
-#EXTINF:-1,Japan Channel DX
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_3000.m3u8
-#EXTINF:-1,ARY DIGITAL
-http://158.69.228.195:1935/digitalnew/myStream/playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225872/01.m3u8
-#EXTINF:-1, DIVINITY
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
-#EXTINF:-1 ,DSPORTS HD
-http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:-1,Bernama TV
-http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama2_all.smil/media.m3u8
-#EXTINF: -1, CPAC
-http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
-#EXTINF:-1 ,10 Channel
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
-#EXTINF:-1 ,Hidabroot
-https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
-#EXTINF:-1,Knesset
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 ,AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 ,Tele-Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF: -1, Assemblee Nationale du Quebec
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1,ZIZ
-http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
-#EXTINF:-1,RTV Drenthe
-http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
-#EXTINF:-1,Soyuz
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1, Astro Arena HD
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
-#EXTINF:-1,Tele M1
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
-#EXTINF:-1,FOX Crime
-http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8
-#EXTINF:-1,NICK JR
-http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
-#EXTINF:-1,Nat Geo People
-http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
-#EXTINF:-1 , ForoTV HD
-https://d2an0zg96v9ivp.cloudfront.net/out/u/forotv-flowplayer_5.m3u8
-#EXTINF: -1, Canal Once Mexico
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
-#EXTINF:-1, VTV De Venezuela
-http://162.212.178.134:1935/vicatv/vicatv/index.m3u8
-#EXTINF:-1, TRA 45
-http://ss1.domint.net:2310/tra_str/canal45/chunklist_w1584687002.m3u8
-#EXTINF:-1, NexTV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-#EXTINF:-1,OPOJA
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1,REPORT
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-#EXTINF:-1,MDF1
-http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1,Hr
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1,BR
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8%20
-#EXTINF:-1,TELERED
-https://59ef525c24caa.streamlock.net/Telesistemas/Telesistemas/playlist.m3u8
-#EXTINF:-1,TeLeSUR
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1,ATR
-http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1,Ishtar TV
-http://162.244.81.145:4436/live/ishtar/playlist.m3u8
-#EXTINF:-1,KTV 1
-https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
-#EXTINF:-1,KTV 2
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
-#EXTINF:-1,Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1,C MORE FOTBOLL HD
-http://163.172.222.83:8100/live/amir/123456789/2251.m3u8
-#EXTINF:-1,C MORE GOLF HD
-http://163.172.222.83:8100/live/amir/123456789/2249.m3u8
-#EXTINF:-1,24H
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=400000.m3u8
-#EXTINF:-1,3 24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1,3CAT
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
-
-#EXTINF: -1,IRINN
-http://37.156.146.138:1935/e-tv/irinn-300k.stream/playlist.m3u8
-#EXTINF: -1,Baran
-http://37.156.146.138:1935/e-tv/baran-300k.stream/playlist.m3u8
-#EXTINF: -1,Tamasha
-http://37.156.146.138:1935/e-tv/tamasha-300k.stream/playlist.m3u8
-#EXTINF:-1,NTV KOHALPUR
-http://103.213.31.46:8081/ntv-demo/ntvkohalpur/playlist.m3u8
-#EXTINF:-1,NTV NATIONAL
-http://103.213.31.46:8081/ntv-demo/ntvnepal/playlist.m3u8
-#EXTINF:-1,NTV NEWS
-http://103.213.31.46:8081/ntv-demo/ntvnews/playlist.m3u8
-#EXTINF: -1,TV3
-http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
-#EXTINF: -1,TV9
-http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
-#EXTINF: -1,Altyn Asyr
-http://alpha.tv.online.tm/hls/ch001_400/index.m3u8
-#EXTINF: -1,YASLYK
-http://alpha.tv.online.tm/hls/ch002_400/index.m3u8
-#EXTINF: -1,ASGABAT
-http://alpha.tv.online.tm/hls/ch006_400/index.m3u8
-#EXTINF: -1,Turkmenistan TV
-http://217.174.225.146/legacyhls/ch007_400/index.m3u8
-#EXTINF: -1,Dalga
-http://85.132.71.6:8080/dalga/index.m3u8
-#EXTINF: -1,Canli
-http://85.132.71.6:8080/lider/index.m3u8
-EXTINF: -1,Medeniyyet
-http://85.132.71.6:8080/medeniyyet/index.m3u8
-EXTINF: -1,ARB
-http://85.132.71.6:8080/arb/index.m3u8
-EXTINF: -1,CBC
-http://85.132.71.6:8080/cbc/index.m3u8
-EXTINF: -1,SPACE
-http://85.132.71.6:8080/space/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV1
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV2
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV3
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV4
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV5
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV6
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV7
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV8
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTV9
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="http://i.imgur.com/HC5iUuK.png", VTC1
-http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC2
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC3
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC4
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC5
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC8
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC7
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC8
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC9
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC10
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", VTC11
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg", VTC Ca Nhạc
-http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV1
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV2
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV3
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="", HTV4
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png", HTV7 HD
-http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd.m3u8
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png", HTV9
-http://113.160.49.39/lives/origin04/htv9sd.isml/htv9sd.m3u8
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="",
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="",
-#EXTINF:-1 group-title="TH Việt Nam" tvg-logo="",
-
-#EXTINF:-1 group-title="Radio" group-title="Radio" tvg-logo="https://s19.postimg.org/6iesz428z/vov1.png", VOV 1 
-rtmp://210.245.60.242:1935/nghehevov1/vov1
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/ggzrllboj/vov2.png",  VOV 2 
-rtmp://210.245.60.242:1935/nghehevov2/vov2
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/tmf9rp5k3/vov3.png", VOV 3
-rtmp://210.245.60.242:1935/nghehevov3/vov3
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/vov-4.png",  VOV 4
-rtmp://123.30.189.223:1935/vov4NamBo
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/6nik8s9k3/vov5.png", VOV 5
-rtmp://210.245.60.242/vov5/vov5
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/9wbwbkmzn/vov_247.png", VOV 24/7
-rtmp://210.245.60.242:1935/vov247/vov247
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/qoiaxzxwj/vov_giao_thong_ha_noi.png", VOV Giao thông Hà Nội
-rtmp://117.6.129.102/live/vovgthn.sdp
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/gonei3mn7/vov_giao_thong_tp_hcm.png", VOV Giao thông HCM
-rtmp://117.6.129.102/live/vovgthcm.sdp
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/ba3j6vm8z/vov_mokong.png", VOV Mekong 90.0Mhz
-rtmp://117.6.129.102/live/mekong.sdp
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/lf26wg4tf/xone.png", XONE 
-http://118.69.80.81:8000/http://118.69.80.81:8000
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/v3fmzkzmr/joy_fm.png", Joy FM - Radio sức khỏe 
-rtmp://radio.joyfm.vn:1935/live/RadioOnline
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/voh-95-6-fm.png", Tp.HCM FM 95.6MHz
-rtmp://221.132.38.110:1935/live/channel1
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/voh-610-am.png", Tp.HCM AM 610KHz
-rtmp://221.132.38.110:1935/live/channel2
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/voh-99-9-fm.png", Tp.HCM FM 99.9MHz
-rtmp://221.132.38.110:1935/live/channel3
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/x4o3k08df/an_giang.png", An Giang  
-rtmp://113.161.212.25/live/radio
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/l6mj644mb/bac_lieu.png", Bạc Liêu 
-rtmp://118.69.205.213/livepkgr/livestream2?adbe-live-event=liveevent
-#EXTINF:-1 group-title="Radio"tvg-logo="https://s19.postimg.org/l42nja0yr/ben_tre.png", Bến Tre 
-rtmp://113.163.94.245/livepkgr/audiostream
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/fssccb49v/ca_mau.png", Cà Mau 
-rtmp://113.161.220.254/livepkgr/livestream4
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/q5xh0q89v/th_can_tho.png", Cần Thơ 97.3Mhz
-rtmp://tv.canthotv.vn/livepkgr/livestream4?adbe-live-event=liveevent
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/h44oyip9f/dong_thap.png", Đồng Tháp  
-rtmp://123.30.110.170:1939/thdt/radio
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/lau4rle8z/hau_giang.png", Hậu Giang 
-rtmp://123.30.110.170:1939/hgradio/pthg
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/jll1jiyjn/kien_giang.png", Kiên Giang
-http://tv.kgtv.vn/hls/kgaudio.m3u8
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/6f0nh495v/long_an.png", Long An 96.8Mhz 
-http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/radio.m3u8
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/51dlzjzab/soc_trang.png", Sóc Trăng 103.2Mhz 
-rtmp://115.78.3.164/live/FMsoctrang
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/ofefz8qqr/tieng_giang.png",  Tiền Giang 96.2 Mhz
-rtmp://123.30.141.4:1935/live/radio
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/mrjvyc28z/tra_vinh.png",  Trà Vinh
-rtmp://vov.radiovietnam.vn:1935/live
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/n5l7xxmcj/vinh_long.png", Vĩnh Long 90.2Mhz 
-http://113.161.196.80:8000/radiothvl/stream.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/lbuvtj1b7/ba_ria_vung_tau.png", Vũng Tàu 92.0Mhz
-rtmp://113.163.216.24:80/livepkgr/livestream
-#EXTINF:-1 group-title="Radio" tvg-logo="", Bình Dương  
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/enya6xhsz/binh_phuoc.png",  Bình Phước
-http://118.69.197.145/hls/radio.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="", Đồng Nai 97.5Mhz
-#EXTINF:-1 group-title="Radio" tvg-logo="", Tây Ninh
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/3s6wbkwv7/da_nang.png", Đà Nẵng
-http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/g9rsncd43/quang_nam.png", Quảng Nam
-rtmp://113.161.6.157:1935/live/audiostream
-#EXTINF:-1 group-title="Radio" tvg-logo="", Quảng Ngãi
-#EXTINF:-1 group-title="Radio" tvg-logo="", Bình Định
-#EXTINF:-1 group-title="Radio" tvg-logo="", Phú Yên
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/yvkwqpu1v/khanh_hoa.png",  Khánh Hòa
-http://210.245.20.94/hls/radio.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/3orbjxcgz/ninh_thuan.png",  Ninh Thuận 
-rtmp://203.113.166.233/live/NTV_AUDIO
-#EXTINF:-1 group-title="Radio"  tvg-logo="", Bình Thuận 
-#EXTINF:-1 group-title="Radio" tvg-logo="", Đak Lák
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/ajxbeflur/dak_nong.png", Đắk Nông 
-rtmp://222.255.158.22:1935/live2/phatthanh
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/g4ee2ta3n/gia_lai.png", Gia Lai
-http://113.161.25.3:8134/hls-live/livepkgr/_definst_/liveevent/radio.m3u8
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/8ec7bex5v/kon_tum.png", Kon Tum 
-http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumaudio.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="", Lâm Đồng
-#EXTINF:-1 group-title="Radio" tvg-logo="", Thanh Hóa
-#EXTINF:-1 group-title="Radio" tvg-logo="", Nghệ An
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/cakxtnsrn/ha_tinh.png", Hà Tĩnh
-http://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="", Quảng Bình
-#EXTINF:-1 group-title="Radio" tvg-logo="", Quảng Trị
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://s19.postimg.org/nra6u1her/thua_thien_hue.png", Huế 
-rtmp://118.69.176.149:1936/live/radio
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/awtayctib/ha_noi.png", Hà Nội FM 90Mhz
-rtmp://123.30.185.123/live/hn1audio
-#EXTINF:-1 group-title="Radio" tvg-logo="", Vĩnh Phúc
-#EXTINF:-1 group-title="Radio" tvg-logo="", Bắc Ninh
-#EXTINF:-1 group-title="Radio" tvg-logo="", Quảng Ninh
-#EXTINF:-1 group-title="Radio"  tvg-logo="http://www.qtv.vn/common/v1/image/qnr1.png", Quảng Ninh Radio 1 
-rtmp://123.29.68.44/hctv/vsrd001
-#EXTINF:-1 group-title="Radio" tvg-logo="http://www.qtv.vn/common/v1/image/qnr2.png", Quảng Ninh Radio 2
-rtmp://123.29.68.44/hctv/vsrd004
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/k5vh8h2eb/hai_duong.png", Hải Dương
-http://113.160.131.11:8000/
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/jue0vplyb/hai_phong.png", Hải Phòng
-http://118.107.76.15:1983/live/HPradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="", Hưng Yên
-#EXTINF:-1 group-title="Radio" tvg-logo="", Thái Bình
-#EXTINF:-1 group-title="Radio" tvg-logo="",  Hà Nam
-#EXTINF:-1 group-title="Radio" tvg-logo="", Nam Định 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/qxvjm6n37/ninh_binh.png", Ninh Bình
-http://117.6.94.35:8001/
-#EXTINF:-1 group-title="Radio" tvg-logo="", Lạng Sơn
-#EXTINF:-1 group-title="Radio" tvg-logo="", Cao Bằng
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/hx6opzp7n/dpt_bac_kan.png", Bắc Kạn
-http://118.107.76.15:1983/live/BKradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="", Thái Nguyên
-#EXTINF:-1 group-title="Radio" tvg-logo="http://stream2.mobiradio.vn/thumb/0x0/crop//Uploads/images/RADIOVN/08182016/kenh%20phat%20thanh/yenbai.png", Yên Bái
-rtmp://123.30.186.141/oflaDemo/livestream
-#EXTINF:-1 group-title="Radio" tvg-logo="", Lào Cai
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/vx8qi4qxr/dpt_ha_giang.png", Hà Giang
-http://118.107.76.15:1983/live/HGradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/tlplaa5ib/tuyen_quang.png", Tuyên Quang
-rtmp://210.245.89.40:1935/live/liveaudiostream
-#EXTINF:-1 group-title="Radio" tvg-logo="", Phú Thọ
-#EXTINF:-1 group-title="Radio" tvg-logo="", Bắc Giang
-#EXTINF:-1 group-title="Radio" tvg-logo="", Hòa Bình
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s19.postimg.org/6uginvkgz/son_la.png", Sơn La
-http://118.107.76.15:1983/live/SLradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="", Điện Biên
-#EXTINF:-1 group-title="Radio" tvg-logo="", Lai Châu
-#EXTINF:-1 group-title="Radio" tvg-logo="", Lào Cai 
-#EXTINF:-1 group-title="Radio" tvg-logo="http://www.cherryradio.com.au/templates/times_plazza/images/default/cherry_radio_logo.gif", Giải trí (Cherry Radio) 
-http://192.240.102.195:9055/stream.mp3
-#EXTINF:-1 group-title="Radio"  tvg-logo="http://www.cherryradio.com.au/templates/times_plazza/images/default/cherry_radio_logo.gif", Nhạc trẻ (Cherry Radio) 
-http://50.7.96.210:8618/;stream.mp3
-#EXTINF:-1 group-title="Radio"  tvg-logo="http://www.cherryradio.com.au/templates/times_plazza/images/default/cherry_radio_logo.gif", Nhạc trữ tình (Cherry Radio)
-http://68.168.101.146:8454/stream.mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/radio-tieng-nuroc-toi.png", Radio Tiếng Nước Tôi
-http://162.244.80.118:3092/stream/1/
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/radio-viet-nam-hai-ngoai.png", VABC Radio 
-http://vpr.serverroom.us:7492/;stream.mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/nhk-vietnam.png", NHK Vietnam  
-rtmp://flv.nhk.or.jp/ondemand//mp4:flv/nhkworld/upld/medias/vi/radio/news/20170903200000_vietnamese_1.m4a
-#EXTINF:-1 group-title="Radio" tvg-logo="http://www.rfa.org/english/images/rfa-logo-400.jpg", Đài á châu tự do
-http://rfalive2.akacast.akamaistream.net/7/985/433978/v1/ibb.akacast.akamaistream.net/RFALive2.m3u
-#EXTINF:-1 group-title="Radio" tvg-logo="http://www.radioguide.fm/uploads/radiostation/rfi_tieng-viet1.jpg", RFI
-http://live02.rfi.fr/rfienvietnamien-64.mp3
-
-#EXTINF:-1 group-title="Radio" tvg-logo="", Bolsa Westminster  
-http://ice7.securenetsystems.net/RBVU?type=.flv
-#EXTINF:-1 group-title="Radio"  tvg-logo="http://www.radioguide.fm/uploads/radiostation/little-saigon-radio-small.png", Little Saigon Radio 1480 A.M 
-http://mp3.littlesaigonradio.com:8000/live
-#EXTINF:-1 group-title="Radio" tvg-logo="https://pbs.twimg.com/profile_images/489683116148006912/NH2ugxW__400x400.jpeg", Saigon Radio 106.3 FM Los Angeles
-http://ice5.securenetsystems.net:80/KALI
-#EXTINF:-1 group-title="Radio" tvg-logo="", Saigon Radio 1430 AM San Jose
-http://ice5.securenetsystems.net:80/KVVN
-#EXTINF:-1 group-title="Radio" tvg-logo="http://www.radioguide.fm/uploads/images-2-0001.jpg", Saigon Radio 900 AM Houston
-http://ice5.securenetsystems.net:80/KREH
-#EXTINF:-1 group-title="Radio" tvg-logo="http://www.radioguide.fm/uploads/radiostation/saigon-radio-dallas.PNG",  Saigon Radio 890am Dallas
-#EXTINF:-1 group-title="Radio" tvg-logo="", Saigon Radio Seattle
-http://170.75.194.209:8888
-#EXTINF:-1 group-title="Radio" tvg-logo="", Thời Báo Radio Toronto
-http://209.250.131.2:8000/;stream.mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="", VNHN/VABC Falls Church
-http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="http://www.radioguide.fm/uploads/radiostation/vinaradio.PNG", VINA VietNam
-http://vpr.serverroom.us:7492/;?.mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="http://www.littlesaigonradio.com/images/main.jpg", Little Saigòn
-http://mp3.littlesaigonradio.com:8000/live
-#EXTINF:-1 group-title="Radio" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rWeUKu7LtA.png",VNU - VN UNITED Vietnamese
-http://96.227.91.98:8000/;/;&topspeed=on
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.nvradio.co/images/radio.jpg", Nationwide Viet Radio (NVR)
-http://162.244.80.33:4480/;stream.mp3:4480
-#EXTINF:-1 group-title="Radio" tvg-logo="http://vienthao.com/v_logo.gif", VIEN THAO 1290AM Radio
-http://173.193.205.96:8047/;stream.nsv
-#EXTINF:-1 group-title="Radio" tvg-logo="",Lac Viet radio vancouver
-http://mp3.littlesaigonradio.com:8000/live
-#EXTINF:-1 group-title="Radio" tvg-logo="",Việt Sóng Radio, Atlana City, Georgia
-http://ice1.securenetsystems.net/DEMOSTN?playSessionID=2BDD5416-A091-4093-ED91B830BF23657B
-#EXTINF:-1 group-title="Radio" tvg-logo="",VOC RADIO FM 106.3 FM SATURDAYS – NAM CALIFORNIA
-http://ice5.securenetsystems.net/KALI?playSessionID=2BFC14A4-934A-1E42-01528E5CF1DAFFE1
-#EXTINF:-1 group-title="Radio" tvg-logo="",THỜI BÁO RADIO – Canada
-http://209.250.131.2:8000/;stream.mp3%3Cbr%20/%3E
-#EXTINF:-1 group-title="Radio" tvg-logo="", RTI đài loan
-rtmp://live2.rti.org.tw/vod/mp4:vod156/record/5_20171005_0100_76.mp4
-#EXTINF:-1 group-title="Radio" tvg-logo="",
-#EXTINF:-1 group-title="Radio" tvg-logo="",
-#EXTINF:-1 group-title="Radio" tvg-logo="",
-#EXTINF:-1 group-title="Radio" tvg-logo="",
-
-#EXTINF:-1 group-title="Radio" tvg-logo="http://vi.radiovaticana.va/Modules/Presentation/Styles/images-common/layout/logo-rv-up-bar.png", vaticana
-http://www2.vaticanwebradio.org/webcasting/vietnamita_1.mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="http://vietnamese.rveritas-asia.org/img/rvlogo.png", RVA-Chân Lý Á Châu
-http://stream.rveritas-asia.org:8000/Vietnamese.mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s141508q.png",Chúa Đến Radio – Jesus Coming FM
-http://live.jesuscomingfm.com:8316/;
-
-
-
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png", CCTV-1 Tổng hợp
-http://tv6.byr.cn/hls/cctv1.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/CCTV-2%E8%B4%A2%E7%BB%8F.png", CCTV-2 Tài chính
-http://tv6.byr.cn/hls/cctv2.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CCTV-3%E7%BB%BC%E8%89%BA.png", CCTV-3 Đa dạng
-http://tv6.byr.cn/hls/cctv3.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/CCTV-4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png", CCTV-4 Trung Quốc & Quốc Tế
-http://tv6.byr.cn/hls/cctv4.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png", CCTV-5 Thể thao
-http://tv6.byr.cn/hls/cctv5.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6%E7%94%B5%E5%BD%B1.png", CCTV-6 Phim
-http://tv6.byr.cn/hls/cctv6.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7%E5%86%9B%E4%BA%8B%E5%86%9C%E4%B8%9A.png", CCTV-7 Nông nghiệp
-http://tv6.byr.cn/hls/cctv7.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png", CCTV-8 Phim truyền hình
-http://tv6.byr.cn/hls/cctv8.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9%E7%BA%AA%E5%BD%95.png", CCTV-9 Ghi lại
-http://tv6.byr.cn/hls/cctv9.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10%E7%A7%91%E6%95%99.png", CCTV-10 Khoa học giáo dục
-http://tv6.byr.cn/hls/cctv10.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/CCTV-11%E6%88%8F%E6%9B%B2.png", CCTV-11 Opera
-http://tv6.byr.cn/hls/cctv11.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95.png", CCTV-12 Xã hội & Luật
-http://tv6.byr.cn/hls/cctv12.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CCTV-13%E6%96%B0%E9%97%BB.png", CCTV-13 Tin tức
-http://tv6.byr.cn/hls/cctv13.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14%E5%B0%91%E5%84%BF.png", CCTV-14 Thiếu nhi
-http://tv6.byr.cn/hls/cctv14.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15%E9%9F%B3%E4%B9%90.png", CCTV-15 Nhạc
-http://tv6.byr.cn/hls/cctv15.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg", CGTN
-http://tv6.byr.cn/hls/cctv16.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png", CCTV - Phim chiếu rạp
-http://tv6.byr.cn/hls/dyjctv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png", CCTV - Nhà hát storm
-http://tv6.byr.cn/hls/fyjctv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png", CCTV - Nhạc
-http://tv6.byr.cn/hls/fyyytv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png", CCTV - Bóng đá
-http://tv6.byr.cn/hls/fyzqtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/CCTV-%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.png", CCTV - Quốc phòng
-http://tv6.byr.cn/hls/gfjstv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png", CCTV - Nhà hát hoài cổ
-http://tv6.byr.cn/hls/hjjctv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png", CCTV- Địa lý Thế Giới
-http://tv6.byr.cn/hls/sjdltv.m3u8 
-
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png", CCTV-1HD
-http://tv6.byr.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/CCTV-2%E8%B4%A2%E7%BB%8F.png", CCTV-2HD
-http://tv6.byr.cn/hls/cctv2hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CCTV-3%E7%BB%BC%E8%89%BA.png", CCTV-3HD
-http://tv6.byr.cn/hls/cctv3hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png", CCTV-5HD Thể thao
-http://tv6.byr.cn/hls/cctv5hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png", CCTV-5+HD Thể thao
-http://tv6.byr.cn/hls/cctv5phd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6%E7%94%B5%E5%BD%B1.png", CCTV-6HD
-http://tv6.byr.cn/hls/cctv6hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png", CCTV-8HD
-http://tv6.byr.cn/hls/cctv8hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://ttylwang.com/?d/file/2016/1021/fdbd0781c2d7d6404320dd4890ced2b1.jpg", CHC HD - Phim
-http://tv6.byr.cn/hls/chchd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg", Bắc Kinh TV HD
-http://tv6.byr.cn/hls/btv1hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc"  tvg-logo="http://www.hlyy.cc/uploadfile/20150411/z1c2qunjnbs.jpg", Văn học & nghệ thuật Bắc Kinh HD
-http://tv6.byr.cn/hls/btv2hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.24zbw.com/uploadfile/2016/1231/20161231023227769.jpg", Thể thao Bắc Kinh HD
-http://tv6.byr.cn/hls/btv6hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.zhiboba.cc/zbbimg/btv-12jishi.jpg", Tài liệu về Bắc Kinh HD
-http://tv6.byr.cn/hls/btv11hd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png", Truyền hình vệ tinh Hồ Nam HD
-http://tv6.byr.cn/hls/hunanhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://bpic.588ku.com/element_pic/00/16/09/0657ce6a5d5cc73.jpg", Chiết Giang TV HD
-http://tv6.byr.cn/hls/zjhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", Giang Tô TV HD
-http://tv6.byr.cn/hls/jshd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png", Truyền hình phương Đông HD
-http://tv6.byr.cn/hls/dfhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png", An Huy TV HD
-http://tv6.byr.cn/hls/ahhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png", Hắc Long Giang HD
-http://tv6.byr.cn/hls/hljhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.zitichina.com/Uploadfile/allimg/130914/1_130914181627_1.jpg", Liêu Ninh truyền hình vệ tinh HD
-http://tv6.byr.cn/hls/lnhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img1.3png.com/937cdc0d43e2225e30e86bcba9d2fe361473.png", Thâm Quyến TV HD
-http://tv6.byr.cn/hls/szhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img2.3png.com/5e263bb3dd7305f9787b27d09ddb2cf434cf.png", Quảng Đông HD
-http://tv6.byr.cn/hls/gdhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225143116316.png", Thiên Tân HD
-http://tv6.byr.cn/hls/tjhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.weixinyidu.com/160327/2546a869.jpg", Hubei TV HD
-http://tv6.byr.cn/hls/hbhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://siac.com.cn/Upload/%E9%80%9A%E8%AE%AFLOGO/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86LOGO-09075932268.jpg", Sơn Đông HD
-http://tv6.byr.cn/hls/sdhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e5/CQTV_new_logo.png/150px-CQTV_new_logo.png", Trùng Khánh TV HD
-http://tv6.byr.cn/hls/cqhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.gctvmedia.com/upload/images/2017-04-13/6362770661926562506242618.jpg", Tài liệu Thượng Hải HD
-http://tv6.byr.cn/hls/docuchina.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.ft69.com/upLoad/product/170728/201707281958071030.jpg", Tứ Xuyên HD
-http://tv6.byr.cn/hls/schd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://a4.att.hudong.com/03/30/01300543769589145887304945363_s.png", Tài liệu về Golden Eagle HD
-http://tv6.byr.cn/hls/gedocu.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://tva3.sinaimg.cn/crop.1.1.178.178.1024/5ee639b1jw8ev72hh4i0fj2050050weh.jpg", Fujian Đông Nam HD
-http://tv6.byr.cn/hls/dnhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.rologo.com/images/uploads/2013/09/hbws-new-logo.png", Hà Bắc HD
-http://tv6.byr.cn/hls/hebhd.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png", Giang Tây HD
-http://tv6.byr.cn/hls/jxhd.m3u8 
-
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.ppntv.com/uploads/allimg/140825/1-140R514264H09.jpg", Bắc Kinh TV
-http://tv6.byr.cn/hls/btv1.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv2.jpg", Văn học và nghệ thuật - Bắc Kinh
-http://tv6.byr.cn/hls/btv2.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.gyimc.com/uploads/logo/btv3.jpg", Khoa học và Giáo dục - Bắc Kinh
-http://tv6.byr.cn/hls/btv3.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv4.jpg", Phim và truyền hình - Bắc Kinh
-http://tv6.byr.cn/hls/btv4.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv5.jpg", Tài chính và Kinh tế - Bắc Kinh
-http://tv6.byr.cn/hls/btv5.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.5175.cc/uploadfile/2014/0724/20140724041638861.jpg", Thể thao - Bắc Kinh
-http://tv6.byr.cn/hls/btv6.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv7.jpg", Cuộc sống - Bắc Kinh
-http://tv6.byr.cn/hls/btv7.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv8.jpg", Thanh niên - Bắc Kinh
-http://tv6.byr.cn/hls/btv8.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv9.jpg", Tin tức - Bắc Kinh
-http://tv6.byr.cn/hls/btv9.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png", Thiếu nhi - Bắc Kinh
-http://tv6.byr.cn/hls/btv10.m3u8 
-
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://bpic.588ku.com/element_pic/00/16/09/0657ce6a5d5cc73.jpg", Chiết Giang TV
-http://tv6.byr.cn/hls/zjtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png", Truyền hình vệ tinh Hồ Nam
-http://tv6.byr.cn/hls/hunantv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png", Giang Tô TV
-http://tv6.byr.cn/hls/jstv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png", Truyền hình phương Đông
-http://tv6.byr.cn/hls/dftv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.gst88.com/UploadFile//%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86logo.jpg", Thâm Quyến TV
-http://tv6.byr.cn/hls/sztv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png", TV An Huy
-http://tv6.byr.cn/hls/ahtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png", TV Hà Nam
-http://tv6.byr.cn/hls/hntv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0d/Shaanxi_Satellite_TV.png/150px-Shaanxi_Satellite_TV.png", Thiểm Tây truyền hình vệ tinh TV
-http://tv6.byr.cn/hls/sxtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/63/JLTV_logo.png", Cát Lâm TV
-http://tv6.byr.cn/hls/jltv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/GRT_Satellite_Channel_2016_logo.jpg/400px-GRT_Satellite_Channel_2016_logo.jpg", Quảng Đông truyền hình
-http://tv6.byr.cn/hls/gdtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/79/SDTV_logo.png/170px-SDTV_logo.png", TV Sơn Đông
-http://tv6.byr.cn/hls/sdtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/HBTV_logo.png", Hubei TV
-http://tv6.byr.cn/hls/hbtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.jnhxgg.com/upload/jinanhongxiao2014925155801.jpg", Quảng Tây TV
-http://tv6.byr.cn/hls/gxtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.rologo.com/images/uploads/2013/09/hbws-new-logo.png", TV Hà Bắc
-http://tv6.byr.cn/hls/hebtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.ft69.com/upLoad/product/170728/201707282026010491.jpg", Truyền hình vệ tinh Tây Tạng
-http://tv6.byr.cn/hls/xztv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.weishi.tv/upload/tv/4508a64148d483ba76423102a0e94c7f.jpg", Truyền hình Mông Cổ Nội Mông
-http://tv6.byr.cn/hls/nmtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg", Truyền hình vệ tinh Thanh Hải
-http://tv6.byr.cn/hls/qhtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://a3.att.hudong.com/45/03/01300543754469145914031773240_s.jpg", Truyền hình Tứ Xuyên
-http://tv6.byr.cn/hls/sctv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.ijizhi.com/img/UploadFile/20111251581103.jpg", TV Thiên Tân
-http://tv6.byr.cn/hls/tjtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/shanxitv.jpg", Shanxi TV
-http://tv6.byr.cn/hls/sxrtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.hlyy.cc/uploadfile/20150411/vr5yfxjmlf1.jpg", Liêu Ninh truyền hình vệ tinh
-http://tv6.byr.cn/hls/lntv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.logonews.cn/uploads/2015/04/2015042300363441.jpg", Xiamen TV
-http://tv6.byr.cn/hls/xmtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.ft69.com/upLoad/product/170728/201707282130515763.jpg", Tân Cương TV
-http://tv6.byr.cn/hls/xjtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png", TV Hắc Long Giang
-http://tv6.byr.cn/hls/hljtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/55/YNtv.png/170px-YNtv.png", Truyền hình Vân Nam
-http://tv6.byr.cn/hls/yntv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png", Truyền hình Giang Tây
-http://tv6.byr.cn/hls/jxtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.logo11.cn/uploads/allimg/150413/1_150413160055_1.png", Fujian Đông Nam truyền hình
-http://tv6.byr.cn/hls/dntv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225161204205.png", Quảng Châu truyền hình
-http://tv6.byr.cn/hls/gztv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225130HR22.png", Truyền hình vệ tinh Ningxia
-http://tv6.byr.cn/hls/nxtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png", Truyền hình vệ tinh Gansu
-http://tv6.byr.cn/hls/gstv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e5/CQTV_new_logo.png/150px-CQTV_new_logo.png", Trùng Khánh TV
-http://tv6.byr.cn/hls/cqtv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e8/Bingtuan_Television_Logo_20090828.png/200px-Bingtuan_Television_Logo_20090828.png", Quân đoàn Truyền hình
-http://tv6.byr.cn/hls/bttv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/05/Travel_Channel_Logo.png/440px-Travel_Channel_Logo.png", Truyền hình du lịch
-http://tv6.byr.cn/hls/lytv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg", Giáo dục Trung Quốc CETV-1
-http://tv6.byr.cn/hls/cetv1.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giáo dục Trung Quốc CETV-3
-http://tv6.byr.cn/hls/cetv3.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Giáo dục Trung Quốc CETV-4
-http://tv6.byr.cn/hls/cetv4.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.xfcatv.com/zyyw/image/93.gif", Phim hành động CHC
-http://tv6.byr.cn/hls/chcatv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://tva4.sinaimg.cn/crop.784.467.490.490.180/77eb3ddejw1e9oaedgw1pj21kw16ojun.jpg", Nhà hát CHC
-http://tv6.byr.cn/hls/chctv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Đời sống-1
-http://tv6.byr.cn/hls/djsh1.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Đời sống-2
-http://tv6.byr.cn/hls/djsh2.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Đời sống-3
-http://tv6.byr.cn/hls/djsh3.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Đời sống-4
-http://tv6.byr.cn/hls/djsh4.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Đời sống-5
-http://tv6.byr.cn/hls/djsh5.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.114tuku.com/uploadfile/2014/1231/20141231053501240.png", Phim hoạt hình Jiajia
-http://tv6.byr.cn/hls/jjkttv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.114tuku.com/uploadfile/2014/1231/20141231053502481.png", Golden Eagle Cartoon
-http://tv6.byr.cn/hls/jykttv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Sơn Đông Giáo dục
-http://tv6.byr.cn/hls/sdetv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://qu.meitj.com/wp-content/uploads/2016/02/1-52.jpg", Phim hoạt hình Hyun
-http://tv6.byr.cn/hls/xdkttv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E5%8D%AB%E8%A7%86.png", Phim hoạt hình xuất sắc
-http://tv6.byr.cn/hls/ymkttv.m3u8 
-
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://video.seatelgroup.com/uploads/thumbs/585311fd-1.jpg", Đài truyền hình Phoenix TV
-http://tv6.byr.cn/hls/fhzw.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://video.seatelgroup.com/uploads/thumbs/37b065a4-1.jpg", Phòng truyền hình vệ tinh Phoenix
-http://tv6.byr.cn/hls/fhzx.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.f5vi.com/uploadfck/Image/feng%20huang%20tv%20logo%2006.png", Movie
-http://tv6.byr.cn/hls/fhdy.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/50/Discovery_Logo.png", Discovery
-http://tv6.byr.cn/hls/discovery.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225233J2323.png", National Geographic
-http://tv6.byr.cn/hls/natlgeo.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.zhiboba.cc/zbbimg/xingkongweishi.jpg", Startv
-http://tv6.byr.cn/hls/startv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="", Channel[V]
-http://tv6.byr.cn/hls/channelv.m3u8 
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg", Starsports
-http://tv6.byr.cn/hls/starsports.m3u8
-#EXTINF:-1 group-title="Trung Quốc" tvg-logo="http://www.yqdtv.com/uploadfile/image/20150327/20150327025714_53250.jpg", Documentary
-http://tv6.byr.cn/hls/documentary.m3u8 
+http://42.115.133.57:8889/udp/225.1.1.201:30120
+#EXTINF:-1,Asian Food Channel HD
+http://42.115.133.57:8889/udp/225.1.1.198:30120
+#EXTINF:-1,Asian Food Channel HD
+http://42.115.133.57:8889/udp/225.1.2.98:30120
+#EXTINF:-1,Australia Plus
+http://42.115.133.57:8889/udp/225.1.2.21:30120
+#EXTINF:-1,AXN HD
+http://42.115.133.57:8889/udp/225.1.2.224:30120
+#EXTINF:-1,AXN HD
+http://42.115.133.57:8889/udp/225.1.2.225:30120
+#EXTINF:-1,BBC Earth
+http://42.115.133.57:8889/udp/225.1.2.24:30120
+#EXTINF:-1,BBC Earth HD
+http://42.115.133.57:8889/udp/225.1.2.25:30120
+#EXTINF:-1,BBC Lifestyle
+http://42.115.133.57:8889/udp/225.1.2.52:30120
+#EXTINF:-1,BBC World News
+http://42.115.133.57:8889/udp/225.1.2.74:30120
+#EXTINF:-1,Cartoon Network HD
+http://42.115.133.57:8889/udp/225.1.2.230:30120
+#EXTINF:-1,Cartoon Network HD
+http://42.115.133.57:8889/udp/225.1.2.231:30120
+#EXTINF:-1,Channel News Asia
+http://42.115.133.57:8889/udp/225.1.1.202:30120
+#EXTINF:-1,Channel [V] HD
+http://42.115.133.57:8889/udp/225.1.1.187:30120
+#EXTINF:-1,Channel [V] HD
+http://42.115.133.57:8889/udp/225.1.1.188:30120
+#EXTINF:-1,Cinema World
+http://42.115.133.57:8889/udp/225.1.1.142:30120
+#EXTINF:-1,Cinema World (HD 4Mbps)
+http://42.115.133.57:8889/udp/225.1.1.143:30120
+#EXTINF:-1,CNBC
+http://42.115.133.57:8889/udp/225.1.1.227:30120
+#EXTINF:-1,CNN
+http://42.115.133.57:8889/udp/225.1.1.242:30120
+#EXTINF:-1,Da Vinci Learning HD
+http://42.115.133.57:8889/udp/225.1.1.197:30120
+#EXTINF:-1,Da Vinci Learning HD
+http://42.115.133.57:8889/udp/225.1.2.253:30120
+#EXTINF:-1,Discovery Asia HD
+http://42.115.133.57:8889/udp/225.1.2.222:30120
+#EXTINF:-1,Discovery Asia HD
+http://42.115.133.57:8889/udp/225.1.2.223:30120
+#EXTINF:-1,Discovery Channel
+http://42.115.133.57:8889/udp/225.1.1.238:30120
+#EXTINF:-1,Disney Channel HD
+http://42.115.133.57:8889/udp/225.1.2.158:30120
+#EXTINF:-1,Disney Channel HD
+http://42.115.133.57:8889/udp/225.1.2.160:30120
+#EXTINF:-1,Disney Junior
+http://42.115.133.57:8889/udp/225.1.1.233:30120
+#EXTINF:-1,Diva
+http://42.115.133.57:8889/udp/225.1.1.199:30120
+#EXTINF:-1,DW HD
+http://42.115.133.57:8889/udp/225.1.1.46:30120
+#EXTINF:-1,Fashion TV HD
+http://42.115.133.57:8889/udp/225.1.2.226:30120
+#EXTINF:-1,Fashion TV HD
+http://42.115.133.57:8889/udp/225.1.2.227:30120
+#EXTINF:-1 ,Fashion TV 4K
+http://42.115.133.57:8889/udp/225.1.1.20:30120
+#EXTINF:-1,Fox Sports HD
+http://42.115.133.57:8889/udp/225.1.2.228:30120
+#EXTINF:-1,Fox Sports HD
+http://42.115.133.57:8889/udp/225.1.2.229:30120
+#EXTINF:-1,Fox Sports 2 HD
+http://42.115.133.57:8889/udp/225.1.1.108:30120
+#EXTINF:-1,Fox Sports 2 HD
+http://42.115.133.57:8889/udp/225.1.1.141:30120
+#EXTINF:-1,Fox Sports 3 HD
+http://42.115.133.57:8889/udp/225.1.2.242:30120
+#EXTINF:-1,Fox Sports 3 HD
+http://42.115.133.57:8889/udp/225.1.2.243:30120
+#EXTINF:-1,France 24
+http://42.115.133.57:8889/udp/225.1.2.211:30120
+#EXTINF:-1,GEM HD
+http://42.115.133.57:8889/udp/225.1.1.17:30120
+#EXTINF:-1,GEM HD
+http://42.115.133.57:8889/udp/225.1.1.60:30120
+#EXTINF:-1,HBO HD
+http://42.115.133.57:8889/udp/225.1.2.232:30120
+#EXTINF:-1,HBO HD
+http://42.115.133.57:8889/udp/225.1.2.233:30120
+#EXTINF:-1,MAX by HBO HD
+http://42.115.133.57:8889/udp/225.1.2.86:30120
+#EXTINF:-1,MAX by HBO HD
+http://42.115.133.57:8889/udp/225.1.2.91:30120
+#EXTINF:-1,National Geographic HD
+http://42.115.133.57:8889/udp/225.1.2.234:30120
+#EXTINF:-1,National Geographic HD
+http://42.115.133.57:8889/udp/225.1.2.235:30120
+#EXTINF:-1,NHK World HD
+http://42.115.133.57:8889/udp/225.1.1.47:30120
+#EXTINF:-1,Outdoor Channel HD
+http://42.115.133.57:8889/udp/225.1.2.214:30120
+#EXTINF:-1,Outdoor Channel HD
+http://42.115.133.57:8889/udp/225.1.2.215:30120
+#EXTINF:-1,RED by HBO HD
+http://42.115.133.57:8889/udp/225.1.1.89:30120
+#EXTINF:-1,RED by HBO HD
+http://42.115.133.57:8889/udp/225.1.1.93:30120
+#EXTINF:-1,Fox Movies HD
+http://42.115.133.57:8889/udp/225.1.2.238:30120
+#EXTINF:-1,Fox Movies HD
+http://42.115.133.57:8889/udp/225.1.2.239:30120
+#EXTINF:-1,Fox Life HD
+http://42.115.133.57:8889/udp/225.1.2.236:30120
+#EXTINF:-1,Fox Life HD
+http://42.115.133.57:8889/udp/225.1.2.237:30120
+#EXTINF:-1,TLC
+http://42.115.133.57:8889/udp/225.1.1.236:30120
+#EXTINF:-1,Toonami HD
+http://42.115.133.57:8889/udp/225.1.2.163:30120
+#EXTINF:-1,Toonami HD
+http://42.115.133.57:8889/udp/225.1.2.220:30120
+#EXTINF:-1,TV5Monde Asia
+http://42.115.133.57:8889/udp/225.1.1.200:30120
+#EXTINF:-1,FOX HD
+http://42.115.133.57:8889/udp/225.1.1.51:30120
+#EXTINF:-1,FOX HD
+http://42.115.133.57:8889/udp/225.1.1.52:30120
+#EXTINF:-1,Babytv HD
+http://42.115.133.57:8889/udp/225.1.2.146:30120
+#EXTINF:-1,Babytv HD
+http://42.115.133.57:8889/udp/225.1.2.147:30120
+#EXTINF:-1,KIX HD
+http://42.115.133.57:8889/udp/225.1.2.144:30120
+#EXTINF:-1,KIX HD
+http://42.115.133.57:8889/udp/225.1.2.145:30120
+#EXTINF:-1,VITV
+http://42.115.133.57:8889/udp/225.1.2.143:30120
+#EXTINF:-1,The Ocean Resort
+http://42.115.133.57:8889/udp/225.1.1.121:30120
+#EXTINF:-1,The Mira Hotel
+http://42.115.133.57:8889/udp/225.1.1.123:30120
+#EXTINF:-1,NTV
+http://42.115.133.57:8889/udp/225.1.1.85:30120
+#EXTINF:-1,MTV
+http://42.115.133.57:8889/udp/225.1.1.245:30120
+#EXTINF:-1,Warner Bros TV
+http://42.115.133.57:8889/udp/225.1.1.139:30120
+#EXTINF:-1,Warner Bros TV HD
+http://42.115.133.57:8889/udp/225.1.1.140:30120
