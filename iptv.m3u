@@ -510,8 +510,8 @@ http://172.104.114.178/vod/live/4/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 #EXTINF:-1 , IBIZA 1
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
 #EXTINF:-1 ,IBIZA 2
-https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
+https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8
 #EXTINF:-1 ,IBIZA 3
-https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
+https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
 #EXTINF:-1 , O la la
 http://213.59.128.162:9996/play/O-la-la/index.m3u8
