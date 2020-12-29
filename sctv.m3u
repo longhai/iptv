@@ -41,45 +41,47 @@ https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV19_HD.smil/chunklist.m3u8
 https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV20_HD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SCTV", SCTV PHIM TONG HOP
 https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", HTV2 - VIE CHANNEL
+
+#EXTINF:-1 group-title="HTV", HTV2 - VIE CHANNEL
 https://vtsstr1.tv24.vn/live/_definst_/smil:HTV2_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", HTV3
+#EXTINF:-1 group-title="HTV", HTV3
 https://vtsstr1.tv24.vn/live/_definst_/smil:HTV3_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTV3
+
+#EXTINF:-1 group-title="VTV", VTV3
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTV3_HD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab1 - VIE GIAI TRI
+#EXTINF:-1 group-title="VTVCab", VTVCab1 - VIE GIAI TRI
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab2 - PHIM VIET
+#EXTINF:-1 group-title="VTVCab", VTVCab2 - PHIM VIET
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab3 - THE THAO TV
+#EXTINF:-1 group-title="VTVCab", VTVCab3 - THE THAO TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab3_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab4
+#EXTINF:-1 group-title="VTVCab", VTVCab4
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab5 - E CHANNEL
+#EXTINF:-1 group-title="VTVCab", VTVCab5 - E CHANNEL
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab6 - HAY TV
+#EXTINF:-1 group-title="VTVCab", VTVCab6 - HAY TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab6_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab7 - SUC KHOE
+#EXTINF:-1 group-title="VTVCab", VTVCab7 - SUC KHOE
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab7_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab8 - BIBI
+#EXTINF:-1 group-title="VTVCab", VTVCab8 - BIBI
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab8_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab9 - INFO TV
+#EXTINF:-1 group-title="VTVCab", VTVCab9 - INFO TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab9_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab10 - VIE DRAMAS
+#EXTINF:-1 group-title="VTVCab", VTVCab10 - VIE DRAMAS
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab11 - VGS SHOP
+#EXTINF:-1 group-title="VTVCab", VTVCab11 - VGS SHOP
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab11_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab12 - STYLE TV
+#EXTINF:-1 group-title="VTVCab", VTVCab12 - STYLE TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab15
+#EXTINF:-1 group-title="VTVCab", VTVCab15
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab16 - BONG DA TV
+#EXTINF:-1 group-title="VTVCab", VTVCab16 - BONG DA TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab17 - YEAH1!TV
+#EXTINF:-1 group-title="VTVCab", VTVCab17 - YEAH1!TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab19 - FILM TV
+#EXTINF:-1 group-title="VTVCab", VTVCab19 - FILM TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", VTVCab20 - V FAMILY
+#EXTINF:-1 group-title="VTVCab", VTVCab20 - V FAMILY
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SCTV", BTV5
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", BTV5
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
