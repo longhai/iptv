@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 group-title="VTV", VTV 1 HD
+#EXTINF:-1 group-title="VTV", VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTV", VTV 2 HD
+#EXTINF:-1 group-title="VTV", VTV2 HD
 https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTV", VTV 3 HD
+#EXTINF:-1 group-title="VTV", VTV3 HD
 https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTV", VTV 4 HD
+#EXTINF:-1 group-title="VTV", VTV4 HD
 https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTV", VTV 5 HD
+#EXTINF:-1 group-title="VTV", VTV5 HD
 https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTV", VTV 6 HD
+#EXTINF:-1 group-title="VTV", VTV6 HD
 https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTV", VTV 7 HD
+#EXTINF:-1 group-title="VTV", VTV7 HD
 https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTV", VTV 8 HD
+#EXTINF:-1 group-title="VTV", VTV8 HD
 https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTV", VTV 9 HD
+#EXTINF:-1 group-title="VTV", VTV9 HD
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 group-title="HTV", HTV 1
+#EXTINF:-1 group-title="HTV", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HTV", HTV 2 HD
+#EXTINF:-1 group-title="HTV", HTV2 HD
 https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HTV", HTV 3
+#EXTINF:-1 group-title="HTV", HTV3
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV", HTV 4
+#EXTINF:-1 group-title="HTV", HTV4
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HTV", HTV 7 HD
+#EXTINF:-1 group-title="HTV", HTV7 HD
 https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HTV", HTV 9 HD
+#EXTINF:-1 group-title="HTV", HTV9 HD
 https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="HTV", HTV Co.op
 https://livecdn.fptplay.net/sda/htvcoop_hls.smil/chunklist_b2500000.m3u8
@@ -50,35 +50,35 @@ https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 group-title="VTC", VTC 1 HD
+#EXTINF:-1 group-title="VTC", VTC1 HD
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 2
+#EXTINF:-1 group-title="VTC", VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 3 HD
+#EXTINF:-1 group-title="VTC", VTC3 HD
 https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 4 HD
+#EXTINF:-1 group-title="VTC", VTC4 HD
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 5
+#EXTINF:-1 group-title="VTC", VTC5
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 6
+#EXTINF:-1 group-title="VTC", VTC6
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 7
+#EXTINF:-1 group-title="VTC", VTC7
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 8
+#EXTINF:-1 group-title="VTC", VTC8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 9
+#EXTINF:-1 group-title="VTC", VTC9
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 10
+#EXTINF:-1 group-title="VTC", VTC10
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 11
+#EXTINF:-1 group-title="VTC", VTC11
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 12
+#EXTINF:-1 group-title="VTC", VTC12
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 13 HD
+#EXTINF:-1 group-title="VTC", VTC13 HD
 https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 14 HD
+#EXTINF:-1 group-title="VTC", VTC14 HD
 https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 group-title="VTC", VTC 16 HD
+#EXTINF:-1 group-title="VTC", VTC16 HD
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 
