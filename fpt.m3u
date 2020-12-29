@@ -1,0 +1,168 @@
+#EXTM3U
+#-------------------KÊNH VTV-------------------#
+#EXTINF:-1 group-title="VTV", VTV1 HD
+https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV", VTV2 HD
+https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV", VTV3 HD
+https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV", VTV4 HD
+https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV", VTV5 HD
+https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV", VTV6 HD
+https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV", VTV7 HD
+https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV", VTV8 HD
+https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV", VTV9 HD
+https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
+
+#-------------------KÊNH HTV-------------------#
+#EXTINF:-1 group-title="HTV", HTV1
+#EXTINF:-1 group-title="HTV", HTV2 HD
+#EXTINF:-1 group-title="HTV", HTV3
+#EXTINF:-1 group-title="HTV", HTV4
+#EXTINF:-1 group-title="HTV", HTV7 HD
+#EXTINF:-1 group-title="HTV", HTV9 HD
+#EXTINF:-1 group-title="HTV", HTV Co.op
+#EXTINF:-1 group-title="HTV", HTV Thể Thao
+#EXTINF:-1 group-title="HTV", HTVC Du Lịch
+#EXTINF:-1 group-title="HTV", HTVC Gia Đình
+#EXTINF:-1 group-title="HTV", HTVC Phim HD
+#EXTINF:-1 group-title="HTV", HTVC Phụ Nữ
+#EXTINF:-1 group-title="HTV", HTVC Shopping
+#EXTINF:-1 group-title="HTV", HTVC Thuần Việt
+#EXTINF:-1 group-title="HTV", HTVC Thuần Việt HD
+
+#-------------------KÊNH VTC-------------------#
+#EXTINF:-1 group-title="VTC", VTC1 HD
+#EXTINF:-1 group-title="VTC", VTC2
+#EXTINF:-1 group-title="VTC", VTC3 HD
+#EXTINF:-1 group-title="VTC", VTC4 HD
+#EXTINF:-1 group-title="VTC", VTC5
+#EXTINF:-1 group-title="VTC", VTC6
+#EXTINF:-1 group-title="VTC", VTC7
+#EXTINF:-1 group-title="VTC", VTC8
+#EXTINF:-1 group-title="VTC", VTC9
+#EXTINF:-1 group-title="VTC", VTC10
+#EXTINF:-1 group-title="VTC", VTC11
+#EXTINF:-1 group-title="VTC", VTC12
+#EXTINF:-1 group-title="VTC", VTC13 HD
+#EXTINF:-1 group-title="VTC", VTC14 HD
+#EXTINF:-1 group-title="VTC", VTC16 HD
+
+#-------------------KÊNH ĐỊA PHƯƠNG-------------------#
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", An Giang
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bà Rịa - Vũng Tàu HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Dương 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Dương 2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Dương 3
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Dương 4 HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Phước 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Phước 2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Thuận
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Định
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bạc Liêu
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bắc Giang
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bắc Ninh HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bến Tre
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Can Tho
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Cao Bằng
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Cà Mau
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Gia Lai
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HaNoiTV2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hué
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hà Giang
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hà Nam
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hà Tĩnh HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hòa Bình
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hưng Yên
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hải Dương
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hải Phòng HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hậu Giang
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Khánh Hòa
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Kiên Giang
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Kon Tum HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Long An
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Lào Cai
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Lâm Đồng
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Lạng Sơn
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Nam Định
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Nghệ An
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Ninh Bình
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Ninh Thuận
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Phú Thọ HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Phú Yên HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Quảng Bình
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Quảng Nam
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Quảng Ngãi
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Quảng Ninh
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Quảng Ninh 3
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Quảng Trị
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Son La
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Sóc Trăng
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Thanh Hóa
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Thái Bình
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Thái Nguyên HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Tiền Giang
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Trà Vinh
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Tuyên Quang HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Tây Ninh
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Vĩnh Long 2 HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Vĩnh Long 3 HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Vĩnh Long 4 HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Vĩnh Phúc
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Yên Bái
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Điện Biên
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đà Nẵng 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đà Nẵng 2 HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đăk Lăk
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đồng Nai 1 HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đồng Nai 2 HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đồng Tháp
+
+#-------------------KÊNH QUỐC TẾ-------------------#
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", ABC Autrailia (A+)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", AXN (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Animal Plannet (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Arirang
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Asian Food Channel (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Baby TV (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Bloomberg (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", CNN (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Cartoon Network HD
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Channel NewsAsia (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Channel V (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Cinemax (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Clubbing
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", DW (HD
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", DaVinci (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Discovery(HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Disney (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Disney Junior
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", FOX
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", FOX Life (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", FOX MOVIES (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", FashionTV (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Fox (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Fox Sports (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Fox Sports 2 (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", France24
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", HBO (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", KBS World
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", NHK World Japan (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", National Geographic Chanel - NGC (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Outdoor Channel (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Red by HBO
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", TV5 MONDE
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Travel & Living (HD)
+#EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", WarnerTV (HD)
+
+#-------------------KÊNH CHUYÊN BIỆT-------------------#
+#EXTINF:-1 group-title="CHUYÊN BIỆT", An Ninh TV
+#EXTINF:-1 group-title="CHUYÊN BIỆT", Quốc Hội
+#EXTINF:-1 group-title="CHUYÊN BIỆT", Quốc Phòng VN
+#EXTINF:-1 group-title="CHUYÊN BIỆT", TH Nhân Dân
+#EXTINF:-1 group-title="CHUYÊN BIỆT", VOV TV
