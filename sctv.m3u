@@ -42,7 +42,7 @@ https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV20_HD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SCTV", SCTV PHIM TONG HOP
 https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV", HTV2 - VIE CHANNEL
+#EXTINF:-1 group-title="HTV", HTV2 HD - VIE CHANNEL
 https://vtsstr1.tv24.vn/live/_definst_/smil:HTV2_SD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="HTV", HTV3
 https://vtsstr1.tv24.vn/live/_definst_/smil:HTV3_SD.smil/chunklist.m3u8
