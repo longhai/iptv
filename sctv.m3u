@@ -47,7 +47,7 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:HTV2_SD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="HTV", HTV3
 https://vtsstr1.tv24.vn/live/_definst_/smil:HTV3_SD.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="VTV", VTV3
+#EXTINF:-1 group-title="VTV", VTV3 HD
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTV3_HD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTVCab", VTVCab1 - VIE GIAI TRI
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD.smil/chunklist.m3u8
