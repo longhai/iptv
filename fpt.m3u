@@ -1,4 +1,5 @@
 #EXTM3U
+#-------------------KÊNH VTV-------------------#
 #EXTINF:-1 group-title="VTV", VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTV", VTV2 HD
@@ -18,7 +19,7 @@ https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTV", VTV9 HD
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 
-
+#-------------------KÊNH HTV-------------------#
 #EXTINF:-1 group-title="HTV", HTV1
 #EXTINF:-1 group-title="HTV", HTV2 HD
 #EXTINF:-1 group-title="HTV", HTV3
@@ -35,7 +36,7 @@ https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Thuần Việt
 #EXTINF:-1 group-title="HTV", HTVC Thuần Việt HD
 
-
+#-------------------KÊNH VTC-------------------#
 #EXTINF:-1 group-title="VTC", VTC1 HD
 #EXTINF:-1 group-title="VTC", VTC2
 #EXTINF:-1 group-title="VTC", VTC3 HD
@@ -52,7 +53,7 @@ https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTC", VTC14 HD
 #EXTINF:-1 group-title="VTC", VTC16 HD
 
-
+#-------------------KÊNH ĐỊA PHƯƠNG-------------------#
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", An Giang
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bà Rịa - Vũng Tàu HD
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Dương 1
@@ -122,7 +123,7 @@ https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đồng Nai 2 HD
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đồng Tháp
 
-
+#-------------------KÊNH QUỐC TẾ-------------------#
 #EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", ABC Autrailia (A+)
 #EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", AXN (HD)
 #EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Animal Plannet (HD)
@@ -159,7 +160,7 @@ https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", Travel & Living (HD)
 #EXTINF:-1 tvg-logo="" group-title="QUỐC TẾ", WarnerTV (HD)
 
-
+#-------------------KÊNH CHUYÊN BIỆT-------------------#
 #EXTINF:-1 group-title="CHUYÊN BIỆT", An Ninh TV
 #EXTINF:-1 group-title="CHUYÊN BIỆT", Quốc Hội
 #EXTINF:-1 group-title="CHUYÊN BIỆT", Quốc Phòng VN
