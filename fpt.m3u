@@ -82,69 +82,145 @@ https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", An Giang - ATV	
-https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bà Rịa Vũng Tàu	- BRT		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bạc Liêu - BLTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bắc Giang - BGTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bắc Kạn - TBK				
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bắc Ninh - BTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bến Tre	- THBT			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Dương	- BTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Định - BTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Phước - BPTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Bình Thuận - BTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Cà Mau - CTV				
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Cao Bằng - CRTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Cần Thơ - THTPCT			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đà Nẵng - DaNangTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đắk Lắk - DRT				
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đắk Nông - PTD			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Điện Biên - ĐTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đồng Nai - ĐNRTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Đồng Tháp - THĐT		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Gia Lai - THGL			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hà Giang - HGTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hà Nam - THHN			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hà Nội - HanoiTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hà Tĩnh - HTTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hải Dương - HDTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hải Phòng - THP			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hậu Giang - HGTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hòa Bình - HBTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Hưng Yên - HYTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Khánh Hòa - KTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Kiên Giang - KG			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Kon Tum - KRT				
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Lai Châu - LTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Lạng Sơn - LSTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Lào Cai - THLC			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Lâm Đồng - LTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Long An - LA		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Nam Định - NTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Nghệ An - NTV				
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Ninh Bình - NBTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Ninh Thuận - NTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Phú Thọ - PTV				
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Phú Yên - PTP				
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Quảng Bình - QBTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Quảng Nam - QRT			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Quảng Ngãi - PTQ			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Quảng Ninh - QTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Quảng Trị - QRTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Sóc Trăng - STV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Sơn La - STV				
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Tây Ninh - TTV11		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Thanh Hóa - TTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Thái Bình - TBTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Thái Nguyên - TN			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Thừa Thiến - Huế TRT	
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Tiền Giang - THTG		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Trà Vinh - THTV		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Tuyên Quang - TTV			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Vĩnh Long - THVL		
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Vĩnh Phúc - VP			
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Yên Bái - YTV				
+#EXTINF:-1 group-title="Địa Phương", An Giang - ATV
+https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bà Rịa Vũng Tàu - BRT
+https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 1 - BTV1
+https://livecdn.fptplay.net/hda/btv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 2 - BTV2
+https://livecdn.fptplay.net/hda/btv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 3 - BTV3
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 4 - BTV4
+https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 6 - BTV6
+https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 10 - BTV10
+https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 11 - BTV411
+https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Phước 1 - BPTV1
+https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Phước 2 - BPTV2
+https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Thuận - BTV
+https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Định - BTV
+https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bạc Liêu - BLTV
+https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bắc Giang - BGTV
+https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bắc Ninh - BTV
+https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bến Tre - THBT
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Cần Thơ - THTPCT
+https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Cao Bằng - CRTV
+https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Địa Phương", Cà Mau - CTV
+https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Gia Lai - THGL
+https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 1 - HaNoiTV1
+https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 2 - HaNoiTV2
+https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Thừa Thiên Huế - TRT
+https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Hà Giang - HGTV
+https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Hà Nam - THHN
+https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Hà Tĩnh - HTTV
+https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Hòa Bình - HBTV
+#EXTINF:-1 group-title="Địa Phương", Hưng Yên - HYTV
+#EXTINF:-1 group-title="Địa Phương", Hải Dương - HDTV
+#EXTINF:-1 group-title="Địa Phương", Hải Phòng - THP
+#EXTINF:-1 group-title="Địa Phương", Hậu Giang - HGTV
+#EXTINF:-1 group-title="Địa Phương", Hòa Bình - HBTV
+#EXTINF:-1 group-title="Địa Phương", Kiên Giang - KG
+https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Kon Tum - KRT
+https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Long An - LA34
+https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Lào Cai - THLC
+https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Lâm Đồng - LTV
+https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Lạng Sơn - LSTV
+https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Nam Định - NTV
+https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Nghệ An - NTV
+https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Ninh Bình - NBTV
+https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Ninh Thuận - NTV
+https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Phú Thọ - PTV
+https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Phú Yên - PTP
+https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Quảng Bình - QBTV
+https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Quảng Nam - QRT
+https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Quảng Ngãi - PTQ
+https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 1 - QTV1
+https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 3 - QTV3
+https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Quảng Trị - QRTV
+https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Sơn La - STV
+https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Sóc Trăng - STV
+https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Thanh Hóa - TTV
+https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Thái Bình - TBTV
+https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Thái Nguyên - TN
+https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Tiền Giang - THTG
+https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Trà Vinh - THTV
+https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Tuyên Quang - TTV
+https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Tây Ninh - TTV11
+https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 - THVL1
+https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 2 - THVL2
+https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 3 - THVL3
+https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 4 - THVL4
+https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Phúc - VP
+https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Yên Bái - YTV
+https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Điện Biên - ĐTV
+https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 1 - DaNangTV1
+https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 2 - DaNangTV2
+https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Đắk Lắk - DRT
+https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Đồng Nai 1 - ĐNRTV1
+https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Đồng Nai 2 - ĐNRTV2
+https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
+https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8			
 
 
 #EXTINF:-1 group-title="Quốc Tế", Abc Autrailia (A+)
