@@ -21,11 +21,11 @@ https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="HTV", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HTV", HTV2 HD
+#EXTINF:-1 group-title="HTV", HTV2 HD - Vie Channel
 https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="HTV", HTV3
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV", HTV4
+#EXTINF:-1 group-title="HTV", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="HTV", HTV7 HD
 https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
@@ -37,7 +37,7 @@ https://livecdn.fptplay.net/sda/htvcoop_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Du Lịch
 https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HTV", HTVC Gia Đình
+#EXTINF:-1 group-title="HTV", HTVC Gia Đình HD
 https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Phim HD
 https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
@@ -62,7 +62,7 @@ https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTC", VTC6
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC", VTC7
+#EXTINF:-1 group-title="VTC", VTC7 - Today
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTC", VTC8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
@@ -81,6 +81,8 @@ https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="VTC", VTC16 HD
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 group-title="SCTV", SCTV2 - AMC TV
+https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Địa Phương", An Giang - ATV
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
@@ -136,11 +138,17 @@ https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Hà Tĩnh - HTTV
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Hòa Bình - HBTV
+https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Hưng Yên - HYTV
+https://livecdn.fptplay.net/sdc/hungyen_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Hải Dương - HDTV
+https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Hải Phòng - THP
+https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Hậu Giang - HGTV
+https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Hòa Bình - HBTV
+https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Kiên Giang - KG
 https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Kon Tum - KRT
@@ -220,8 +228,7 @@ https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Đồng Nai 2 - ĐNRTV2
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
-https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8			
-
+https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế", Abc Autrailia (A+)
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
