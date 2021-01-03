@@ -8,5 +8,3 @@ http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Địa Phương", Sóc Trăng 2 - STV2
 http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 
-#EXTINF:-1 group-title="Chuyên Biệt", Vietnamnet
-https://v-cdn.vietnamnetjsc.vn/media/ts/2020/12/19/17/11/653eed4d-0ced-4b1d-b0f6-950a86338a46/720p.m3u8
