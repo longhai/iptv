@@ -238,15 +238,15 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 group-title="CHUYÊN BIỆT", An Ninh TV
+#EXTINF:-1 group-title="Chuyên Biệt", An Ninh TV
 https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="CHUYÊN BIỆT", Quốc Hội
+#EXTINF:-1 group-title="Chuyên Biệt", Quốc Hội
 https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 group-title="CHUYÊN BIỆT", Quốc Phòng VN
+#EXTINF:-1 group-title="Chuyên Biệt", Quốc Phòng VN
 https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 group-title="CHUYÊN BIỆT", TH Nhân Dân
+#EXTINF:-1 group-title="Chuyên Biệt", TH Nhân Dân
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="CHUYÊN BIỆT", VOV TV
+#EXTINF:-1 group-title="Chuyên Biệt", VOV TV
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="CHUYÊN BIỆT", Vietnamnet
+#EXTINF:-1 group-title="Chuyên Biệt", Vietnamnet
 https://livecdn.fptplay.net/sda/vietnamnet_hls.smil/chunklist_b2500000.m3u8
