@@ -80,3 +80,15 @@ https://tv.canthotv.vn/live/tv/tv.m3u8
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 #EXTINF:-1 group-title="Địa Phương",Tiền Giang - THTG
 http://thtg.vn:8001/stream_hi.m3u8
+
+
+#EXTINF:-1 group-title="Quốc Tế", HBO HD
+http://14.162.140.73:8889/rtp/232.84.3.101:10648
+#EXTINF:-1 group-title="Quốc Tế", Red By HBO
+http://14.162.140.73:8889/rtp/232.84.3.103:10840
+#EXTINF:-1 group-title="Quốc Tế", Cinemax HD
+http://14.162.140.73:8889/rtp/232.84.3.117:10654
+#EXTINF:-1 group-title="Quốc Tế", Disney Junior
+http://14.162.140.73:8889/rtp/232.84.1.90:10398
+#EXTINF:0 group-title="Quốc Tế" , Disney Channel
+http://14.162.140.73:8889/rtp/232.84.2.143:10678
