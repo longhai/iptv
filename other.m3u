@@ -92,3 +92,213 @@ http://14.162.140.73:8889/rtp/232.84.3.117:10654
 http://14.162.140.73:8889/rtp/232.84.1.90:10398
 #EXTINF:0 group-title="Quốc Tế" , Disney Channel
 http://14.162.140.73:8889/rtp/232.84.2.143:10678
+
+#EXTINF:-1 group-title="OneTV Combodia", One news
+http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", OneTV 5 - Kids
+http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", OneTV 3 - drama
+http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", OneTV 2 - Cinema
+http://36.37.252.114:888/Apple/OneTV-004/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", OneTV 7 - movies
+http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", OneTV 1 -sabay
+http://36.37.252.114:888/Apple/OneTV-006/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", OneTV 6 - Discovery
+http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CTN
+http://36.37.252.114:888/Apple/OneTV-008/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", MyTV
+http://36.37.252.114:888/Apple/OneTV-009/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CNC
+http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", BayonTV
+http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", BTV News
+http://36.37.252.114:888/Apple/OneTV-012/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", OneTV E school
+http://36.37.252.114:888/Apple/OneTV-013/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 14
+http://36.37.252.114:888/Apple/OneTV-014/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 15
+http://36.37.252.114:888/Apple/OneTV-015/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", SEATV
+http://36.37.252.114:888/Apple/OneTV-016/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", Replay
+http://36.37.252.114:888/Apple/OneTV-017/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 18
+http://36.37.252.114:888/Apple/OneTV-018/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", PNN
+http://36.37.252.114:888/Apple/OneTV-019/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", TV3
+http://36.37.252.114:888/Apple/OneTV-020/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", TV5 Cambodia - Digial
+http://36.37.252.114:888/Apple/OneTV-021/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 22
+http://36.37.252.114:888/Apple/OneTV-022/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", NTV
+http://36.37.252.114:888/Apple/OneTV-023/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", Town TV
+http://36.37.252.114:888/Apple/OneTV-024/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", English Singsing
+http://36.37.252.114:888/Apple/OneTV-025/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", Thai PBS 3
+http://36.37.252.114:888/Apple/OneTV-026/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", POCCИЯ 1
+http://36.37.252.114:888/Apple/OneTV-027/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 28
+http://36.37.252.114:888/Apple/OneTV-028/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", Cinemax
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", HBO
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", HBO Hits
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", HBO SIGNATURE
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", HBO Family
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", TrueSports HD 2
+http://36.37.252.114:888/Apple/OneTV-034/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 35
+http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", 3 HD
+http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 37
+http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", FAN TV
+http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", Ariang Korea
+http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", KBS World
+http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", 1
+http://36.37.252.114:888/Apple/OneTV-041/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", TrueSports 3 HD
+http://36.37.252.114:888/Apple/OneTV-042/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", astro SUPERSPORT
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", astro SUPERSPORT 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", France 24
+http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", Vĩnh long 1 HD
+http://36.37.252.114:888/Apple/OneTV-046/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", Euro news
+http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 48
+http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 49
+http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 50
+http://36.37.252.114:888/Apple/OneTV-050/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 51
+http://36.37.252.114:888/Apple/OneTV-051/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", TV5MONDE ASIE
+http://36.37.252.114:888/Apple/OneTV-052/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", DW
+http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 54
+http://36.37.252.114:888/Apple/OneTV-054/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", Đá Gà
+http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 56
+http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 57
+http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", OneTV Sports 9
+http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", Fashion Destination
+http://36.37.252.114:888/Apple/OneTV-059/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", EU Music
+http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CCTV 4
+http://36.37.252.114:888/Apple/OneTV-061/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CGTN
+http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CGTN Documentary
+http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CCTV 11
+http://36.37.252.114:888/Apple/OneTV-064/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CCTV 10
+http://36.37.252.114:888/Apple/OneTV-065/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CCTV 12
+http://36.37.252.114:888/Apple/OneTV-066/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CCTV 15
+http://36.37.252.114:888/Apple/OneTV-067/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 68
+http://36.37.252.114:888/Apple/OneTV-068/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 69
+http://36.37.252.114:888/Apple/OneTV-069/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 70
+http://36.37.252.114:888/Apple/OneTV-070/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CCTV 2
+http://36.37.252.114:888/Apple/OneTV-071/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 72
+http://36.37.252.114:888/Apple/OneTV-072/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 73
+http://36.37.252.114:888/Apple/OneTV-073/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 74
+http://36.37.252.114:888/Apple/OneTV-074/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 75
+http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 76
+http://36.37.252.114:888/Apple/OneTV-076/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 77
+http://36.37.252.114:888/Apple/OneTV-077/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 78
+http://36.37.252.114:888/Apple/OneTV-078/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CCTV 17
+http://36.37.252.114:888/Apple/OneTV-079/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 80
+http://36.37.252.114:888/Apple/OneTV-080/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 81
+http://36.37.252.114:888/Apple/OneTV-081/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 82
+http://36.37.252.114:888/Apple/OneTV-082/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 83
+http://36.37.252.114:888/Apple/OneTV-083/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 84
+http://36.37.252.114:888/Apple/OneTV-084/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 85
+http://36.37.252.114:888/Apple/OneTV-085/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 86
+http://36.37.252.114:888/Apple/OneTV-086/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 88
+http://36.37.252.114:888/Apple/OneTV-088/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CN HD
+http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", CNN
+http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", National Geographic
+http://36.37.252.114:888/Apple/OneTV-101/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", Quốc hội
+http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", QTV 1 HD
+http://36.37.252.114:888/Apple/OneTV-107/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", QTV 3 HD
+http://36.37.252.114:888/Apple/OneTV-108/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", Nhân Dân
+http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", VNews
+http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", THVL 1 HD
+http://36.37.252.114:888/Apple/OneTV-111/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", THVL 2 HD
+http://36.37.252.114:888/Apple/OneTV-112/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", VTC Digital
+http://36.37.252.114:888/Apple/OneTV-113/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", K+1 HD
+http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", VTC Digital
+http://36.37.252.114:888/Apple/OneTV-117/playlist.m3u8
+
+#EXTINF:-1 group-title="K+", K+1 HD
+#EXTINF:-1 group-title="K+", K+NS HD
+#EXTINF:-1 group-title="K+", K+PM HD
+#EXTINF:-1 group-title="K+", K+PC HD
+#EXTINF:-1 group-title="K+", K+1 (DRM)
+#EXTINF:-1 group-title="K+", K+NS (DRM)
+#EXTINF:-1 group-title="K+", K+PM (DRM)
+#EXTINF:-1 group-title="K+", K+PC (DRM)
