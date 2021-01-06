@@ -1,19 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xslOXxJ.png" group-title="KÊNH 4K" ,EUROSPORTS
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_EUROSPORT4K_HLS/bw20000000/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OLaBZPz.png" group-title="KÊNH 4K" ,ULTRAHD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw20000000/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/42f8D6Y.png" group-title="KÊNH 4K" ,ULTRA REX
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AKZAHfQ.png" group-title="KÊNH 4K" ,LOVE NATURE
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJKvfWV.png" group-title="KÊNH 4K" ,NASHASIBIR
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8
-
-
+#EXTM3U
 #EXTINF:-1 group-title="SERIE A FPT SV1" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A1 
 https://livecdn.fptplay.net/italyfootball/seriea01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="SERIE A FPT SV1" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A2 
@@ -34,8 +19,6 @@ https://livecdn.fptplay.net/italyfootball/seriea08_hls.smil/chunklist_b2500000.m
 https://livecdn.fptplay.net/italyfootball/seriea09_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="SERIE A FPT SV1" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A10
 https://livecdn.fptplay.net/italyfootball/seriea10_hls.smil/chunklist_b2500000.m3u8
-
-
 
 #EXTINF:-1 group-title="SERIE A FPT SV2" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A1 
 http://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
