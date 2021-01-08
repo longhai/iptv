@@ -1,5 +1,3 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title="VTV", VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/playlist.m3u8
-
-
