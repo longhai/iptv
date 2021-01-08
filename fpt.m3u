@@ -1,20 +1,5 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title="VTV", VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV", VTV2 HD
-https://livecdn.fptplay.net/hda/vtv2_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV", VTV3 HD
-https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV", VTV4 HD
-https://livecdn.fptplay.net/hda/vtv4_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV", VTV5 HD
-https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV", VTV6 HD
-https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV", VTV7 HD
-https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV", VTV8 HD
-https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV", VTV9 HD
-https://livecdn.fptplay.net/hda/vtv9_hls.smil/playlist.m3u8
+
 
