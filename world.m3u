@@ -68,9 +68,9 @@ http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-034/playlist.m3u8
 #EXTINF:-1 group-title="World", kenh 35
 http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
-#EXTINF:-1 group-title="World", TV3 HD - Thái
+#EXTINF:-1 group-title="World", TV3 HD (TH)
 http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
-#EXTINF:-1 group-title="World", TV7 HD - Thái
+#EXTINF:-1 group-title="World", TV7 HD (TH)
 http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
 #EXTINF:-1 group-title="World", FAN TV
 http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
@@ -88,7 +88,7 @@ http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 group-title="World", France 24
 http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
-#EXTINF:-1 group-title="World", Vĩnh long 1 HD
+#EXTINF:-1 group-title="World", Vĩnh long 1 HD (VN)
 http://36.37.252.114:888/Apple/OneTV-046/playlist.m3u8
 #EXTINF:-1 group-title="World", Euro news
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
@@ -118,21 +118,21 @@ http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-059/playlist.m3u8
 #EXTINF:-1 group-title="World", EU Music
 http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
-#EXTINF:-1 group-title="World", CCTV 4
+#EXTINF:-1 group-title="World", CCTV 4 (CN)
 http://36.37.252.114:888/Apple/OneTV-061/playlist.m3u8
 #EXTINF:-1 group-title="World", CGTN
 http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8
 #EXTINF:-1 group-title="World", CGTN Documentary
 http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
-#EXTINF:-1 group-title="World", CCTV 11
+#EXTINF:-1 group-title="World", CCTV 11 (CN)
 http://36.37.252.114:888/Apple/OneTV-064/playlist.m3u8
-#EXTINF:-1 group-title="World", CCTV 10
+#EXTINF:-1 group-title="World", CCTV 10 (CN)
 http://36.37.252.114:888/Apple/OneTV-065/playlist.m3u8
-#EXTINF:-1 group-title="World", CCTV 12
+#EXTINF:-1 group-title="World", CCTV 12 (CN)
 http://36.37.252.114:888/Apple/OneTV-066/playlist.m3u8
-#EXTINF:-1 group-title="World", CCTV 15
+#EXTINF:-1 group-title="World", CCTV 15 (CN)
 http://36.37.252.114:888/Apple/OneTV-067/playlist.m3u8
-#EXTINF:-1 group-title="World", kenh 68
+#EXTINF:-1 group-title="World", kenh 68 
 http://36.37.252.114:888/Apple/OneTV-068/playlist.m3u8
 #EXTINF:-1 group-title="World", kenh 69
 http://36.37.252.114:888/Apple/OneTV-069/playlist.m3u8
@@ -178,23 +178,23 @@ http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
 #EXTINF:-1 group-title="World", National Geographic
 http://36.37.252.114:888/Apple/OneTV-101/playlist.m3u8
-#EXTINF:-1 group-title="World", Quốc hội
+#EXTINF:-1 group-title="World", Quốc hội (VN)
 http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
-#EXTINF:-1 group-title="World", QTV 1 HD
+#EXTINF:-1 group-title="World", QTV 1 HD (VN)
 http://36.37.252.114:888/Apple/OneTV-107/playlist.m3u8
-#EXTINF:-1 group-title="World", QTV 3 HD
+#EXTINF:-1 group-title="World", QTV 3 HD (VN)
 http://36.37.252.114:888/Apple/OneTV-108/playlist.m3u8
-#EXTINF:-1 group-title="World", Nhân Dân
+#EXTINF:-1 group-title="World", Nhân Dân (VN)
 http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
-#EXTINF:-1 group-title="World", VNews
+#EXTINF:-1 group-title="World", VNews (VN)
 http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
-#EXTINF:-1 group-title="World", THVL 1 HD
+#EXTINF:-1 group-title="World", THVL 1 HD (VN)
 http://36.37.252.114:888/Apple/OneTV-111/playlist.m3u8
-#EXTINF:-1 group-title="World", THVL 2 HD
+#EXTINF:-1 group-title="World", THVL 2 HD (VN)
 http://36.37.252.114:888/Apple/OneTV-112/playlist.m3u8
-#EXTINF:-1 group-title="World", VTC Digital
+#EXTINF:-1 group-title="World", VTC Digital (VN)
 http://36.37.252.114:888/Apple/OneTV-113/playlist.m3u8
-#EXTINF:-1 group-title="World", K+1 HD
+#EXTINF:-1 group-title="World", K+1 HD (VN)
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
-#EXTINF:-1 group-title="World", VTC Digital
+#EXTINF:-1 group-title="World", VTC Digital (VN)
 http://36.37.252.114:888/Apple/OneTV-117/playlist.m3u8
