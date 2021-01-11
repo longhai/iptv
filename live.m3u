@@ -1,45 +1,54 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A1 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A1 
 https://livecdn.fptplay.net/italyfootball/seriea01_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A2 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A2 
 https://livecdn.fptplay.net/italyfootball/seriea02_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A3 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A3 
 https://livecdn.fptplay.net/italyfootball/seriea03_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A4 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A4 
 https://livecdn.fptplay.net/italyfootball/seriea04_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A5
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A5
 https://livecdn.fptplay.net/italyfootball/seriea05_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A6
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A6
 https://livecdn.fptplay.net/italyfootball/seriea06_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A7
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A7
 https://livecdn.fptplay.net/italyfootball/seriea07_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A8
 https://livecdn.fptplay.net/italyfootball/seriea08_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A9
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A9
 https://livecdn.fptplay.net/italyfootball/seriea09_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A10
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A10
 https://livecdn.fptplay.net/italyfootball/seriea10_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A1 
+
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A1 
 http://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A2 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A2 
 http://livecdn.fptplay.net/tvc/seriea02_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A3 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A3 
 http://livecdn.fptplay.net/tvc/seriea03_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A4 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A4 
 http://livecdn.fptplay.net/tvc/seriea04_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A5
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A5
 http://livecdn.fptplay.net/tvc/seriea05_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A6
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A6
 http://livecdn.fptplay.net/tvc/seriea06_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A7
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A7
 http://livecdn.fptplay.net/tvc/seriea07_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A8
 http://livecdn.fptplay.net/tvc/seriea08_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A9
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A9
 http://livecdn.fptplay.net/tvc/seriea09_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A10
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",SERIE A10
 http://livecdn.fptplay.net/tvc/seriea10_2000.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_esports_160973672179.png", esports
+#EXTINF:-1 group-title="Sự kiện", Sự kiện 1
+http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện", Sự kiện 2
+http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện", Sự kiện 3
+http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_esports_160973672179.png", esports
 https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
