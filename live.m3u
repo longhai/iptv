@@ -44,11 +44,14 @@ http://livecdn.fptplay.net/tvc/seriea09_2000.stream/playlist.m3u8
 http://livecdn.fptplay.net/tvc/seriea10_2000.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sự kiện", Sự kiện 1
-http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
+http://livecdn.fptplay.net/tvc/sukien01_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", Sự kiện 2
-http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
+http://livecdn.fptplay.net/tvc/sukien02_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", Sự kiện 3
-http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
+http://livecdn.fptplay.net/tvc/sukien03_2000.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sự Kiện", Bóng Rổ 1
+http://livecdn.fptplay.net/schedule/wbc01_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_esports_160973672179.png", esports
 https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
