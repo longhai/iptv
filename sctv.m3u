@@ -52,7 +52,7 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:HTV3_SD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV", VTV3 HD
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTV3_HD.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="VTVcab", VTVcab1 - Giải Trí TV
+#EXTINF:-1 group-title="VTVcab", VTVcab1 - Vie Giải Trí
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTVcab", VTVcab2 - Phim việt
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist.m3u8
