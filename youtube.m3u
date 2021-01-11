@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Youtube" tvg-logo="",Trực tiếp
+#EXTINF:-1 group-title="Youtube" tvg-logo="",Trực Tiếp
 https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig
+#EXTINF:-1 group-title="Youtube" tvg-logo="",Trò Chơi
+https://www.youtube.com/gaming
