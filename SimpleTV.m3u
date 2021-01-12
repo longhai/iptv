@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="FPT", VTV1 HD
+#EXTINF:-1 group-title="VTV", VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTV", VTV2 HD
 https://livecdn.fptplay.net/hda/vtv2_hls.smil/playlist.m3u8
@@ -644,3 +644,14 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-th-nhan-dan-HD-95.html
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-qpvn-HD-103.html
 #EXTINF:-1 group-title="Chuyên Biệt", VNews
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-ttxvn-HD-97.html
+
+
+
+
+
+
+
+
+
+
+
