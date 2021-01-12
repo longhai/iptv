@@ -459,7 +459,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANTV-SD-ABR/HTV-ABR/ANTV-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt",Nhân Dân
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Chuyên Biệt",VNEWS - Thông tấn xã VN
+#EXTINF:-1 group-title="Chuyên Biệt",Vnews - Thông tấn xã VN
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt",Quốc Hội
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QUOCHOI-SD-ABR/HTV-ABR/QUOCHOI-SD-720p/playlist.m3u8
@@ -642,16 +642,546 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-th-antv-HD-89.html
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-nhan-dan-HD-95.html
 #EXTINF:-1 group-title="Chuyên Biệt", Quốc Phòng VN
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-qpvn-HD-103.html
-#EXTINF:-1 group-title="Chuyên Biệt", VNews
+#EXTINF:-1 group-title="Chuyên Biệt", Vnews - Thông tấn xã VN
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-ttxvn-HD-97.html
 
 
 
+#EXTINF:-1 group-title="VTV",VTV1
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1011/vtv1
+#EXTINF:-1 group-title="VTV",VTV2
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1010/vtv2
+#EXTINF:-1 group-title="VTV",VTV3
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1013/vtv3
+#EXTINF:-1 group-title="VTV",VTV4
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1009/vtv4
+
+#EXTINF:-1 group-title="VTC",VTC1 HD
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1007/vtc1
+#EXTINF:-1 group-title="VTC",VTC10 HD
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1006/netviet
+#EXTINF:-1 group-title="VTC",VTC16 HD
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1018/vtc16
+
+#EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1053/dong-thap
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 1 - HanoiTV1
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1008/hn
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 - THVL1
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1031/thvl1
+#EXTINF:-1 group-title="Địa Phương", Hải Phòng - THP
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1041/hai-phong
+#EXTINF:-1 group-title="Địa Phương", Đồng Nai 1 - ĐNR1
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1042/dong-nai1
+#EXTINF:-1 group-title="Địa Phương", Hưng Yên - HYTV
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1050/hung-yen
+#EXTINF:-1 group-title="Địa Phương", Quảng Bình - QBTV
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh
+#EXTINF:-1 group-title="Địa Phương", Thái Bình - TBTV
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1052/thai-binh 
+#EXTINF:-1 group-title="Địa Phương", Hải Dương - HDTV
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1054/hai-duong
+#EXTINF:-1 group-title="Địa Phương", Thanh Hóa - TTV
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1055/thanh-hoa
+#EXTINF:-1 group-title="Địa Phương", Nghệ An - NTV
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an
+
+#EXTINF:-1 group-title="Chuyên Biệt", Vnews - Thông tấn xã VN
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1019/ttxvn
+
+
+#EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
+http://202.43.109.142:1935/THDT/thdttv/chunklist_w1183297903.m3u8
+#EXTINF:-1 group-title="Địa Phương", Đồng Tháp 2 - THĐT2
+http://202.43.109.145:1935/thdt2/thdt2/chunklist_w52535503.m3u8
+#EXTINF:-1 group-title="Địa Phương", Sóc Trăng - STV
+http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Địa Phương", Sóc Trăng 2 - STV2
+http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 1 - HanoiTV1
+http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 2 - HanoiTV2
+http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Phước 1 - BPTV1
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Phước 2 - BPTV2
+https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Phước 3 - BPTV3
+https://ott.avg.vn/live/ant-tv/chunklist_1.m3u8
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 1 - DaNangTV1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 2 - DaNangTV2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="Địa Phương", Kiên Giang - KG
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 group-title="Địa Phương", Yên Bái - YTV
+https://yenbaitv.org.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="Địa Phương",Tuyên Quang - TTV
+https://live.tuyenquangtv.vn/hls/ttv.m3u8
+#EXTINF:-1 group-title="Địa Phương",Thái Nguyên - TN
+https://thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="Địa Phương",Lạng Sơn - LSTV
+http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh - QTV
+http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 3 - QTV3
+http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bắc Ninh - BTV
+http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u8
+#EXTINF:-1 group-title="Địa Phương",Hải Phòng - THP
+https://live.thhp.vn/hls/thpplus/index.m3u8
+#EXTINF:-1 group-title="Địa Phương",Hưng Yên - HYTV
+http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Địa Phương",Thái Bình - TBTV
+http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Phúc - VP
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bắc Giang - BGTV
+http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Địa Phương",Ninh Bình - NBTV
+https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Địa Phương",Thanh Hóa - TTV
+http://687642383.r.vietnamcdn.net/687642383/_definst_/mystream/playlist.m3u8
+#EXTINF:-1 group-title="Địa Phương",Nghệ An - NTV
+https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+#EXTINF:-1 group-title="Địa Phương",Hà Tĩnh - HTTV
+http://hatinhtv.vn:82/hls/httv.m3u8
+#EXTINF:-1 group-title="Địa Phương",Quảng Nam - QRT
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bình Thuận - BTV
+http://202.43.109.142:1935/thbttv/bttv/chunklist.m3u8
+#EXTINF:-1 group-title="Địa Phương",Kon Tum - KRT
+http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTINF:-1 group-title="Địa Phương",Lâm Đồng - LTV
+http://203.171.21.216:1935/live/smil:LTV.smil/chunklist_w195442925_b1400000.m3u8
+#EXTINF:-1 group-title="Địa Phương",Đồng Nai 1 - ĐNR1
+http://203.171.21.216:1935/live/smil:DNTV1.smil/chunklist_w1370026847_b600000.m3u8
+#EXTINF:-1 group-title="Địa Phương",Gia Lai - THGL
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:-1 group-title="Địa Phương",Tây Ninh - TTV11
+http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bến Tre - THBT
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+#EXTINF:-1 group-title="Địa Phương",Khánh Hòa - KTV
+http://210.245.20.94/hls/ktv1.m3u8
+#EXTINF:-1 group-title="Địa Phương",Cần Thơ - THTPCT
+https://tv.canthotv.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="Địa Phương",Long An - LA34
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+#EXTINF:-1 group-title="Địa Phương",Tiền Giang - THTG
+http://thtg.vn:8001/stream_hi.m3u8
+
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A1 
+https://livecdn.fptplay.net/italyfootball/seriea01_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A2 
+https://livecdn.fptplay.net/italyfootball/seriea02_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A3 
+https://livecdn.fptplay.net/italyfootball/seriea03_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A4 
+https://livecdn.fptplay.net/italyfootball/seriea04_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A5
+https://livecdn.fptplay.net/italyfootball/seriea05_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A6
+https://livecdn.fptplay.net/italyfootball/seriea06_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A7
+https://livecdn.fptplay.net/italyfootball/seriea07_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A8
+https://livecdn.fptplay.net/italyfootball/seriea08_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A9
+https://livecdn.fptplay.net/italyfootball/seriea09_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A10
+https://livecdn.fptplay.net/italyfootball/seriea10_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A1 
+http://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A2 
+http://livecdn.fptplay.net/tvc/seriea02_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A3 
+http://livecdn.fptplay.net/tvc/seriea03_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A4 
+http://livecdn.fptplay.net/tvc/seriea04_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A5
+http://livecdn.fptplay.net/tvc/seriea05_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A6
+http://livecdn.fptplay.net/tvc/seriea06_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A7
+http://livecdn.fptplay.net/tvc/seriea07_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A8
+http://livecdn.fptplay.net/tvc/seriea08_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A9
+http://livecdn.fptplay.net/tvc/seriea09_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A10
+http://livecdn.fptplay.net/tvc/seriea10_2000.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sự kiện", Sự kiện 1
+http://livecdn.fptplay.net/tvc/sukien01_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện", Sự kiện 2
+http://livecdn.fptplay.net/tvc/sukien02_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện", Sự kiện 3
+http://livecdn.fptplay.net/tvc/sukien03_2000.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sự Kiện", Bóng Rổ 1
+http://livecdn.fptplay.net/schedule/wbc01_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Sự kiện", eSports
+https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="World", One news (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
+#EXTINF:-1 group-title="World", OneTV 5 - Kids (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
+#EXTINF:-1 group-title="World", OneTV 3 - drama (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
+#EXTINF:-1 group-title="World", OneTV 2 - Cinema (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-004/playlist.m3u8
+#EXTINF:-1 group-title="World", OneTV 7 - movies (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
+#EXTINF:-1 group-title="World", OneTV 1 -sabay (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-006/playlist.m3u8
+#EXTINF:-1 group-title="World", OneTV 6 - Discovery (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
+#EXTINF:-1 group-title="World", CTN (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-008/playlist.m3u8
+#EXTINF:-1 group-title="World", MyTV (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-009/playlist.m3u8
+#EXTINF:-1 group-title="World", CNC (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
+#EXTINF:-1 group-title="World", BayonTV (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
+#EXTINF:-1 group-title="World", BTV News (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-012/playlist.m3u8
+#EXTINF:-1 group-title="World", OneTV E school (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-013/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 14 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-014/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 15 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-015/playlist.m3u8
+#EXTINF:-1 group-title="World", SEATV (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-016/playlist.m3u8
+#EXTINF:-1 group-title="World", Replay (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-017/playlist.m3u8
+#EXTINF:-1 group-title="World", Apsara (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-018/playlist.m3u8
+#EXTINF:-1 group-title="World", PNN (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-019/playlist.m3u8
+#EXTINF:-1 group-title="World", TV3 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-020/playlist.m3u8
+#EXTINF:-1 group-title="World", TV5 - Digial (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-021/playlist.m3u8
+#EXTINF:-1 group-title="World", TV9 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-022/playlist.m3u8
+#EXTINF:-1 group-title="World", NTV (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-023/playlist.m3u8
+#EXTINF:-1 group-title="World", Town TV (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-024/playlist.m3u8
+#EXTINF:-1 group-title="World", English Singsing (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-025/playlist.m3u8
+#EXTINF:-1 group-title="World", Thai PBS 3 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-026/playlist.m3u8
+#EXTINF:-1 group-title="World", POCCИЯ 1 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-027/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 28 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-028/playlist.m3u8
+#EXTINF:-1 group-title="World", Cinemax (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:-1 group-title="World", HBO (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1 group-title="World", HBO Hits (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1 group-title="World", HBO SIGNATURE (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1 group-title="World", HBO Family (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1 group-title="World", TrueSports HD 2 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-034/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 35 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
+#EXTINF:-1 group-title="World", TV3 HD (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
+#EXTINF:-1 group-title="World", TV7 HD (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
+#EXTINF:-1 group-title="World", FAN TV (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
+#EXTINF:-1 group-title="World", Ariang Korea (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
+#EXTINF:-1 group-title="World", KBS World (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
+#EXTINF:-1 group-title="World", 1 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-041/playlist.m3u8
+#EXTINF:-1 group-title="World", TrueSports HD 3 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-042/playlist.m3u8
+#EXTINF:-1 group-title="World", astro SUPERSPORT (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 group-title="World", astro SUPERSPORT 3 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 group-title="World", France 24 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
+#EXTINF:-1 group-title="World", Vĩnh long 1 HD (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-046/playlist.m3u8
+#EXTINF:-1 group-title="World", Euro news (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 48 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
+#EXTINF:-1 group-title="World", France24 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 50 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-050/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 51 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-051/playlist.m3u8
+#EXTINF:-1 group-title="World", TV5MONDE ASIE (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-052/playlist.m3u8
+#EXTINF:-1 group-title="World", DW (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
+#EXTINF:-1 group-title="World", Hunan - International (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-054/playlist.m3u8
+#EXTINF:-1 group-title="World", OneTV 11 - Sports (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 56 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 57 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
+#EXTINF:-1 group-title="World", OneTV Sports 9 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
+#EXTINF:-1 group-title="World", Fashion Destination (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-059/playlist.m3u8
+#EXTINF:-1 group-title="World", EU Music (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
+#EXTINF:-1 group-title="World", CCTV 4 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-061/playlist.m3u8
+#EXTINF:-1 group-title="World", CGTN (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8
+#EXTINF:-1 group-title="World", CGTN Documentary (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
+#EXTINF:-1 group-title="World", CCTV 11 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-064/playlist.m3u8
+#EXTINF:-1 group-title="World", CCTV 10 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-065/playlist.m3u8
+#EXTINF:-1 group-title="World", CCTV 12 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-066/playlist.m3u8
+#EXTINF:-1 group-title="World", CCTV 15 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-067/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 68  (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-068/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 69 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-069/playlist.m3u8
+#EXTINF:-1 group-title="World", Zhejiang - International (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-070/playlist.m3u8
+#EXTINF:-1 group-title="World", CCTV 2 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-071/playlist.m3u8
+#EXTINF:-1 group-title="World", Southeast - FujianTV (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-072/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 73 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-073/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 74 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-074/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 75 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
+#EXTINF:-1 group-title="World", Sichuan (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-076/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 77 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-077/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 78 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-078/playlist.m3u8
+#EXTINF:-1 group-title="World", CCTV 17 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-079/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 80 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-080/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 81 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-081/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 82 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-082/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 83 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-083/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 84 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-084/playlist.m3u8
+#EXTINF:-1 group-title="World", Yunnan (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-085/playlist.m3u8
+#EXTINF:-1 group-title="World", kenh 86 (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-086/playlist.m3u8
+#EXTINF:-1 group-title="World", WarnerTV (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-088/playlist.m3u8
+#EXTINF:-1 group-title="World", OneTV HD  (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8
+#EXTINF:-1 group-title="World", CNN (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
+#EXTINF:-1 group-title="World", National Geographic (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-101/playlist.m3u8
+#EXTINF:-1 group-title="World", Quốc hội (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
+#EXTINF:-1 group-title="World", QTV 1 HD (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-107/playlist.m3u8
+#EXTINF:-1 group-title="World", QTV 3 HD (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-108/playlist.m3u8
+#EXTINF:-1 group-title="World", Nhân Dân (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
+#EXTINF:-1 group-title="World", VNews (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
+#EXTINF:-1 group-title="World", THVL 1 HD (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-111/playlist.m3u8
+#EXTINF:-1 group-title="World", THVL 2 HD (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-112/playlist.m3u8
+#EXTINF:-1 group-title="World", VTC Digital (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-113/playlist.m3u8
+#EXTINF:-1 group-title="World", K+1 HD (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
+#EXTINF:-1 group-title="World", VTC Digital (OneTV KH)
+http://36.37.252.114:888/Apple/OneTV-117/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eNBVsp/r_vov1.png" group-title="Radio",VOV1 AM 675kHz
+http://stream2.mobiradio.vn/vovradio/vov1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cKVOCp/r_vov2.png" group-title="Radio",VOV2 FM 102.7MHz
+http://stream2.mobiradio.vn/vovradio/vov2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bJYzk9/r_vov3.png" group-title="Radio",VOV3 FM 104.5MHz
+http://stream2.mobiradio.vn/vovradio/vov3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio",VOV4 Tây Bắc
+http://118.70.205.22:1935/vovlive/vov4.TayBac.sdp_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio",VOV4 DBSCL
+http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio",VOV4 Miền Trung
+http://media.kythuatvov.vn:1936/live/VOV4_MT.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio",VOV5 FM 105.5MHz
+https://streaming1.vov.vn:8443/audio/vovvn1_vov5.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio",VOV5 English 24/7
+https://streaming1.vov.vn:8443/audio/vovvn1_vov247.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio",VOV6
+https://streaming1.vov.vn:8443/audio/vovvn1_vov2.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio",VOV FM89
+http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gu5OCp/r-vovmekong1.png" group-title="Radio",VOV Mekong FM 90MHz
+http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kOOodU/r_vovgthn.png" group-title="Radio",VOV GT HN
+http://stream2.mobiradio.vn/vovradio/vovgthn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mtPiCp/r_vovgthcm.png" group-title="Radio",VOV GT HCM
+http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/nLpuJU/r_voh610.png" group-title="Radio",VOH AM 610kHz
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eTNs59/r_voh99.png" group-title="Radio",VOH FM 99.9MHz
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/i3ZuJU/r_voh95.png" group-title="Radio",VOH FM 95.6MHz
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png" group-title="Radio",VOH FM 87.7MHz
+http://125.212.213.71:1935/live/channel5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hcvqsp/r-joy.png" group-title="Radio",JoyFM 98.9MHz
+http://cdn.mediatech.vn/hntvRadio/joyfm.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/n6c3Cp/r_hanoi.png" group-title="Radio",Hà Nội Radio 90MHz
+https://media.mediatech.vn:1935/hntvRadio/fm90live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/n6c3Cp/r_hanoi.png" group-title="Radio",Hà Nội Radio 96MHz
+https://cdn.mediatech.vn/hntvRadio/fm96.sdp_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H896I0g.jpg" group-title="Radio",Bà Rịa Vũng Tàu Radio
+http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/427C092.jpg" group-title="Radio",Bắc Giang Radio
+https://cdn.mediatech.vn/bgtvlive/radiolive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATG11ql.png" group-title="Radio",Bạc Liêu Radio
+http://118.69.205.213/radio/radio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mOiKPUWr.jpg" group-title="Radio",Bến Tre Radio
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/audiostream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0d/Logo_BPTV.jpg" group-title="Radio",Bình Phước Radio
+https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YDxtGTg.png" group-title="Radio",Bình Thuận Radio
+http://202.43.109.142:1935/thbtradio/btradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lk5dF9H.jpg" group-title="Radio",Cà Mau Radio
+http://tv.ctvcamau.vn/live/radio/radio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UjDYMyf.png" group-title="Radio",Cần Thơ Radio
+https://tv.canthotv.vn/live/radio/radio.m3u8
+#EXTINF:-1 tvg-logo="https://www.drt.danang.vn/images/radioab.png" group-title="Radio",Đà Nẵng Radio
+http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BMug1gS.png" group-title="Radio",Đồng Tháp Radio
+https://202.43.109.144:1935/thdtradio/thdtradio/playlist.m3u8
+#EXTINF:-1 group-title="Radio", Vĩnh Long
+https://thvl111220.cdn.vnns.io/thvlradio/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vNgKLRe.png" group-title="Radio",Gia Lai Radio
+http://113.161.25.3:8134/hls/radio/radio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AutovR7.png" group-title="Radio",Hải Phòng 1 Radio
+https://live.thhp.vn/937/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AutovR7.png" group-title="Radio",Hải Phòng 2 Radio
+https://live.thhp.vn/radio/102/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J8V66vQ.jpg" group-title="Radio",Hậu Giang Radio
+https://haugiangfm.htvc.catchup.vnroute.com/haugiang-fm.tms/index.m3u8
+#EXTINF:-1 group-title="Radio",Hưng Yên Radio
+http://cdn.hytv.mediatech.vn/hytvlive/radio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N2gUYoh.png" group-title="Radio",Khánh Hòa Radio
+http://210.245.20.94/hls/radio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/STKsRbJ.png" group-title="Radio",Lâm Đồng Radio
+http://203.171.21.216:1935/radio/lamdong_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OfbPgIg.png" group-title="Radio",Long An Radio
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/radio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLvFSLS.png" group-title="Radio",Nghệ An Radio
+https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9lO7uA3.png" group-title="Radio",Ninh Bình Radio
+https://nbtv.vncdn.vn/nbtvlive/radio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0zTLT9.png" group-title="Radio",Phú Yên Radio
+http://113.161.4.48:8080/phuyen/radio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BApWnoM.jpg" group-title="Radio",Quảng Nam Radio
+rtmp://113.161.6.157:1935/live/audiostream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8MUFy0Y.jpg" group-title="Radio",Quảng Ngãi Radio
+http://203.171.21.216:1935/radio/quangngai_aac/chunklist_w1148923709.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/9RzJBkhqP7l2hbbFOm5RmHMebRs7Omh1laj-5uiWgP8y-Nm5uG5MJ1WzM37DX4cRVA=w300" group-title="Radio",Quảng Ninh 1 Radio
+http://qtv.vncdn.vn/qtvlive/qnr1.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/9RzJBkhqP7l2hbbFOm5RmHMebRs7Omh1laj-5uiWgP8y-Nm5uG5MJ1WzM37DX4cRVA=w300" group-title="Radio",Quảng Ninh 2 Radio
+http://qtv.vncdn.vn/qtvlive/qnr2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfkk610.jpg" group-title="Radio",Sóc Trăng Radio
+http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6JOwJUs.jpg" group-title="Radio",Sơn La Radio
+http://203.171.21.216:1935/radio/sonla_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuZgIRC.png" group-title="Radio",Tây Ninh Radio
+http://202.43.109.142:1935/radio11/tnradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwOQBas.png" group-title="Radio",Thái Bình Radio
+http://118.70.118.191:1935/tbtvlive/radio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYH7tJe.png" group-title="Radio",Thừa Thiên Huế Radio
+rtmp://118.69.176.149:1936/live/radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTSrapf.png" group-title="Radio",Tiền Giang Radio
+http://thtg.vn:8002/radiolive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWbjWQg.jpg" group-title="Radio",Tuyên Quang Radio
+https://live.tuyenquangtv.vn/hls/radio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrWHKhp.png" group-title="Radio",Yên Bái Radio
+https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
+#EXTINF:-1 group-title="Radio",Nationwide Viet Radio
+http://162.244.80.33:4480/;stream.mp3:4480/
+#EXTINF:-1 group-title="Radio",Radio Viet Nam Hai Ngoai
+https://vpr.serverroom.us:7492/;
+#EXTINF:-1 group-title="Radio",Dallas Viet Radio
+https://199.195.194.94:8025/;
+#EXTINF:-1 group-title="Radio",VIEN THAO Radio
+https://freeuk8.listen2myradio.com:11117/;listen.mp3
+#EXTINF:-1 group-title="Radio",RFI Vietnam Tiếng Việt
+https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
+#EXTINF:-1 group-title="Radio",Vietnam Vet Radio
+https://psn3.prostreaming.net:8440/stream/1/
+#EXTINF:-1 group-title="Radio",Quran in Vietnamese
+https://quraan.us:9948/;
+#EXTINF:-1 group-title="Radio",Radio Saigon Houston
+https://shout.audionow.com:8000/RadioSaigonHuston
+#EXTINF:-1 group-title="Radio",Radio Tiếng Nước Tôi
+https://162.244.80.118:3092/;stream.mp3
+#EXTINF:-1 group-title="Radio",Radio Veritas Asia
+https://stream.rveritas-asia.org:8000/Vietnamese.mp3
+#EXTINF:-1 group-title="Radio",Cherry Radio - TIN TỨC và ÂM NHẠC
+https://stream.zeno.fm/uhuq0nz162quv.mp3
+#EXTINF:-1 group-title="Radio",Cherry Radio - NHẠC TRẺ
+https://stream.zeno.fm/umt5gqmg3reuv.mp3
+#EXTINF:-1 group-title="Radio",Cherry Radio - NHẠC TRỮ TÌNH 24/7
+https://stream.zeno.fm/wppep1n7qpeuv.mp3
 
 
-
+#EXTINF:-1 group-title="Youtube" tvg-logo="", Trực Tiếp
+https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngw-eQTcahZgIpUz79_r5_Vf_emM35kGQqZPk9aDA=s88-c-k-c0x00ffffff-no-rj", POPS Kids
+https://www.youtube.com/user/popskids
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng9zYP7Oizf2bPNXOaqjaeEwGV8B0MvMqucUrE=s88-c-k-c0x00ffffff-no-rj", Tiếng Hát Vì Người Nghèo
+https://www.youtube.com/c/TiếngHátVìNgườiNghèo
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngArCYH4UaaENvKMNxud3O9FPEARRKBkkBa2EHF=s88-c-k-c0x00ffffff-no-rj", Thúy Nga
+https://www.youtube.com/c/thuynga
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngksomItykcmAW9Lu3L3X57An2V-sd5O6W2shPljw=s88-c-k-c0x00ffffff-no-rj", Asia Entertainment
+https://www.youtube.com/user/TrungTamAsiaChannel
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlQ51sMXzgfRS2FCKpevID624OB-9Aug2NIK76FA=s88-c-k-c0x00ffffff-no-rj", Remix Nhạc Vàng Trữ Tình
+https://www.youtube.com/c/RemixNhạcVàngTrữTình
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniMutyWmr2v91L-dUbs1-PKuAhjSpggCZ7gQvg8AA=s88-c-k-c0x00ffffff-no-rj", Nhạc Sàn No1
+https://www.youtube.com/user/NhacSanCucManh1
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj7sublG6nwRrOb38cB3YsV5zteF1s7rc_88wVl=s88-c-k-c0x00ffffff-no-rj", NEXT SPORTS
+https://www.youtube.com/c/nextsports
+#EXTINF:-1 group-title="Youtube" tvg-logo="", 🏡 Youtube
+https://www.youtube.com
