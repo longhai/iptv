@@ -549,7 +549,7 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD.smil/chunklist.m3u8
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTVcab", VTVcab16 - Bóng đá TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTVcab", VTVcab17 - Yeah1!TV
+#EXTINF:-1 group-title="VTVcab", VTVcab17 - Yeah1TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTVcab", VTVcab19 - Film TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD.smil/chunklist.m3u8
@@ -647,13 +647,13 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-th-ttxvn-HD-97.html
 
 
 
-#EXTINF:-1 group-title="VTV",VTV1
+#EXTINF:-1 group-title="VTV",VTV1 HD
 http://vn.tvnet.gov.vn/kenh-truyen-hinh/1011/vtv1
-#EXTINF:-1 group-title="VTV",VTV2
+#EXTINF:-1 group-title="VTV",VTV2 HD
 http://vn.tvnet.gov.vn/kenh-truyen-hinh/1010/vtv2
-#EXTINF:-1 group-title="VTV",VTV3
+#EXTINF:-1 group-title="VTV",VTV3 HD
 http://vn.tvnet.gov.vn/kenh-truyen-hinh/1013/vtv3
-#EXTINF:-1 group-title="VTV",VTV4
+#EXTINF:-1 group-title="VTV",VTV4 HD
 http://vn.tvnet.gov.vn/kenh-truyen-hinh/1009/vtv4
 
 #EXTINF:-1 group-title="VTC",VTC1 HD
