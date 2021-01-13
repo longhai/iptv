@@ -58,17 +58,17 @@ https://livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC", VTC4 HD
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC5
+#EXTINF:-1 group-title="VTC", VTC5 HD
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC6
+#EXTINF:-1 group-title="VTC", VTC6 HD
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC7 - Today
+#EXTINF:-1 group-title="VTC", VTC7 HD - Today
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC", VTC8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC9
+#EXTINF:-1 group-title="VTC", VTC9 HD
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC10
+#EXTINF:-1 group-title="VTC", VTC10 HD
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC", VTC11
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/playlist.m3u8
