@@ -83,13 +83,13 @@
 	<display-name lang="vi">HTV3</display-name>
 </channel>
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="14">
-	<title lang="vi">Kênh Giải trí dành cho thiếu nhi & gia đình</title>
+	<title lang="vi">Kênh Giải trí dành cho thiếu nhi - gia đình</title>
 </programme>
 <channel id="15">
 	<display-name lang="vi">HTV Key</display-name>
 </channel>
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="15">
-	<title lang="vi">Kênh Dạy học & Phổ biến kiến thức</title>
+	<title lang="vi">Kênh Dạy học - Phổ biến kiến thức</title>
 </programme>
 <channel id="16">
 	<display-name lang="vi">HTV7 HD</display-name>
