@@ -31,16 +31,16 @@
 	<title lang="vi">VTV5</title>
 </programme>
 <channel id="6">
-	<display-name lang="vi">VTV5</display-name>
+	<display-name lang="vi">VTV5 HD Tây Nam Bộ</display-name>
 </channel>
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="6">
-	<title lang="vi">VTV5</title>
+	<title lang="vi">VTV5 HD Tây Nam Bộ</title>
 </programme>
 <channel id="7">
-	<display-name lang="vi">VTV5</display-name>
+	<display-name lang="vi">VTV5 HD Tây Nguyên</display-name>
 </channel>
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="7">
-	<title lang="vi">VTV5</title>
+	<title lang="vi">VTV5 HD Tây Nguyên</title>
 </programme>
 <channel id="8">
 	<display-name lang="vi">VTV6</display-name>
