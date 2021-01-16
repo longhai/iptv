@@ -1,11 +1,11 @@
-<tv generator-info-name="Viet-simpletv">
-<channel id="10">
+<tv generator-info-name="Long Hải">
+<channel id="Bà Rịa Vũng Tàu Radio">
 <display-name lang="vi">Bà Rịa Vũng Tàu Radio</display-name>
 </channel>
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="10">
 <title lang="vi">Radio tỉnh Bà Rịa Vũng Tàu</title>
 </programme>
-<channel id="313">
+<channel id="VOH FM 95.6Mhz">
 <display-name lang="vi">VOH FM 95.6Mhz</display-name>
 </channel>
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="313">
