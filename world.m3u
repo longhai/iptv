@@ -173,7 +173,7 @@ http://36.37.252.114:888/Apple/OneTV-085/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-086/playlist.m3u8
 #EXTINF:-1 group-title="World", WarnerTV (OneTV KH)
 http://36.37.252.114:888/Apple/OneTV-088/playlist.m3u8
-#EXTINF:-1 group-title="World", OneTV HD  (OneTV KH)
+#EXTINF:-1 group-title="World", Cartoon Network  (OneTV KH)
 http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8
 #EXTINF:-1 group-title="World", CNN (OneTV KH)
 http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
