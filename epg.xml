@@ -1,15 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="Long Hải">
-<channel id="Bà Rịa Vũng Tàu Radio">
-<display-name lang="vi">Bà Rịa Vũng Tàu Radio</display-name>
+<channel id="1">
+	<display-name lang="vi">VTV1</display-name>
 </channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="Bà Rịa Vũng Tàu Radio">
-<title lang="vi">Radio tỉnh Bà Rịa Vũng Tàu</title>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="1">
+	<title lang="vi">VTV1</title>
 </programme>
-<channel id="VOH FM 95.6Mhz">
-<display-name lang="vi">VOH FM 95.6Mhz</display-name>
+<channel id="2">
+	<display-name lang="vi">VTV2</display-name>
 </channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="VOH FM 95.6Mhz">
-<title lang="vi">Kênh tiếng nói người lao động - Đài PT TP.HCM</title>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="2">
+	<title lang="vi">VTV2</title>
+</programme>
+<channel id="3">
+	<display-name lang="vi">VTV3</display-name>
+</channel>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="3">
+	<title lang="vi">VTV3</title>
+</programme>
+<channel id="4">
+	<display-name lang="vi">VTV4</display-name>
+</channel>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="4">
+	<title lang="vi">VTV4</title>
+</programme>
+<channel id="5">
+	<display-name lang="vi">VTV5</display-name>
+</channel>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="5">
+	<title lang="vi">VTV5</title>
+</programme>
+<channel id="6">
+	<display-name lang="vi">VTV5</display-name>
+</channel>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="6">
+	<title lang="vi">VTV5</title>
+</programme>
+<channel id="7">
+	<display-name lang="vi">VTV5</display-name>
+</channel>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="7">
+	<title lang="vi">VTV5</title>
+</programme>
+<channel id="8">
+	<display-name lang="vi">VTV6</display-name>
+</channel>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="8">
+	<title lang="vi">VTV6</title>
+</programme>
+<channel id="9">
+	<display-name lang="vi">VTV7</display-name>
+</channel>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="9">
+	<title lang="vi">VTV7</title>
+</programme>
+<channel id="10">
+	<display-name lang="vi">VTV8</display-name>
+</channel>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="10">
+	<title lang="vi">VTV8</title>
+</programme>
+<channel id="11">
+	<display-name lang="vi">VTV9</display-name>
+</channel>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="11">
+	<title lang="vi">VTV9</title>
 </programme>
 </tv>
