@@ -2,13 +2,13 @@
 <channel id="Bà Rịa Vũng Tàu Radio">
 <display-name lang="vi">Bà Rịa Vũng Tàu Radio</display-name>
 </channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="10">
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="Bà Rịa Vũng Tàu Radio">
 <title lang="vi">Radio tỉnh Bà Rịa Vũng Tàu</title>
 </programme>
 <channel id="VOH FM 95.6Mhz">
 <display-name lang="vi">VOH FM 95.6Mhz</display-name>
 </channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="313">
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="VOH FM 95.6Mhz">
 <title lang="vi">Kênh tiếng nói người lao động - Đài PT TP.HCM</title>
 </programme>
 </tv>
