@@ -218,13 +218,13 @@
 <channel id="217"><display-name lang="vi">TLC</display-name></channel>
 <channel id="218"><display-name lang="vi">TV5 Monde</display-name></channel>
 <channel id="219"><display-name lang="vi">Travel và Living HD</display-name></channel>
-<channel id="210"><display-name lang="vi">WarnerTV</display-name></channel>
+<channel id="220"><display-name lang="vi">WarnerTV</display-name></channel>
 <channel id="221"><display-name lang="vi">An Ninh HD</display-name></channel>
-<channel id="212"><display-name lang="vi">Nhân Dân</display-name></channel>
-<channel id="213"><display-name lang="vi">Quốc Hội</display-name></channel>
-<channel id="214"><display-name lang="vi">Quốc Phòng VN</display-name></channel>
-<channel id="215"><display-name lang="vi">Vnews - Thông tấn xã VN</display-name></channel>
-<channel id="216"><display-name lang="vi">VOV TV</display-name></channel>
+<channel id="222"><display-name lang="vi">Nhân Dân</display-name></channel>
+<channel id="223"><display-name lang="vi">Quốc Hội</display-name></channel>
+<channel id="224"><display-name lang="vi">Quốc Phòng VN</display-name></channel>
+<channel id="225"><display-name lang="vi">Vnews - Thông tấn xã VN</display-name></channel>
+<channel id="226"><display-name lang="vi">VOV TV</display-name></channel>
 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="1"><title lang="vi">VTV1 HD</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="2"><title lang="vi">VTV2 HD</title></programme> 
