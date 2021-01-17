@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="Long Hải">
 <channel id="1"><display-name lang="vi">VTV1 HD</display-name></channel>
-<channel id="2"><display-name lang="vi">VTV2 HD</display-name></channel><programme start="" stop="" channel="2"><title lang="vi"></title></programme>
+<channel id="2"><display-name lang="vi">VTV2 HD</display-name></channel>
 <channel id="3"><display-name lang="vi">VTV3 HD</display-name></channel>
 <channel id="4"><display-name lang="vi">VTV4 HD</display-name></channel>
 <channel id="5"><display-name lang="vi">VTV5 HD</display-name></channel>
