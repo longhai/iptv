@@ -1,1336 +1,228 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="Long Hải">
-<channel id="1">
-	<display-name lang="vi">VTV1</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="1">
-	<title lang="vi">KÊNH THỜI SỰ - CHÍNH LUẬN</title>
-</programme>
-<channel id="2">
-	<display-name lang="vi">VTV2</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="2">
-	<title lang="vi">KÊNH KHOA HỌC - GIÁO DỤC</title>
-</programme>
-<channel id="3">
-	<display-name lang="vi">VTV3</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="3">
-	<title lang="vi">KÊNH GIẢI TRÍ TỔNG HỢP</title>
-</programme>
-<channel id="4">
-	<display-name lang="vi">VTV4</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="4">
-	<title lang="vi">KÊNH TRUYỀN HÌNH ĐỐI NGOẠI</title>
-</programme>
-<channel id="5">
-	<display-name lang="vi">VTV5</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="5">
-	<title lang="vi">KÊNH TRUYỀN HÌNH QUẢNG BÁ</title>
-</programme>
-<channel id="6">
-	<display-name lang="vi">VTV5 HD Tây Nam Bộ</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="6">
-	<title lang="vi">KÊNH PHỤC VỤ ĐỒNG BÀO DÂN TỘC KHMER</title>
-</programme>
-<channel id="7">
-	<display-name lang="vi">VTV5 HD Tây Nguyên</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="7">
-	<title lang="vi">KÊNH PHỤC VỤ ĐỒNG BÀO CÁC DÂN TỘC THIỂU SỐ KHU VỰC TÂY NGUYÊN</title>
-</programme>
-<channel id="8">
-	<display-name lang="vi">VTV6</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="8">
-	<title lang="vi">KÊNH TRUYỀN HÌNH THANH THIẾU NIÊN</title>
-</programme>
-<channel id="9">
-	<display-name lang="vi">VTV7</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="9">
-	<title lang="vi">KÊNH TRUYỀN HÌNH GIÁO DỤC</title>
-</programme>
-<channel id="10">
-	<display-name lang="vi">VTV8</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="10">
-	<title lang="vi">KÊNH HƯỚNG TỚI KHÁN GIẢ TOÀN KHU VỰC MIỀN TRUNG - TÂY NGUYÊN</title>
-</programme>
-<channel id="11">
-	<display-name lang="vi">VTV9</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="11">
-	<title lang="vi">KÊNH HƯỚNG TỚI KHÁN GIẢ TOÀN KHU VỰC NAM BỘ</title>
-</programme>
-
-<channel id="12">
-	<display-name lang="vi">HTV1</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="12">
-	<title lang="vi">KÊNH THÔNG TIN CÔNG CỘNG</title>
-</programme>
-<channel id="13">
-	<display-name lang="vi">HTV2</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="13">
-	<title lang="vi">KÊNH GIẢI TRÍ TỔNG HỢP</title>
-</programme>
-<channel id="14">
-	<display-name lang="vi">HTV3</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="14">
-	<title lang="vi">KÊNH GIẢI TRÍ DÀNH CHO THIẾU NHI - GIA ĐÌNH</title>
-</programme>
-<channel id="15">
-	<display-name lang="vi">HTV Key</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="15">
-	<title lang="vi">KÊNH DẠY HỌC - PHỔ BIẾN KIẾN THỨC</title>
-</programme>
-<channel id="16">
-	<display-name lang="vi">HTV7 HD</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="16">
-	<title lang="vi">KÊNH THÔNG TIN, XÃ HỘI, THỂ THAO VÀ GIẢI TRÍ TỔNG HỢP</title>
-</programme>
-<channel id="17">
-	<display-name lang="vi">HTV9 HD</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="17">
-	<title lang="vi">KÊNH TIN TỨC, XÃ HỘI, THỂ THAO VÀ GIẢI TRÍ TỔNG HỢP</title>
-</programme>
-<channel id="18">
-	<display-name lang="vi">HTV Co.op</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="18">
-	<title lang="vi">KÊNH MUA SẮM TIN CẬY - ĐỒNG HÀNH CÙNG HÀNG VIỆT</title>
-</programme>
-<channel id="19">
-	<display-name lang="vi">HTV Thể Thao</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="19">
-	<title lang="vi">KÊNH CHUYÊN BIỆT VỀ THỂ THAO</title>
-</programme>
-<channel id="20">
-	<display-name lang="vi">HTVC Ca Nhạc</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="20">
-	<title lang="vi">KÊNH ÂM NHẠC THUỘC HỆ THỐNG DỊCH VỤ TRUYỀN HÌNH CÁP</title>
-</programme>
-<channel id="21">
-	<display-name lang="vi">HTVC Du Lịch</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="21">
-	<title lang="vi">KÊNH DU LỊCH VÀ CUỘC SỐNG</title>
-</programme>
-<channel id="22">
-	<display-name lang="vi">HTVC FBNC</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="22">
-	<title lang="vi">KÊNH TIN TỨC – TÀI CHÍNH</title>
-</programme>
-<channel id="23">
-	<display-name lang="vi">HTVC Gia Đình HD</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="23">
-	<title lang="vi">KÊNH TRUYỀN HÌNH DÀNH CHO GIA ĐÌNH</title>
-</programme>
-<channel id="24">
-	<display-name lang="vi">HTVC Phim HD</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="24">
-	<title lang="vi">KÊNH PHIM HÀNG ĐẦU ĐƯỢC CHỌN LỌC</title>
-</programme>
-<channel id="25">
-	<display-name lang="vi">HTVC Phụ Nữ</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="25">
-	<title lang="vi">KÊNH CHUYÊN DÀNH CHO PHỤ NỮ</title>
-</programme>
-<channel id="26">
-	<display-name lang="vi">HTVC Plus HD</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="26">
-	<title lang="vi">KÊNH GIẢI TRÍ, THÔNG TIN DOANH NGHIỆP, KIẾN THỨC TIÊU DÙNG</title>
-</programme>
-<channel id="27">
-	<display-name lang="vi">HTVC Thuần Việt</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="27">
-	<title lang="vi">KÊNH TRUYỀN HÌNH CHUYÊN VỀ VĂN HÓA - XÃ HỘI</title>
-</programme>
-<channel id="28">
-	<display-name lang="vi">HTVC Thuần Việt HD</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="28">
-	<title lang="vi">KÊNH TRUYỀN HÌNH CHUYÊN VỀ VĂN HÓA - XÃ HỘI</title>
-</programme>
-<channel id="29">
-	<display-name lang="vi">HTVC VGS Shopping</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="29">
-	<title lang="vi">KÊNH MUA SẮM</title>
-</programme>
-<channel id="30">
-	<display-name lang="vi">VTC1</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="30">
-	<title lang="vi"></title>
-</programme>
-<channel id="31">
-	<display-name lang="vi">VTC2</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="31">
-	<title lang="vi"></title>
-</programme>
-<channel id="32">
-	<display-name lang="vi">VTC3</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="32">
-	<title lang="vi"></title>
-</programme>
-<channel id="33">
-	<display-name lang="vi">VTC4</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="33">
-	<title lang="vi"></title>
-</programme>
-<channel id="34">
-	<display-name lang="vi">VTC5</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="34">
-	<title lang="vi"></title>
-</programme>
-<channel id="35">
-	<display-name lang="vi">VTC6</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="35">
-	<title lang="vi"></title>
-</programme>
-<channel id="36">
-	<display-name lang="vi">VTC7</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="36">
-	<title lang="vi"></title>
-</programme>
-<channel id="37">
-	<display-name lang="vi">VTC8</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="37">
-	<title lang="vi"></title>
-</programme>
-<channel id="38">
-	<display-name lang="vi">VTC9</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="38">
-	<title lang="vi"></title>
-</programme>
-<channel id="39">
-	<display-name lang="vi">VTC10</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="39">
-	<title lang="vi"></title>
-</programme>
-<channel id="40">
-	<display-name lang="vi">VTC11</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="40">
-	<title lang="vi"></title>
-</programme>
-<channel id="41">
-	<display-name lang="vi">VTC12</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="41">
-	<title lang="vi"></title>
-</programme>
-<channel id="42">
-	<display-name lang="vi">VTC13</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="42">
-	<title lang="vi"></title>
-</programme>
-<channel id="43">
-	<display-name lang="vi">VTC14</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="43">
-	<title lang="vi"></title>
-</programme>
-<channel id="44">
-	<display-name lang="vi">VTC16</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="44">
-	<title lang="vi"></title>
-</programme>
-<channel id="45">
-	<display-name lang="vi">SCTV1</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="45">
-	<title lang="vi"></title>
-</programme>
-<channel id="46">
-	<display-name lang="vi">SCTV2</display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="46">
-	<title lang="vi"></title>
-</programme>
-<channel id="47">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="47">
-	<title lang="vi"></title>
-</programme>
-<channel id="48">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="48">
-	<title lang="vi"></title>
-</programme>
-<channel id="49">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="49">
-	<title lang="vi"></title>
-</programme>
-<channel id="50">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="50">
-	<title lang="vi"></title>
-</programme>
-<channel id="51">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="51">
-	<title lang="vi"></title>
-</programme>
-<channel id="52">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="52">
-	<title lang="vi"></title>
-</programme>
-<channel id="53">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="53">
-	<title lang="vi"></title>
-</programme>
-<channel id="54">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="54">
-	<title lang="vi"></title>
-</programme>
-<channel id="55">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="55">
-	<title lang="vi"></title>
-</programme>
-<channel id="56">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="56">
-	<title lang="vi"></title>
-</programme>
-<channel id="57">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="57">
-	<title lang="vi"></title>
-</programme>
-<channel id="58">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="58">
-	<title lang="vi"></title>
-</programme>
-<channel id="59">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="59">
-	<title lang="vi"></title>
-</programme>
-<channel id="60">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="60">
-	<title lang="vi"></title>
-</programme>
-<channel id="61">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="61">
-	<title lang="vi"></title>
-</programme>
-<channel id="62">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="62">
-	<title lang="vi"></title>
-</programme>
-<channel id="63">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="63">
-	<title lang="vi"></title>
-</programme>
-<channel id="64">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="64">
-	<title lang="vi"></title>
-</programme>
-<channel id="65">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="65">
-	<title lang="vi"></title>
-</programme>
-<channel id="66">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="66">
-	<title lang="vi"></title>
-</programme>
-<channel id="67">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="67">
-	<title lang="vi"></title>
-</programme>
-<channel id="68">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="68">
-	<title lang="vi"></title>
-</programme>
-<channel id="69">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="69">
-	<title lang="vi"></title>
-</programme>
-<channel id="70">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="70">
-	<title lang="vi"></title>
-</programme>
-<channel id="71">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="71">
-	<title lang="vi"></title>
-</programme>
-<channel id="72">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="72">
-	<title lang="vi"></title>
-</programme>
-<channel id="73">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="73">
-	<title lang="vi"></title>
-</programme>
-<channel id="74">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="74">
-	<title lang="vi"></title>
-</programme>
-<channel id="75">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="75">
-	<title lang="vi"></title>
-</programme>
-<channel id="76">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="76">
-	<title lang="vi"></title>
-</programme>
-<channel id="77">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="77">
-	<title lang="vi"></title>
-</programme>
-<channel id="78">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="78">
-	<title lang="vi"></title>
-</programme>
-<channel id="79">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="79">
-	<title lang="vi"></title>
-</programme>
-<channel id="80">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="80">
-	<title lang="vi"></title>
-</programme>
-<channel id="81">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="81">
-	<title lang="vi"></title>
-</programme>
-<channel id="82">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="82">
-	<title lang="vi"></title>
-</programme>
-<channel id="83">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="83">
-	<title lang="vi"></title>
-</programme>
-<channel id="84">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="84">
-	<title lang="vi"></title>
-</programme>
-<channel id="85">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="85">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
-<channel id="">
-	<display-name lang="vi"></display-name>
-</channel>
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="">
-	<title lang="vi"></title>
-</programme>
+<channel id="1"><display-name lang="vi">VTV1 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="2"><display-name lang="vi">VTV2 HD</display-name></channel><programme start="" stop="" channel="2"><title lang="vi"></title></programme>
+<channel id="3"><display-name lang="vi">VTV3 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="4"><display-name lang="vi">VTV4 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="5"><display-name lang="vi">VTV5 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="6"><display-name lang="vi">VTV5 HD Tây Nam Bộ</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="7"><display-name lang="vi">VTV5 HD Tây Nguyên</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="8"><display-name lang="vi">VTV6 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="9"><display-name lang="vi">VTV7 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="10"><display-name lang="vi">VTV8 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="11"><display-name lang="vi">VTV9 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="12"><display-name lang="vi">HTV1</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="13"><display-name lang="vi">HTV2 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="14"><display-name lang="vi">HTV3</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="15"><display-name lang="vi">HTV4</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="16"><display-name lang="vi">HTV7 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="17"><display-name lang="vi">HTV9 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="18"><display-name lang="vi">HTV Co.op</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="19"><display-name lang="vi">HTV Thể Thao</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="20"><display-name lang="vi">HTVC Ca Nhạc</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="21"><display-name lang="vi">HTVC Du Lịch</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="22"><display-name lang="vi">HTVC FBNC</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="23"><display-name lang="vi">HTVC Gia Đình</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="24"><display-name lang="vi">HTVC Phim HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="25"><display-name lang="vi">HTVC Phụ Nữ HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="26"><display-name lang="vi">HTVC Plus HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="27"><display-name lang="vi">HTVC Shopping</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="28"><display-name lang="vi">HTVC Thuần Việt</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="29"><display-name lang="vi">HTVC Thuần Việt HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="30"><display-name lang="vi">VTC1 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="31"><display-name lang="vi">VTC2</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="32"><display-name lang="vi">VTC3 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="33"><display-name lang="vi">VTC4 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="34"><display-name lang="vi">VTC5 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="35"><display-name lang="vi">VTC6 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="36"><display-name lang="vi">VTC7 HD - Today</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="37"><display-name lang="vi">VTC8</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="38"><display-name lang="vi">VTC9 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="39"><display-name lang="vi">VTC10 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="40"><display-name lang="vi">VTC11</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="41"><display-name lang="vi">VTC12</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="42"><display-name lang="vi">VTC13 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="43"><display-name lang="vi">VTC14 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="44"><display-name lang="vi">VTC16 HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="45"><display-name lang="vi">VTVcab1 - Vie Giải Trí HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="46"><display-name lang="vi">VTVcab2 - Phim Việt HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="47"><display-name lang="vi">VTVcab3 - Thể Thao TV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="48"><display-name lang="vi">VTVcab4 - Phim Đặc Sắc HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="49"><display-name lang="vi">VTVcab5 - E Channel HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="50"><display-name lang="vi">VTVcab6 - Hay TV HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="51"><display-name lang="vi">VTVcab7 - Sức khỏe và Cuộc sống HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="52"><display-name lang="vi">VTVcab8 - BIBI</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="53"><display-name lang="vi">VTVcab9 - InfoTV HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="54"><display-name lang="vi">VTVcab10 - D Dramas HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="55"><display-name lang="vi">VTVcab11 - VGS Shop</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="56"><display-name lang="vi">VTVcab12 - Style TV HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="57"><display-name lang="vi">VTVcab13 - VTV Huyndai</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="58"><display-name lang="vi">VTVcab14 - V Shopping</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="59"><display-name lang="vi">VTVcab15 - M Channel</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="60"><display-name lang="vi">VTVcab16 - Bóng đá TV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="61"><display-name lang="vi">VTVcab17 - Yeah1TV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="62"><display-name lang="vi">VTVcab18 - Thể thao Tin tức HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="63"><display-name lang="vi">VTVcab19 - Film TV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="64"><display-name lang="vi">VTVcab20 - V.Family</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="65"><display-name lang="vi">VTVcab21 - Cartoon Kids HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="66"><display-name lang="vi">VTVcab22 - LifeTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="67"><display-name lang="vi">VTVcab23 - Thể thao Golf HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="68"><display-name lang="vi">SCTV1 HD - Hài kịch</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="69"><display-name lang="vi">SCTV2 - AMC TV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="70"><display-name lang="vi">SCTV3 - SEE</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="71"><display-name lang="vi">SCTV4 - Văn hóa</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="72"><display-name lang="vi">SCTV5 - SCJTV Shopping</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="73"><display-name lang="vi">SCTV6 - SNTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="74"><display-name lang="vi">SCTV7 - Show</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="75"><display-name lang="vi">SCTV8 - VITV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="76"><display-name lang="vi">SCTV9 - Phim châu Á</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="77"><display-name lang="vi">SCTV10 - VTV Hyundai</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="78"><display-name lang="vi">SCTV11 HD - TV STAR</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="79"><display-name lang="vi">SCTV12 - Du lịch & Khám phá</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="80"><display-name lang="vi">SCTV13 - Lady TV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="81"><display-name lang="vi">SCTV14 - Phim Việt</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="82"><display-name lang="vi">SCTV15 - SSport 2</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="83"><display-name lang="vi">SCTV16 Phim nước ngoài đặc sắc</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">SCTV17 - SSport</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">SCTV18 - Kênh 18</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">SCTV19 - Channel T</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">SCTV20 - ITV HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">SCTV Phim tổng hợp</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">SCTV22 - SSport 1</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">An Giang - ATV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bà Rịa Vũng Tàu - BRT</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Dương 1 - BTV1</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Dương 2 - BTV2</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Dương 3 - BTV3</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Dương 4 - BTV4</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Dương 5 - BTV5 - SSport 3</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Dương 6 - BTV6</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Dương 9 - BTV9 - An Viên TV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Dương 10 - BTV10 - NCM</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Dương 11 - BTV11 - Top Home Shopping</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Phước 1 - BPTV1</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Phước 2 - BPTV2</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Phước 3 - BPTV3</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Thuận - BTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bình Định - BTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bạc Liêu - BLTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bắc Giang - BGTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bắc Kạn - TBK</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bắc Ninh - BTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bến Tre - THBT</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Cao Bằng - CRTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Cà Mau - CTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Cần Thơ - THTPCT</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Gia Lai - THGL</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Hà Giang - HGTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Hà Nam - THHN</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Hà Nội 1 - HanoiTV1</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Hà Nội 2 - HanoiTV2</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Hà Tĩnh - HTTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Hòa Bình - HBTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Hưng Yên - HYTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Hải Dương - HDTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Hải Phòng - THP</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Hậu Giang - HGTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Khánh Hòa - KTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Kiên Giang - KG</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Kon Tum - KRT</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Lai Châu - LTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Long An - LA34</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Lào Cai - THLC</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Lâm Đồng - LTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Lạng Sơn - LSTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Nam Định - NTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Nghệ An - NTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Ninh Bình - NBTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Ninh Thuận - NTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Phú Thọ - PTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Phú Yên - PTP</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Quảng Bình - QBTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Quảng Nam - QRT</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Quảng Ngãi - PTQ</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Quảng Ninh 1 - QTV1</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Quảng Ninh 3 - QTV3</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Quảng Trị - QRTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Sóc Trăng 1 - STV1</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Sóc Trăng 2 - STV2</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Sơn La - STV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Thanh Hóa - TTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Thái Bình - TBTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Thái Nguyên - TN</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Thừa Thiến Huế - TRT</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Tiền Giang - THTG</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Trà Vinh - THTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Tuyên Quang - TTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Tây Ninh - TTV11</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Vĩnh Long 1 - THVL1</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Vĩnh Long 2 - THVL2</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Vĩnh Long 3 - THVL3</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Vĩnh Long 4 - THVL4</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Vĩnh Phúc - VP</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Yên Bái - YTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Điện Biên - ĐTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Đà Nẵng 1 - DaNangTV1</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Đà Nẵng 2 - DaNangTV2</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Đắk Lắk - DRT</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Đắk Nông - PTD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Đồng Nai 1 - ĐNR1</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Đồng Nai 2 - ĐNR2</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Đồng Tháp 1 - THĐT1</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Đồng Tháp 2 - THĐT2</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">AXN HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Abc Autrailia (A+)</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Animal Plannet HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Arirang</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Asian Food Channel HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Asian Food Network</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">BBC Earth</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">BBC Lifestyle</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">BBC World News</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Baby First</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Bloomberg HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Blue Ant Entertainment</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Blue Ant Extreme</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Boomerang</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">CNN HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Cartoon Network HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Channel Newsasia HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Channel V HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Cinemaworld</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Cinemax HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Clubbing</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">DW HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Davinci HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Discovery Asia</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Discovery Channel</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Disney HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Disney Junior</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Fashiontv HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Fox Family Movies</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Fox HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Fox Life</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Fox Movies HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Fox Sports 1</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Fox Sports 2</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Fox Sports 3</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">France24</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">HBO HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">KBS World</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">KIX HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">NHK World Japan HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Nat Geo Wild</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">National Geographic Chanel - NGC HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Outdoor Channel HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Paramount Channel</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Red By HBO</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">TLC</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">TV5 Monde</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Travel & Living HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">WarnerTV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">An Ninh HD</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Nhân Dân</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Quốc Hội</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Quốc Phòng VN</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">Vnews - Thông tấn xã VN</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
+<channel id="1"><display-name lang="vi">VOV TV</display-name></channel><programme start="" stop="" channel="1"><title lang="vi"></title></programme>
 </tv>
