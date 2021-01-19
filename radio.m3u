@@ -91,7 +91,7 @@ https://streaming1.vov.vn:8443/audio/vovvn1_vov247.stream_aac/playlist.m3u8
 https://streaming1.vov.vn:8443/audio/vovvn1_vov5.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio", VOV6
 https://streaming1.vov.vn:8443/audio/vovvn1_vov2.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="Radio", VOV FM89
+#EXTINF:-1 group-title="Radio", VOV FM 89
 http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio", VOV GT HCM
 http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
@@ -114,17 +114,17 @@ http://162.244.80.33:4480/;stream.mp3:4480/
 https://vpr.serverroom.us:7492/;
 #EXTINF:-1 group-title="Radio",Dallas Viet Radio
 http://199.195.194.94:8025/;
-#EXTINF:-1 group-title="Radio",VIEN THAO Radio
-https://freeuk8.listen2myradio.com:11117/;listen.mp3
-#EXTINF:-1 group-title="Radio",RFI Vietnam Tiếng Việt
+#EXTINF:-1 group-title="Radio",KAZA Viên Thao Radio 1290 AM
+http://162.244.80.52:10080/;stream.mp3
+#EXTINF:-1 group-title="Radio",RFI Tiếng Việt
 https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
 #EXTINF:-1 group-title="Radio",Vietnam Vet Radio
 http://psn3.prostreaming.net:8440/stream/1/
 #EXTINF:-1 group-title="Radio",Quran in Vietnamese
 http://quraan.us:9948/;
-#EXTINF:-1 group-title="Radio",Radio Saigon Houston
+#EXTINF:-1 group-title="Radio",Saigon Houston Radio
 http://shout.audionow.com:8000/RadioSaigonHuston
-#EXTINF:-1 group-title="Radio",Radio Tiếng Nước Tôi
+#EXTINF:-1 group-title="Radio",Tiếng Nước Tôi Radio
 https://162.244.80.118:3092/;stream.mp3
 #EXTINF:-1 group-title="Radio",Radio Veritas Asia
 http://stream.rveritas-asia.org:8000/Vietnamese.mp3
