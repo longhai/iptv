@@ -95,11 +95,11 @@ https://streaming1.vov.vn:8443/audio/vovvn1_vov5.stream_aac/playlist.m3u8
 https://streaming1.vov.vn:8443/audio/vovvn1_vov2.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio", VOV FM 89
 http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Radio", VOV GT HCM
+#EXTINF:-1 group-title="Radio", VOVGT HCM
 http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Radio", VOV GT HN
+#EXTINF:-1 group-title="Radio", VOVGT HN
 http://stream2.mobiradio.vn/vovradio/vovgthn.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio", VOV Mekong FM 90MHz
+#EXTINF:-1 group-title="Radio", VOVGT Mekong
 http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio", Vĩnh Long Radio
 https://thvl111220.cdn.vnns.io/thvlradio/chunks.m3u8
