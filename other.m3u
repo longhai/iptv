@@ -80,6 +80,9 @@ http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 #EXTINF:-1 group-title="Địa Phương",Tiền Giang - THTG
 http://thtg.vn:8001/stream_hi.m3u8
 
+#EXTINF:-1 group-title="Chuyên Biệt", VOV TV
+https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
+
 
 #EXTINF:-1 group-title="OneTV KH", One news 
 http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
