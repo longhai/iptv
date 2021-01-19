@@ -85,7 +85,9 @@ http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
 http://media.kythuatvov.vn:1936/live/VOV4_MT.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio", VOV4 Tây Bắc
 http://118.70.205.22:1935/vovlive/vov4.TayBac.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="Radio", VOV5 English 24/7
+#EXTINF:-1 group-title="Radio", VOV4 Tây Nguyên
+http://media.kythuatvov.vn:7039/;stream/
+#EXTINF:-1 group-title="Radio", VOV English 24/7
 https://streaming1.vov.vn:8443/audio/vovvn1_vov247.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio", VOV5 FM 105.5MHz
 https://streaming1.vov.vn:8443/audio/vovvn1_vov5.stream_aac/playlist.m3u8
