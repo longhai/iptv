@@ -128,8 +128,6 @@ http://shout.audionow.com:8000/RadioSaigonHuston
 https://162.244.80.118:3092/;stream.mp3
 #EXTINF:-1 group-title="Radio",Radio Veritas Asia
 http://stream.rveritas-asia.org:8000/Vietnamese.mp3
-#EXTINF:-1 group-title="Radio",Cherry Radio - TIN TỨC và ÂM NHẠC
-https://stream.zeno.fm/uhuq0nz162quv.mp3
 #EXTINF:-1 group-title="Radio",Cherry Radio - NHẠC TRẺ
 https://stream.zeno.fm/umt5gqmg3reuv.mp3
 #EXTINF:-1 group-title="Radio",Cherry Radio - NHẠC TRỮ TÌNH 24/7
