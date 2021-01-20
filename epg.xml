@@ -270,7 +270,7 @@
 <channel id="269"><display-name lang="vi">VOV5 English 24/7</display-name></channel>
 <channel id="270"><display-name lang="vi">VOV5 FM 105.5MHz</display-name></channel>
 <channel id="271"><display-name lang="vi">VOV6</display-name></channel>
-<channel id="272"><display-name lang="vi">VOV FM89</display-name></channel>
+<channel id="272"><display-name lang="vi">VOV FM 89</display-name></channel>
 <channel id="273"><display-name lang="vi">VOVGT HCM</display-name></channel>
 <channel id="274"><display-name lang="vi">VOVGT HN</display-name></channel>
 <channel id="275"><display-name lang="vi">VOVGT Mekong</display-name></channel>
@@ -562,7 +562,7 @@
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="269"><title lang="vi">VOV5 English 24/7</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="270"><title lang="vi">VOV5 FM 105.5MHz</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="271"><title lang="vi">VOV6</title></programme> 
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="272"><title lang="vi">VOV FM89</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="272"><title lang="vi">VOV FM 89</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="273"><title lang="vi">VOVGT HCM</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="274"><title lang="vi">VOVGT HN</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="275"><title lang="vi">VOVGT Mekong</title></programme> 
