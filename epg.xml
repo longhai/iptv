@@ -271,9 +271,9 @@
 <channel id="270"><display-name lang="vi">VOV5 FM 105.5MHz</display-name></channel>
 <channel id="271"><display-name lang="vi">VOV6</display-name></channel>
 <channel id="272"><display-name lang="vi">VOV FM89</display-name></channel>
-<channel id="273"><display-name lang="vi">VOV GT HCM</display-name></channel>
-<channel id="274"><display-name lang="vi">VOV GT HN</display-name></channel>
-<channel id="275"><display-name lang="vi">VOV Mekong FM 90MHz</display-name></channel>
+<channel id="273"><display-name lang="vi">VOVGT HCM</display-name></channel>
+<channel id="274"><display-name lang="vi">VOVGT HN</display-name></channel>
+<channel id="275"><display-name lang="vi">VOVGT Mekong</display-name></channel>
 <channel id="276"><display-name lang="vi">Vĩnh Long Radio</display-name></channel>
 <channel id="277"><display-name lang="vi">Yên Bái Radio</display-name></channel>
 <channel id="278"><display-name lang="vi">Đà Nẵng Radio</display-name></channel>
