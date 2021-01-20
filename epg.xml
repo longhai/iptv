@@ -279,6 +279,18 @@
 <channel id="278"><display-name lang="vi">Đà Nẵng Radio</display-name></channel>
 <channel id="279"><display-name lang="vi">Đồng Tháp Radio</display-name></channel>
 <channel id="280"><display-name lang="vi">Bà Rịa Vũng Tàu Radio</display-name></channel>
+<channel id="281"><display-name lang="vi">Cherry Radio - NHẠC TRẺ</display-name></channel>
+<channel id="282"><display-name lang="vi">Cherry Radio - NHẠC TRỮ TÌNH 24/7</display-name></channel>
+<channel id="283"><display-name lang="vi">Chân Lý Á Châu</display-name></channel>
+<channel id="284"><display-name lang="vi">Dallas Viet Radio</display-name></channel>
+<channel id="285"><display-name lang="vi">KAZA Viên Thao Radio 1290 AM</display-name></channel>
+<channel id="286"><display-name lang="vi">Nationwide Viet Radio</display-name></channel>
+<channel id="287"><display-name lang="vi">Quran in Vietnamese</display-name></channel>
+<channel id="288"><display-name lang="vi">RFI Tiếng Việt</display-name></channel>
+<channel id="289"><display-name lang="vi">Radio Viet Nam Hai Ngoai</display-name></channel>
+<channel id="290"><display-name lang="vi">Saigon Houston Radio</display-name></channel>
+<channel id="291"><display-name lang="vi">Tiếng Nước Tôi Radio</display-name></channel>
+<channel id="292"><display-name lang="vi">Vietnam Vet Radio</display-name></channel>
 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="1"><title lang="vi">VTV1 HD</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="2"><title lang="vi">VTV2 HD</title></programme> 
@@ -558,5 +570,17 @@
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="277"><title lang="vi">Yên Bái Radio</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="278"><title lang="vi">Đà Nẵng Radio</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="279"><title lang="vi">Đồng Tháp Radio</title></programme> 
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="280"><title lang="vi">Bà Rịa Vũng Tàu Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="280"><title lang="vi">Bà Rịa Vũng Tàu Radio</title></programme>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="281"><title lang="vi">Cherry Radio - NHẠC TRẺ</title></programme>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="282"><title lang="vi">Cherry Radio - NHẠC TRỮ TÌNH 24/7</title></programme>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="283"><title lang="vi">Chân Lý Á Châu</title></programme>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="284"><title lang="vi">Dallas Viet Radio</title></programme>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="285"><title lang="vi">KAZA Viên Thao Radio 1290 AM</title></programme>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="286"><title lang="vi">Nationwide Viet Radio</title></programme>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="287"><title lang="vi">Quran in Vietnamese</title></programme>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="288"><title lang="vi">RFI Tiếng Việt</title></programme>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="289"><title lang="vi">Radio Viet Nam Hai Ngoai</title></programme>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="290"><title lang="vi">Saigon Houston Radio</title></programme>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="291"><title lang="vi">Tiếng Nước Tôi Radio</title></programme>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="292"><title lang="vi">Vietnam Vet Radio</title></programme> 
 </tv>
