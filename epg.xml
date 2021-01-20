@@ -225,6 +225,60 @@
 <channel id="224"><display-name lang="vi">Quốc Phòng VN</display-name></channel>
 <channel id="225"><display-name lang="vi">Vnews - Thông tấn xã VN</display-name></channel>
 <channel id="226"><display-name lang="vi">VOV TV</display-name></channel>
+<channel id="227"><display-name lang="vi">Bình Phước Radio</display-name></channel>
+<channel id="228"><display-name lang="vi">Bình Thuận Radio</display-name></channel>
+<channel id="229"><display-name lang="vi">Bạc Liêu Radio</display-name></channel>
+<channel id="230"><display-name lang="vi">Bắc Giang Radio</display-name></channel>
+<channel id="231"><display-name lang="vi">Bến Tre Radio</display-name></channel>
+<channel id="232"><display-name lang="vi">Cà Mau Radio</display-name></channel>
+<channel id="233"><display-name lang="vi">Cần Thơ Radio</display-name></channel>
+<channel id="234"><display-name lang="vi">Gia Lai Radio</display-name></channel>
+<channel id="235"><display-name lang="vi">Hà Nội Radio 90MHz</display-name></channel>
+<channel id="236"><display-name lang="vi">Hà Nội Radio 96MHz</display-name></channel>
+<channel id="237"><display-name lang="vi">Hưng Yên Radio</display-name></channel>
+<channel id="238"><display-name lang="vi">Hải Phòng 1 Radio</display-name></channel>
+<channel id="239"><display-name lang="vi">Hải Phòng 2 Radio</display-name></channel>
+<channel id="240"><display-name lang="vi">Hậu Giang Radio</display-name></channel>
+<channel id="241"><display-name lang="vi">JoyFM 98.9MHz</display-name></channel>
+<channel id="242"><display-name lang="vi">Khánh Hòa Radio</display-name></channel>
+<channel id="243"><display-name lang="vi">Long An Radio</display-name></channel>
+<channel id="244"><display-name lang="vi">Lâm Đồng Radio</display-name></channel>
+<channel id="245"><display-name lang="vi">Nghệ An Radio</display-name></channel>
+<channel id="246"><display-name lang="vi">Ninh Bình Radio</display-name></channel>
+<channel id="247"><display-name lang="vi">Phú Yên Radio</display-name></channel>
+<channel id="248"><display-name lang="vi">Quảng Nam Radio</display-name></channel>
+<channel id="249"><display-name lang="vi">Quảng Ngãi Radio</display-name></channel>
+<channel id="250"><display-name lang="vi">Quảng Ninh 1 Radio</display-name></channel>
+<channel id="251"><display-name lang="vi">Quảng Ninh 2 Radio</display-name></channel>
+<channel id="252"><display-name lang="vi">Sóc Trăng Radio</display-name></channel>
+<channel id="253"><display-name lang="vi">Sơn La Radio</display-name></channel>
+<channel id="254"><display-name lang="vi">Thái Bình Radio</display-name></channel>
+<channel id="255"><display-name lang="vi">Thừa Thiên Huế Radio</display-name></channel>
+<channel id="256"><display-name lang="vi">Tiền Giang Radio</display-name></channel>
+<channel id="257"><display-name lang="vi">Tuyên Quang Radio</display-name></channel>
+<channel id="258"><display-name lang="vi">Tây Ninh Radio</display-name></channel>
+<channel id="259"><display-name lang="vi">VOH AM 610kHz</display-name></channel>
+<channel id="260"><display-name lang="vi">VOH FM 87.7MHz</display-name></channel>
+<channel id="261"><display-name lang="vi">VOH FM 95.6MHz</display-name></channel>
+<channel id="262"><display-name lang="vi">VOH FM 99.9MHz</display-name></channel>
+<channel id="263"><display-name lang="vi">VOV1 AM 675kHz</display-name></channel>
+<channel id="264"><display-name lang="vi">VOV2 FM 102.7MHz</display-name></channel>
+<channel id="265"><display-name lang="vi">VOV3 FM 104.5MHz</display-name></channel>
+<channel id="266"><display-name lang="vi">VOV4 DBSCL</display-name></channel>
+<channel id="267"><display-name lang="vi">VOV4 Miền Trung</display-name></channel>
+<channel id="268"><display-name lang="vi">VOV4 Tây Bắc</display-name></channel>
+<channel id="269"><display-name lang="vi">VOV5 English 24/7</display-name></channel>
+<channel id="270"><display-name lang="vi">VOV5 FM 105.5MHz</display-name></channel>
+<channel id="271"><display-name lang="vi">VOV6</display-name></channel>
+<channel id="272"><display-name lang="vi">VOV FM89</display-name></channel>
+<channel id="273"><display-name lang="vi">VOV GT HCM</display-name></channel>
+<channel id="274"><display-name lang="vi">VOV GT HN</display-name></channel>
+<channel id="275"><display-name lang="vi">VOV Mekong FM 90MHz</display-name></channel>
+<channel id="276"><display-name lang="vi">Vĩnh Long Radio</display-name></channel>
+<channel id="277"><display-name lang="vi">Yên Bái Radio</display-name></channel>
+<channel id="278"><display-name lang="vi">Đà Nẵng Radio</display-name></channel>
+<channel id="279"><display-name lang="vi">Đồng Tháp Radio</display-name></channel>
+<channel id="280"><display-name lang="vi">Bà Rịa Vũng Tàu Radio</display-name></channel>
 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="1"><title lang="vi">VTV1 HD</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="2"><title lang="vi">VTV2 HD</title></programme> 
@@ -451,4 +505,58 @@
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="224"><title lang="vi">Quốc Phòng VN</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="225"><title lang="vi">Vnews - Thông tấn xã VN</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="226"><title lang="vi">VOV TV</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="227"><title lang="vi">Bình Phước Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="228"><title lang="vi">Bình Thuận Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="229"><title lang="vi">Bạc Liêu Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="230"><title lang="vi">Bắc Giang Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="231"><title lang="vi">Bến Tre Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="232"><title lang="vi">Cà Mau Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="233"><title lang="vi">Cần Thơ Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="234"><title lang="vi">Gia Lai Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="235"><title lang="vi">Hà Nội Radio 90MHz</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="236"><title lang="vi">Hà Nội Radio 96MHz</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="237"><title lang="vi">Hưng Yên Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="238"><title lang="vi">Hải Phòng 1 Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="239"><title lang="vi">Hải Phòng 2 Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="240"><title lang="vi">Hậu Giang Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="241"><title lang="vi">JoyFM 98.9MHz</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="242"><title lang="vi">Khánh Hòa Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="243"><title lang="vi">Long An Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="244"><title lang="vi">Lâm Đồng Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="245"><title lang="vi">Nghệ An Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="246"><title lang="vi">Ninh Bình Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="247"><title lang="vi">Phú Yên Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="248"><title lang="vi">Quảng Nam Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="249"><title lang="vi">Quảng Ngãi Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="250"><title lang="vi">Quảng Ninh 1 Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="251"><title lang="vi">Quảng Ninh 2 Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="252"><title lang="vi">Sóc Trăng Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="253"><title lang="vi">Sơn La Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="254"><title lang="vi">Thái Bình Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="255"><title lang="vi">Thừa Thiên Huế Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="256"><title lang="vi">Tiền Giang Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="257"><title lang="vi">Tuyên Quang Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="258"><title lang="vi">Tây Ninh Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="259"><title lang="vi">VOH AM 610kHz</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="260"><title lang="vi">VOH FM 87.7MHz</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="261"><title lang="vi">VOH FM 95.6MHz</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="262"><title lang="vi">VOH FM 99.9MHz</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="263"><title lang="vi">VOV1 AM 675kHz</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="264"><title lang="vi">VOV2 FM 102.7MHz</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="265"><title lang="vi">VOV3 FM 104.5MHz</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="266"><title lang="vi">VOV4 DBSCL</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="267"><title lang="vi">VOV4 Miền Trung</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="268"><title lang="vi">VOV4 Tây Bắc</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="269"><title lang="vi">VOV5 English 24/7</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="270"><title lang="vi">VOV5 FM 105.5MHz</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="271"><title lang="vi">VOV6</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="272"><title lang="vi">VOV FM89</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="273"><title lang="vi">VOV GT HCM</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="274"><title lang="vi">VOV GT HN</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="275"><title lang="vi">VOV Mekong FM 90MHz</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="276"><title lang="vi">Vĩnh Long Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="277"><title lang="vi">Yên Bái Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="278"><title lang="vi">Đà Nẵng Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="279"><title lang="vi">Đồng Tháp Radio</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="280"><title lang="vi">Bà Rịa Vũng Tàu Radio</title></programme> 
 </tv>
