@@ -14,7 +14,7 @@
 <channel id="12"><display-name lang="vi">HTV1</display-name></channel>
 <channel id="13"><display-name lang="vi">HTV2 HD</display-name></channel>
 <channel id="14"><display-name lang="vi">HTV3</display-name></channel>
-<channel id="15"><display-name lang="vi">HTV4</display-name></channel>
+<channel id="15"><display-name lang="vi">HTV Key</display-name></channel>
 <channel id="16"><display-name lang="vi">HTV7 HD</display-name></channel>
 <channel id="17"><display-name lang="vi">HTV9 HD</display-name></channel>
 <channel id="18"><display-name lang="vi">HTV Co.op</display-name></channel>
@@ -306,7 +306,7 @@
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="12"><title lang="vi">HTV1</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="13"><title lang="vi">HTV2 HD</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="14"><title lang="vi">HTV3</title></programme> 
-<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="15"><title lang="vi">HTV4</title></programme> 
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="15"><title lang="vi">HTV Key</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="16"><title lang="vi">HTV7 HD</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="17"><title lang="vi">HTV9 HD</title></programme> 
 <programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="18"><title lang="vi">HTV Co.op</title></programme> 
