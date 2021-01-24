@@ -83,6 +83,36 @@ http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt", VOV TV
 https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 
+#EXTINF:-1 group-title="Hải Ngoại",USV Television
+https://fr-1.galaxyott.com/viettv24/streamer/vatv/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",KDHL Television
+https://fr-1.galaxyott.com/viettv24/streamer/ttt/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",VNA TV
+https://fr-1.galaxyott.com/viettv24/streamer/vnatv/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",Viet Golbal Mall TV
+https://fr-1.galaxyott.com/viettv24/streamer/vgmtv/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",Little Saigon TV
+https://api.new.livestream.com/accounts/21388423/events/7992704/live.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",VietLife TV (VBolero)
+https://fr-1.galaxyott.com/viettv24/streamer/vbolero/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",LURACO TV
+https://fr-1.galaxyott.com/viettv24/streamer/luraco/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",SET
+https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",SET2
+https://5dcab9aed5331.streamlock.net/SET2/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",VIET MEDIA TV
+https://fr-1.galaxyott.com/viettv24/streamer/vietmediatv/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",VMUSIC
+https://ca-1.galaxyott.com/rtmp/hls/vmusic.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",VPOP TV
+https://fr-1.galaxyott.com/viettv24/streamer/vpoptv/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",VO MON THIEN TU
+https://fr-1.galaxyott.com/viettv24/streamer/vmtt/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",SAN KHAU
+https://fr-1.galaxyott.com/viettv24/streamer/cailuong/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",Combat Go
+https://cinedigm.vo.llnwd.net/combatgo/CombatGo/ngrp:Stream_all/playlist.m3u8
 
 #EXTINF:-1 group-title="OneTV KH", One news 
 http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
