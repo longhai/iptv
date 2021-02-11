@@ -113,6 +113,12 @@ https://fr-1.galaxyott.com/viettv24/streamer/vmtt/playlist.m3u8
 https://fr-1.galaxyott.com/viettv24/streamer/cailuong/playlist.m3u8
 #EXTINF:-1 group-title="Hải Ngoại",Combat Go
 https://cinedigm.vo.llnwd.net/combatgo/CombatGo/ngrp:Stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",Việt Mỹ TV
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+#EXTINF:-1 group-title="Hải Ngoại",VBS TELEVISION Channel 57.6
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+
+
 
 #EXTINF:-1 group-title="OneTV KH", One news 
 http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
