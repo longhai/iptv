@@ -122,7 +122,8 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1122696227
 #EXTINF:-1 group-title="K+",K+PM 
 http://thatslife.cf/stream/channelid/830135101?ticket=4BA866401D57F30F1B0D9BF84C7CA83BB4189CE8&profile=pass
-
+#EXTINF:-1 group-title="VTVcab",VTVcab3 - Thể thao TV
+http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 group-title="VTVcab",VTVcab3 - Thể thao TV
 http://thatslife.cf/stream/channelid/2003821428?ticket=D7266C9B0F53EA127704D4DD52D79DE7938209AD&profile=pass
 #EXTINF:-1 group-title="VTVcab",VTVcab16 - Bóng đá TV
