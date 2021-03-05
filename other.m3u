@@ -312,9 +312,9 @@ http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-101/playlist.m3u8
 #EXTINF:-1 group-title="OneTV KH", Quốc hội 
 http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
-#EXTINF:-1 group-title="OneTV KH", QTV 1 HD 
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 1 - QTV1 HD 
 http://36.37.252.114:888/Apple/OneTV-107/playlist.m3u8
-#EXTINF:-1 group-title="OneTV KH", QTV 3 HD 
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 3 - QTV3 HD 
 http://36.37.252.114:888/Apple/OneTV-108/playlist.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt", Nhân Dân HD
 http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
@@ -322,7 +322,7 @@ http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 - THVL1 HD 
 http://36.37.252.114:888/Apple/OneTV-111/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 - THVL2 HD 
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 2 - THVL2 HD 
 http://36.37.252.114:888/Apple/OneTV-112/playlist.m3u8
 #EXTINF:-1 group-title="OneTV KH", VTC Digital 
 http://36.37.252.114:888/Apple/OneTV-113/playlist.m3u8
