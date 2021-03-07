@@ -83,6 +83,11 @@ http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt", VOV TV
 https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 
+#EXTINF:-1 group-title="Quốc Tế", HBO Việt
+http://www.xemtivimienphi.com/free/linkcab-1.php?id=hbo
+#EXTINF:-1 group-title="Quốc Tế", Cinemax Việt
+http://www.xemtivimienphi.com/free/linkcab-1.php?id=max
+
 #EXTINF:-1 group-title="Hải Ngoại",USV Television
 https://fr-1.galaxyott.com/viettv24/streamer/vatv/playlist.m3u8
 #EXTINF:-1 group-title="Hải Ngoại",KDHL Television
