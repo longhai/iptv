@@ -83,11 +83,6 @@ http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt", VOV TV
 https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 
-#EXTINF:-1 group-title="Quốc Tế", HBO Việt
-http://www.xemtivimienphi.com/free/linkcab-1.php?id=hbo
-#EXTINF:-1 group-title="Quốc Tế", Cinemax Việt
-http://www.xemtivimienphi.com/free/linkcab-1.php?id=max
-
 #EXTINF:-1 group-title="Hải Ngoại",USV Television
 https://fr-1.galaxyott.com/viettv24/streamer/vatv/playlist.m3u8
 #EXTINF:-1 group-title="Hải Ngoại",KDHL Television
@@ -123,16 +118,28 @@ http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 #EXTINF:-1 group-title="Hải Ngoại",VBS TELEVISION Channel 57.6
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
 
-#EXTINF:-1 group-title="K+",K+PM 
-http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1122696227
-#EXTINF:-1 group-title="K+",K+PM 
-http://thatslife.cf/stream/channelid/830135101?ticket=4BA866401D57F30F1B0D9BF84C7CA83BB4189CE8&profile=pass
-#EXTINF:-1 group-title="VTVcab",VTVcab3 - Thể thao TV
+#EXTINF:-1 group-title="VTVcab",VTVcab1 - Vie Giải Trí
+http://s3.nihontv.net:21585/vtvcab1/index.m3u8
+#EXTINF:-1 group-title="VTVcab",VTVcab2 - Phim Việt
+http://s3.nihontv.net:21585/vtvcab2/index.m3u8
+#EXTINF:-1 group-title="VTVcab",VTVcab3 - Thể Thao TV
 http://s4.nihontv.net:21585/vtvcab3/index.m3u8
-#EXTINF:-1 group-title="VTVcab",VTVcab3 - Thể thao TV
-http://thatslife.cf/stream/channelid/2003821428?ticket=D7266C9B0F53EA127704D4DD52D79DE7938209AD&profile=pass
-#EXTINF:-1 group-title="VTVcab",VTVcab16 - Bóng đá TV
-http://thatslife.cf/stream/channelid/487123997?ticket=D339D8F5368295545B5790B333F58545AA79306E&profile=pass
+#EXTINF:-1 group-title="VTVcab",VTVcab5 - E Channel
+http://s3.nihontv.net:21585/vtvcab5/index.m3u8
+#EXTINF:-1 group-title="VTVcab",VTVcab8 - BiBi
+http://s3.nihontv.net:21585/vtvcab8/index.m3u8
+#EXTINF:-1 group-title="VTVcab",VTVcab10 - Vie Dramas
+http://s3.nihontv.net:21585/vtvcab7/index.m3u8
+#EXTINF:-1 group-title="Quốc Tế",AXN HD
+http://s4.nihontv.net:21585/axn/index.m3u8
+#EXTINF:-1 group-title="Quốc Tế",Cartoon Network HD
+http://s4.nihontv.net:21585/cartoon/index.m3u8
+#EXTINF:-1 group-title="Quốc Tế",DW
+http://s4.nihontv.net:21585/dw/index.m3u8
+#EXTINF:-1 group-title="Quốc Tế", HBO
+http://s4.nihontv.net:21585/hbo/index.m3u8
+#EXTINF:-1 group-title="Quốc Tế",TV5 Monde Asie
+http://s4.nihontv.net:21585/tv5/index.m3u8
 
 
 #EXTINF:-1 group-title="OneTV KH", One news 
