@@ -237,6 +237,8 @@ https://livecdn.fptplay.net/sdc/dongthap_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Animal Plannet HD
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Tế", Animax
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Arirang
 https://livecdn.fptplay.net/world/arirang_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Asian Food Channel HD
@@ -262,6 +264,8 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Cartoon Network HD
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Tế", CBeebies
+https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Channel Newsasia HD
 https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Channel V HD
