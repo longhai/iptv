@@ -241,7 +241,7 @@ http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 group-title="OneTV KH", France 24 
 http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 - THVL1 HD
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long1 HD - THVL1 HD | 1080
 http://36.37.252.114:888/Apple/OneTV-046/playlist.m3u8
 #EXTINF:-1 group-title="OneTV KH", Euro news 
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
@@ -341,9 +341,9 @@ http://36.37.252.114:888/Apple/OneTV-108/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt", VNEWS - Thông tấn xã VN HD
 http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 - THVL1 HD 
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long1 HD - THVL1 HD | 1080
 http://36.37.252.114:888/Apple/OneTV-111/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 2 - THVL2 HD 
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long2 HD - THVL2 HD | 1080 
 http://36.37.252.114:888/Apple/OneTV-112/playlist.m3u8
 #EXTINF:-1 group-title="OneTV KH", VTC Digital 
 http://36.37.252.114:888/Apple/OneTV-113/playlist.m3u8
