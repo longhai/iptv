@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w790821707.m3u8
 #EXTINF:-1 group-title="Địa Phương", Đồng Tháp 2 - THĐT2
-http://202.43.109.142:1935/THDT/thdttv/chunklist_w790821707.m3u8
+http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1145886786.m3u8
 #EXTINF:-1 group-title="Địa Phương", Sóc Trăng - STV
 http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Địa Phương", Sóc Trăng 2 - STV2
