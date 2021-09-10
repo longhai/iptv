@@ -273,6 +273,7 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Cinemaworld
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Cinemax HD
+https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Clubbing
 #EXTINF:-1 group-title="Quốc Tế", CNN HD
 https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/playlist.m3u8
@@ -305,6 +306,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", France24
 https://livecdn.fptplay.net/world/france24_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", HBO HD
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", KIX HD
