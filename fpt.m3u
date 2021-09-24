@@ -40,12 +40,16 @@ https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Phim HD
 https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Phụ Nữ
-https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/hda/htvcphunu_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Shopping
 #EXTINF:-1 group-title="HTV", HTVC Thuần Việt
 https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Thuần Việt HD
 https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="HTV", HTVC Plus SD
+https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="HTV", HTVC Ca Nhạc SD
+http://livecdn.fptplay.net/sdb/htvcmusic_hls.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="VTC", VTC1 HD
