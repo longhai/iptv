@@ -22,19 +22,17 @@ https://livecdn.fptplay.net/hda2/vtv9_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV2 HD - Vie Channel
-https://livecdn.fptplay.net/hda/htv2hd_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV3
-https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV7 HD
-https://livecdn.fptplay.net/hda/htv7hd_hls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV9 HD
-https://livecdn.fptplay.net/hda/htv9hd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV", HTV Co.op
-https://livecdn.fptplay.net/sda/htvcoop_hls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV Thể Thao
-https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Du Lịch
 https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Gia Đình HD
