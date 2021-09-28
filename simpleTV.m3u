@@ -488,5 +488,85 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QUOCHOI-SD-ABR/HTV-ABR/QUOCHOI-SD
 #EXTINF:-1 group-title="Chuyên Biệt",Quốc Phòng VN
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="VTV", VTV1 HD
+https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
+#EXTINF:-1 group-title="VTV", VTV2 HD
+https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html
+#EXTINF:-1 group-title="VTV", VTV3 HD
+https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
+#EXTINF:-1 group-title="VTV", VTV4 HD
+https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html
+#EXTINF:-1 group-title="VTV", VTV5 HD
+https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
+#EXTINF:-1 group-title="VTV", VTV5 HD Tây Nam Bộ
+https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-tây-nam-bộ-7.html
+#EXTINF:-1 group-title="VTV", VTV5 HD Tây Nguyên
+https://vtvgo.vn/xem-truc-tuyen-kenh-kênh-vtv5-tây-nguyên-163.html
+#EXTINF:-1 group-title="VTV", VTV6 HD
+https://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html
+#EXTINF:-1 group-title="VTV", VTV7 HD
+https://vtvgo.vn/xem-truc-tuyen-kenh-vtv7-27.html
+#EXTINF:-1 group-title="VTV", VTV8 HD
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-vtv8-36.html
+#EXTINF:-1 group-title="VTV", VTV9 HD
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-vtv9-39.html
+#EXTINF:-1 group-title="VTVcab", VTVcab6 - Hay TV
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-vtvcab6-HD-196.html
+#EXTINF:-1 group-title="VTVcab", VTVcab17 - Yeah1TV
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-vtvcab17-HD-195.html
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 1 - BTV1
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-binh-duong-1-HD-179.html
+#EXTINF:-1 group-title="Địa Phương", Bình Phước 1 - BPTV1
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-binh-phuoc-HD-145.html
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 1 - HanoiTV1
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-ha-noi-1-HD-91.html
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 2 - HanoiTV2
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-ha-noi-2-HD-93.html
+#EXTINF:-1 group-title="Địa Phương", Hưng Yên - HYTV
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-hung-yen-185.html
+#EXTINF:-1 group-title="Địa Phương", Hải Dương - HDTV
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-hai-duong-HD-143.html
+#EXTINF:-1 group-title="Địa Phương", Hải Phòng - THP
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-hai-phong-HD-135.html
+#EXTINF:-1 group-title="Địa Phương", Hậu Giang - HGTV
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-hau-giang-HD-117.html
+#EXTINF:-1 group-title="Địa Phương", Khánh Hòa - KTV
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-khanh-hoa-HD-125.html
+#EXTINF:-1 group-title="Địa Phương", Lạng Sơn - LSTV
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-lang-son-HD-137.html
+#EXTINF:-1 group-title="Địa Phương", Nghệ An - NTV
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-nghe-an-HD-121.html
+#EXTINF:-1 group-title="Địa Phương", Ninh Bình - NBTV
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-ninh-binh-HD-183.html
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 1 - QTV1
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-quang-ninh-1-HD-119.html
+#EXTINF:-1 group-title="Địa Phương", Thanh Hóa - TTV
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-thanh-hoa-HD-181.html
+#EXTINF:-1 group-title="Địa Phương", Thái Bình - TBTV
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-thai-binh-HD-129.html
+#EXTINF:-1 group-title="Địa Phương", Thừa Thiến Huế - TRT
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-thua-thien-hue-HD-127.html
+#EXTINF:-1 group-title="Địa Phương", Tiền Giang - THTG
+https://vtvgo.vn/xem-truc-tuyen-kenh-tien-giang-HD-121.html
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 - THVL1
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-vinh-long-HD-131.html
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Phúc - VP
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-vinh-phuc-HD-147.html
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 1 - DaNangTV1
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-da-nang-1-HD-175.html
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 2 - DaNangTV2
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-da-nang-2-HD-177.html
+#EXTINF:-1 group-title="Địa Phương", Đồng Nai 1 - ĐNR1
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-dong-nai-1-HD-113.html
+#EXTINF:-1 group-title="Địa Phương", Đồng Nai 2 - ĐNR2
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-dong-nai-2-HD-115.html
+#EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-dong-thap-1-HD-133.html
+#EXTINF:-1 group-title="Chuyên Biệt", An Ninh HD
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-antv-HD-89.html
+#EXTINF:-1 group-title="Chuyên Biệt", Nhân Dân
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-nhan-dan-HD-95.html
+#EXTINF:-1 group-title="Chuyên Biệt", Quốc Phòng VN
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-qpvn-HD-103.html
+#EXTINF:-1 group-title="Chuyên Biệt", Vnews - Thông tấn xã VN
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-ttxvn-HD-97.html
