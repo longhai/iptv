@@ -725,6 +725,16 @@ https://live-vthcm.vieon.vn/htv_drm/live/thvl4/TV_HD/thvl4_1080p/chunks.m3u8
 https://live-vthcm.vieon.vn/htv_drm/live/vinh_phuc/TV_HD/vinh_phuc_480p/chunks.m3u8
 #EXTINF:-1 group-title="Quốc Tế",KBS World
 https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_HD/kbs_world_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Chuyên Biệt", An Ninh HD
+https://live-vthcm.vieon.vn/htv_drm/live/antv/TV_HD/antv_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Chuyên Biệt", Quốc Hội
+https://live-vthcm.vieon.vn/htv_drm/live/quoc_hoi/TV_HD/quoc_hoi_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Chuyên Biệt", Quốc Phòng VN
+https://live-vthcm.vieon.vn/htv_drm/live/qpvn/TV_HD/qpvn_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Chuyên Biệt", Nhân Dân
+https://live-vthcm.vieon.vn/htv_drm/live/nhan_dan/TV_HD/nhan_dan_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Chuyên Biệt", VNEWS - Thông tấn xã VN
+https://live-vthcm.vieon.vn/htv_drm/live/ttxvn/TV_HD/ttxvn_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w790821707.m3u8
