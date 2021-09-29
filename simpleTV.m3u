@@ -609,13 +609,13 @@ http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an
 #EXTINF:-1 group-title="Chuyên Biệt", Vnews - Thông tấn xã VN
 http://vn.tvnet.gov.vn/kenh-truyen-hinh/1019/ttxvn
 
-#EXTINF:-1 group-title="HTV",HTV1 ⁴⁸⁰ᵖ
+#EXTINF:-1 group-title="HTV",HTV1
 https://live-vthcm.vieon.vn/htv_drm/live/htv1/TV_HD/htv1_480p/chunks.m3u8
 #EXTINF:-1 group-title="HTV",HTV2 ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/viechannel/TV_HD/viechannel_1080p/chunks.m3u8
-#EXTINF:-1 group-title="HTV",HTV3 ⁴⁸⁰ᵖ
+#EXTINF:-1 group-title="HTV",HTV3
 https://live-vthcm.vieon.vn/htv_drm/live/htv3/TV_HD/htv3_480p/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTV Key ⁴⁸⁰ᵖ
+#EXTINF:-1 group-title="HTV",HTV Key
 https://live-vthcm.vieon.vn/htv_drm/live/htv_key/TV_HD/htv_key_480p/chunks.m3u8
 #EXTINF:-1 group-title="HTV",HTV7 ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8
@@ -623,7 +623,7 @@ https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8
 https://live-vthcm.vieon.vn/htv_drm/live/htv9/TV_HD/htv9_1080p/chunks.m3u8
 #EXTINF:-1 group-title="HTV",HTV Thể Thao ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTV Co.op ⁴⁸⁰ᵖ
+#EXTINF:-1 group-title="HTV",HTV Co.op
 https://live-vthcm.vieon.vn/htv_drm/live/htv_coop/TV_HD/htv_coop_480p/chunks.m3u8
 #EXTINF:-1 group-title="HTV",HTVC Ca Nhạc ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/htvc_ca_nhac/TV_HD/htvc_ca_nhac_1080p/chunks.m3u8
@@ -637,11 +637,11 @@ https://live-vthcm.vieon.vn/htv_drm/live/htvc_gia_dinh/TV_HD/htvc_gia_dinh_1080p
 https://live-vthcm.vieon.vn/htv_drm/live/htvc_phim/TV_HD/htvc_phim_1080p/chunks.m3u8
 #EXTINF:-1 group-title="HTV",HTVC Phụ Nữ ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/htvc_phu_nu/TV_HD/htvc_phu_nu_1080p/chunks.m3u8
-#EXTINF:-1 group-title="HTV",HTVC Thuần Việt ⁴⁸⁰ᵖ
+#EXTINF:-1 group-title="HTV",HTVC Thuần Việt
 https://live-vthcm.vieon.vn/htv_drm/live/htvc_thuan_viet_sd/TV_HD/htvc_thuan_viet_sd_480p/chunks.m3u8
 #EXTINF:-1 group-title="HTV",HTVC Thuần Việt HD ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/htvc_thuan_viet/TV_HD/htvc_thuan_viet_1080p/chunks.m3u8
-#EXTINF:-1 group-title="HTV",HTVC VGS Shopping ⁴⁸⁰ᵖ
+#EXTINF:-1 group-title="HTV",HTVC VGS Shopping
 https://live-vthcm.vieon.vn/htv_drm/live/htvc_mua_sam_tieu_dung/TV_HD/htvc_mua_sam_tieu_dung_480p/chunks.m3u8
 #EXTINF:-1 group-title="HTV",HTVC Plus ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/htvc/TV_HD/htvc_1080p/chunks.m3u8
