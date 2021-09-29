@@ -411,7 +411,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương",Bình Dương 1 - BTV1
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BINHDUONG1-SD-ABR/HTV-ABR/BINHDUONG1-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương",Đồng Nai 1 - ĐNRTV1
+#EXTINF:-1 group-title="Địa Phương",Đồng Nai 1 - ĐNR1
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương",Tây Ninh - TTV11
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TAYNINH-SD-ABR/HTV-ABR/TAYNINH-SD-720p/playlist.m3u8
@@ -609,14 +609,122 @@ http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an
 #EXTINF:-1 group-title="Chuyên Biệt", Vnews - Thông tấn xã VN
 http://vn.tvnet.gov.vn/kenh-truyen-hinh/1019/ttxvn
 
-#EXTINF:-1 group-title="HTV",HTV3
+#EXTINF:-1 group-title="HTV",HTV1 ⁴⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htv1/TV_HD/htv1_480p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTV2 ¹⁰⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/viechannel/TV_HD/viechannel_1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTV3 ⁴⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/htv3/TV_HD/htv3_480p/playlist.m3u8
+#EXTINF:-1 group-title="HTV",HTV Key ⁴⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htv_key/TV_HD/htv_key_480p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTV7 ¹⁰⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTV9 ¹⁰⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htv9/TV_HD/htv9_1080p/chunks.m3u8
 #EXTINF:-1 group-title="HTV",HTV Thể Thao ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3Dq01b/DONGNAI-BEARTV.png" group-title="Địa Phương",Đồng Nai 3
-https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_3/TV_HD/dong_nai_3_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J5sWWVp.png" group-title="Địa Phương",Đắk Nông
-https://live-vthcm.vieon.vn/htv_drm/live/dak_nong/TV_HD/dak_nong_480p/playlist.m3u8
+#EXTINF:-1 group-title="HTV",HTV Co.op ⁴⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htv_coop/TV_HD/htv_coop_480p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTVC Ca Nhạc ¹⁰⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_ca_nhac/TV_HD/htvc_ca_nhac_1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTVC Du Lịch ¹⁰⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_du_lich_cuoc_song/TV_HD/htvc_du_lich_cuoc_song_1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTVC FBNC ¹⁰⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_fbnc/TV_HD/htvc_fbnc_1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTVC Gia Đình ¹⁰⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_gia_dinh/TV_HD/htvc_gia_dinh_1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTVC Phim ¹⁰⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_phim/TV_HD/htvc_phim_1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTVC Phụ Nữ ¹⁰⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_phu_nu/TV_HD/htvc_phu_nu_1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTVC Thuần Việt ⁴⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_thuan_viet_sd/TV_HD/htvc_thuan_viet_sd_480p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTVC Thuần Việt HD ¹⁰⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_thuan_viet/TV_HD/htvc_thuan_viet_1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTVC VGS Shopping ⁴⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_mua_sam_tieu_dung/TV_HD/htvc_mua_sam_tieu_dung_480p/chunks.m3u8
+#EXTINF:-1 group-title="HTV",HTVC Plus ¹⁰⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htvc/TV_HD/htvc_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Hà Nội 1 - HaNoiTV1
+https://live-vthcm.vieon.vn/htv_drm/live/ha_noi1/TV_HD/ha_noi1_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",An Giang - ATV
+https://live-vthcm.vieon.vn/htv_drm/live/an_giang/TV_HD/an_giang_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bà Rịa Vũng Tàu - BRT
+https://live-vthcm.vieon.vn/htv_drm/live/ba_ria_vung_tau/TV_HD/ba_ria_vung_tau_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bạc Liêu - BLTV
+https://live-vthcm.vieon.vn/htv_drm/live/bac_lieu/TV_HD/bac_lieu_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bắc Giang - BGTV
+https://live-vthcm.vieon.vn/htv_drm/live/bac_giang/TV_HD/bac_giang_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bến Tre - THBT
+https://live-vthcm.vieon.vn/htv_drm/live/ben_tre/TV_HD/ben_tre_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bình Dương 1 - BTV1
+https://live-vthcm.vieon.vn/htv_drm/live/binh_duong_1/TV_HD/binh_duong_1_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bình Dương 2 - BTV2
+https://live-vthcm.vieon.vn/htv_drm/live/binh_duong_2/TV_HD/binh_duong_2_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bình Dương 4 - BTV4
+https://live-vthcm.vieon.vn/htv_drm/live/binh_duong_4/TV_HD/binh_duong_4_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bình Dương 11 - BTV11
+https://live-vthcm.vieon.vn/htv_drm/live/btv11/TV_HD/btv11_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bình Định - BTV
+https://live-vthcm.vieon.vn/htv_drm/live/binh_dinh/TV_HD/binh_dinh_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bình Phước 1 - BPTV1
+https://live-vthcm.vieon.vn/htv_drm/live/binh_phuoc/TV_HD/binh_phuoc_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bình Phước 2 - BPTV2
+https://live-vthcm.vieon.vn/htv_drm/live/binh_phuoc_2/TV_HD/binh_phuoc_2_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Bình Thuận - BTV
+https://live-vthcm.vieon.vn/htv_drm/live/binh_thuan/TV_HD/binh_thuan_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Cần Thơ - THTPCT
+https://live-vthcm.vieon.vn/htv_drm/live/can_tho/TV_HD/can_tho_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Đà Nẵng 1 - DaNangTV1
+https://live-vthcm.vieon.vn/htv_drm/live/da_nang_1/TV_HD/da_nang_1_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Đà Nẵng 2 - DaNangTV2
+https://live-vthcm.vieon.vn/htv_drm/live/da_nang_2/TV_HD/da_nang_2_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Đắk Lắk - DRT
+https://live-vthcm.vieon.vn/htv_drm/live/dak_lak/TV_HD/dak_lak_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Đắk Nông
+https://live-vthcm.vieon.vn/htv_drm/live/dak_nong/TV_HD/dak_nong_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Đồng Nai 1 - ĐNR1
+https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_1/TV_HD/dong_nai_1_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Đồng Nai 2 - ĐNR2
+https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_2/TV_HD/dong_nai_2_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Đồng Nai 3 - ĐNR3
+https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_3/TV_HD/dong_nai_3_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Hà Nam - THHN
+https://live-vthcm.vieon.vn/htv_drm/live/ha_nam/TV_HD/ha_nam_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Hà Tĩnh - HTTV
+https://live-vthcm.vieon.vn/htv_drm/live/ha_tinh/TV_HD/ha_tinh_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Khánh Hòa - KTV
+https://live-vthcm.vieon.vn/htv_drm/live/khanh_hoa/TV_HD/khanh_hoa_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Lạng Sơn - LSTV
+https://live-vthcm.vieon.vn/htv_drm/live/lang_son/TV_HD/lang_son_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Lâm Đồng - LTV
+https://live-vthcm.vieon.vn/htv_drm/live/lam_dong/TV_HD/lam_dong_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Long An - LA34
+https://live-vthcm.vieon.vn/htv_drm/live/long_an/TV_HD/long_an_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Nghệ An - NTV
+https://live-vthcm.vieon.vn/htv_drm/live/nghe_an/TV_HD/nghe_an_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Quảng Nam - QRT
+https://live-vthcm.vieon.vn/htv_drm/live/quang_nam/TV_HD/quang_nam_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Tây Ninh - TTV11
+https://live-vthcm.vieon.vn/htv_drm/live/tay_ninh/TV_HD/tay_ninh_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Thừa Thiên Huế - TRT
+https://live-vthcm.vieon.vn/htv_drm/live/thua_thien_hue/TV_HD/thua_thien_hue_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Tiền Giang - THTG
+https://live-vthcm.vieon.vn/htv_drm/live/tien_giang/TV_HD/tien_giang_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Trà Vinh - THTV
+https://live-vthcm.vieon.vn/htv_drm/live/tra_vinh/TV_HD/tra_vinh_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Long 1 - THVL1
+https://live-vthcm.vieon.vn/htv_drm/live/thvl1/TV_HD/thvl1_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Long 2 - THVL2
+https://live-vthcm.vieon.vn/htv_drm/live/thvl2/TV_HD/thvl2_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Long 3 - THVL3
+https://live-vthcm.vieon.vn/htv_drm/live/thvl3/TV_HD/thvl3_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Long 4 - THVL4
+https://live-vthcm.vieon.vn/htv_drm/live/thvl4/TV_HD/thvl4_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Phúc - VP
+https://live-vthcm.vieon.vn/htv_drm/live/vinh_phuc/TV_HD/vinh_phuc_480p/chunks.m3u8
+#EXTINF:-1 group-title="Quốc Tế",KBS World
+https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_HD/kbs_world_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w790821707.m3u8
