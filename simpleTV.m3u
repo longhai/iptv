@@ -653,7 +653,7 @@ https://live-vthcm.vieon.vn/htv_drm/live/an_giang/TV_HD/an_giang_480p/chunks.m3u
 https://live-vthcm.vieon.vn/htv_drm/live/ba_ria_vung_tau/TV_HD/ba_ria_vung_tau_480p/chunks.m3u8
 #EXTINF:-1 group-title="Địa Phương",Bạc Liêu - BLTV
 https://live-vthcm.vieon.vn/htv_drm/live/bac_lieu/TV_HD/bac_lieu_480p/chunks.m3u8
-#EXTINF:-1 group-title="Địa Phương",Bắc Giang - BGTV
+#EXTINF:-1 group-title="Địa Phương",Bắc Giang - BGTV ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/bac_giang/TV_HD/bac_giang_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Địa Phương",Bến Tre - THBT
 https://live-vthcm.vieon.vn/htv_drm/live/ben_tre/TV_HD/ben_tre_480p/chunks.m3u8
@@ -661,7 +661,7 @@ https://live-vthcm.vieon.vn/htv_drm/live/ben_tre/TV_HD/ben_tre_480p/chunks.m3u8
 https://live-vthcm.vieon.vn/htv_drm/live/binh_duong_1/TV_HD/binh_duong_1_480p/chunks.m3u8
 #EXTINF:-1 group-title="Địa Phương",Bình Dương 2 - BTV2
 https://live-vthcm.vieon.vn/htv_drm/live/binh_duong_2/TV_HD/binh_duong_2_480p/chunks.m3u8
-#EXTINF:-1 group-title="Địa Phương",Bình Dương 4 - BTV4
+#EXTINF:-1 group-title="Địa Phương",Bình Dương 4 - BTV4 ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/binh_duong_4/TV_HD/binh_duong_4_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Địa Phương",Bình Dương 11 - BTV11
 https://live-vthcm.vieon.vn/htv_drm/live/btv11/TV_HD/btv11_480p/chunks.m3u8
@@ -705,7 +705,7 @@ https://live-vthcm.vieon.vn/htv_drm/live/long_an/TV_HD/long_an_480p/chunks.m3u8
 https://live-vthcm.vieon.vn/htv_drm/live/nghe_an/TV_HD/nghe_an_480p/chunks.m3u8
 #EXTINF:-1 group-title="Địa Phương",Quảng Nam - QRT
 https://live-vthcm.vieon.vn/htv_drm/live/quang_nam/TV_HD/quang_nam_480p/chunks.m3u8
-#EXTINF:-1 group-title="Địa Phương",Tây Ninh - TTV11
+#EXTINF:-1 group-title="Địa Phương",Tây Ninh - TTV11 ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/tay_ninh/TV_HD/tay_ninh_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Địa Phương",Thừa Thiên Huế - TRT
 https://live-vthcm.vieon.vn/htv_drm/live/thua_thien_hue/TV_HD/thua_thien_hue_480p/chunks.m3u8
@@ -713,27 +713,27 @@ https://live-vthcm.vieon.vn/htv_drm/live/thua_thien_hue/TV_HD/thua_thien_hue_480
 https://live-vthcm.vieon.vn/htv_drm/live/tien_giang/TV_HD/tien_giang_480p/chunks.m3u8
 #EXTINF:-1 group-title="Địa Phương",Trà Vinh - THTV
 https://live-vthcm.vieon.vn/htv_drm/live/tra_vinh/TV_HD/tra_vinh_480p/chunks.m3u8
-#EXTINF:-1 group-title="Địa Phương",Vĩnh Long 1 - THVL1
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Long 1 - THVL1 ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/thvl1/TV_HD/thvl1_1080p/chunks.m3u8
-#EXTINF:-1 group-title="Địa Phương",Vĩnh Long 2 - THVL2
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Long 2 - THVL2 ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/thvl2/TV_HD/thvl2_1080p/chunks.m3u8
-#EXTINF:-1 group-title="Địa Phương",Vĩnh Long 3 - THVL3
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Long 3 - THVL3 ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/thvl3/TV_HD/thvl3_1080p/chunks.m3u8
-#EXTINF:-1 group-title="Địa Phương",Vĩnh Long 4 - THVL4
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Long 4 - THVL4 ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/thvl4/TV_HD/thvl4_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Địa Phương",Vĩnh Phúc - VP
 https://live-vthcm.vieon.vn/htv_drm/live/vinh_phuc/TV_HD/vinh_phuc_480p/chunks.m3u8
-#EXTINF:-1 group-title="Quốc Tế",KBS World
+#EXTINF:-1 group-title="Quốc Tế",KBS World ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_HD/kbs_world_1080p/chunks.m3u8
-#EXTINF:-1 group-title="Chuyên Biệt", An Ninh HD
+#EXTINF:-1 group-title="Chuyên Biệt", An Ninh HD ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/antv/TV_HD/antv_1080p/chunks.m3u8
-#EXTINF:-1 group-title="Chuyên Biệt", Quốc Hội
+#EXTINF:-1 group-title="Chuyên Biệt", Quốc Hội ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/quoc_hoi/TV_HD/quoc_hoi_1080p/chunks.m3u8
-#EXTINF:-1 group-title="Chuyên Biệt", Quốc Phòng VN
+#EXTINF:-1 group-title="Chuyên Biệt", Quốc Phòng VN ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/qpvn/TV_HD/qpvn_1080p/chunks.m3u8
-#EXTINF:-1 group-title="Chuyên Biệt", Nhân Dân
+#EXTINF:-1 group-title="Chuyên Biệt", Nhân Dân ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/nhan_dan/TV_HD/nhan_dan_1080p/chunks.m3u8
-#EXTINF:-1 group-title="Chuyên Biệt", VNEWS - Thông tấn xã VN
+#EXTINF:-1 group-title="Chuyên Biệt", VNEWS - Thông tấn xã VN ¹⁰⁸⁰ᵖ
 https://live-vthcm.vieon.vn/htv_drm/live/ttxvn/TV_HD/ttxvn_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
