@@ -364,7 +364,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTV",HTV Co.op
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTV Thể Thao HD
+#EXTINF:-1 group-title="HTV",HTV Thể Thao
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTV",HTVC VGS Shopping
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
@@ -608,6 +608,15 @@ http://vn.tvnet.gov.vn/kenh-truyen-hinh/1055/thanh-hoa
 http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an
 #EXTINF:-1 group-title="Chuyên Biệt", Vnews - Thông tấn xã VN
 http://vn.tvnet.gov.vn/kenh-truyen-hinh/1019/ttxvn
+
+#EXTINF:-1 group-title="HTV",HTV3
+https://live-vthcm.vieon.vn/htv_drm/live/htv3/TV_HD/htv3_480p/playlist.m3u8
+#EXTINF:-1 group-title="HTV",HTV Thể Thao ¹⁰⁸⁰ᵖ
+https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3Dq01b/DONGNAI-BEARTV.png" group-title="Địa Phương",Đồng Nai 3
+https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_3/TV_HD/dong_nai_3_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5sWWVp.png" group-title="Địa Phương",Đắk Nông
+https://live-vthcm.vieon.vn/htv_drm/live/dak_nong/TV_HD/dak_nong_480p/playlist.m3u8
 
 #EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w790821707.m3u8
