@@ -19,7 +19,7 @@ http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
 #EXTINF:-1 group-title="VTV", VTV1 HD
-https://vips-livecdn.fptplay.net/hda1/vtv1hd_hls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTV", VTV2 HD
 https://vips-livecdn.fptplay.net/hda1/vtv2_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTV", VTV3 HD
