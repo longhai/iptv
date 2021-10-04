@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="HTV",HTV1
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV1-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTV2 HD - Vie Channel
+#EXTINF:-1 group-title="HTV",HTV2 - Vie Channel
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTV",HTV3
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
@@ -11,27 +11,27 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTV",HTV Co.op
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTV Thể Thao HD
+#EXTINF:-1 group-title="HTV",HTV Thể Thao
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTV",HTVC VGS Shopping
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTVC Thuần Việt HD
+#EXTINF:-1 group-title="HTV",HTVC Thuần Việt
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTV",HTVC Thuần Việt HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTV",HTVC Gia Đình HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTVC Phụ Nữ HD
+#EXTINF:-1 group-title="HTV",HTVC Phụ Nữ
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTVC Ca Nhạc HD
+#EXTINF:-1 group-title="HTV",HTVC Ca Nhạc
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTVC Phim HD
+#EXTINF:-1 group-title="HTV",HTVC Phim
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTVC Plus HD
+#EXTINF:-1 group-title="HTV",HTVC Plus
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTVC Du Lịch HD
+#EXTINF:-1 group-title="HTV",HTVC Du Lịch
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTVC FBNC HD
+#EXTINF:-1 group-title="HTV",HTVC FBNC
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="VTV",VTV1 HD
