@@ -18,7 +18,6 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTV", VTV9 HD
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
 
-
 #EXTINF:-1 group-title="HTV", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV2 - Vie Channel
@@ -51,7 +50,6 @@ https://livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda3/htvcplus_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Ca Nhạc
 http://livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/playlist.m3u8
-
 
 #EXTINF:-1 group-title="VTC", VTC1 HD
 https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
@@ -211,13 +209,13 @@ https://livecdn.fptplay.net/sdc/travinh_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Tây Ninh - TTV11
 https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 - THVL1
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 - THVL1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 2 - THVL2
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 2 - THVL2 HD
 https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 3 - THVL3
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 3 - THVL3 HD
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 4 - THVL4
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 4 - THVL4 HD
 https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Vĩnh Phúc - VP
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/playlist.m3u8
