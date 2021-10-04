@@ -37,7 +37,7 @@ https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Gia Đình
 https://livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV", HTVC Phim HD
+#EXTINF:-1 group-title="HTV", HTVC Phim
 https://livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Phụ Nữ
 https://livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/playlist.m3u8
