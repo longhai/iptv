@@ -45,13 +45,13 @@ http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Địa Phương",Vĩnh Phúc - VP
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
-#EXTINF:-1 group-title="Địa Phương",Vĩnh Long1 - THVL1 HD | 1080
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Long1 - THVL1 HD
 https://liveweb.thvli.vn/thvl/thvl1.1080.m3u8
-#EXTINF:-1 group-title="Địa Phương",Vĩnh Long2 - THVL2 HD | 1080
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Long2 - THVL2 HD
 https://liveweb.thvli.vn/thvl/thvl2.1080.m3u8
-#EXTINF:-1 group-title="Địa Phương",Vĩnh Long3 - THVL3 HD | 1080
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Long3 - THVL3 HD
 https://liveweb.thvli.vn/thvl/thvl3.1080.m3u8
-#EXTINF:-1 group-title="Địa Phương",Vĩnh Long4 - THVL4 HD | 1080
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Long4 - THVL4 HD
 https://liveweb.thvli.vn/thvl/thvl4.1080.m3u8
 
 #EXTINF:-1 group-title="Địa Phương",Bắc Giang - BGTV
