@@ -89,6 +89,37 @@ http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 #EXTINF:-1 group-title="Địa Phương",Tiền Giang - THTG
 http://thtg.vn:8001/stream_hi.m3u8
 
+#EXTINF:-1 group-title="VTC", VTC1 HD
+https://vtc130121.cdn.vnns.io/VTC1/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC2
+https://vtc130121.cdn.vnns.io/VTC2/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC3 HD
+https://vtc130121.cdn.vnns.io/VTC3/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC4 HD
+https://vtc130121.cdn.vnns.io/VTC4/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC5 HD
+https://vtc130121.cdn.vnns.io/VTC5/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC6 HD
+https://vtc130121.cdn.vnns.io/VTC6/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC7 HD - Today
+https://vtc130121.cdn.vnns.io/VTC7/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC8
+https://vtc130121.cdn.vnns.io/VTC8/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC9 HD
+https://vtc130121.cdn.vnns.io/VTC9/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC10 HD
+https://vtc130121.cdn.vnns.io/VTC10/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC11
+https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC12
+https://vtc130121.cdn.vnns.io/VTC12/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC13 HD
+https://vtc130121.cdn.vnns.io/VTC13/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC14 HD
+https://vtc130121.cdn.vnns.io/VTC14/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC16 HD
+https://vtc130121.cdn.vnns.io/VTC16/playlist.m3u8
+
 #EXTINF:-1 group-title="Chuyên Biệt", VOV TV
 https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 
