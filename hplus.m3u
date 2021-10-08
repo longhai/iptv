@@ -89,24 +89,18 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HAUGIANG-SD-ABR/HTV-ABR/HAUGIANG-
 
 #EXTINF:-1 group-title="Quốc Tế", Paramount Channel
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Nat Geo Wild HD
+#EXTINF:-1 group-title="Quốc Tế", Nat Geo WILD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Discovery Channel
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fox Sports 1
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT1-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fox Sports 2
+#EXTINF:-1 group-title="Quốc Tế", DMAX
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Baby First
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Cartoon Network HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fox Family Movies HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fox Life
+#EXTINF:-1 group-title="Quốc Tế", TLC
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fox Movies HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", CinemaWorld
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", WarnerTV
