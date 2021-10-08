@@ -272,8 +272,6 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Channel Newsasia HD
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Channel V HD
-https://livecdn.fptplay.net/hda1/channelvhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Cinemaworld
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Cinemax HD
