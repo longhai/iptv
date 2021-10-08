@@ -246,7 +246,7 @@ https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Asian Food Network
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", AXN HD
+#EXTINF:-1 group-title="Quốc Tế", AXN
 https://livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Baby First
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/playlist.m3u8
@@ -258,7 +258,7 @@ http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", BBC Lifestyle
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Bloomberg HD
+#EXTINF:-1 group-title="Quốc Tế", Bloomberg
 https://livecdn.fptplay.net/sdb/bloomberg_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", boomerang
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8
@@ -268,11 +268,11 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Channel Newsasia HD
+#EXTINF:-1 group-title="Quốc Tế", Channel Newsasia
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Cinemaworld
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Cinemax HD
+#EXTINF:-1 group-title="Quốc Tế", Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", CNN
 https://livecdn.fptplay.net/sdb/cnn_hls.smil/playlist.m3u8
@@ -282,17 +282,17 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Discovery Asia
 http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", DW HD
+#EXTINF:-1 group-title="Quốc Tế", DW
 https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fashiontv HD
+#EXTINF:-1 group-title="Quốc Tế", Fashion TV
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", France24
 https://livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", HBO HD
+#EXTINF:-1 group-title="Quốc Tế", HBO
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", KIX HD
+#EXTINF:-1 group-title="Quốc Tế", KIX
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", National Geographic
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
