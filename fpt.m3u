@@ -336,3 +336,19 @@ https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt", VOV TV
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 1
+https://livecdn.fptplay.net/hdevent/worldcup01_vhls.smil/playlist.m3u8
+https://livecdn.fptplay.net/tvc/world-cup01_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 2
+https://livecdn.fptplay.net/hdevent/worldcup02_vhls.smil/playlist.m3u8
+https://livecdn.fptplay.net/tvc/world-cup02_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 3
+https://livecdn.fptplay.net/hdevent/worldcup03_vhls.smil/playlist.m3u8
+https://livecdn.fptplay.net/tvc/world-cup03_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 4
+https://livecdn.fptplay.net/hdevent/worldcup04_vhls.smil/playlist.m3u8
+https://livecdn.fptplay.net/tvc/world-cup04_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 5
+https://livecdn.fptplay.net/hdevent/worldcup05_vhls.smil/playlist.m3u8
+https://livecdn.fptplay.net/tvc/world-cup05_2000.stream/playlist.m3u8
