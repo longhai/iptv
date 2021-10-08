@@ -290,20 +290,6 @@ http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Fashiontv HD
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fox Family Movies
-https://livecdn.fptplay.net/hdb/foxfamilymovies_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fox HD
-https://livecdn.fptplay.net/hda2/foxhd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fox Movies HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fox Sports 1
-https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fox Sports 2
-https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Fox Sports 3
-https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", France24
 https://livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", HBO HD
