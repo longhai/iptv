@@ -278,7 +278,7 @@ https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", CNN
 https://livecdn.fptplay.net/sdb/cnn_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Davinci HD
+#EXTINF:-1 group-title="Quốc Tế", Da Vinci Kids
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Discovery Channel
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
