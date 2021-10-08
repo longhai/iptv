@@ -294,11 +294,11 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", National Geographic Chanel - NGC HD
+#EXTINF:-1 group-title="Quốc Tế", National Geographic
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", NHK World Japan HD
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Outdoor Channel HD
+#EXTINF:-1 group-title="Quốc Tế", Outdoor Channel
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
