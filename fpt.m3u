@@ -236,9 +236,9 @@ https://livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Quốc Tế", Abc Autrailia (A+)
+#EXTINF:-1 group-title="Quốc Tế", ABC Australia
 https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Animal Plannet HD
+#EXTINF:-1 group-title="Quốc Tế", Animal Plannet
 http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Animax
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
