@@ -281,7 +281,9 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Discovery Channel
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Discovery Asia
-http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Tế", Dreamworks
+https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", DW
 https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Fashion TV
@@ -294,7 +296,9 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", KIX
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", National Geographic
+#EXTINF:-1 group-title="Quốc Tế", MTV
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Tế", National Geographic HD
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", NHK World Japan HD
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/playlist.m3u8
