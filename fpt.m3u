@@ -96,11 +96,12 @@ https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Bình Dương 1 - BTV1
 https://livecdn.fptplay.net/hda/btv1_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Bình Dương 2 - BTV2
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 2 - BTV2 HD
 https://livecdn.fptplay.net/hda/btv2_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Bình Dương 3 - BTV3
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 3 - BTV3 HD
+https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Bình Dương 4 - BTV4
-https://livecdn.fptplay.net/hda/btv4hd_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Bình Dương 6 - BTV6
 https://livecdn.fptplay.net/sda/btv6_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Bình Dương 10 - BTV10
