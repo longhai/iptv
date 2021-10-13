@@ -23,7 +23,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Kiên Giang - KG
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 group-title="Địa Phương", Kiên Giang1 - KG
+#EXTINF:-1 group-title="Địa Phương", Kiên Giang 1 - KG1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="Địa Phương", Yên Bái - YTV
 https://yenbaitv.org.vn/hls/livestream.m3u8
