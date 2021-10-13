@@ -17,6 +17,10 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 #EXTINF:-1 group-title="Địa Phương", Bình Phước 3 - BPTV3
 https://ott.avg.vn/live/ant-tv/chunklist_1.m3u8
+#EXTINF:-1 group-title="Địa Phương", Bình Định - BTV
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+#EXTINF:-1 group-title="Địa Phương", Cao Bằng - CRTV
+http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Đà Nẵng 1 - DaNangTV1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Đà Nẵng 2 - DaNangTV2
