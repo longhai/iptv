@@ -82,7 +82,7 @@ https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC", VTC16 HD
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="VTVcab", VTVcab13 - VTV Huyndai
+#EXTINF:-1 group-title="VTVcab", VTVcab13
 https://livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="SCTV", SCTV2
