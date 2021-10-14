@@ -7,23 +7,23 @@ http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1145886786.m3u8
 http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Địa Phương", Sóc Trăng 2 - STV2 HD
 http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
-#EXTINF:-1 group-title="Địa Phương", Hà Nội 1 - HanoiTV1
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 1 - HanoiTV1 HD
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
-#EXTINF:-1 group-title="Địa Phương", Hà Nội 2 - HanoiTV2
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 2 - HanoiTV2 HD
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
-#EXTINF:-1 group-title="Địa Phương", Bình Phước 1 - BPTV1
+#EXTINF:-1 group-title="Địa Phương", Bình Phước 1 - BPTV1 HD
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
-#EXTINF:-1 group-title="Địa Phương", Bình Phước 2 - BPTV2
+#EXTINF:-1 group-title="Địa Phương", Bình Phước 2 - BPTV2 HD
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 #EXTINF:-1 group-title="Địa Phương", Bình Phước 3 - BPTV3
 https://ott.avg.vn/live/ant-tv/chunklist_1.m3u8
 #EXTINF:-1 group-title="Địa Phương", Bình Định - BTV
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
-#EXTINF:-1 group-title="Địa Phương", Cao Bằng - CRTV
+#EXTINF:-1 group-title="Địa Phương", Cao Bằng - CRTV HD
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 1 - DaNangTV1
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 1 - DaNangTV1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 2 - DaNangTV2
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 2 - DaNangTV2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Kiên Giang - KG
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
@@ -31,15 +31,15 @@ http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="Địa Phương", Yên Bái - YTV
 https://yenbaitv.org.vn/hls/livestream.m3u8
-#EXTINF:-1 group-title="Địa Phương",Tuyên Quang - TTV
+#EXTINF:-1 group-title="Địa Phương",Tuyên Quang - TTV HD
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
-#EXTINF:-1 group-title="Địa Phương",Thái Nguyên - TN
+#EXTINF:-1 group-title="Địa Phương",Thái Nguyên - TN HD
 https://thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 group-title="Địa Phương",Lạng Sơn - LSTV
+#EXTINF:-1 group-title="Địa Phương",Lạng Sơn - LSTV HD
 http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
-#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 1 - QTV1
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 1 - QTV1 HD
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
-#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 3 - QTV3
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 3 - QTV3 HD
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="Địa Phương",Bắc Ninh - BTV
 http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u8
@@ -47,31 +47,31 @@ http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 group-title="Địa Phương", Hải Phòng Plus - THP Plus HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
-#EXTINF:-1 group-title="Địa Phương",Hưng Yên - HYTV
+#EXTINF:-1 group-title="Địa Phương",Hưng Yên - HYTV HD
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Địa Phương",Thái Bình - TBTV
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
-#EXTINF:-1 group-title="Địa Phương",Vĩnh Phúc - VP
+#EXTINF:-1 group-title="Địa Phương",Vĩnh Phúc - VP HD
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
-#EXTINF:-1 group-title="Địa Phương",Bắc Giang - BGTV
+#EXTINF:-1 group-title="Địa Phương",Bắc Giang - BGTV HD
 http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
-#EXTINF:-1 group-title="Địa Phương",Ninh Bình - NBTV
+#EXTINF:-1 group-title="Địa Phương",Ninh Bình - NBTV HD
 https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Địa Phương",Thanh Hóa - TTV
 http://687642383.r.vietnamcdn.net/687642383/_definst_/mystream/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương",Nghệ An - NTV
+#EXTINF:-1 group-title="Địa Phương",Nghệ An - NTV HD
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
-#EXTINF:-1 group-title="Địa Phương",Hà Tĩnh - HTTV
+#EXTINF:-1 group-title="Địa Phương",Hà Tĩnh - HTTV HD
 http://hatinhtv.vn:82/hls/httv.m3u8
-#EXTINF:-1 group-title="Địa Phương",Quảng Nam - QRT
+#EXTINF:-1 group-title="Địa Phương",Quảng Nam - QRT HD
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="Địa Phương",Bình Thuận - BTV
+#EXTINF:-1 group-title="Địa Phương",Bình Thuận - BTV  HD
 http://202.43.109.142:1935/thbttv/bttv/chunklist.m3u8
 #EXTINF:-1 group-title="Địa Phương",Kon Tum - KRT
 http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-#EXTINF:-1 group-title="Địa Phương",Lâm Đồng - LTV
+#EXTINF:-1 group-title="Địa Phương",Lâm Đồng - LTV HD
 http://203.171.21.216:1935/live/smil:LTV.smil/chunklist_w195442925_b1400000.m3u8
-#EXTINF:-1 group-title="Địa Phương",Đồng Nai 1 - ĐNR1
+#EXTINF:-1 group-title="Địa Phương",Đồng Nai 1 - ĐN1 HD
 http://203.171.21.216:1935/live/smil:DNTV1.smil/chunklist_w1370026847_b600000.m3u8
 #EXTINF:-1 group-title="Địa Phương", Đồng Nai 3 - ĐNR3
 http://vthanh.xyz/vieon.m3u8?kenh=dong-nai-3
@@ -83,11 +83,11 @@ http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1 group-title="Địa Phương",Khánh Hòa - KTV HD
 http://210.245.20.94/hls/ktv1.m3u8
-#EXTINF:-1 group-title="Địa Phương",Cần Thơ - THTPCT
+#EXTINF:-1 group-title="Địa Phương",Cần Thơ - THTPCT HD
 https://tv.canthotv.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="Địa Phương",Long An - LA34
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-#EXTINF:-1 group-title="Địa Phương",Tiền Giang - THTG
+#EXTINF:-1 group-title="Địa Phương",Tiền Giang - THTG HD
 http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:-1 group-title="Địa Phương", Hanoicab1 - HiTV
 https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
