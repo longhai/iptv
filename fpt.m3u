@@ -69,7 +69,7 @@ https://livecdn.fptplay.net/sdb/todaytv_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC", VTC9 HD
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC10
+#EXTINF:-1 group-title="VTC", VTC10 HD
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC", VTC11
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/playlist.m3u8
