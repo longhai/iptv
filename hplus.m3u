@@ -60,15 +60,15 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương",Bình Dương 1 - BTV1
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BINHDUONG1-SD-ABR/HTV-ABR/BINHDUONG1-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương",Đồng Nai 1 - ĐNRTV1
+#EXTINF:-1 group-title="Địa Phương",Đồng Nai 1 - ĐN1 HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương",Tây Ninh - TTV11
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TAYNINH-SD-ABR/HTV-ABR/TAYNINH-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương",Bến Tre	- THBT
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BENTRE-SD-ABR/HTV-ABR/BENTRE-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương",Bình Thuận - BTV
+#EXTINF:-1 group-title="Địa Phương",Bình Thuận - BTV HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BINHTHUAN-SD-ABR/HTV-ABR/BINHTHUAN-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương",Đà Nẵng 1 - DaNangTV1
+#EXTINF:-1 group-title="Địa Phương",Đà Nẵng 1 - DaNangTV1 HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DANANG1-SD-ABR/HTV-ABR/DANANG1-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương",Long An - LA34
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/LONGAN-SD-ABR/HTV-ABR/LONGAN-SD-720p/playlist.m3u8
@@ -76,15 +76,15 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/LONGAN-SD-ABR/HTV-ABR/LONGAN-SD-7
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương",Kiên Giang - KG
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KIENGIANG-SD-ABR/HTV-ABR/KIENGIANG-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương",Cần Thơ - THTPCT
+#EXTINF:-1 group-title="Địa Phương",Cần Thơ - THTPCT HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CANTHO-SD-ABR/HTV-ABR/CANTHO-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương",Bình Phước 1 - BPTV1
+#EXTINF:-1 group-title="Địa Phương",Bình Phước 1 - BPTV1 HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BINHPHUOC1-SD-ABR/HTV-ABR/BINHPHUOC1-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương",An Giang - ATV
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương",Bà Rịa Vũng Tàu	- BRT
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BRVT-SD-ABR/HTV-ABR/BRVT-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương",Hậu Giang - HGTV
+#EXTINF:-1 group-title="Địa Phương",Hậu Giang - HGTV HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HAUGIANG-SD-ABR/HTV-ABR/HAUGIANG-SD-720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế", Paramount Channel
@@ -120,11 +120,11 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Chuyên Biệt",An Ninh HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANTV-SD-ABR/HTV-ABR/ANTV-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Chuyên Biệt",Nhân Dân
+#EXTINF:-1 group-title="Chuyên Biệt",Nhân Dân TV
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Chuyên Biệt",VNEWS - Thông tấn xã VN
+#EXTINF:-1 group-title="Chuyên Biệt",VNEWS
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt",Quốc Hội
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QUOCHOI-SD-ABR/HTV-ABR/QUOCHOI-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="Chuyên Biệt",Quốc Phòng VN
+#EXTINF:-1 group-title="Chuyên Biệt",Quốc Phòng VN - QPVN
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/playlist.m3u8
