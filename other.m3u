@@ -3,9 +3,9 @@
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w790821707.m3u8
 #EXTINF:-1 group-title="Địa Phương", Đồng Tháp 2 - THĐT2
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1145886786.m3u8
-#EXTINF:-1 group-title="Địa Phương", Sóc Trăng 1 - STV1
+#EXTINF:-1 group-title="Địa Phương", Sóc Trăng 1 - STV1 HD
 http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="Địa Phương", Sóc Trăng 2 - STV2
+#EXTINF:-1 group-title="Địa Phương", Sóc Trăng 2 - STV2 HD
 http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 group-title="Địa Phương", Hà Nội 1 - HanoiTV1
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
@@ -45,7 +45,7 @@ http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u8
 #EXTINF:-1 group-title="Địa Phương",Hải Phòng - THP
 https://live.thhp.vn/hls/thpplus/index.m3u8
-#EXTINF:-1 group-title="Địa Phương", Hải Phòng Plus - THP+
+#EXTINF:-1 group-title="Địa Phương", Hải Phòng Plus - THP Plus HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 group-title="Địa Phương",Hưng Yên - HYTV
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
@@ -81,7 +81,7 @@ http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 #EXTINF:-1 group-title="Địa Phương",Bến Tre - THBT
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
-#EXTINF:-1 group-title="Địa Phương",Khánh Hòa - KTV
+#EXTINF:-1 group-title="Địa Phương",Khánh Hòa - KTV HD
 http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1 group-title="Địa Phương",Cần Thơ - THTPCT
 https://tv.canthotv.vn/live/tv/tv.m3u8
