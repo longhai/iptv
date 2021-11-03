@@ -106,12 +106,12 @@ https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Bình Dương 6 - BTV6
 https://livecdn.fptplay.net/sda/btv6_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Bình Dương 10 - BTV10
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 10 - BTV10 - NCM
 https://livecdn.fptplay.net/sda/ncm_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Bình Dương 11 - BTV11
 https://livecdn.fptplay.net/sda/btv11_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Bình Phước 1 - BPTV1 HD
-https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/hda3/btv1_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Bình Phước 2 - BPTV2 HD
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Bình Thuận - BTV HD
@@ -192,6 +192,8 @@ https://livecdn.fptplay.net/sda/quangninh1_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sda/quangninh3_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Quảng Trị - QRTV HD
 https://livecdn.fptplay.net/sdc/quangtri_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Địa Phương", Quê Hương Homeshopping - BTV6
+https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Sơn La - STV HD
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Sóc Trăng 1 - STV1
@@ -236,6 +238,8 @@ https://livecdn.fptplay.net/sdc/daklak_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Đồng Nai 2 - ĐN2 HD
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Địa Phương", Đồng Nai 9 - ĐN9 - Skymart
+https://livecdn.fptplay.net/sda/skymart_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/playlist.m3u8
 
@@ -281,6 +285,8 @@ https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", CNN
 https://livecdn.fptplay.net/sdb/cnn_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Tế", CNBC
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Da Vinci Kids
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Discovery Channel
@@ -317,11 +323,13 @@ https://livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Chuyên Biệt", An Ninh - ANTV HD
-https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt", Quốc Hội
-https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt", Quốc Phòng VN - QPVN
-https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Chuyên Biệt", VNEWS
+https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt", Nhân Dân TV
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt", VOV TV
