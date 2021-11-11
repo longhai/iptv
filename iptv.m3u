@@ -590,15 +590,19 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/sd2/index.m3u8|Referer=h
 #EXTINF:-1 group-title="SCTVonline", Animal Planet
 https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="SCTVonline", Carttoon Network
-https://e4.endpoint.cdn.sctvonline.vn/hls/cartoonnetwork/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", FOXSPORTS 1
-https://e3.endpoint.cdn.sctvonline.vn/hls/foxsports1/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", FOXSPORTS 2
-https://e4.endpoint.cdn.sctvonline.vn/hls/foxsports2/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/cartoonnetwork/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="SCTVonline", Bình Dương 5 - BTV5 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="SCTVonline", TTXVN
-https://e2.endpoint.cdn.sctvonline.vn/hls/ttxvn/sd1/index.m3u8|Referer=http://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/ttxvn/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="SCTVonline", Nhân Dân TV
+https://e2.endpoint.cdn.sctvonline.vn/hls/nhandantv/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="SCTVonline", An Ninh - ANTV HD
+https://e2.endpoint.cdn.sctvonline.vn/hls/antv/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="SCTVonline", Quốc Hội
+https://e2.endpoint.cdn.sctvonline.vn/hls/qhvn/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="SCTVonline", Quốc Phòng VN - QPVN
+https://e2.endpoint.cdn.sctvonline.vn/hls/qpvn/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/eNBVsp/r_vov1.png" group-title="Radio",VOV1 AM 675kHz
