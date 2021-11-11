@@ -83,9 +83,9 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=http://sct
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế", BOX Channel
-https://e4.endpoint.cdn.sctvonline.vn/hls/inthebox/index.m3u8|Referer=http://sctvonline.vn/
+http://103.195.238.226/inthebox/mpegts
 #EXTINF:-1 group-title="Quốc Tế", BOX Hits
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxhits/index.m3u8|Referer=http://sctvonline.vn/
+http://103.195.238.226/boxhits/mpegts
 #EXTINF:-1 group-title="Quốc Tế", BOX Movie¹
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc Tế", BOX Music
@@ -95,7 +95,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:
 #EXTINF:-1 group-title="Quốc Tế", Dr. Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc Tế", Man
-https://e4.endpoint.cdn.sctvonline.vn/hls/man/index.m3u8|Referer=http://sctvonline.vn/
+http://103.195.238.226/man/mpegts
 #EXTINF:-1 group-title="Quốc Tế", Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc Tế", Happy Kids
@@ -119,8 +119,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/cnn/index.m3u8|Referer=http://sctvonli
 #EXTINF:-1 group-title="Quốc Tế", AXN
 https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc Tế", BBC
-https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="Địa Phương", Bình Dương 5 - BTV5 HD
-https://e1.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/hls/btv5/index.m3u8|Referer=http://sctvonline.vn/
 
