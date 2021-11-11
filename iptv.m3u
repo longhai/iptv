@@ -456,49 +456,49 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QUOCHOI-SD-ABR/HTV-ABR/QUOCHOI-SD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/playlist.m3u8
 
 
-#EXTINF:-1 group-title="SCTVonline", SCTV1 HD - Hài kịch
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTVonline", SCTV1 HD - Hài kịch
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd2/index.m3u8||Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV2 - AMC TV
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTVonline", SCTV2 - AMC TV
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV3 - SEE
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTVonline", SCTV3 - SEE
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV4 - Văn hóa
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTVonline", SCTV4 - Văn hóa
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV5 - SCJTV Shopping
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTVonline", SCTV5 - SCJTV Shopping
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV6 - SNTV
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTVonline", SCTV6 - SNTV
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV7 - Show
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTVonline", SCTV7 - Show
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV8 - VITV
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTVonline", SCTV8 - VITV
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV9 - Phim châu Á
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTVonline", SCTV9 - Phim châu Á
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV10 - VTV Hyundai
+#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTVonline", SCTV10 - VTV Hyundai
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV11 HD - TV STAR
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTVonline", SCTV11 HD - TV STAR
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV12 - Du lịch & Khám phá
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTVonline", SCTV12 - Du lịch & Khám phá
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV13 - Lady TV
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTVonline", SCTV13 - Lady TV
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV14 - Phim Việt
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTVonline", SCTV14 - Phim Việt
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv14/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV15 - S Sport 2
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTVonline", SCTV15 - S Sport 2
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV16 Phim nước ngoài đặc sắc
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTVonline", SCTV16 Phim nước ngoài đặc sắc
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV17 - S Sport
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTVonline", SCTV17 - S Sport
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV18 - Kênh 18
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTVonline", SCTV18 - Kênh 18
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV19 - Channel T
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTVonline", SCTV19 - Channel T
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv19/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV20 - iTV HD
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTVonline", SCTV20 - iTV HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV Phim tổng hợp
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTVonline", SCTV Phim tổng hợp
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="SCTVonline", SCTV22 - S Sport 1
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTVonline", SCTV22 - S Sport 1
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="SCTVonline", HTV2 - Vie Channel
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=http://sctvonline.vn/
