@@ -123,11 +123,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8|Referer=http://sctvonli
 #EXTINF:-1 group-title="Quốc Tế", Discovery
 https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc Tế", Discovery Asia
-https://e4.endpoint.cdn.sctvonline.vn/hls/discovery-asia/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc Tế", Animal Planet
-https://e4.endpoint.cdn.sctvonline.vn/hls/animal/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc Tế", Carttoon Network
-https://e4.endpoint.cdn.sctvonline.vn/hls/carttoon/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/carttoonnetwork/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="Địa Phương", Bình Dương 5 - BTV5 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
