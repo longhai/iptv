@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
 #EXTINF:-1 group-title="SCTV", SCTV1 HD - Hài kịch
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd2/index.m3u8||Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="SCTV", SCTV2 - AMC TV
