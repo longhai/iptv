@@ -122,5 +122,5 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=http://sctvonli
 https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="Địa Phương", Bình Dương 5 - BTV5 HD
-https://e1.endpoint.cdn.sctvonline.vn/hls/btv5/index.m3u8|Referer=http://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
