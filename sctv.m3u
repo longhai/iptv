@@ -50,9 +50,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=http://sctvonl
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="HTV", HTV Key
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="HTV", HTV7
+#EXTINF:-1 group-title="HTV", HTV7 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="HTV", HTV9
+#EXTINF:-1 group-title="HTV", HTV9 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTVcab", VTVcab1 - Vie Giải Trí
@@ -116,7 +116,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=htt
 https://e4.endpoint.cdn.sctvonline.vn/hls/abc/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc Tế", CNA
 https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="Quốc Tế", TV5
+#EXTINF:-1 group-title="Quốc Tế", TV5 Monde Asie
 https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc Tế", Fashion TV
 https://e4.endpoint.cdn.sctvonline.vn/hls/fashiontv/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -136,14 +136,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8|Referer=http://sc
 https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc Tế", Animal Planet
 https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="Quốc Tế", Carttoon Network
+#EXTINF:-1 group-title="Quốc Tế", Cartoon Network
 https://e4.endpoint.cdn.sctvonline.vn/hls/cartoonnetwork/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="Quốc Tế", FOXSPORTS 1
-https://e3.endpoint.cdn.sctvonline.vn/hls/foxsports1/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="Quốc Tế", FOXSPORTS 2
-https://e4.endpoint.cdn.sctvonline.vn/hls/foxsports2/index.m3u8|Referer=http://sctvonline.vn/
-
-
 
 #EXTINF:-1 group-title="Địa Phương", Bình Dương 5 - BTV5 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
