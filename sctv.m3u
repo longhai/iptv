@@ -44,15 +44,15 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd2/index.m3u8|Referer
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://logos.fandom.com/vi/wiki/Tập_tin:SCTV22_SSport_1_2020.png", SCTV22 - S Sport 1
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="", HTV2 - Vie Channel
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://logos.fandom.com/vi/wiki/Tập_tin:Vie_Channel_logo.png", HTV2 - Vie Channel
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="", HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://logos.fandom.com/vi/wiki/Tập_tin:HTV3_DreamsTV_logo_(2018-nay).png", HTV3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="", HTV Key
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://logos.fandom.com/vi/wiki/Tập_tin:HTV_Key_logo_(2018-present).png", HTV Key
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="", HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://logos.fandom.com/vi/wiki/Tập_tin:HTV7_HD_(08.03.2019-03.05.2019;_17.02.2021-nay).png", HTV7 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="", HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://logos.fandom.com/vi/wiki/Tập_tin:HTV9_HD_logo_2021.png", HTV9 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="", VTVcab1 - Vie Giải Trí
