@@ -79,7 +79,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sct
 https://vtsstr7.tv24.vn/live/VTVcab11.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab", VTVcab12 - Style TV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab", VTVcab15 - UM Channel
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab", VTVcab15
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab", VTVcab16 - Bóng đá TV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
