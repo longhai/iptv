@@ -605,6 +605,28 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/qhvn/index.m3u8|Referer=http://sctvonl
 #EXTINF:-1 group-title="SCTVonline", Quốc Phòng VN - QPVN
 https://e2.endpoint.cdn.sctvonline.vn/hls/qpvn/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Nguồn khác" tvg-logo="https://i.imgur.com/GMmqm6N.png",VTV1 HD (1080P)
+https://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Nguồn khác" tvg-logo="https://i.imgur.com/da1K9o7.png",VTV2 HD (1080P)
+https://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Nguồn khác" tvg-logo="https://i.imgur.com/ELPWNBq.png",VTV3 HD (1080P)
+https://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="Nguồn khác" tvg-logo="https://i.imgur.com/0DCbOEf.png",VTV4 HD (1080P)
+https://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Nguồn khác" tvg-logo="https://i.imgur.com/isTMBFz.png",VTV5 HD (1080P)
+https://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv5taynambohd" group-title="Nguồn khác" tvg-logo="https://i.imgur.com/J8xZd8v.png",VTV5 Tây Nam Bộ HD
+https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+#EXTINF:-1 tvg-id="vtv5taynguyenhd" group-title="Nguồn khác" tvg-logo="https://i.imgur.com/J8xZd8v.png",VTV5 Tây Nguyên HD
+https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Nguồn khác" tvg-logo="https://i.imgur.com/t2TZfVs.png",VTV6 HD (1080P)
+https://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Nguồn khác" tvg-logo="https://i.imgur.com/hXRBgP4.png",VTV7 HD (1080P)
+https://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="Nguồn khác" tvg-logo="https://i.imgur.com/lTaJljm.png",VTV8 HD (1080P)
+https://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Nguồn khác" tvg-logo="https://i.imgur.com/J8xZd8v.png",VTV9 HD (1080P)
+https://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/eNBVsp/r_vov1.png" group-title="Radio",VOV1 AM 675kHz
 https://5a6872aace0ce.streamlock.net/nghevov1/vov1.stream_aac/playlist.m3u8
