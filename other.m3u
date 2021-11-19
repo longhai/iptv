@@ -92,7 +92,7 @@ http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:-1 group-title="Địa Phương", Hanoicab1 - HiTV
 https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
 
-#EXTINF:-1 group-title="Quốc Tế", 1 HD Music TV
+#EXTINF:-1 group-title="Quốc Tế", 1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
