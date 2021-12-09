@@ -42,7 +42,7 @@ https://livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Phụ Nữ
 https://livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV", HTVC GS SHOP
+#EXTINF:-1 group-title="HTV", HTVC VGS Shop
 https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Thuần Việt
 https://livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/playlist.m3u8
