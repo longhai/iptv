@@ -102,7 +102,7 @@ http://stream2.mobiradio.vn/vovradio/vovgthn.stream/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOVGT Mekong
 http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", Vĩnh Long Radio
-https://thvl111220.cdn.vnns.io/thvlradio/chunks.m3u8
+https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bHJhZGlvIiwiZXhwIjoxNjM5NjY5ODg0fQ.tpfVME47VNjqy4yDtSUyM09vOFBCYK1IUTIGyBFPBT0-/thvlradio/chunks.m3u8
 #EXTINF:-1 group-title="Radio Việt", Yên Bái Radio
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 #EXTINF:-1 group-title="Radio Việt", Đà Nẵng Radio
