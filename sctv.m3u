@@ -1,47 +1,47 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV", SCTV1 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV", SCTV2
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV", SCTV2 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV", SCTV3
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV", SCTV3 HD - SEE
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV", SCTV4
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV", SCTV4 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV", SCTV5
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV", SCTV5 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV", SCTV6
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV", SCTV6 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV", SCTV7
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV", SCTV7 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV", SCTV8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV", SCTV8 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV", SCTV9 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV", SCTV10
+#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV", SCTV10 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV", SCTV11 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV", SCTV12 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV", SCTV13
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV", SCTV13 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV", SCTV14 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv14/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV", SCTV15
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV", SCTV15 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV", SCTV16
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV", SCTV16 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV", SCTV17
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV", SCTV17 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV", SCTV18
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV", SCTV18 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV", SCTV19
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV", SCTV19 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv19/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV", SCTV20
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV", SCTV20 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV", SCTV HD Phim Tổng Hợp
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV", SCTV22
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV", SCTV22 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV", HTV2 - Vie Channel
