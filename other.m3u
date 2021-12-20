@@ -108,9 +108,9 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html
 #EXTINF:-1 group-title="VTV", VTV5 HD
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
-#EXTINF:-1 group-title="VTV", VTV5 HD - Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV", VTV5 HD - Tây Nam Bộ
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-tây-nam-bộ-7.html
-#EXTINF:-1 group-title="VTV", VTV5 HD - Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV", VTV5 HD - Tây Nguyên
 https://vtvgo.vn/xem-truc-tuyen-kenh-kênh-vtv5-tây-nguyên-163.html
 #EXTINF:-1 group-title="VTV", VTV6 HD
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html
