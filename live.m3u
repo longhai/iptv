@@ -91,9 +91,6 @@ http://livecdn.fptplay.net/tvc/sukien02_2000.stream/playlist.m3u8
 http://livecdn.fptplay.net/tvc/sukien03_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", Sự kiện 4 GT
 https://livecdn.fptplay.net/tvc/sukien04_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sự kiện", Pladio
-https://livecdn.fptplay.net/hda3/pladio_vhls.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Sự kiện", Sự kiện 1
 http://livecdn.fptplay.net/schedule/sukien01_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", Sự kiện 2
@@ -107,7 +104,13 @@ https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/schedule/wbc01_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sự Kiện", Bóng Rổ 2
 https://livecdn.fptplay.net/schedule/wbc02_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sự Kiện", Bóng Rổ 1 GT
+https://livecdn.fptplay.net/tvc/wbc01_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự Kiện", Bóng Rổ 2 GT
+https://livecdn.fptplay.net/tvc/wbc02_2000.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Sự kiện", Pladio
+https://livecdn.fptplay.net/hda3/pladio_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 1
 https://livecdn.fptplay.net/hdevent/worldcup01_vhls.smil/playlist.m3u8
