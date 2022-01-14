@@ -136,9 +136,11 @@ https://livecdn.fptplay.net/tvc/world-cup05_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", eSports
 https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", F-Event
-https://livecdn.fptplay.net/tvc/f-event_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/schedule/f-event_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", F-Event 1
 https://livecdn.fptplay.net/event/eventExpire_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sự kiện", F-Event 2
-https://livecdn.fptplay.net/schedule/f-event_hls.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Sự kiện", eSports GT
+https://livecdn.fptplay.net/tvc/esport01_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện", F-Event GT
+https://livecdn.fptplay.net/tvc/f-event_2000.stream/playlist.m3u8
