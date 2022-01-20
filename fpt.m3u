@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1_vhls.smil/playlist.m3u8?offset=-${offset}&utcstart=${timestamp}",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8?longhai
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_vhls.smil/playlist.m3u8?offset=-${offset}&utcstart=${timestamp}" catchup-record-source="https://tshift.fptplay.net/dvr/vtv2_vhls.smil/playlist.m3u8??utcstart=${start}&utcend=${end}",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" catchup="append" catchup-days="3" catchup-source="?utc=${start}",VTV2 HD
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8?longhai
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_vhls.smil/playlist.m3u8",VTV3 HD
 https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8?longhai
