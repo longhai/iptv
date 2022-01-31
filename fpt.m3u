@@ -162,6 +162,8 @@ https://livecdn.fptplay.net/sda/haugiang_hls.smil/playlist.m3u8?longhai
 https://livecdn.fptplay.net/sda/kiengiang_hls.smil/playlist.m3u8?longhai
 #EXTINF:-1 group-title="Địa Phương", Kon Tum - KRT
 https://livecdn.fptplay.net/sdc/kontum_hls.smil/playlist.m3u8?longhai
+#EXTINF:-1 group-title="Địa Phương", Lai Châu HD
+https://livecdn.fptplay.net/sdc/laichau_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Long An - LA34
 https://livecdn.fptplay.net/sdc/longan_hls.smil/playlist.m3u8?longhai
 #EXTINF:-1 group-title="Địa Phương", Lào Cai - THLC
@@ -271,6 +273,8 @@ https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/playlist.m3u8?longhai
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/playlist.m3u8?longhai
 #EXTINF:-1 group-title="Quốc Tế", Bloomberg
 https://livecdn.fptplay.net/sdb/bloomberg_hls.smil/playlist.m3u8?longhai
+#EXTINF:-1 group-title="Quốc Tế", Music Box
+https://livecdn.fptplay.net/hda3/music_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", boomerang
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8?longhai
 #EXTINF:-1 group-title="Quốc Tế", Blue Ant Entertainment
