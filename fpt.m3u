@@ -22,13 +22,13 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8?longhai
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8?longhai
 #EXTINF:-1 group-title="HTV", HTV2 - Vie Channel
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/playlist.m3u8?longhai
-#EXTINF:-1 group-title="HTV", HTV3
+#EXTINF:-1 group-title="HTV" tvg-chno="31" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-1800.m3u8", HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8?longhai
 #EXTINF:-1 group-title="HTV", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8?longhai
-#EXTINF:-1 group-title="HTV", HTV7 HD
+#EXTINF:-1 group-title="HTV" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTV7 HD
 https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/playlist.m3u8?longhai
-#EXTINF:-1 group-title="HTV", HTV9 HD
+#EXTINF:-1 group-title="HTV" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTV9 HD
 https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/playlist.m3u8?longhai
 #EXTINF:-1 group-title="HTV", HTV Thể Thao
 https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/playlist.m3u8?longhai
@@ -216,9 +216,9 @@ https://livecdn.fptplay.net/sdc/travinh_hls.smil/playlist.m3u8?longhai
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/playlist.m3u8?longhai
 #EXTINF:-1 group-title="Địa Phương", Tây Ninh - TTV11
 https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/playlist.m3u8?longhai
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 - THVL1 HD
+#EXTINF:-1 group-title="Địa Phương" tvg-chno="31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-2400.m3u8", Vĩnh Long 1 - THVL1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/playlist.m3u8?longhai
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 2 - THVL2 HD
+#EXTINF:-1 group-title="Địa Phương" tvg-chno="32" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/playlist_dvr_range-${start}-900.m3u8", Vĩnh Long 2 - THVL2 HD
 https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/playlist.m3u8?longhai
 #EXTINF:-1 group-title="Địa Phương", Vĩnh Long 3 - THVL3 HD
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/playlist.m3u8?longhai
@@ -287,7 +287,7 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/playlist.m3u8?longha
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/playlist.m3u8?longhai
 #EXTINF:-1 group-title="Quốc Tế", Cinemaworld
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8?longhai
-#EXTINF:-1 group-title="Quốc Tế", Cinemax
+#EXTINF:-1 group-title="Quốc Tế" tvg-chno="31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-9000.m3u8",CINEMAX
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8?longhai
 #EXTINF:-1 group-title="Quốc Tế", CNN
 https://livecdn.fptplay.net/sdb/cnn_hls.smil/playlist.m3u8?longhai
@@ -307,7 +307,7 @@ https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8?longhai
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/playlist.m3u8?longhai
 #EXTINF:-1 group-title="Quốc Tế", France24
 https://livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8?longhai
-#EXTINF:-1 group-title="Quốc Tế", HBO
+#EXTINF:-1 group-title="Quốc Tế" tvg-chno="31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-3600.m3u8", HBO HD
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8?longhai
 #EXTINF:-1 group-title="Quốc Tế", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8?longhai
