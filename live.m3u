@@ -164,6 +164,11 @@ https://vips-livecdn.fptplay.net/hdevent/uefa09_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cup UEFA", UEFA 10
 https://vips-livecdn.fptplay.net/hdevent/uefa10_vhls.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Youth League",Youth League 1 GT
+https://livecdn.fptplay.net/tvc/youth01_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Youth League",Youth League 2 GT
+https://livecdn.fptplay.net/tvc/youth02_2000.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Sự kiện", Sự kiện 1 GT
 https://livecdn.fptplay.net/tvc/sukien01_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", Sự kiện 2 GT
