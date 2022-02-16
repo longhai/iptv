@@ -36,52 +36,52 @@ https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC FBNC
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV", HTVC Gia Đình
+#EXTINF:-1 group-title="HTV" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTVC Gia Đình
 https://livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV", HTVC Phim
+#EXTINF:-1 group-title="HTV" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTVC Phim
 https://livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Phụ Nữ
 https://livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC VGS Shop
 https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV", HTVC Thuần Việt
+#EXTINF:-1 group-title="HTV" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
 https://livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV", HTVC Thuần Việt HD
+#EXTINF:-1 group-title="HTV" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt HD
 https://livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Plus
 https://livecdn.fptplay.net/hda3/htvcplus_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Ca Nhạc
 http://livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="VTC", VTC1 HD
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC1 HD
 https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC2
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC3 HD
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC3 HD
 https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC4 HD
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC4 HD
 https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC5 HD
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC5 HD
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC6 HD
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC7 HD - Today
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc7_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC7 HD - Today
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC8
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc8_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC9 HD
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC9 HD
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC10 HD
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC11
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC12
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC12
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC13 HD
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13 HD
 https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC14 HD
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC14 HD
 https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC16 HD
+#EXTINF:-1 group-title="VTC" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC16 HD
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="VTVcab", VTVcab13 - VTV Hyundai
@@ -216,13 +216,13 @@ https://livecdn.fptplay.net/sdc/travinh_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Tây Ninh - TTV11
 https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 - THVL1 HD
+#EXTINF:-1 group-title="Địa Phương" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 1 - THVL1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 2 - THVL2 HD
+#EXTINF:-1 group-title="Địa Phương" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 2 - THVL2 HD
 https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 3 - THVL3 HD
+#EXTINF:-1 group-title="Địa Phương" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDMtNzIwcCIsImV4cCI6MTY0MzQ0NzAwOH0._KydkHqQEy8YnwdfqTUNsIpg-9R51ERiWD7uYFn7kr8-/thvl3-720p/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 3 - THVL3 HD
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 4 - THVL4 HD
+#EXTINF:-1 group-title="Địa Phương" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDQtNzIwcCIsImV4cCI6MTY0Mzc1MTQzNX0.8aYdu-FV7NVr8QkklEoXElK94qUBs9bQhv-Twe90F4g-/thvl4-720p/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 4 - THVL4 HD
 https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Vĩnh Phúc - VP HD
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/playlist.m3u8
@@ -328,11 +328,11 @@ https://livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", WarnerTV
 https://livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Chuyên Biệt", An Ninh - ANTV HD
+#EXTINF:-1 group-title="Chuyên Biệt" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", An Ninh - ANTV HD
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt", Quốc Hội
 https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chuyên Biệt", Quốc Phòng VN - QPVN
+#EXTINF:-1 group-title="Chuyên Biệt" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Phòng VN - QPVN
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chuyên Biệt", VNEWS
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/playlist.m3u8
