@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
+#EXTM3U catchup-days="3" url-tvg="http://onetv.click/schedule/epg.xml"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV", VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV", VTV2 HD
@@ -22,7 +22,7 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV2 - Vie Channel
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8" , HTV3
+#EXTINF:-1 group-title="HTV" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8" , HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
