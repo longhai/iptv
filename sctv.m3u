@@ -46,7 +46,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/sd2/index.m3u8|Referer=http://s
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV", SCTV22
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV", HTV2 - Vie Channel
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV", HTV2 HD - Vie Channel
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="htv3" group-title="HTV", HTV3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8|Referer=http://sctvonline.vn/
