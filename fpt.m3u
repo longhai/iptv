@@ -249,15 +249,15 @@ https://livecdn.fptplay.net/sdc/dongthap_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế", ABC Australia
 https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Animal Planet
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
 http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Animax
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Arirang
 https://livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Asian Food Network
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", AXN
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN
 https://livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Baby First
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/playlist.m3u8
@@ -265,13 +265,13 @@ https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", BBC Cbeebies
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", BBC Earth
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
 http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", BBC World News
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", BBC Lifestyle
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Bloomberg
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Bloomberg
 https://livecdn.fptplay.net/sdb/bloomberg_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Box Music
 https://livecdn.fptplay.net/hda3/music_vhls.smil/playlist.m3u8
@@ -281,13 +281,13 @@ https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", ROCK Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Cartoon Network
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Channel Newsasia
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Cinemaworld
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/cinemaworld_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemaworld
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế",CINEMAX
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",CINEMAX
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", CNN
 https://livecdn.fptplay.net/sdb/cnn_hls.smil/playlist.m3u8
@@ -295,9 +295,9 @@ https://livecdn.fptplay.net/sdb/cnn_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Da Vinci Kids
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Discovery Channel
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Channel
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", Discovery Asia
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Dreamworks
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
@@ -307,11 +307,11 @@ https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", France24
 https://livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", HBO HD
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", KIX
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", MTV
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/playlist.m3u8
@@ -321,11 +321,11 @@ https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", Outdoor Channel
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", TLC
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế", TV5 Monde Asie
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế", WarnerTV
+#EXTINF:-1 group-title="Quốc Tế" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", WarnerTV
 https://livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Chuyên Biệt" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", An Ninh - ANTV HD
