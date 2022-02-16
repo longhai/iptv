@@ -53,15 +53,15 @@ https://livecdn.fptplay.net/hda3/htvcplus_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Ca Nhạc
 http://livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_vhls.smil/playlist.m3u8", VTC1 HD
+#EXTINF:-1 group-title="VTC", VTC1 HD
 https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_hls.smil/playlist.m3u8", VTC2
+#EXTINF:-1 group-title="VTC", VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3hd_vhls.smil/playlist.m3u8", VTC3 HD
+#EXTINF:-1 group-title="VTC", VTC3 HD
 https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_vhls.smil/playlist.m3u8", VTC4 HD
+#EXTINF:-1 group-title="VTC", VTC4 HD
 https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc5_hls.smil/playlist.m3u8", VTC5 HD
+#EXTINF:-1 group-title="VTC", VTC5 HD
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC", VTC6 HD
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
@@ -71,11 +71,11 @@ https://livecdn.fptplay.net/sdb/todaytv_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC", VTC9 HD
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_hls.smil/playlist.m3u8", VTC10 HD
+#EXTINF:-1 group-title="VTC", VTC10 HD
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_hls.smil/playlist.m3u8", VTC11
+#EXTINF:-1 group-title="VTC", VTC11
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_hls.smil/playlist.m3u8", VTC12
+#EXTINF:-1 group-title="VTC", VTC12
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC", VTC13 HD
 https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/playlist.m3u8
