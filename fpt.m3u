@@ -23,7 +23,7 @@ https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV2 - Vie Channel
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-chno="60" catchup-days="2" timeshift="2" tvg-id="htv3" tvg-name="HTV3" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-1800.m3u8", HTV3
-https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8?longhai
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTV7 HD
