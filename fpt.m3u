@@ -34,8 +34,6 @@ https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV", HTVC Du Lịch
 https://livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV", HTVC FBNC
-https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTVC Gia Đình
 https://livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTVC Phim
