@@ -143,6 +143,19 @@ https://vips-livecdn.fptplay.net/tvc/uefa08_2000.stream/playlist.m3u8
 https://vips-livecdn.fptplay.net/tvc/uefa09_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cup UEFA", UEFA 10 GT
 https://vips-livecdn.fptplay.net/tvc/uefa10_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cup UEFA", UEFA 11 GT
+https://vips-livecdn.fptplay.net/tvc/uefa11_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cup UEFA", UEFA 12 GT
+https://vips-livecdn.fptplay.net/tvc/uefa12_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cup UEFA", UEFA 13 GT
+https://vips-livecdn.fptplay.net/tvc/uefa13_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cup UEFA", UEFA 14 GT
+https://vips-livecdn.fptplay.net/tvc/uefa14_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cup UEFA", UEFA 15 GT
+https://vips-livecdn.fptplay.net/tvc/uefa15_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cup UEFA", UEFA 16 GT
+https://vips-livecdn.fptplay.net/tvc/uefa17_2000.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Cup UEFA", UEFA 1
 https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cup UEFA", UEFA 2
@@ -163,6 +176,18 @@ https://vips-livecdn.fptplay.net/hdevent/uefa08_vhls.smil/playlist.m3u8
 https://vips-livecdn.fptplay.net/hdevent/uefa09_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cup UEFA", UEFA 10
 https://vips-livecdn.fptplay.net/hdevent/uefa10_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Cup UEFA", UEFA 11
+https://vips-livecdn.fptplay.net/hdevent/uefa11_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Cup UEFA", UEFA 12
+https://vips-livecdn.fptplay.net/hdevent/uefa12_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Cup UEFA", UEFA 13
+https://vips-livecdn.fptplay.net/hdevent/uefa13_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Cup UEFA", UEFA 14
+https://vips-livecdn.fptplay.net/hdevent/uefa14_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Cup UEFA", UEFA 15
+https://vips-livecdn.fptplay.net/hdevent/uefa15_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Cup UEFA", UEFA 16
+https://vips-livecdn.fptplay.net/hdevent/uefa16_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="UEFA Youth League",Youth League 1 GT
 https://livecdn.fptplay.net/tvc/youth01_2000.stream/playlist.m3u8
