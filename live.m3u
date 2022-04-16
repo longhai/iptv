@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 1 GT
-https://livecdn.fptplay.net/tvc/afc01_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 2 GT
-https://livecdn.fptplay.net/tvc/afc02_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 3 GT
-https://livecdn.fptplay.net/tvc/afc03_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 4 GT
-https://livecdn.fptplay.net/tvc/afc04_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 5 GT
-https://livecdn.fptplay.net/tvc/afc05_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 6 GT
-https://livecdn.fptplay.net/tvc/afc06_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 7 GT
-https://livecdn.fptplay.net/tvc/afc07_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 8 GT
-https://livecdn.fptplay.net/tvc/afc08_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 9 GT
-https://livecdn.fptplay.net/tvc/afc09_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 10 GT
-https://livecdn.fptplay.net/tvc/afc10_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 1
 https://livecdn.fptplay.net/hdevent/afc01_4000.stream/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 2
@@ -40,26 +20,7 @@ https://livecdn.fptplay.net/afcchampion/afc09_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 10
 https://livecdn.fptplay.net/afcchampion/afc10_2000.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Cup FA",FA Cup 1 GT
-https://livecdn.fptplay.net/tvc/fa01_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 2 GT
-https://livecdn.fptplay.net/tvc/fa02_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 3 GT
-https://livecdn.fptplay.net/tvc/fa03_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 4 GT
-https://livecdn.fptplay.net/tvc/fa04_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 5 GT
-https://livecdn.fptplay.net/tvc/fa05_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 6 GT
-https://livecdn.fptplay.net/tvc/fa06_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 7 GT
-https://livecdn.fptplay.net/tvc/fa07_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 8 GT
-https://livecdn.fptplay.net/tvc/fa08_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 9 GT
-https://livecdn.fptplay.net/tvc/fa09_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 10 GT
-https://livecdn.fptplay.net/tvc/fa10_2000.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Cup FA",FA Cup 1
 https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cup FA",FA Cup 2
@@ -80,39 +41,6 @@ https://livecdn.fptplay.net/footballassociation/facup08_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/footballassociation/facup09_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cup FA",FA Cup 10
 https://livecdn.fptplay.net/footballassociation/facup10_hls.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 1 GT
-https://vips-livecdn.fptplay.net/tvc/uefa01_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 2 GT
-https://vips-livecdn.fptplay.net/tvc/uefa02_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 3 GT
-https://vips-livecdn.fptplay.net/tvc/uefa03_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 4 GT
-https://vips-livecdn.fptplay.net/tvc/uefa04_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 5 GT
-https://vips-livecdn.fptplay.net/tvc/uefa05_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 6 GT
-https://vips-livecdn.fptplay.net/tvc/uefa06_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 7 GT
-https://vips-livecdn.fptplay.net/tvc/uefa07_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 8 GT
-https://vips-livecdn.fptplay.net/tvc/uefa08_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 9 GT
-https://vips-livecdn.fptplay.net/tvc/uefa09_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 10 GT
-https://vips-livecdn.fptplay.net/tvc/uefa10_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 11 GT
-https://vips-livecdn.fptplay.net/tvc/uefa11_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 12 GT
-https://vips-livecdn.fptplay.net/tvc/uefa12_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 13 GT
-https://vips-livecdn.fptplay.net/tvc/uefa13_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 14 GT
-https://vips-livecdn.fptplay.net/tvc/uefa14_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 15 GT
-https://vips-livecdn.fptplay.net/tvc/uefa15_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 16 GT
-https://vips-livecdn.fptplay.net/tvc/uefa17_2000.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="UEFA Champions League", UEFA 1
 https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
@@ -147,19 +75,6 @@ https://vips-livecdn.fptplay.net/hdevent/uefa15_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="UEFA Champions League", UEFA 16
 https://vips-livecdn.fptplay.net/hdevent/uefa16_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="UEFA Youth League",Youth League 1 GT
-https://livecdn.fptplay.net/tvc/youth01_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Youth League",Youth League 2 GT
-https://livecdn.fptplay.net/tvc/youth02_2000.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Sự kiện", Sự kiện 1 GT
-https://livecdn.fptplay.net/tvc/sukien01_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sự kiện", Sự kiện 2 GT
-https://livecdn.fptplay.net/tvc/sukien02_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sự kiện", Sự kiện 3  GT
-https://livecdn.fptplay.net/tvc/sukien03_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sự kiện", Sự kiện 4 GT
-https://livecdn.fptplay.net/tvc/sukien04_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", Sự kiện 1
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", Sự kiện 2
@@ -173,46 +88,26 @@ https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/schedule/wbc01_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sự Kiện", Bóng Rổ 2
 https://livecdn.fptplay.net/schedule/wbc02_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sự Kiện", Bóng Rổ 1 GT
-https://livecdn.fptplay.net/tvc/wbc01_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sự Kiện", Bóng Rổ 2 GT
-https://livecdn.fptplay.net/tvc/wbc02_2000.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sự kiện", Pladio
 https://livecdn.fptplay.net/hda3/pladio_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 1
 https://livecdn.fptplay.net/hdevent/worldcup01_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 1 GT
-https://livecdn.fptplay.net/tvc/world-cup01_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 2
 https://livecdn.fptplay.net/hdevent/worldcup02_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 2 GT
-https://livecdn.fptplay.net/tvc/world-cup02_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 3
 https://livecdn.fptplay.net/hdevent/worldcup03_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 3 GT
-https://livecdn.fptplay.net/tvc/world-cup03_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 4
 https://livecdn.fptplay.net/hdevent/worldcup04_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 4 GT
-https://livecdn.fptplay.net/tvc/world-cup04_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 5
 https://livecdn.fptplay.net/hdevent/worldcup05_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 5 GT
-https://livecdn.fptplay.net/tvc/world-cup05_2000.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sự kiện", eSports
 https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sự kiện", eSports GT
-https://livecdn.fptplay.net/tvc/esport01_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", eSports 2
 https://livecdn.fptplay.net/schedule/esport02_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sự kiện", eSports 2 GT
-https://livecdn.fptplay.net/tvc/esport02_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", F-Event
 https://livecdn.fptplay.net/schedule/f-event_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sự kiện", F-Event GT
-https://livecdn.fptplay.net/tvc/f-event_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", F-Event 1
 https://livecdn.fptplay.net/event/eventExpire_2000.stream/playlist.m3u8
