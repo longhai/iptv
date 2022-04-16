@@ -1,46 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A1 
-https://livecdn.fptplay.net/italyfootball/seriea01_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A2 
-https://livecdn.fptplay.net/italyfootball/seriea02_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A3 
-https://livecdn.fptplay.net/italyfootball/seriea03_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A4 
-https://livecdn.fptplay.net/italyfootball/seriea04_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A5
-https://livecdn.fptplay.net/italyfootball/seriea05_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A6
-https://livecdn.fptplay.net/italyfootball/seriea06_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A7
-https://livecdn.fptplay.net/italyfootball/seriea07_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A8
-https://livecdn.fptplay.net/italyfootball/seriea08_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A9
-https://livecdn.fptplay.net/italyfootball/seriea09_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A10
-https://livecdn.fptplay.net/italyfootball/seriea10_hls.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A1 GT
-https://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A2 GT
-https://livecdn.fptplay.net/tvc/seriea02_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A3 GT
-https://livecdn.fptplay.net/tvc/seriea03_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A4 GT
-https://livecdn.fptplay.net/tvc/seriea04_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A5 GT
-https://livecdn.fptplay.net/tvc/seriea05_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A6 GT
-https://livecdn.fptplay.net/tvc/seriea06_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A7 GT
-https://livecdn.fptplay.net/tvc/seriea07_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A8 GT
-https://livecdn.fptplay.net/tvc/seriea08_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A9 GT
-https://livecdn.fptplay.net/tvc/seriea09_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Vô địch Quốc gia Ý" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A10 GT
-https://livecdn.fptplay.net/tvc/seriea10_2000.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 1 GT
 https://livecdn.fptplay.net/tvc/afc01_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 2 GT
