@@ -111,3 +111,34 @@ https://livecdn.fptplay.net/schedule/esport02_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/schedule/f-event_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", F-Event 1
 https://livecdn.fptplay.net/event/eventExpire_2000.stream/playlist.m3u8
+
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 01
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/chunklist.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 02
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/chunklist.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 03
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/chunklist.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 04
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/chunklist.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 05
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/chunklist.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 06
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/chunklist.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 07
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/chunklist.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 08
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/chunklist.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 09
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/chunklist.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 10
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/chunklist.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 11
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/chunklist.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 12
+https://bb5iqwas4fliv.vcdn.cloud/m201nd/m201nd@456.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 13
+https://bb5iqwas4fliv.vcdn.cloud/m301nd/m301nd@456.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 14
+https://bb5iqwas4fliv.vcdn.cloud/m401nd/m401nd@456.m3u8|Referer=https://live.rakhoi3.tv/
+#EXTINF:0 group-title="Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 15
+https://bb5iqwas4fliv.vcdn.cloud/m501nd/m501nd@456.m3u8|Referer=https://live.rakhoi3.tv/
