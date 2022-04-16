@@ -2,23 +2,23 @@
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 1
 https://livecdn.fptplay.net/hdevent/afc01_4000.stream/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 2
-https://livecdn.fptplay.net/afcchampion/afc02_4000.stream/playlist.m3u8
+https://livecdn.fptplay.net/afcchampion/afc02_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 3
-https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/afcchampion/afc03_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 4
-https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/afcchampion/afc04_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 5
-https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/afcchampion/afc05_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 6
-https://livecdn.fptplay.net/afcchampion/afc06_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/afcchampion/afc06_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 7
-https://livecdn.fptplay.net/afcchampion/afc07_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/afcchampion/afc07_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 8
-https://livecdn.fptplay.net/afcchampion/afc08_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/afcchampion/afc08_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 9
-https://livecdn.fptplay.net/afcchampion/afc09_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/afcchampion/afc09_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 10
-https://livecdn.fptplay.net/afcchampion/afc10_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/afcchampion/afc10_hls.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Cup FA",FA Cup 1
