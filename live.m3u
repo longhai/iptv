@@ -103,6 +103,11 @@ https://livecdn.fptplay.net/hdevent/worldcup04_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Vòng loại WORLD CUP", World Cup 5
 https://livecdn.fptplay.net/hdevent/worldcup05_hls.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Thể Thao", Thể Thao 1
+https://web-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thể Thao", Thể Thao 2
+https://web-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Sự kiện", eSports
 https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", eSports 2
