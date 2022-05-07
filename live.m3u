@@ -111,6 +111,18 @@ https://livecdn.fptplay.net/hdevent/fsport02_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hdevent/fsport03_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Thể Thao", Thể Thao 4
 https://livecdn.fptplay.net/hdevent/fsport04_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thể Thao", Thể Thao 5
+https://livecdn.fptplay.net/hdevent/fsport05_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thể Thao", Thể Thao 6
+https://livecdn.fptplay.net/hdevent/fsport06_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thể Thao", Thể Thao 7
+https://livecdn.fptplay.net/hdevent/fsport07_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thể Thao", Thể Thao 8
+https://livecdn.fptplay.net/hdevent/fsport08_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thể Thao", Thể Thao 9
+https://livecdn.fptplay.net/hdevent/fsport09_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thể Thao", Thể Thao 10
+https://livecdn.fptplay.net/hdevent/fsport10_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sự kiện", eSports
 https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
