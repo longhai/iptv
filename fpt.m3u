@@ -242,6 +242,8 @@ https://livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sda/skymart_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1 - THĐT1
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Địa Phương", Đồng Tháp 2 - THĐT2
+https://livecdn.fptplay.net/sdc/dongthaphd_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế", ABC Australia
 https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/playlist.m3u8
