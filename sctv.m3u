@@ -152,3 +152,50 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/antv/sd2/index.m3u8|Referer=http://sct
 https://e2.endpoint.cdn.sctvonline.vn/hls/qhvn/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Chuyên Biệt", Quốc Phòng VN - QPVN
 https://e2.endpoint.cdn.sctvonline.vn/hls/qpvn/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+
+
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV", SCTV1
+https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV", SCTV2
+https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV", SCTV3 - SEE
+https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV", SCTV4
+https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV", SCTV5
+https://vtsstr4.tv24.vn/live/SCTV5_SD_new.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV", SCTV7
+https://vtsstr4.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV", SCTV8
+https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV", SCTV9
+https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV", SCTV10
+https://vtsstr4.tv24.vn/live/sctv10_SD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV", SCTV11
+https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV", SCTV12
+https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV", SCTV13
+https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV", SCTV15
+https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV", SCTV16
+https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV", SCTV17
+https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV", SCTV18
+https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV", SCTV19
+https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV", SCTV20
+https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV", SCTV Phim Tổng Hợp
+https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV", SCTV22
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
