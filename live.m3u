@@ -1,80 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 1
-https://livecdn.fptplay.net/hdevent/afc01_4000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 2
-https://livecdn.fptplay.net/afcchampion/afc02_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 3
-https://livecdn.fptplay.net/afcchampion/afc03_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 4
-https://livecdn.fptplay.net/afcchampion/afc04_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 5
-https://livecdn.fptplay.net/afcchampion/afc05_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 6
-https://livecdn.fptplay.net/afcchampion/afc06_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 7
-https://livecdn.fptplay.net/afcchampion/afc07_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 8
-https://livecdn.fptplay.net/afcchampion/afc08_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 9
-https://livecdn.fptplay.net/afcchampion/afc09_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)",AFC 10
-https://livecdn.fptplay.net/afcchampion/afc10_hls.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Cup FA",FA Cup 1
-https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 2
-https://livecdn.fptplay.net/footballassociation/facup02_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 3
-https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 4
-https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 5
-https://livecdn.fptplay.net/footballassociation/facup05_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 6
-https://livecdn.fptplay.net/footballassociation/facup06_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 7
-https://livecdn.fptplay.net/footballassociation/facup07_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 8
-https://livecdn.fptplay.net/footballassociation/facup08_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 9
-https://livecdn.fptplay.net/footballassociation/facup09_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cup FA",FA Cup 10
-https://livecdn.fptplay.net/footballassociation/facup10_hls.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 1
-https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 2
-https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 3
-https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 4
-https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 5
-https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 6
-https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 7
-https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 8
-https://vips-livecdn.fptplay.net/hdevent/uefa08_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 9
-https://vips-livecdn.fptplay.net/hdevent/uefa09_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 10
-https://vips-livecdn.fptplay.net/hdevent/uefa10_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 11
-https://vips-livecdn.fptplay.net/hdevent/uefa11_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 12
-https://vips-livecdn.fptplay.net/hdevent/uefa12_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 13
-https://vips-livecdn.fptplay.net/hdevent/uefa13_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 14
-https://vips-livecdn.fptplay.net/hdevent/uefa14_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 15
-https://vips-livecdn.fptplay.net/hdevent/uefa15_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UEFA Champions League", UEFA 16
-https://vips-livecdn.fptplay.net/hdevent/uefa16_vhls.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Sự kiện", Sự kiện 1
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sự kiện", Sự kiện 2
@@ -123,6 +47,15 @@ https://livecdn.fptplay.net/hdevent/fsport08_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hdevent/fsport09_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Thể Thao", Thể Thao 10
 https://livecdn.fptplay.net/hdevent/fsport10_vhls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Aff Cup",Aff Cup 1
+https://vips-livecdn.fptplay.net/sevent/affcup01_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Aff Cup",Aff Cup 2
+https://vips-livecdn.fptplay.net/sevent/affcup02_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Aff Cup",Aff Cup 3
+https://vips-livecdn.fptplay.net/sevent/affcup03_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Aff Cup",Aff Cup 4
+https://vips-livecdn.fptplay.net/sevent/affcup04_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sự kiện", eSports
 https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
