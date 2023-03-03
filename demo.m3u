@@ -1,0 +1,169 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", VTV1
+https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/playlist_dvr_range-${start}-${offset}.m3u8", VTV2
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", VTV3
+https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/playlist_dvr_range-${start}-${offset}.m3u8", VTV4
+https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", VTV5
+https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ
+https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", VTV7
+https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", VTV8
+https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", VTV9
+https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/htv1/${start}/${offset}", HTV1
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v2/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 - Vie Channel
+https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTV3
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/htv-key/${start}/${offset}", HTV Key
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTV7 HD
+https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTV9 HD
+https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao
+https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}", HTVC Du Lịch
+https://livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTVC Gia Đình
+https://livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTVC Phim
+https://livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/htvc-phu-nu/${start}/${offset}", HTVC Phụ Nữ
+https://livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", HTVC VGS Shop
+https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
+https://livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt HD
+https://livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/htvc-plus/${start}/${offset}", HTVC Plus
+https://livecdn.fptplay.net/hda3/htvcplus_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/htvc-ca-nhac/${start}/${offset}", HTVC Ca Nhạc
+http://livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc1-hd/${start}/${offset}", VTC1 HD
+https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc3-hd/${start}/${offset}", VTC3 HD
+https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_yeah1-family-vtc4_165649693777.png" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc4-yeah1-family-hd/${start}/${offset}", VTC4 HD
+https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtc5_165649694634.png" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc5-hd/${start}/${offset}", VTC5 HD
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_todaytv-vtc7_165649695627.png" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD - Today
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc8/${start}/${offset}", VTC8
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc9-hd/${start}/${offset}", VTC9 HD
+https://livecdn.fptplay.net/sdb/vtc9_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtc11-thieu-nhi_165649436148.png" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtc12_16564943692.png" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC12
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13 HD
+https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc14-hd/${start}/${offset}", VTC14 HD
+https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc16-hd/${start}/${offset}", VTC16 HD
+https://livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Fptplay", VTVcab13 - VTV Hyundai
+https://livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
+https://livecdn.fptplay.net/hda3/film360_vhls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Fptplay", ABC Australia
+https://livecdn.fptplay.net/hda3/australiaplus_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
+http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Arirang
+https://livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Asian Food Network
+https://livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN
+https://livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay",BabyTV
+https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", BBC Cbeebies
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
+http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", BBC World News
+https://livecdn.fptplay.net/hda3/bbcnews_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
+https://livecdn.fptplay.net/hda3/bbclifestyle_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Bloomberg
+https://livecdn.fptplay.net/hda3/bloomberg_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Blue Ant Entertainment
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Blue Ant Extreme
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", CNA
+https://livecdn.fptplay.net/sdb/newsasia_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemaworld_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemaworld
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",CINEMAX
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", CNN
+https://livecdn.fptplay.net/hda3/cnn_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", CNBC
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Da Vinci
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Channel
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
+https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", DW
+https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Fashion TV
+https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", France 24
+https://livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", NHK World
+https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Outdoor Channel
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", TV5 Monde Asie
+https://livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", WarnerTV
+https://livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
