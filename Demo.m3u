@@ -16,8 +16,8 @@ https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8
 #EXTINF:-1 , VTV3 HD
 https://livecdn.fptplay.net/hda1/vtv3_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${offset}.m3u8", VTV Cần Thơ
-https://code.vthanhtivi.pw/getlink/tv360/98/2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+#https://code.vthanhtivi.pw/getlink/tv360/98/2.m3u8
 
 #EXTGRP:💚| SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
