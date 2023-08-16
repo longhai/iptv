@@ -30,3 +30,11 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZJxqY5qjm8KZoKWWl6ejkZxnZl5naqE=&time=1692180848&mykplus&id=ksport2
+https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZJxqY5qjm8KZoKWWl6ejkZxnZl5naqE=&time=1692180848&mykplus&id=kkids
+https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
