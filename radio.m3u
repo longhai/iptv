@@ -73,12 +73,12 @@ http://125.212.213.71:1935/live/channel5/playlist.m3u8
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOH FM 99.9MHz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", VOV1 AM 675kHz
-http://stream2.mobiradio.vn/vovradio/vov1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", VOV2 FM 102.7MHz
-http://stream2.mobiradio.vn/vovradio/vov2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", VOV3 FM 104.5MHz
-http://stream2.mobiradio.vn/vovradio/vov3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", VOV1 FM 100MHz
+https://stream-cdn.vov.vn/live/vov1-audio_only.m3u8
+#EXTINF:-1 group-title="Radio Việt", VOV2 FM 96.5 MHz
+https://stream-cdn.vov.vn/live/vov2-audio_only.m3u8
+#EXTINF:-1 group-title="Radio Việt", VOV3 FM 102.7 MHz
+https://stream-cdn.vov.vn/live/vov3-audio_only.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV4 DBSCL
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV4 Miền Trung
@@ -91,8 +91,6 @@ http://media.kythuatvov.vn:7039/;stream/
 https://streaming1.vov.vn:8443/audio/vovvn1_vov247.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV5 FM 105.5MHz
 https://streaming1.vov.vn:8443/audio/vovvn1_vov5.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", VOV6
-https://streaming1.vov.vn:8443/audio/vovvn1_vov2.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV FM 89
 http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOVGT HCM
@@ -101,6 +99,8 @@ http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
 http://stream2.mobiradio.vn/vovradio/vovgthn.stream/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOVGT Mekong
 http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", VOVGT Mekong
+https://stream.vovmedia.vn/vovmekong
 #EXTINF:-1 group-title="Radio Việt", Vĩnh Long Radio
 https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bHJhZGlvIiwiZXhwIjoxNjM5NjY5ODg0fQ.tpfVME47VNjqy4yDtSUyM09vOFBCYK1IUTIGyBFPBT0-/thvlradio/chunks.m3u8
 #EXTINF:-1 group-title="Radio Việt", Yên Bái Radio
