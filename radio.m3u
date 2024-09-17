@@ -90,7 +90,7 @@ http://media.kythuatvov.vn:7039/;stream/
 #EXTINF:-1 group-title="Radio Việt", VOV English 24/7
 https://streaming1.vov.vn:8443/audio/vovvn1_vov247.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV5 FM 105.5MHz
-https://streaming1.vov.vn:8443/audio/vovvn1_vov5.stream_aac/playlist.m3u8
+https://stream-cdn.vov.vn/live/vov5-audio_only.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV FM 89
 http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOVGT HCM
@@ -102,7 +102,7 @@ http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOVGT Mekong
 https://stream.vovmedia.vn/vovmekong
 #EXTINF:-1 group-title="Radio Việt", Vĩnh Long Radio
-https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bHJhZGlvIiwiZXhwIjoxNjM5NjY5ODg0fQ.tpfVME47VNjqy4yDtSUyM09vOFBCYK1IUTIGyBFPBT0-/thvlradio/chunks.m3u8
+https://catchup.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNkMDY2ZjkxLWE5OGEtNDhlMy04ZWRhLWFlZTU1NmRhYmM1ZSIsImV4cCI6MTcyNjU3OTAwMSwidXJpIjoiL3JhZGlvIiwiaWF0IjoxNzI2NTU3NDAxfQ.EOgm-QIPU-XZGxeofmgA9VB-fGJAZA_Yo_1OtcYfaoQ-/radio/chunks.m3u8
 #EXTINF:-1 group-title="Radio Việt", Yên Bái Radio
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 #EXTINF:-1 group-title="Radio Việt", Đà Nẵng Radio
