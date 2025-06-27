@@ -169,6 +169,488 @@
         "remote_data": {
             "url": "https://iptv.rophim.dev/collection/movies?id=3KYr2v"
         },
-       "channels": [],
+        "channels": [{
+            "id": "BI9or9ry",
+            "name": "Người Phụ Nữ Nuốt Chửng Mặt Trời",
+            "description": "Baek Seol Hui, một người mẹ đơn thân kiên cường, vừa gánh vác quán ăn nhỏ vừa chăm sóc con gái. Nhưng khi bi kịch ập đến với con, Seol Hui buộc phải dấn thân vào cuộc chiến không khoan nhượng với một gia đình tài phiệt, để đòi lại công bằng.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=BI9or9ry"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/3afbf1a529ea9b359ee47680edc81293.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/3aebc6a628249f58c2638190e2bfe6a9.jpg",
+                "title": "Người Phụ Nữ Nuốt Chửng Mặt Trời",
+                "description": "Baek Seol Hui, một người mẹ đơn thân kiên cường, vừa gánh vác quán ăn nhỏ vừa chăm sóc con gái. Nhưng khi bi kịch ập đến với con, Seol Hui buộc phải dấn thân vào cuộc chiến không khoan nhượng với một gia đình tài phiệt, để đòi lại công bằng."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=BI9or9ry"
+            }
+        }, {
+            "id": "etlNK9KX",
+            "name": "Giữ Chặt Vận May",
+            "description": "Ba người bạn: một người có nhiều tiền, một người không có tiền và một người muốn có thật nhiều tiền. Trong vòng xoay số mệnh,  người có nhiều tiền bỗng trở thành kẻ cháy túi. Người không có tiền trở thành nhà giàu xổi. Người muốn có thật nhiều tiền thì giấu diếm tiền đen. Có người phải bất hạnh, có người được hạnh phúc. Tình thân gia đình tưởng chừng chỉ cần có tiền là đủ, nhưng lại rạn nứt. Gia đình mà trước đây tưởng như sẽ chết nếu không có tiền thì từng người một bắt đầu trưởng thành. Hai gia đình bỗng hoán đổi vị trí cho nhau. Để rồi cuối cùng, thứ hiện hữu quan trọng nhất không phải tiền, mà là \"con người\" trong cuộc sống kim tiền ấy. Rốt cuộc đã xảy ra chuyện gì với những người bạn thân trung niên bụng phệ này?",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=etlNK9KX"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/beca8deee57e2a1ab25637463053dbde.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/beca8deee57e2a1ab25637463053dbde.jpg",
+                "title": "Giữ Chặt Vận May",
+                "description": "Ba người bạn: một người có nhiều tiền, một người không có tiền và một người muốn có thật nhiều tiền. Trong vòng xoay số mệnh,  người có nhiều tiền bỗng trở thành kẻ cháy túi. Người không có tiền trở thành nhà giàu xổi. Người muốn có thật nhiều tiền thì giấu diếm tiền đen. Có người phải bất hạnh, có người được hạnh phúc. Tình thân gia đình tưởng chừng chỉ cần có tiền là đủ, nhưng lại rạn nứt. Gia đình mà trước đây tưởng như sẽ chết nếu không có tiền thì từng người một bắt đầu trưởng thành. Hai gia đình bỗng hoán đổi vị trí cho nhau. Để rồi cuối cùng, thứ hiện hữu quan trọng nhất không phải tiền, mà là \"con người\" trong cuộc sống kim tiền ấy. Rốt cuộc đã xảy ra chuyện gì với những người bạn thân trung niên bụng phệ này?"
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=etlNK9KX"
+            }
+        }, {
+            "id": "zevi3D3N",
+            "name": "Trò Chơi Con Mực",
+            "description": "Hàng trăm người chơi kẹt tiền chấp nhận một lời mời kỳ lạ: thi đấu trong các trò chơi trẻ con. Đón chờ họ là một giải thưởng hấp dẫn – và những rủi ro chết người.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=zevi3D3N"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/64c01776ad526d9b0f596e39ff0889c5.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/64c01776ad526d9b0f596e39ff0889c5.jpg",
+                "title": "Trò Chơi Con Mực",
+                "description": "Hàng trăm người chơi kẹt tiền chấp nhận một lời mời kỳ lạ: thi đấu trong các trò chơi trẻ con. Đón chờ họ là một giải thưởng hấp dẫn – và những rủi ro chết người."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=zevi3D3N"
+            }
+        }, {
+            "id": "Rq52P7bP",
+            "name": "Tôi Đã Cướp Mất Đêm Đầu Tiên Của Nam Chính",
+            "description": "Bất ngờ xuyên không vào tiểu thuyết lãng mạn đã đành, Seon Chaek còn vào vai một nhân vật không có kết cục tốt. Nào chịu nghe theo kịch bản, cô chốt hạ sẽ quyến rũ luôn nam chính để cải mệnh.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=Rq52P7bP"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/fb3e9bd8372cee8e58c5146f767ae2b4.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/fb3e9bd8372cee8e58c5146f767ae2b4.jpg",
+                "title": "Tôi Đã Cướp Mất Đêm Đầu Tiên Của Nam Chính",
+                "description": "Bất ngờ xuyên không vào tiểu thuyết lãng mạn đã đành, Seon Chaek còn vào vai một nhân vật không có kết cục tốt. Nào chịu nghe theo kịch bản, cô chốt hạ sẽ quyến rũ luôn nam chính để cải mệnh."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=Rq52P7bP"
+            }
+        }, {
+            "id": "Mt22hhxo",
+            "name": "Holmes của Khu Phố",
+            "description": "Phim kể về 4 bà nội trợ bị quá tải với công việc nhà, bị người khác phớt lờ, và đôi khi phải gác lại ước mơ của mình vì gia đình, giải quyết các vụ án bằng cách lắng nghe câu chuyện của những nạn nhân bị bỏ qua và truy tìm bằng chứng trong cuộc sống hàng ngày của họ.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=Mt22hhxo"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/63242caeeeb5a57238a6c6d013b1dfe8.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/63242caeeeb5a57238a6c6d013b1dfe8.jpg",
+                "title": "Holmes của Khu Phố",
+                "description": "Phim kể về 4 bà nội trợ bị quá tải với công việc nhà, bị người khác phớt lờ, và đôi khi phải gác lại ước mơ của mình vì gia đình, giải quyết các vụ án bằng cách lắng nghe câu chuyện của những nạn nhân bị bỏ qua và truy tìm bằng chứng trong cuộc sống hàng ngày của họ."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=Mt22hhxo"
+            }
+        }, {
+            "id": "cKxP1dFA",
+            "name": "Tranh Cử Học Đường",
+            "description": "Sau một sự cố, học sinh gương mẫu No Se Hun trở thành trò cười của cả trường. Để lấy lại danh tiếng, Se Hun đồng ý làm ứng cử viên phó chủ tịch hội học sinh, cùng tranh cử với Yang Won Dae. Tuy nhiên, khi biết mình chỉ là lựa chọn thứ 12 của Won Dae, Se Hun quyết định hợp tác với Kwak Sang Hyun, một nam sinh được rất nhiều bạn bè trong trường quý mến. Không chỉ xoay quanh các cuộc đối đầu kịch tính, Tranh Cử Học Đường (I Am A Running Mate) còn khai thác góc khuất của đời sống học sinh và những áp lực tuổi trưởng thành.\r\n\r\n",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=cKxP1dFA"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/bec7e460ce1924bd40f5e98fa89ba24f.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/bec7e460ce1924bd40f5e98fa89ba24f.jpg",
+                "title": "Tranh Cử Học Đường",
+                "description": "Sau một sự cố, học sinh gương mẫu No Se Hun trở thành trò cười của cả trường. Để lấy lại danh tiếng, Se Hun đồng ý làm ứng cử viên phó chủ tịch hội học sinh, cùng tranh cử với Yang Won Dae. Tuy nhiên, khi biết mình chỉ là lựa chọn thứ 12 của Won Dae, Se Hun quyết định hợp tác với Kwak Sang Hyun, một nam sinh được rất nhiều bạn bè trong trường quý mến. Không chỉ xoay quanh các cuộc đối đầu kịch tính, Tranh Cử Học Đường (I Am A Running Mate) còn khai thác góc khuất của đời sống học sinh và những áp lực tuổi trưởng thành.\r\n\r\n"
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=cKxP1dFA"
+            }
+        }, {
+            "id": "61VpPOKb",
+            "name": "Cuốn Phim của Đôi Ta",
+            "description": "Our Movie là một bộ phim thuộc thể loại lãng mạn trầm buồn - melodrama, kể câu chuyện tình yêu ngọt ngào nhưng cũng bi thương của cặp đôi Lee Je Ha và Lee Da Eum. Lee Da Eum, một cô gái xinh đẹp, đam mê diễn xuất nhưng không may mắc căn bệnh hiểm nghèo. Dù thời gian sống còn lại chỉ tính bằng ngày, thế nhưng Lee Da Eum vẫn sống một cách mãnh liệt và can đảm hơn bất kỳ ai. Bất chấp số phận nghiệt ngã, cô luôn giữ tinh thần lạc quan, vui vẻ theo đuổi ước mơ, không ngừng hướng về ngày mai. Lee Da Eum gặp được Lee Je Ha (Nam Goong Min) khi anh đang đi tìm chất liệu cho dự án nghệ thuật mới của mình. Anh là một đạo diễn tài năng, từng được công nhận rộng rãi sau tác phẩm đầu tay nhưng chưa ra phim mới trong suốt 5 năm. Lee Je Ha muốn bộ phim thứ hai của mình kể về chuyện tình của một người không còn nhiều thời gian và Lee Da Eum trở thành đối tác hoàn hảo. Họ cùng nhau thực hiện bộ phim, đồng thời viết nên một câu chuyện tình yêu cho chính mình.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=61VpPOKb"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/4c157fe974183de6dc324b6dd8d0781f.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/4c157fe974183de6dc324b6dd8d0781f.jpg",
+                "title": "Cuốn Phim của Đôi Ta",
+                "description": "Our Movie là một bộ phim thuộc thể loại lãng mạn trầm buồn - melodrama, kể câu chuyện tình yêu ngọt ngào nhưng cũng bi thương của cặp đôi Lee Je Ha và Lee Da Eum. Lee Da Eum, một cô gái xinh đẹp, đam mê diễn xuất nhưng không may mắc căn bệnh hiểm nghèo. Dù thời gian sống còn lại chỉ tính bằng ngày, thế nhưng Lee Da Eum vẫn sống một cách mãnh liệt và can đảm hơn bất kỳ ai. Bất chấp số phận nghiệt ngã, cô luôn giữ tinh thần lạc quan, vui vẻ theo đuổi ước mơ, không ngừng hướng về ngày mai. Lee Da Eum gặp được Lee Je Ha (Nam Goong Min) khi anh đang đi tìm chất liệu cho dự án nghệ thuật mới của mình. Anh là một đạo diễn tài năng, từng được công nhận rộng rãi sau tác phẩm đầu tay nhưng chưa ra phim mới trong suốt 5 năm. Lee Je Ha muốn bộ phim thứ hai của mình kể về chuyện tình của một người không còn nhiều thời gian và Lee Da Eum trở thành đối tác hoàn hảo. Họ cùng nhau thực hiện bộ phim, đồng thời viết nên một câu chuyện tình yêu cho chính mình."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=61VpPOKb"
+            }
+        }, {
+            "id": "5f6P37YW",
+            "name": "Mùa Xuân Tuổi Trẻ",
+            "description": "Bị loại khỏi ban nhạc của một ngôi sao K-pop, chàng trai nọ đi học đại học rồi phải lòng một cô sinh viên âm nhạc – người có thể mở ra cánh cửa cho dự án âm nhạc tiếp theo của anh.\r\n",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=5f6P37YW"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/edab48518a61bc3a74419b755548796c.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/edab48518a61bc3a74419b755548796c.jpg",
+                "title": "Mùa Xuân Tuổi Trẻ",
+                "description": "Bị loại khỏi ban nhạc của một ngôi sao K-pop, chàng trai nọ đi học đại học rồi phải lòng một cô sinh viên âm nhạc – người có thể mở ra cánh cửa cho dự án âm nhạc tiếp theo của anh.\r\n"
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=5f6P37YW"
+            }
+        }, {
+            "id": "vDFJBjKv",
+            "name": "Kiện Tướng",
+            "description": "“Good Boy” kể về câu chuyện của Yoon Dong Joo (Park Bo Gum thủ vai), một cựu vận động viên quyền anh quốc gia từng giành huy chương vàng quốc tế, trở thành cảnh sát thông qua một chương trình tuyển dụng đặc biệt dành cho các vận động viên giành huy chương. Cuộc sống của cậu rẽ sang một hướng đầy kịch tính khi Min Joo Young (Oh Jung Se) - một nhân vật phản diện tàn nhẫn cai trị thành phố Inseong từ trong bóng tối - xuất hiện như kẻ thù cuối cùng. Với sự hiện diện nham hiểm và sự khinh thường luật pháp, trật tự, ngay cả hình bóng của hắn cũng khiến người ta rùng mình.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=vDFJBjKv"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/7a6d6a456fe14c149ea625fd0178d38e.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/7a6d6a456fe14c149ea625fd0178d38e.jpg",
+                "title": "Kiện Tướng",
+                "description": "“Good Boy” kể về câu chuyện của Yoon Dong Joo (Park Bo Gum thủ vai), một cựu vận động viên quyền anh quốc gia từng giành huy chương vàng quốc tế, trở thành cảnh sát thông qua một chương trình tuyển dụng đặc biệt dành cho các vận động viên giành huy chương. Cuộc sống của cậu rẽ sang một hướng đầy kịch tính khi Min Joo Young (Oh Jung Se) - một nhân vật phản diện tàn nhẫn cai trị thành phố Inseong từ trong bóng tối - xuất hiện như kẻ thù cuối cùng. Với sự hiện diện nham hiểm và sự khinh thường luật pháp, trật tự, ngay cả hình bóng của hắn cũng khiến người ta rùng mình."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=vDFJBjKv"
+            }
+        }, {
+            "id": "5gbk7uS2",
+            "name": "Thợ Săn Dao Mổ",
+            "description": "Bác sĩ pháp y thiên tài Seo Se-Hyun (Park Ju-Hyun), người mang rối loạn nhân cách chống đối xã hội. Cô phát hiện dấu vết tội ác của cha mình, Yoon Jo-Kyun (Park Yong Woo), một kẻ sát nhân hàng loạt tưởng chừng đã chết, qua những vụ án mới với phương pháp giết người đặc trưng. Cuộc đối đầu giữa hai cha con trở thành trò chơi trí tuệ đẫm máu, nơi Se-Hyun vừa che giấu quá khứ, vừa truy lùng cha để bảo vệ bản thân. Bộ phim khắc họa mối quan hệ cha-con độc hại, đặt câu hỏi về ranh giới thiện-ác trong huyết thống.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=5gbk7uS2"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/0e8c426add0bb609f940f34e12679e3e.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/0e8c426add0bb609f940f34e12679e3e.jpg",
+                "title": "Thợ Săn Dao Mổ",
+                "description": "Bác sĩ pháp y thiên tài Seo Se-Hyun (Park Ju-Hyun), người mang rối loạn nhân cách chống đối xã hội. Cô phát hiện dấu vết tội ác của cha mình, Yoon Jo-Kyun (Park Yong Woo), một kẻ sát nhân hàng loạt tưởng chừng đã chết, qua những vụ án mới với phương pháp giết người đặc trưng. Cuộc đối đầu giữa hai cha con trở thành trò chơi trí tuệ đẫm máu, nơi Se-Hyun vừa che giấu quá khứ, vừa truy lùng cha để bảo vệ bản thân. Bộ phim khắc họa mối quan hệ cha-con độc hại, đặt câu hỏi về ranh giới thiện-ác trong huyết thống."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=5gbk7uS2"
+            }
+        }, {
+            "id": "OB6X0bIc",
+            "name": "Ngôi Nhà của Nữ Hoàng",
+            "description": "A wealthy designer yearning for a simpler life has her world turned upside down by a shocking event, drawing her into the path of a compassionate surgeon whose life is consumed by a quest for revenge after a heartbreaking loss.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=OB6X0bIc"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/828ea6ba1625829a5cd439cf73356061.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/828ea6ba1625829a5cd439cf73356061.jpg",
+                "title": "Ngôi Nhà của Nữ Hoàng",
+                "description": "A wealthy designer yearning for a simpler life has her world turned upside down by a shocking event, drawing her into the path of a compassionate surgeon whose life is consumed by a quest for revenge after a heartbreaking loss."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=OB6X0bIc"
+            }
+        }, {
+            "id": "4tDukPxp",
+            "name": "Ngưu Lang Chức Nữ",
+            "description": "Cô gái Seong Ah, ban ngày làm nữ sinh, đêm đến sẽ trở thành một pháp sư với số mệnh kết nối dương thế với thế giới linh hồn. Dù không được sống một cuộc đời bình thường, Seong Ah đã học cách đối mặt kiên cường và không bao giờ bỏ cuộc. Cô vô tình gặp Gyeon Woo – cậu thiếu niên với vẻ ngoài hoàn hảo đến phi thực nhưng lại sống dưới lời nguyền của vận xui mãn kiếp. Cuộc đời cậu chỉ là những lần phải đối diện với vận rủi, kỳ vọng dành cho một vận động viên, cô độc đến mức chẳng còn tin vào tình yêu. Lần đầu gặp mặt, Gyeon Woo hiện lên trong mắt Seong Ah với hình hài lộn ngược – dấu hiệu cho thấy cái chết đang cận kề. Hoá ra anh chỉ còn sống được 21 ngày. Với cô, đó không phải kết thúc cho anh mà là khởi đầu của một cuộc chiến chống lại số phận được viết sẵn.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=4tDukPxp"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/dae02bd86bbe90c51c89cca05aa4b783.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/05a7b43d57bc949bd389ffd24a34f1d0.jpg",
+                "title": "Ngưu Lang Chức Nữ",
+                "description": "Cô gái Seong Ah, ban ngày làm nữ sinh, đêm đến sẽ trở thành một pháp sư với số mệnh kết nối dương thế với thế giới linh hồn. Dù không được sống một cuộc đời bình thường, Seong Ah đã học cách đối mặt kiên cường và không bao giờ bỏ cuộc. Cô vô tình gặp Gyeon Woo – cậu thiếu niên với vẻ ngoài hoàn hảo đến phi thực nhưng lại sống dưới lời nguyền của vận xui mãn kiếp. Cuộc đời cậu chỉ là những lần phải đối diện với vận rủi, kỳ vọng dành cho một vận động viên, cô độc đến mức chẳng còn tin vào tình yêu. Lần đầu gặp mặt, Gyeon Woo hiện lên trong mắt Seong Ah với hình hài lộn ngược – dấu hiệu cho thấy cái chết đang cận kề. Hoá ra anh chỉ còn sống được 21 ngày. Với cô, đó không phải kết thúc cho anh mà là khởi đầu của một cuộc chiến chống lại số phận được viết sẵn."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=4tDukPxp"
+            }
+        }, {
+            "id": "4FmPc8om",
+            "name": "Thử Thách Thần Tượng",
+            "description": "Thử Thách Thần Tượng - RUNNING MAN là một show truyền hình hài hước thực tế của Hàn Quốc, ra mắt từ năm 2010 nhưng cho đến nay vẫn là một trong những chương trình giải trí được yêu thích nhất tại xứ sở kim chi. Với RUNNING MAN, đảm bảo các bạn sẽ phải \"cười lăn cười bò\" vì sự hài hước của các thành viên cũng như những nhiệm vụ oái ăm mà họ phải chịu đựng trong suốt chương trình. Ngoài 8 thành viên chính của RUNNING MAN gồm: Yoo Jae Suk, Ji Suk Jin, Kim Jong Kook, Lee Kwang Soo, Haha, Song Ji Hyo, Yang Se Chan và Jeon So Min, khán giả sẽ có dịp gặp gỡ những ngôi sao giải trí hàng đầu khác của Hàn Quốc, thậm chí là những ngôi sao Quốc tế tham gia RUNNING MAN trong vai trò khách mời đặc biệt.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=4FmPc8om"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/bb73ac14cd80d73923cfbb93ba6ee732.webp",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/27b470621383021f7d556614c139b7df.webp",
+                "title": "Thử Thách Thần Tượng",
+                "description": "Thử Thách Thần Tượng - RUNNING MAN là một show truyền hình hài hước thực tế của Hàn Quốc, ra mắt từ năm 2010 nhưng cho đến nay vẫn là một trong những chương trình giải trí được yêu thích nhất tại xứ sở kim chi. Với RUNNING MAN, đảm bảo các bạn sẽ phải \"cười lăn cười bò\" vì sự hài hước của các thành viên cũng như những nhiệm vụ oái ăm mà họ phải chịu đựng trong suốt chương trình. Ngoài 8 thành viên chính của RUNNING MAN gồm: Yoo Jae Suk, Ji Suk Jin, Kim Jong Kook, Lee Kwang Soo, Haha, Song Ji Hyo, Yang Se Chan và Jeon So Min, khán giả sẽ có dịp gặp gỡ những ngôi sao giải trí hàng đầu khác của Hàn Quốc, thậm chí là những ngôi sao Quốc tế tham gia RUNNING MAN trong vai trò khách mời đặc biệt."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=4FmPc8om"
+            }
+        }, {
+            "id": "kUtnqwik",
+            "name": "Trò Chơi Kim Tự Tháp",
+            "description": "Vào mỗi chiều thứ năm, mỗi tháng một lần, học sinh tại trường Love High sẽ bỏ phiếu trong một cuộc thăm dò ý kiến ​​về mức độ phổ biến. Kết quả là gì? Một hệ thống xếp hạng tàn bạo quyết định toàn bộ thứ bậc của trường.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=kUtnqwik"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/db600a8e78a63810396efd276a61979e.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/db600a8e78a63810396efd276a61979e.jpg",
+                "title": "Trò Chơi Kim Tự Tháp",
+                "description": "Vào mỗi chiều thứ năm, mỗi tháng một lần, học sinh tại trường Love High sẽ bỏ phiếu trong một cuộc thăm dò ý kiến ​​về mức độ phổ biến. Kết quả là gì? Một hệ thống xếp hạng tàn bạo quyết định toàn bộ thứ bậc của trường."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=kUtnqwik"
+            }
+        }, {
+            "id": "YC87NSWE",
+            "name": "Một Seoul Chưa Biết Đến",
+            "description": "Hai chị em song sinh, chỉ giống nhau ngoại hình song tính cách trái ngược, tráo đổi thân phận giữa những rối ren riêng và bước vào hành trình tìm lại tình yêu và ý nghĩa cuộc sống.\r\n",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=YC87NSWE"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/6cc7eb60c59d9619ce8a919b772f0e3f.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/6cc7eb60c59d9619ce8a919b772f0e3f.jpg",
+                "title": "Một Seoul Chưa Biết Đến",
+                "description": "Hai chị em song sinh, chỉ giống nhau ngoại hình song tính cách trái ngược, tráo đổi thân phận giữa những rối ren riêng và bước vào hành trình tìm lại tình yêu và ý nghĩa cuộc sống.\r\n"
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=YC87NSWE"
+            }
+        }, {
+            "id": "szC61c0r",
+            "name": "Ma Ơi, Kiện Ai?",
+            "description": "Ma Ơi, Kiện Ai? (Oh My Ghost Clients) theo chân No Mu Jin, một luật sư chuyên đại diện cho những thân chủ... thuộc cõi âm. Sau khi thoát chết trong một tai nạn hi hữu, No Mu Jin, một luật sư không mấy nhiệt huyết với nghề, bỗng có khả năng nhìn thấy hồn ma. Kể từ đó, anh bất đắc dĩ trở thành luật sư của những công nhân xấu số đã thiệt mạng trong các vụ tai nạn lao động. Trong quá trình đi tìm công lý cho họ, Mu Jin dần dần trưởng thành hơn và tìm lại được nhiệt huyết với nghề luật sư của mình.\r\n\r\n",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=szC61c0r"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/adbca23ea5651ca18dbdb04dd9212ab5.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/adbca23ea5651ca18dbdb04dd9212ab5.jpg",
+                "title": "Ma Ơi, Kiện Ai?",
+                "description": "Ma Ơi, Kiện Ai? (Oh My Ghost Clients) theo chân No Mu Jin, một luật sư chuyên đại diện cho những thân chủ... thuộc cõi âm. Sau khi thoát chết trong một tai nạn hi hữu, No Mu Jin, một luật sư không mấy nhiệt huyết với nghề, bỗng có khả năng nhìn thấy hồn ma. Kể từ đó, anh bất đắc dĩ trở thành luật sư của những công nhân xấu số đã thiệt mạng trong các vụ tai nạn lao động. Trong quá trình đi tìm công lý cho họ, Mu Jin dần dần trưởng thành hơn và tìm lại được nhiệt huyết với nghề luật sư của mình.\r\n\r\n"
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=szC61c0r"
+            }
+        }, {
+            "id": "6TcFN9wt",
+            "name": "ONE: Người Hùng Trung Học",
+            "description": "Dựa trên webtoon cùng tên, kể về câu chuyện của một học sinh gương mẫu từng dành toàn bộ sự chú ý của mình cho việc học nhưng bị vướng vào bạo lực gia đình và bắt nạt ở trường, buộc anh phải đưa ra quyết định mang tính thay đổi. One: High School Heroes kể về hành trình nhóm học sinh dũng cảm chống bạo lực học đường, kết hợp hành động mãn nhãn và drama sâu sắc, truyền tải thông điệp đoàn kết. ",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=6TcFN9wt"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/5de98c306462ea7631b0bc11ef9d6480.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/5de98c306462ea7631b0bc11ef9d6480.jpg",
+                "title": "ONE: Người Hùng Trung Học",
+                "description": "Dựa trên webtoon cùng tên, kể về câu chuyện của một học sinh gương mẫu từng dành toàn bộ sự chú ý của mình cho việc học nhưng bị vướng vào bạo lực gia đình và bắt nạt ở trường, buộc anh phải đưa ra quyết định mang tính thay đổi. One: High School Heroes kể về hành trình nhóm học sinh dũng cảm chống bạo lực học đường, kết hợp hành động mãn nhãn và drama sâu sắc, truyền tải thông điệp đoàn kết. "
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=6TcFN9wt"
+            }
+        }, {
+            "id": "fIAFZ6io",
+            "name": "Anh Em Đại Bàng",
+            "description": "Ma Gwang Suk làm trưởng phòng tại Bưu điện Shiwan. Cô 45 tuổi và độc thân. Cô gặp O Jang Su, giám đốc điều hành của Eagle Brewery, và họ quyết định kết hôn. Nhưng chỉ 10 ngày sau khi kết hôn, O Jang Su gặp tai nạn và qua đời. Ma Gwang Suk tiếp quản nhà máy bia và trở thành trụ cột gia đình cho 4 người em rể. Cô có tính cách vui vẻ và hoạt bát, điều này giúp cô kiên trì. Han Dong Seok là chủ tịch của Khách sạn LX. Anh sinh ra trong một gia đình giàu có và chưa bao giờ thiếu thốn bất cứ thứ gì, nhưng sau khi mất vợ cách đây 15 năm, anh sống cuộc sống cô đơn. Anh cũng kiêu ngạo và có quan điểm rõ ràng về những gì anh nghĩ là đúng hay sai. Anh gặp Ma Gwang Suk.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=fIAFZ6io"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/fc5a553eb75d5e12177a5243d64f007e.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/fc5a553eb75d5e12177a5243d64f007e.jpg",
+                "title": "Anh Em Đại Bàng",
+                "description": "Ma Gwang Suk làm trưởng phòng tại Bưu điện Shiwan. Cô 45 tuổi và độc thân. Cô gặp O Jang Su, giám đốc điều hành của Eagle Brewery, và họ quyết định kết hôn. Nhưng chỉ 10 ngày sau khi kết hôn, O Jang Su gặp tai nạn và qua đời. Ma Gwang Suk tiếp quản nhà máy bia và trở thành trụ cột gia đình cho 4 người em rể. Cô có tính cách vui vẻ và hoạt bát, điều này giúp cô kiên trì. Han Dong Seok là chủ tịch của Khách sạn LX. Anh sinh ra trong một gia đình giàu có và chưa bao giờ thiếu thốn bất cứ thứ gì, nhưng sau khi mất vợ cách đây 15 năm, anh sống cuộc sống cô đơn. Anh cũng kiêu ngạo và có quan điểm rõ ràng về những gì anh nghĩ là đúng hay sai. Anh gặp Ma Gwang Suk."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=fIAFZ6io"
+            }
+        }, {
+            "id": "H1ro2M2c",
+            "name": "Một Chén Say Tình",
+            "description": "Một người phụ nữ luôn tự nhận mình là người \"yêu\" rượu rất mực “hợp lý”. Nhưng mọi thứ đảo lộn khi cô tình cờ gặp lại mối tình đầu — một người đàn ông hoàn toàn bài xích rượu bia. Muốn giữ hình tượng hoàn hảo trước crush, cô quyết tâm bắt đầu hành trình... cai rượu! Từ những buổi tiệc thiếu men say đến những cuộc hẹn đầy ngượng ngùng khi tỉnh táo, cô nhận ra: cai rượu thì khó, nhưng giữ vững con tim trước người cũ còn khó hơn.",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=H1ro2M2c"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/3b73b7a792d8b39abb0dfdf8687ae54f.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/e62a3bbb2f11606077b9adc6c2dc1e1a.jpg",
+                "title": "Một Chén Say Tình",
+                "description": "Một người phụ nữ luôn tự nhận mình là người \"yêu\" rượu rất mực “hợp lý”. Nhưng mọi thứ đảo lộn khi cô tình cờ gặp lại mối tình đầu — một người đàn ông hoàn toàn bài xích rượu bia. Muốn giữ hình tượng hoàn hảo trước crush, cô quyết tâm bắt đầu hành trình... cai rượu! Từ những buổi tiệc thiếu men say đến những cuộc hẹn đầy ngượng ngùng khi tỉnh táo, cô nhận ra: cai rượu thì khó, nhưng giữ vững con tim trước người cũ còn khó hơn."
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=H1ro2M2c"
+            }
+        }, {
+            "id": "yT0T5yKP",
+            "name": "Không Dung Thứ",
+            "description": "Sau khi cắt đứt quan hệ với băng đảng, tay giang hồ gác kiếm nọ quay lại để khám phá sự thật đằng sau cái chết của em trai – bước vào con đường báo thù không khoan nhượng.\r\n",
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.rophim.dev/movie/episodes?id=yT0T5yKP"
+            },
+            "image": {
+                "url": "https://static.nutscdn.com/vimg/600-0/1c598e50308b711e6f494cf625797305.jpg",
+                "type": "contain",
+                "width": 320,
+                "height": 480
+            },
+            "org_metadata": {
+                "image": "https://static.nutscdn.com/vimg/600-0/1c598e50308b711e6f494cf625797305.jpg",
+                "title": "Không Dung Thứ",
+                "description": "Sau khi cắt đứt quan hệ với băng đảng, tay giang hồ gác kiếm nọ quay lại để khám phá sự thật đằng sau cái chết của em trai – bước vào con đường báo thù không khoan nhượng.\r\n"
+            },
+            "share": {
+                "url": "https://iptv.rophim.dev/movie/info?id=yT0T5yKP"
+            }
+        }]
+    }],
+    "channels": [],
     
 }
