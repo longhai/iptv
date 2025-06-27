@@ -1,1 +1,103 @@
 
+{
+  "id": "fptplay",
+  "name": "FPT Play",
+  "color": "#FF9E2D",
+  "org_metadata": {
+    "image": "http://iptv.example.org/logo.png",
+    "title": "FPT Play - Truyền hình trực tuyến",
+    "description": "Xem truyền hình, phim, thể thao miễn phí."
+  },
+  "description": "Xem truyền hình, phim, thể thao miễn phí.",
+  "url": "http://iptv.example.org/v1",
+  "image": {
+    "display": "contain",
+    "shape": "square",
+    "url": "http://iptv.example.org/logo.png",
+    "height": 101,
+    "width": 155
+  },
+  "grid_number": 1,
+  "groups": [
+    {
+      "id": "noi-bat",
+      "name": "Nổi Bật",
+      "display": "horizontal",
+      "preview_display": "slider",
+      "channels": [
+        {
+          "id": "VTV1_HD",
+          "name": "VTV1 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "http://iptv.example.org/img/vtv1-hd.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv1-hd",
+              "contents": [
+                {
+                  "id": "vtv1-hd",
+                  "streams": [
+                    {
+                      "id": "vtv1-hd",
+                      "name": "VTV1 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "http://iptv.example.org/img/vtv1-hd.png",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv1-hd",
+                          "name": "VTV1 HD",
+                          "url": "http://iptv.example.org/stream/vtv1-hd",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": "http://iptv.example.org/share?q=vtv1-hd"
+          },
+          "related": {
+            "url": "http://iptv.example.org/related?q=vtv1-hd"
+          }
+        }
+      ],
+      "remote_data": {
+        "enable": false,
+        "url": ""
+      },
+      "enable_detail": false
+    }
+  ],
+  "search": {
+    "url": "http://iptv.example.org/search",
+    "search_key": "q",
+    "paging": {
+      "page_key": "page",
+      "size_key": "size"
+    }
+  },
+  "notice": {
+    "id": "notice-1",
+    "link": "https://t.me/xemgicungshare",
+    "text": "Telegram Support",
+    "icon": "http://iptv.example.org/tele.png",
+    "closeable": true
+  }
+}
