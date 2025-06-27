@@ -1,1 +1,31 @@
 
+{
+  "id": "custom",
+  "name": "Danh sách IPTV rút gọn",
+  "grid_number": 1,
+  "groups": [
+    {
+      "id": "vtv",
+      "name": "VTV",
+      "display": "horizontal",
+      "preview_display": "slider",
+      "grid_number": 3,
+      "channels": [
+        {
+          "id": "vtv1_hd",
+          "name": "VTV1 HD",
+          "logo": "https://example.com/logo/vtv1.png",
+          "url": "http://stream.example.com/vtv1.m3u8",
+          "type": "hls"
+        },
+        {
+          "id": "vtv3_hd",
+          "name": "VTV3 HD",
+          "logo": "https://example.com/logo/vtv3.png",
+          "url": "http://stream.example.com/vtv3.m3u8",
+          "type": "hls"
+        }
+      ]
+    }
+  ]
+}
