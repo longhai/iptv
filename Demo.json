@@ -652,5 +652,17 @@
         }]
     }],
     "channels": [],
-    
+    "search": {
+        "url": "https://iptv.rophim.dev/search",
+        "search_key": "q",
+        "paging": {
+            "page_key": "page",
+            "size_key": "limit"
+        }
+    },
+    "org_metadata": {
+        "title": "RoPhim - Phim hay cả rổ - Xem Phim Mới HD Online Vietsub",
+        "description": "Xem phim mới, phim hay, phim Hd online trực tuyến miễn phí trên www.rophim.me. Rổ phim, kho phim khổng lồ, phim lồng tiếng, phim vietsub. Cập nhật mỗi ngày.",
+        "image": "https://rophim.me/images/favicon.png"
+    }
 }
