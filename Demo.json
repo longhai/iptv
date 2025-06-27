@@ -1,249 +1,986 @@
-
 {
-  "id": "fptplay",
-  "name": "FPT Play",
-  "color": "#FF9E2D",
-  "org_metadata": {
-    "image": "http://iptv.nhadai.org/s-banner.png",
-    "title": "FPT Play - Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
-    "description": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến..."
-  },
-  "description": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến...",
-  "url": "http://iptv.nhadai.org/v1",
-  "image": {
-    "display": "contain",
-    "shape": "square",
-    "url": "http://iptv.nhadai.org/logo.png",
-    "height": 101,
-    "width": 155
-  },
-  "grid_number": 1,
-  "groups": [
-    {
-      "id": "ca-nhan",
-      "name": "Nổi Bật",
-      "display": "horizontal",
-      "preview_display": "slider",
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "VTV1_HD",
-          "name": "VTV1 HD",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "id": "vtv1-hd",
-              "contents": [
-                {
-                  "id": "vtv1-hd",
-                  "streams": [
-                    {
-                      "id": "vtv1-hd",
-                      "name": "VTV1 HD",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "id": "vtv1-hd",
-                          "name": "VTV1 HD",
-                          "url": "http://iptv.nhadai.org/stream/vtv1-hd",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "share": {
-            "url": "http://iptv.nhadai.org/share?q=vtv1-hd"
-          },
-          "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
-          }
-        },
-        {
-          "id": "VTV3_HD",
-          "name": "VTV3 HD",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "id": "vtv3-hd",
-              "contents": [
-                {
-                  "id": "vtv3-hd",
-                  "streams": [
-                    {
-                      "id": "vtv3-hd",
-                      "name": "VTV3 HD",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "id": "vtv3-hd",
-                          "name": "VTV3 HD",
-                          "url": "http://iptv.nhadai.org/stream/vtv3-hd",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "share": {
-            "url": "http://iptv.nhadai.org/share?q=vtv3-hd"
-          },
-          "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv3-hd"
-          }
-        }
-      ]
+    "id": "phimmoihup",
+    "name": "Phim Mới",
+    "color": "#000000",
+    "description": "Phim Mới là nơi tập hợp các bộ phim hay nhất, mới nhất, hot nhất.",
+    "image": {
+        "url": "https://iptv.phimmoizzz.org/logo.jpg",
+        "type": "cover"
     },
-    {
-      "id": "quoc-te",
-      "name": "Quốc Tế",
-      "display": "horizontal",
-      "preview_display": "horizontal",
-      "enable_detail": true,
-      "channels": [
-        {
-          "id": "KBS_WORLD",
-          "name": "KBS World",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "http://iptv.nhadai.org/img/kbs-world.png",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "id": "kbs-world",
-              "contents": [
-                {
-                  "id": "kbs-world",
-                  "streams": [
-                    {
-                      "id": "kbs-world",
-                      "name": "KBS World",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/kbs-world.png",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "id": "kbs-world",
-                          "name": "KBS World",
-                          "url": "http://iptv.nhadai.org/stream/kbs-world",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "share": {
-            "url": "http://iptv.nhadai.org/share?q=kbs-world"
-          },
-          "related": {
-            "url": "http://iptv.nhadai.org/related?q=kbs-world"
-          }
+    "grid_number": 3,
+    "channels": [{
+        "id": "6464b6496a30601d55672ecd",
+        "name": "Avengers: Cuộc Chiến Bí Mật",
+        "description": "Một bộ phim sắp ra mắt trong Giai đoạn thứ sáu của Vũ trụ Điện ảnh Marvel và là phần cuối của The Multiverse Saga. Âm mưu không rõ. Khởi chiếu ngày 1-5-2026",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/avengers-cuoc-chien-bi-mat-thumb.jpg",
+            "type": "cover"
         },
-        {
-          "id": "NHK_WORLD_HD",
-          "name": "NHK World HD",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "http://iptv.nhadai.org/img/nhk-world-hd.png",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "id": "nhk-world-hd",
-              "contents": [
-                {
-                  "id": "nhk-world-hd",
-                  "streams": [
-                    {
-                      "id": "nhk-world-hd",
-                      "name": "NHK World HD",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/nhk-world-hd.png",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "id": "nhk-world-hd",
-                          "name": "NHK World HD",
-                          "url": "http://iptv.nhadai.org/stream/nhk-world-hd",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "share": {
-            "url": "http://iptv.nhadai.org/share?q=nhk-world-hd"
-          },
-          "related": {
-            "url": "http://iptv.nhadai.org/related?q=nhk-world-hd"
-          }
+        "type": "single",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/6464b6496a30601d55672ecd"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/6464b6496a30601d55672ecd/share"
         }
-      ]
-    }
-  ]
+    }, {
+        "id": "6784ae7cb8c09d6b07b19402",
+        "name": "Trấn Hồn Nhai Phần 4",
+        "description": "",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/tran-hon-nhai-phan-4-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/6784ae7cb8c09d6b07b19402"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/6784ae7cb8c09d6b07b19402/share"
+        }
+    }, {
+        "id": "67b82f39aa88764e616a7923",
+        "name": "Vũ Ái Thiên Kim",
+        "description": "Lãng mạn, tâm lý xoay quanh câu chuyện đầy kịch tính giữa một thiên kim tiểu thư và một võ sĩ quyền anh, khi định mệnh buộc họ phải đối mặt với quá khứ và sự thật bị chôn vùi.\n\nBộ gia thiên kim Bước Ngôn bị kẻ khác hãm hại, khiến cô qua đêm với võ sĩ quyền anh Hà Vũ Thần. Ngay sau đó, cô biến mất không dấu vết. Sáu năm sau, Bước Ngôn quay trở lại cùng cặp song sinh một trai một gái, bất ngờ gặp lại Hà Vũ Thần – người đàn ông năm xưa nay đã sa sút tinh thần sau bê bối dàn xếp trận đấu.\n\nVì muốn ghép tủy dây rốn cho con trai, Bước Ngôn quyết định lợi dụng Hà Vũ Thần và cùng anh ký kết một cuộc hôn nhân hợp đồng. Tuy nhiên, trong quá trình sống chung, cả hai dần nhận ra tình cảm thật sự dành cho nhau. Đồng thời, họ cũng từng bước vén màn những bí mật đen tối trong quá khứ, tìm ra kẻ đứng sau mọi âm mưu tàn nhẫn năm xưa.",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/vu-ai-thien-kim-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67b82f39aa88764e616a7923"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67b82f39aa88764e616a7923/share"
+        }
+    }, {
+        "id": "67b82f1e50066a53649a161e",
+        "name": "Mồi Câu Nguy Hiểm",
+        "description": "Trình Du tuy là chim hoàng yến trong lồng son nhưng lại luôn phản nghịch, khao khát thoát khỏi sự kìm kẹp của Châu Cận. Trong một lần cố tình tạo ra \"sự kiện cắm sừng\", cô gặp gỡ người mẫu nam Bùi Tranh. Trình Du nhiều lần trêu đùa Bùi Tranh, tạo cơ hội để anh trở thành anh hùng cứu mỹ nhân. Bùi Tranh từ lạnh lùng, dửng dưng dần thành phản công mãnh liệt. Cả hai lợi dụng lẫn nhau, nhưng lại dần trao nhau tấm chân tình...&nbsp;",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/moi-cau-nguy-hiem-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67b82f1e50066a53649a161e"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67b82f1e50066a53649a161e/share"
+        }
+    }, {
+        "id": "67aaac387cf9d8f91e80adf4",
+        "name": "Trên Đống Tro Tàn",
+        "description": "Vụ thảm án diệt môn thời thơ ấu khiến vận mệnh của hai anh em nhà họ Liêu thay đổi hoàn toàn. Là tự xông qua bóng tối cứu rỗi bản thân hay là rơi xuống vực sâu để trả thù? Hai anh em từng thân thiết vô cùng, phá liên tiếp bao vụ án kỳ lạ tới cuối lại đứng về hai phía trắng, đen đối lập.&nbsp;",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/tren-dong-tro-tan-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67aaac387cf9d8f91e80adf4"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67aaac387cf9d8f91e80adf4/share"
+        }
+    }, {
+        "id": "67aaaccd262a77f96a606025",
+        "name": "Phó Nhận",
+        "description": "Nữ tướng quân Tống Điểm Tâm của nước Hải Ngân bị vu oan thông đồng với địch và chết thảm. Trước khi chết, cô phát hiện ra kẻ đã hãm hại mình chính là vị hôn phu Thẩm Mộ Tư. Khi sống lại, Tống Điểm Tâm quyết đoán hủy hôn ước, mở màn bằng một trận đòn tàn nhẫn với trai tồi, tự tay xử lý kẻ địch. Nhưng không ngờ Thẩm Mộ Tư cũng chỉ bị kẻ gian hãm hại, sau khi sống lại, hắn vừa theo đuổi tình yêu vừa truy tìm chân tướng. Từ đó, cả hai bắt đầu một cuộc tình giằng co người chạy kẻ đuổi, vừa yêu vừa hận đầy kịch tính.&nbsp;",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/赴刃-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67aaaccd262a77f96a606025"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67aaaccd262a77f96a606025/share"
+        }
+    }, {
+        "id": "67b15ed650066a536498debd",
+        "name": "Dưới Tán Cây Có Ngôi Nhà Mái Đỏ",
+        "description": "Cô gái từ thị trấn nhỏ, Trần Hoan Nhĩ, cùng cha mẹ chuyển đến thành phố lớn. Cô và hai người bạn mới quen, Cảnh Tê Trì và Tống Tùng, từ thời cấp ba, đến đại học cho đến khi ra trường, đã cùng nhau trải qua tất cả những cột mốc quan trọng trong cuộc đời. Những ngày tháng giản dị và bình yên với việc học, đi dã ngoại, tham gia hội thể thao, và những chuyến \"sách lưu động\" cũng như những cảm xúc ngọt ngào, nỗi đắng cay của mối tình đơn phương, sự tiếc nuối khi lý tưởng bị gãy vụn, những cú sốc khi đối mặt với biến cố gia đình, và cả sự lúng túng, đau đớn khi lần đầu tiên đối diện với sự ra đi của người thân... Ba người trẻ tuổi này đã luôn giúp đỡ nhau vượt qua nỗi đau của sự trưởng thành, từ những thiếu niên ngây thơ trở thành người lớn hòa nhập với xã hội. Cuối cùng, họ trở thành một phiên bản tốt đẹp nhưng hoàn toàn khác xa với tưởng tượng thời cấp ba. Quan trọng hơn cả là họ luôn đồng hành bên nhau, chưa từng tách rời.&nbsp;",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/duoi-tan-cay-co-ngoi-nha-mai-do-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67b15ed650066a536498debd"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67b15ed650066a536498debd/share"
+        }
+    }, {
+        "id": "67ade8cae9b4fad4a3a474f5",
+        "name": "Sao Địch Nổi Sắc Đẹp Tuyệt Trần",
+        "description": "Cô con gái của thế gia sa cơ lỡ vận La Lệnh Dư đưa muội muội đến Kiến Nghiệp nhờ cậy họ hàng. Dọc đường đã cứu một chàng trai sa cơ lỡ vận. Vì trở ngại thân phận và lễ giáo, nửa đêm cô đã ép chàng trai nhảy khỏi thuyền. Đến Lục gia, cô một lòng muốn chọn một người chồng tốt, mà không hề hay biết, tam công tử Lục gia cô để ý chính là chàng trai bị cô ép nhảy xuống nước đêm hôm đó. Cô dùng mọi cách để lấy lòng y nhưng liên tục thất bại, y lặng lẽ nhìn cô diễn trò và tàn nhẫn vạch trần cô hết lần này đến lần khác. Thế nhưng, khi cô nản lòng thoái chí, quay ra lấy lòng người khác, y lại không đồng ý. Lòng chàng sắt đá, sao địch nổi sắc đẹp tuyệt trần.&nbsp;",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/sao-dich-noi-sac-dep-tuyet-tran-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67ade8cae9b4fad4a3a474f5"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67ade8cae9b4fad4a3a474f5/share"
+        }
+    }, {
+        "id": "6779ec2d262a77f96a566aa6",
+        "name": "Hỏi Các Vì Sao",
+        "description": "Đến từ hai thế giới khác biệt và mang theo những sứ mệnh riêng, một phi hành gia và một du khách vũ trụ vướng vào nhau ngoài không gian – để rồi bắt đầu phải lòng nhau.&nbsp;",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/hoi-cac-vi-sao-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/6779ec2d262a77f96a566aa6"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/6779ec2d262a77f96a566aa6/share"
+        }
+    }, {
+        "id": "6795f9a34b854ea9afa8b8f5",
+        "name": "Flirt Milk: Yêu Vị Sữa Tươi",
+        "description": "Nomjuet, a young man whose personality and life are as dull as his name suggests, brings a forgotten coffee to the faculty. There, he meets a guy named Phra-ek whose personality and name are very different.",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/flirt-milk-yeu-vi-sua-tuoi-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/6795f9a34b854ea9afa8b8f5"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/6795f9a34b854ea9afa8b8f5/share"
+        }
+    }, {
+        "id": "67aee09aaa88764e6168b0b1",
+        "name": "Mạn Thành",
+        "description": "Câu chuyện kể về Bạch Tiểu Đóa, một cô gái từng bị bị lực học đường thời trung học, đã vượt qua hàng ngàn Black. Tuy nhiên, câu lạc bộ truyện tranh mà cô hướng đến đang đứng trước nguy cơ giải thể. Black, hành thật sự chính là Black. làngười Tiểu Đóa. hiểu nhau, cả hai dần dần chữa lành những vết thương lòng sâu kín trong tâm hồn nhau.",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/man-thanh-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67aee09aaa88764e6168b0b1"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67aee09aaa88764e6168b0b1/share"
+        }
+    }, {
+        "id": "67a2135750066a5364956994",
+        "name": "Sáu Chị Em",
+        "description": "Sau khi nước Trung Hoa mới được thành lập, Hà Thường Thắng quyết định rời quê hương Dương Châu, Giang Đô, đưa cả gia đình đến Hoài Nam, An Huy để góp sức xây dựng chủ nghĩa xã hội, lập nghiệp bên bờ sông Hoài. Trong hai mươi năm tiếp theo, ông lần lượt chào đón sáu cô con gái, nhưng một tai nạn xe cộ bất ngờ đã cướp đi sinh mạng của ông. Chị cả Hà Gia Lệ cùng bà nội Hà Văn Thị và mẹ Lưu Mỹ Tâm gánh vác trọng trách gia đình, giúp các em gái thành gia lập nghiệp.&nbsp;",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/sau-chi-em-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67a2135750066a5364956994"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67a2135750066a5364956994/share"
+        }
+    }, {
+        "id": "679264d87cf9d8f91e7baf3c",
+        "name": "Rhapsody Soju",
+        "description": "Khám phá lịch sử và hành trình phát triển của ẩm thực Hàn Quốc, loạt phim tài liệu hấp dẫn này trở lại với một phần mới tôn vinh quốc tửu – rượu soju.",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/rhapsody-soju-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/679264d87cf9d8f91e7baf3c"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/679264d87cf9d8f91e7baf3c/share"
+        }
+    }, {
+        "id": "67b997f0e1dae733239b33a7",
+        "name": "Khát Khao Rực Lửa",
+        "description": "Năm 1912, một vụ hỏa hoạn khủng khiếp xảy ra tại bữa tiệc lớn ở dinh thự Sila Kram, dẫn đến cái chết của Khun Phra Phakdee và sự mất tích của cháu gái ông, Kaewta. Mười năm sau, Kaewta quay trở lại để làm sáng tỏ bí ẩn đằng sau đêm định mệnh ấy. Liệu ngọn lửa năm xưa đã thật sự tắt hẳn hay Khát Khao Rực Lửa trong trái tim con người sẽ tiếp tục thiêu đốt và tán phá mà không bao giờ có hồi kết?&nbsp;",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/khat-khao-ruc-lua-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67b997f0e1dae733239b33a7"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67b997f0e1dae733239b33a7/share"
+        }
+    }, {
+        "id": "67a963db73d5654f3794c318",
+        "name": "Triều Vân Tán",
+        "description": "Mười năm sau khi sống sót sau vụ thảm sát gia tộc, Shen Song, giờ là một đầu bếp khiêm tốn, bị cuốn trở lại hành trình tìm kiếm công lý khi một đám cháy lễ hội phát hiện ra hài cốt ẩn giấu. Được bổ nhiệm làm điều tra viên dân sự của hoàng đế, anh giải quyết một loạt các vụ án kỳ lạ, khám phá ra những âm mưu liên quan đến quá khứ bi thảm của gia đình anh.",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/trieu-van-tan-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67a963db73d5654f3794c318"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67a963db73d5654f3794c318/share"
+        }
+    }, {
+        "id": "679093199560de1904d9a19e",
+        "name": "Tình Yêu Ông Chú",
+        "description": "Chuyên viên tư vấn bất động sản xui xẻo, Heng, đột ngột thấy thế giới của mình đảo lộn khi anh bị cuốn vào một mối tình tay ba hỗn loạn.&nbsp;",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/tinh-yeu-ong-chu-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/679093199560de1904d9a19e"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/679093199560de1904d9a19e/share"
+        }
+    }, {
+        "id": "67b16ee41ba30e8603fd8048",
+        "name": "Phù Thủy",
+        "description": "Phù Thủy - The Witch bộ phim truyền hình dựa trên webtoon cùng tên, kể về nhân vật nữ chính bất hạnh từ nhỏ, mỗi khi có người đàn ông nào đến gần cô thì đều xảy ra tai nạn. Nam chính là một người bạn học cũ. Ban đầu anh ấy nghĩ rằng tất cả chỉ là sự trùng hợp, nhưng càng tiếp cận nữ chính - người bị gọi là “phù thủy” này, anh lại càng rơi vào nguy hiểm.&nbsp;",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/phu-thuy-2025-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67b16ee41ba30e8603fd8048"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67b16ee41ba30e8603fd8048/share"
+        }
+    }, {
+        "id": "67b191e98051c191a1f5df01",
+        "name": "Everything is Fine with the Emperor",
+        "description": "",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/everything-is-fine-with-the-emperor-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67b191e98051c191a1f5df01"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67b191e98051c191a1f5df01/share"
+        }
+    }, {
+        "id": "67aaaba5e1dae7332397f5fd",
+        "name": "Lý Cẩu Oa",
+        "description": "Vận may giàu sang ập đến bất ngờ, anh công nhân nghèo Lý Cẩu Oa vô tình bước chân vào thế giới của gia đình giàu có, chỉ với mục đích đòi lại công bằng cho người anh em. Nhưng không ngờ tất cả lại là một âm mưu giết người được tính toán kỹ lưỡng. Sự xuất hiện của anh đã châm ngòi cho cuộc chiến thừa kế của tập đoàn Đông Xán, ba người con nhà họ Trương lao vào đấu đá không khoan nhượng, âm mưu chồng chất. Lý Cẩu Oa tầm ngẩm tầm ngầm mà đấm chết voi, từng bước thâm nhập vào vòng xoáy hiểm ác. Đối mặt với đám người lòng lang dạ sói này, anh như một con gián đánh mãi không chết, vượt qua nghịch cảnh hết lần này đến lần khác. Cuối cùng, Lý Cẩu Oa theo đuổi chính nghĩa đã lật đổ kim tự tháp quyền lực, phá được tình thế nan giải.&nbsp;",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/ly-cau-oa-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67aaaba5e1dae7332397f5fd"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/67aaaba5e1dae7332397f5fd/share"
+        }
+    }, {
+        "id": "677920138d0900af37f3ecac",
+        "name": "Phú Quý Ào Ạt",
+        "description": "Một nữ sinh viên đại học vô tình xuyên vào một cuốn sách, trở thành quận chúa Việt Hi - nữ phụ độc ác sống không quá ba chương. Để bảo vệ mạng sống, cô quyết đoán chọn cách về quê sống, tránh xa cốt truyện. Nhưng sau khi Ninh Sơ Hi cảm nhận được sự tốt đẹp của tình thân ở quê, cô dần có sự đồng cảm với thế giới này. Cô không chỉ muốn cứu lấy bản thân mà còn muốn cứu những sinh mệnh cũng đang bị cốt truyện chính giày vò. Ninh Sơ Hi quyết định cứu Tiêu Tinh Hành, nhân vật nam phụ vốn sẽ chết vào một thời điểm đã được định sẵn, đồng thời kết làm đồng minh với hắn để chống lại cốt truyện chính, giải cứu gia tộc bị tiêu diệt oan uổng của nguyên chủ.",
+        "image": {
+            "url": "https://img.ophim.live/uploads/movies/phu-quy-ao-at-thumb.jpg",
+            "type": "cover"
+        },
+        "type": "playlist",
+        "display": "text-below",
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/677920138d0900af37f3ecac"
+        },
+        "force_landscape": true,
+        "share": {
+            "url": "https://iptv.phimmoizzz.org/cr/films/677920138d0900af37f3ecac/share"
+        }
+    }],
+    "url": "https://iptv.phimmoizzz.org",
+    "load_more": {
+        "url": "https://iptv.phimmoizzz.org",
+        "paging": {
+            "page_key": "p",
+            "size_key": "s"
+        },
+        "pageInfo": {
+            "current_page": 1,
+            "per_page": 20,
+            "total": 29057,
+            "last_page": 1453
+        }
+    },
+    "groups": [{
+        "id": "hot",
+        "name": "Phim mới cập nhật",
+        "display": "slider",
+        "grid_number": 1,
+        "channels_title": "Phim mới cập nhật",
+        "channels": [{
+            "id": "63d28a5f9e1191b1226f3e6a",
+            "name": "Daniel Spellbound (Phần 2)",
+            "description": "Daniel hợp tác với một kẻ đi tìm huyền thoại để đảo ngược lời nguyền ma quỷ và khởi động lại thời đại phép thuật có mối liên hệ bí ẩn với gia đình của Daniel.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/daniel-spellbound-phan-2-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/63d28a5f9e1191b1226f3e6a"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/63d28a5f9e1191b1226f3e6a/share"
+            }
+        }, {
+            "id": "640af64364004db3fee78aa5",
+            "name": "Fujii Kaze Love All Serve All Stadium Live",
+            "description": "Sau khi khiến người hâm mộ trên toàn thế giới dậy sóng, Fujii Kaze kỷ niệm việc phát hành album thứ hai bằng buổi diễn đầu tiên từ trước đến nay tại sân vận động ngoài trời.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/fujii-kaze-love-all-serve-all-stadium-live-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "single",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/640af64364004db3fee78aa5"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/640af64364004db3fee78aa5/share"
+            }
+        }, {
+            "id": "63e49d4858c24ebd79147095",
+            "name": "Thủ Phụ Đại Nhân Có Thuật Đọc Tâm",
+            "description": "Blogger ẩm thực Thẩm Tri Hoan đã xuyên không nhập vào thân xác của Thẩm Tri Hoan, người vợ mới thành hôn nửa năm của thủ phụ đương triều Đại Tuy Dư Yến Thanh. Tuy nhiên, số phận trêu ngươi, theo ghi chép lịch sử, thủ phụ đại nhân không chỉ độc ác tàn nhẫn, mà còn bị phe nổi phản quân thắt cổ chết ở tuổi 30. Thẩm Tri Hoan muốn thoát khỏi nanh vuốt hắn ta, không ngờ càng lún càng sâu. Vốn tưởng thủ phụ đại nhân không việc ác nào không làm, nhưng trong quá trình tiếp xúc, cũng dần dần nhìn rõ tâm can nhau, giữa hai người bắt đầu nảy sinh tình cảm. Tuy nhiên, cuộc tranh đấu triều đình phía sau họ đã khiến cả hai phải trải qua nhiều nguy hiểm ...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/thu-phu-dai-nhan-co-thuat-doc-tam-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/63e49d4858c24ebd79147095"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/63e49d4858c24ebd79147095/share"
+            }
+        }, {
+            "id": "63d79fd51b57f00d5bd5ce55",
+            "name": "Quân Tử Minh",
+            "description": "Vào thời đại vương triều nhà Ung, Lễ Bộ Thị Lang Lan Giác (do Tỉnh Bách Nhiên thủ vai) hằng năm đều phải quay cuồng trong các vụ tranh chấp của triều đình, nhìn thì có vẻ ôn nhuận ưu nhã, mọi thứ đều thuận lợi, nhưng thật ra đằng sau đó là cả một quá trình trưởng thành ít ai biết được. Trong một lần hành động bí mật, Lan Giác đã tình cờ gặp được Trương Bình (do Tống Uy Long thủ vai) là thiếu niên \"si án\"* một mình lên Kinh tham gia kỳ thi để theo đuổi lý tưởng của bản thân. Trương Bình một thiếu niên ngây thơ thẳng thắn, dựa vào năng lực suy luận thiên tài của mình mà phá giải vụ án, nhưng cũng phá vỡ kế hoạch chu đáo ban đầu của Lan Giác. Từ đây, hai con người với thân phận cách biệt tính cách khác nhau, vừa là thầy vừa là bạn, ngầm hợp tác, phá giải nghi án.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/quan-tu-minh-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/63d79fd51b57f00d5bd5ce55"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/63d79fd51b57f00d5bd5ce55/share"
+            }
+        }, {
+            "id": "63ecbec095c7aea5f917df2e",
+            "name": "Trùng Tử",
+            "description": "Trọng&nbsp;Tử xuất thân ăn mày nhưng lòng hướng thiện, muốn gia nhập tiên môn. Trớ trêu thay bản thân cô lại người trời sinh sát khí, dễ bị nhập ma.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/trung-tu-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/63ecbec095c7aea5f917df2e"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/63ecbec095c7aea5f917df2e/share"
+            }
+        }, {
+            "id": "640622c40d15d31b770b882a",
+            "name": "2 Moons The Ambassador",
+            "description": "2 Moons: The Ambassador (VietSub - Thuyết Minh)&nbsp;Lomnaw là \"Mặt Trăng\"của khoa Nông nghiệp và cũng là em trai của Phana nên được nhiều người chú ý, nhưng cậu lại chỉ đứng hạng cuối trong bảng xếp hạng \"Mặt Trăng\" của trường. Thực ra trong khoa Nông nghiệp có một Tarntat huyền thoại đẹp trai không thua kém gì Phana, nhưng cậu ấy không muốn tham gia cuộc thi. Vì vậy mà khiến mọi người trong khoa đều tiếc nuối. Khi các khoa Nông nghiệp của các trường đại học thi đấu chọn ra người đại diện, Lomnaw phải miễn cưỡng tham gia cuộc thi dưới sự giám sát của Tarntat, và trong quá trình đó quan hệ giữa họ dần dần trở nên thân thiết hơn. Tuy nhiên sau sự xuất hiện của Phanon, người bạn tốt của Lomnaw thì mối quan hệ của cả hai lại gặp trục trặc. Vì Phanon yêu thầm Lomnaw, nên cậu ấy quyết định lấy lại những gì thuộc về mình, đồng thời cũng muốn báo thù Tarntat đã cướp mất nửa kia của người anh em sinh đôi Phara của mình. Sau đó Phanon quyết tâm giành lấy Lomnaw. Ngoài ra, phần này còn có cả những câu chuyện về 3 cặp đôi: Phana-Wayo, Ming-Kit, Forth-Beam. Tình cảm giữa Lomnaw-Tarntat và ba cặp còn lại sẽ phát triển thế nào? Các mối quan hệ phức tạp cuối cùng sẽ làm nên tình yêu chân thành nhất.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/2-moons-the-ambassador-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/640622c40d15d31b770b882a"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/640622c40d15d31b770b882a/share"
+            }
+        }, {
+            "id": "6404d85c52819de7fe85b8e4",
+            "name": "Mùa Hè Không Hợp Để Yêu",
+            "description": "Mùa Hè Không Hợp Để Yêu - Summer in Love (VietSub - Thuyết Minh)&nbsp;Những người thân yêu của Shi Yi và Xia He cùng quay trở lại năm 2008 với nhau. Trong khi đang tận hưởng thời gian bên nhau, người chồng trong tương lai đã lạm dụng Shi Yi, và cùng với cô vợ đã lừa dối anh ta, đều quay trở lại quá khứ, và 4 người họ phải đối mặt để chiến đấu cho tình yêu và thù hận của số phận.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/mua-he-khong-hop-de-yeu-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/6404d85c52819de7fe85b8e4"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/6404d85c52819de7fe85b8e4/share"
+            }
+        }, {
+            "id": "63fa09087c423019ffc466f9",
+            "name": "Cửu Tiêu Hàn Dạ Noãn",
+            "description": "Cửu Tiêu Hàn Dạ Noãn do Lí Tuệ Châu đạo diễn, ''Cung'' do Nhâm tổng đạo diễn, ''Phượng Tù Hoàng'' - Đặng Vĩ Ân, \" Cẩm Tú Nam Ca\" - Hoàng Bân, \"Anh hùng xạ điêu\" - Lý Nhất Đồng, là bộ phim cổ trang tình yêu đặc biệt. Bộ phim kể về câu chuyện của nữ bộ khoái sợ lạnh của Kiền quốc Tô Cửu Nhi(Lý Nhất Đồng thủ vai) cùng Thiếu chủ “ngoài lạnh trong nóng” Hàn Tranh của Kỳ tộc (Tất Văn Quân thủ vai) vụ án giết người liên quan đến hai gia tộc mà gặp nhau, tình cờ tạo thành \"Đối tác chênh lệch nhiệt độ\" , cùng nhau vượt qua màn sương mù âm mưu dày đặc, tìm chân tướng sau lưng vụ án đồng thời hoá giải mối nguy hiểm của quốc gia.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/cuu-tieu-han-da-noan-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/63fa09087c423019ffc466f9"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/63fa09087c423019ffc466f9/share"
+            }
+        }],
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/lists/oph"
+        }
+    }, {
+        "id": "opcountry_viet-nam",
+        "name": "Việt Nam",
+        "display": "horizontal",
+        "grid_number": 1,
+        "channels_title": "Việt Nam",
+        "channels": [{
+            "id": "67a0bf6e37d30a6b410f4a02",
+            "name": "Tiệm ăn của quỷ",
+            "description": "Ở một khu vực hẻo lánh của thị trấn, vị đầu bếp bí ẩn nọ nấu các bữa ăn siêu nhiên có thể đáp ứng những khao khát thầm kín nhất của thực khách... nếu họ sẵn sàng trả giá.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/tiem-an-cua-quy-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/67a0bf6e37d30a6b410f4a02"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/67a0bf6e37d30a6b410f4a02/share"
+            }
+        }, {
+            "id": "671705a60e3c8835657a19fd",
+            "name": "Lại Là Tui, Bác Ba Phi",
+            "description": "Lấy cảm hứng từ nguồn tư liệu phong phú về bác Ba Phi, phim lột tả lại cuộc sống sinh hoạt thường ngày ở vùng nông thôn với nhiều tình tiết hài hước cường điệu. Với nét diễn mộc mạc, dí dỏm trong từng ánh mắt, lời nói của NSND Thanh Nam khiến người xem như gặp gỡ bác Ba Phi đời thật.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/lai-la-tui-bac-ba-phi-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/671705a60e3c8835657a19fd"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/671705a60e3c8835657a19fd/share"
+            }
+        }, {
+            "id": "6715be52d6e1cffd4df4a101",
+            "name": "Bố Đường Con Nuôi",
+            "description": "Thân phận hai sugar baby trong thế giới bí ẩn của “bố đường” với những hợp đồng tình-tiền bạc triệu, bí kíp \"nuôi con\" của các quý ông và nghệ thuật bóc phốt tinh vi của các quý bà.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/bo-duong-con-nuoi-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/6715be52d6e1cffd4df4a101"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/6715be52d6e1cffd4df4a101/share"
+            }
+        }, {
+            "id": "670e401a98832779ef4dc326",
+            "name": "Liveshow Tri Âm - Mỹ Tâm",
+            "description": "Hai thập kỷ cầm mic, Mỹ Tâm là cái tên gắn bó với nhiều thế hệ người yêu nhạc. Thế nhưng, đã quá lâu rồi cô chưa trở lại với sân khấu lớn trong vai trò nhân vật chính live concert; và cũng đã 3 năm kể từ khi Tâm 9 phát hành và trở thành Album của năm tại Giải thưởng âm nhạc Cống hiến 2018. Với liveshow “Tri Âm”, Mỹ Tâm muốn tri ân tới chính nghệ thuật đỉnh cao, tới những người đồng sự đã sát cánh, và trên hết là tới người hâm mộ đã dõi theo và ủng hộ cô trong suốt chặng đường dài.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/Liveshow Tri Âm - Mỹ Tâm-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "single",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/670e401a98832779ef4dc326"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/670e401a98832779ef4dc326/share"
+            }
+        }, {
+            "id": "66606793f41742e875eeab95",
+            "name": "Thủy Cơ",
+            "description": "Thủy Cơ đành chấp nhận dừng chân nơi quê nhà bằng một công việc tự do, ổn định. Cô muốn tạo nên chỗ đứng cho chính người thân của mình. Liệu Thủy Cơ có thể thoát khỏi được những món nợ đời khi mà chín",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/thuy-co-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/66606793f41742e875eeab95"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/66606793f41742e875eeab95/share"
+            }
+        }, {
+            "id": "665d120a19f59253d6eeeb51",
+            "name": "Mùa hè chiều thẳng đứng",
+            "description": "Mùa hè chiều thẳng đứng kể về câu chuyện gia đình của 3 chị em gái: Sương (Như Quỳnh), Khanh (Lê Khanh) và Liên (Trần Nữ Yên Khê) quanh ngày giỗ mẹ tại Hà Nội.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/mua-he-chieu-thang-dung-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "single",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/665d120a19f59253d6eeeb51"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/665d120a19f59253d6eeeb51/share"
+            }
+        }, {
+            "id": "663436de30273b9446da9403",
+            "name": "Đi Về Phía Lửa",
+            "description": "Phim truyền hình Đi Về Phía Lửa có độ dài 10 tập, được lấy cảm hứng (remake) từ series truyền hình của Đài Loan Tears on Fire (Nước Mắt Của Hoả Thần), xoay quanh bốn người lính cứu hỏa trong một đội cứu hỏa địa phương.Bên cạnh việc khắc họa những ca cứu hộ, cứu nạn, những lần phải đối mặt với lằn ranh sống chết của bộ phim còn đem đến góc khuất trong thế giới nội tâm và những vấn đề cá nhân mà những người lính cứu hỏa phải đối mặt trong cuộc sống đời thường.Lấy bối cảnh ở một thành phố ven biển, đội lính cứu hỏa địa phương trong Đi Về Phía Lửa có bốn nhân vật chủ đạo là Toàn Thắng, Đức Anh, Thanh Hà và Minh Long. Qua từng tập phim, khán giả được chứng kiến những đợt rèn luyện và tập dượt của người lính cứu hoả, cứu hộ cứu nạn, những pha giải cứu, những hi sinh của họ trong cả công việc lẫn đời sống cá nhân.Đan xen giữa những lần làm nhiệm vụ là hành trình trưởng thành cùng nhiều tâm tư riêng của mỗi nhân vật.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/di-ve-phia-lua-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/663436de30273b9446da9403"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/663436de30273b9446da9403/share"
+            }
+        }, {
+            "id": "662cab300e89b4b8923fd924",
+            "name": "Bữa Tối Của Diều Hâu",
+            "description": "Sinh ra trong một gia đình có người cha tù tội, mẹ làm lao công quét rác đầy cơ cực, Hoàng Quyên chán nản cảnh sống nghèo nàn. Cho đến một hôm, bà Nguyệt – mẹ Quyên tình cờ gặp lại ông Tuấn – người tình ngày xưa của bà. Cuộc gặp gỡ định mệnh này đã làm thay đổi cuộc đời và số phận cô gái trẻ mang cái tên Hoàng Quyên.Tham vọng bùng lên khi Quyên cảm nhận sự giàu sang của ông Tuấn và cuộc sống sung túc, đủ đầy của Hoa Tiên – con gái ruột ông Tuấn. Biết ông Tuấn vẫn còn tình cảm với mẹ mình, Quyên liền ép mẹ phải nói dối mình là con gái của ông Tuấn. Lòng tin dành cho bà NGuyệt và sự \"diễn xuất\" khôn ngoan của Hoàng Quyên đã khiến ông Tuấn hết mực tin tưởng vào chuyện này.Tuy nhiên, để có thể danh chính ngôn thuận thừa nhận đứa con rơi này, ông Tuấn buộc phải tiến hành các thủ tục pháp lý và cả việc xét nghiệm ADN. Không thể để bí mật của mình bại lộ, Quyên tìm cách ngăn cản chuyện này và đã đẩy ông Tuấn vào họa sát thân. Người đứng ra thay Quyên gánh chịu hậu quả chính là Bảy Tình – người cha tù tội vừa được trả tự do của Quyên…",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/bua-toi-cua-dieu-hau-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/662cab300e89b4b8923fd924"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/662cab300e89b4b8923fd924/share"
+            }
+        }, {
+            "id": "6613e3d9b1f3abc7dd0f433b",
+            "name": "Kẻ Thủ Ác ",
+            "description": "Các vụ án mạng có thật ở Việt Nam được tái hiện chân thật qua từng tập phim, bằng cách phô bày nhiều mánh khóe và chiêu trò gây án của hung thủ nhằm cảnh tỉnh người dân.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/ke-thu-ac-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/6613e3d9b1f3abc7dd0f433b"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/6613e3d9b1f3abc7dd0f433b/share"
+            }
+        }, {
+            "id": "660e0b89b1f3abc7ddfde93e",
+            "name": "Mắt Lụa",
+            "description": "“Mảnh lụa đào ai trao thương nhớ. Mảnh lụa hoa rắc nắng bên sông”- câu ca mở màn cho tấn bi kịch cuộc đời cô gái giữ bí quyết làm lụa châu sa và luôn ôm trong mình mối thù về cái chết của mẹ.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/mat-lua-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/660e0b89b1f3abc7ddfde93e"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/660e0b89b1f3abc7ddfde93e/share"
+            }
+        }, {
+            "id": "6606797ac2448497d9ec8255",
+            "name": "Mùi Ngò Gai (Phần 2)",
+            "description": "Mùi ngò gai xoay quanh cuộc đời của Vy, cô bé mồ côi mẹ ngay từ khi mới sinh ra. Được một gia đình nhận nuôi nhưng vì phải sống trong sự ngược đãi của cha nuôi, Vy quyết tâm lên thành phố để đi tìm cha ruột của mình – người đã sớm bỏ rơi cô. Tại đây, cô được nhận vào làm tại một quán phở và được tạo điều kiện để theo học cấp 3; cũng sau khi cha mẹ nuôi của Vy chuyển lên thành phố, cô dần biết về thân thế cũng như danh tính người cha ruột của mình…",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/mui-ngo-gai-phan-2-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/6606797ac2448497d9ec8255"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/6606797ac2448497d9ec8255/share"
+            }
+        }, {
+            "id": "660675fbc2448497d9ec304d",
+            "name": "Mùi Ngò Gai (Phần 1)",
+            "description": "Mùi ngò gai xoay quanh cuộc đời của Vy, cô bé mồ côi mẹ ngay từ khi mới sinh ra. Được một gia đình nhận nuôi nhưng vì phải sống trong sự ngược đãi của cha nuôi, Vy quyết tâm lên thành phố để đi tìm cha ruột của mình – người đã sớm bỏ rơi cô. Tại đây, cô được nhận vào làm tại một quán phở và được tạo điều kiện để theo học cấp 3; cũng sau khi cha mẹ nuôi của Vy chuyển lên thành phố, cô dần biết về thân thế cũng như danh tính người cha ruột của mình…",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/mui-ngo-gai-phan-1-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/660675fbc2448497d9ec304d"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/660675fbc2448497d9ec304d/share"
+            }
+        }, {
+            "id": "65faa1dcf49fd219608429fd",
+            "name": "Cù Lao Xác Sống",
+            "description": "Phim nói về hành trình của Công -&nbsp;một thầy thuốc đông y&nbsp;cố gắng đưa cha và con gái thoát khỏi sự truy đuổi của xác sống khi đại dịch bùng nổ. Họ thất lạc nhau trên đường chạy trốn.&nbsp;Trong lúc tìm lại con gái, Công gặp những người bị nạn khác giống mình. Họ cùng nhau hợp sức thành một nhóm, cố gắng vượt qua&nbsp;thử thách sống còn. Liệu kết quả sẽ ra sao khi đại dịch càng ngày càng lan rộng?&nbsp;",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/cu-lao-xac-song-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "single",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65faa1dcf49fd219608429fd"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65faa1dcf49fd219608429fd/share"
+            }
+        }, {
+            "id": "65faa0c5c2448497d988dc06",
+            "name": "Kẻ Ăn Hồn",
+            "description": "Kẻ Ăn Hồn&nbsp;kể&nbsp;về hàng loạt cái chết bí ẩn ở Làng Địa Ngục, nơi có ma thuật cổ xưa: 5 mạng đổi bình Rượu Sọ Người. Thập Nương - cô gái áo đỏ là kẻ nắm giữ bí thuật luyện nên loại rượu mạnh nhất! Phim điện ảnh chuyển thể từ tiểu thuyết gốc cùng tên của nhà văn Thảo Trang. Ngoài hình ảnh đám cưới chuột, khán giả còn được thấy những hình tượng đậm văn hóa&nbsp;Việt là bầy rối nước, thủy đình, bài vè… Bên cạnh đó, những chi tiết vốn được yêu thích ở làng Địa Ngục như bà Vạn lái đò chở vong hồn, mồ hôi máu, đom đóm câu hồn sẽ lần lượt xuất hiện trên màn ảnh rộng. Lấy bối cảnh ở ngay làng Địa Ngục, phim sẽ kể về cuộc hành trình tìm ra loại cổ thuật xuất hiện ở chính ngôi làng này. Loại cổ thuật đó có tên là Rượu sọ người, nghe nói nếu ai luyện được loại thuật này thì sẽ có pháp lực cực mạnh, có thể điều khiển ma quỷ, bắt hồn người khác. Thập Nương - cô gái áo đỏ là kẻ nắm giữ bí thuật luyện nên loại rượu mạnh nhất!&nbsp;",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/ke-an-hon-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "single",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65faa0c5c2448497d988dc06"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65faa0c5c2448497d988dc06/share"
+            }
+        }, {
+            "id": "65fa9fb7f49fd219608406ca",
+            "name": "Em và Trịnh",
+            "description": "Cuộc gặp gỡ định mệnh giữa Trịnh Công Sơn và Michiko mở ra chuyến hành trình ngược về thanh xuân, khám phá mối tình với các \"nàng thơ\" trong sáng tác của nhạc sĩ tài hoa.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/em-va-trinh-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "single",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65fa9fb7f49fd219608406ca"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65fa9fb7f49fd219608406ca/share"
+            }
+        }, {
+            "id": "65f95beec2448497d97ed038",
+            "name": "Lật Mặt 6: Tấm Vé Định Mệnh",
+            "description": "Phim kể về tấm vé số có mệnh giá 10 ngàn đồng và sở hữu những con số \"định mệnh\" gồm 10, 16, 18, 20, 27, 28 - đây là tập hợp những con số ngày sinh của hội bạn thân gồm 6 người: Phương, Khanh, Phát, An, Toàn và Lộc. Câu chuyện bắt đầu khi Phương mua một tấm vé số có dãy số là tập hợp ngày sinh của cả 6 người. Và nếu như tấm vé này may mắn trúng giải, họ sẽ chia đều tiền thưởng cho cả 6 người. Và quả nhiên, tấm vé định mệnh này đã đem về cho nhóm một giải thưởng tới hơn 136 tỷ đồng. Tuy nhiên, người giữ tấm vé số là An lại gặp tai nạn tang thương và tấm vé số nằm ở ốp lưng điện thoại đã theo anh xuống mồ. Chính lúc này, dã tâm và bản năng của con người trỗi dậy. Hội bạn 5 người còn lại, kẻ thì muốn đào mộ để lấy tấm vé bị chôn trong mồ, người thì muốn ngăn cản bởi vì đó là phạm pháp.Phương đứng trước nguy cơ phá sản khi xưởng dệt chiếu của anh bị cháy, con gái của anh thì bị bệnh nan y cần tiền&nbsp;để phẫu thuật. Phương, Khanh, Toàn và Lộc quyết định đào mộ An để lấy tấm vé, chỉ có Phát là không tham gia. Khi nhóm bốn người có được tấm vé, Lộc - người ham mê đá gà nên lâm vào cảnh nợ nần - đã cho ba người còn lại uống nước sâm có pha thuốc ngủ hòng chiếm tấm vé cho riêng mình. Nhóm bạn sau đó có một cuộc rượt đuổi gây cấn trên đường, họ còn đụng độ với băng nhóm của gã giang hồ Hai Gà. Tấm vé đã được lấy lại, nhưng Lộc không may bị thương ở bụng.Các đại lý vé số ở địa phương không có đủ 136 tỷ đồng đổi cho nhóm bạn nên họ phải lên Sài Gòn lãnh tiền. Phát và Liên (vợ của An) yêu cầu được chia tiền và cũng đi cùng họ. Trên đường đi, cả nhóm dừng chân tại một nhà nghỉ. Đêm đó, Toàn cố gắng cưỡng hiếp, Liên thì Phát can thiệp. Phát và Toàn xảy ra ẩu đả, trong lúc vật lộn Phát đã vô tình đâm chết Toàn. Phát van xin những người bạn của mình đừng báo công an và cũng không đòi chia tiền nữa. Sau khi chôn xác Toàn, Phát và Liên quay về nhà. Chỉ còn Phương, Khanh và Lộc ở lại nhà nghỉ. Khanh trong cơn say xỉn định đánh Phương và Lộc nhưng lại lao vào đầu xe ôtô của Phương, sau đó Lộc cũng bất tỉnh, Phương phải đưa cả hai người bạn vào bệnh viện.Tại Sài Gòn, Phương đến một công ty xổ số để lãnh tiền thì biết được rằng tấm vé đã bị ai đó sửa số từ trước, khiến anh không thể nhận tiền. Sau đó trên báo đưa tin về một cô gái đã lãnh được 136 tỷ đồng với tấm vé thật, cô ta được giấu mặt nhưng Phương vẫn phát hiện ra đó là Liên khi thấy chiếc bông tai cô ta đeo. Phương nhanh chóng về quê, kịp thời ngăn cản Liên bỏ trốn. Lúc này Liên tiết lộ rằng cô chỉ làm theo sự chỉ đạo của Phát. Trước đó, khi xác An được đưa vào nhà xác, Phát đã gặp Liên và thuyết phục cô hợp tác với mình, cả hai đã lấy tấm vé thật rồi đặt tấm vé giả vào xác An để đánh lừa mọi người. Sau khi lãnh tiền, Liên đã đưa toàn bộ số tiền cho Phát.Phương đối mặt với Phát nhưng Phát phủ nhận mọi cáo buộc về mình. Phương đành phải sử dụng đoạn phim Phát ngộ sát Toàn (do Lộc vô tình quay lại được) để uy hiếp Phát, buộc anh ta trả lại số tiền. Phát và Phương sau đó xảy ra ẩu đả trên xe khiến chiếc xe gặp tai nạn giao thông, hai người cùng với Liên đều nhập viện. Cuối cùng Phương chia đều số tiền vào tài khoản của Khanh và Lộc; anh cũng gửi tiền cho Liên, cha mẹ của Toàn và vợ của Phát. Nhóm bạn ra gặp chính quyền tự thú về việc xâm phạm mồ mả và ngộ sát Toàn, kết quả là chỉ bị phạt một năm tù treo. Một thời gian sau, cả nhóm trở lại với cuộc sống bình thường của họ. Bộ phim kết thúc.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/lat-mat-6-tam-ve-dinh-menh-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "single",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65f95beec2448497d97ed038"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65f95beec2448497d97ed038/share"
+            }
+        }, {
+            "id": "65f95a5ac2448497d97ea766",
+            "name": "Cô gái đến từ hôm qua",
+            "description": "Là một trong những tác phẩm nổi tiếng nhất của nhà văn Nguyễn Nhật Ánh, Cô Gái Đến Từ Hôm Qua được coi là quyển sách gối đầu giường của nhiều thế hệ học trò Việt Nam suốt mấy mươi năm kể từ ngày ra đời. Cô Gái Đến Từ Hôm Qua là câu chuyện hấp dẫn đan xen giữa quá khứ và hiện tại qua lời kể của cậu học trò láu lỉnh – Thư. Những kỷ niệm ngày bé của Thư và người bạn thuở nhỏ Tiểu Li xen lẫn với những tình huống dở khóc dở cười giữa cậu và cô bạn cùng lớp – hoa khôi Việt An đã mê hoặc rất nhiều độc giả. Sau thành công của bộ phim remake Hàn Quốc Em Là Bà Nội Của Anh, đạo diễn “trăm tỷ” Phan Gia Nhật Linh quyết định thử thách với dự án thanh xuân thuần Việt – Cô Gái Đến Từ Hôm Qua. Chuyển thể một tiểu thuyết đã khó, chuyển thể một tiểu thuyết lấy bối cảnh nhiều năm trước càng khó hơn. Thế nhưng, Phan Gia Nhật Linh đã thành công trong việc truyền tải không khí của thập niên 90, giúp khán giả của Cô Gái Đến Từ Hôm Qua vừa được thưởng thức tác phẩm mình yêu thích trên màn ảnh rộng và sống lại lần nữa những kỷ niệm của thuở ấu thơ. Đảm nhận vai nam chính nặng ký là ca sĩ kiêm diễn viên Ngô Kiến Huy. Đã trau dồi qua rất nhiều phim, khả năng diễn xuất của anh chàng ngày càng lên tay và tạo ra Thư “thơ thẩn” như bước ra từ quyển sách của nhà văn Nguyễn Nhật Ánh. Vai diễn nàng thơ Việt An được trao cho “bà nội” Miu Lê cũng là một sự lựa chọn đúng đắn của đạo diễn Phan Gia Nhật Linh, góp phần vào thành công của bộ phim. &nbsp;&nbsp;",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/co-gai-den-tu-hom-qua-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "single",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65f95a5ac2448497d97ea766"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65f95a5ac2448497d97ea766/share"
+            }
+        }, {
+            "id": "65f958b9c2448497d97e85dc",
+            "name": "Hạnh Phúc Máu",
+            "description": "Câu chuyện về bi kịch của gia đình Vương Đình, nơi người đứng đầu gia tộc thường dùng bùa chú để điều khiển các thành viên.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/hanh-phuc-mau-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "single",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65f958b9c2448497d97e85dc"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65f958b9c2448497d97e85dc/share"
+            }
+        }, {
+            "id": "65f95770f49fd21960799bd3",
+            "name": "4 năm, 2 chàng, 1 tình yêu",
+            "description": "",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/4-nam-2-chang-1-tinh-yeu-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "single",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65f95770f49fd21960799bd3"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65f95770f49fd21960799bd3/share"
+            }
+        }, {
+            "id": "65f55bb5e5f40e2ffe16976d",
+            "name": "Những Cô Nàng Độc Thân Làm Mẹ ",
+            "description": "Phim kể về câu chuyện của ba người phụ nữ độc thân:Vy (do Lan Phương thủ vai) là một nhà báo tài năng, xinh đẹp nhưng lại có quan điểm tiêu cực về hôn nhân. Trang (do Minh Hằng thủ vai) là một cô gái trẻ trung, năng động và luôn khao khát được làm mẹ. Lan (do Sam thủ vai) là một bà mẹ đơn thân đang phải đối mặt với nhiều khó khăn trong cuộc sống.Ba người phụ nữ tưởng chừng như không có điểm chung này lại gặp nhau và trở thành bạn thân của nhau. Họ cùng nhau chia sẻ những niềm vui, nỗi buồn trong cuộc sống và cùng nhau vượt qua những thử thách.Bộ phim đã nhận được nhiều phản hồi tích cực từ khán giả bởi nội dung nhẹ nhàng, hài hước và gần gũi với cuộc sống. Phim cũng đã góp phần xóa bỏ những định kiến về phụ nữ độc thân và làm mẹ đơn thân.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/nhung-co-nang-doc-than-lam-me-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65f55bb5e5f40e2ffe16976d"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65f55bb5e5f40e2ffe16976d/share"
+            }
+        }, {
+            "id": "65eee17be5f40e2ffee88c1e",
+            "name": "Ước Mình Cùng Bay",
+            "description": "Bộ phim kể về số phận của những con người mong muốn thoát nghèo, họ buộc phải bước vào cuộc mưu sinh để những thiếu thốn biến mất và nhường chỗ cho cuộc đua vươn tới giàu sang.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/uoc-minh-cung-bay-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65eee17be5f40e2ffee88c1e"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65eee17be5f40e2ffee88c1e/share"
+            }
+        }, {
+            "id": "65e48352e5f40e2ffe9af8d0",
+            "name": "Người Mẹ Nhí",
+            "description": "Câu chuyện 500 năm về trước, Uyển Lan là một yêu tinh già, có 2 con gái là Chân Trân và Khánh Du. Đến năm 2020, do đi đầu thai trễ nên bà trở thành một bé gái 10 tuổi. Để sum họp chung mái nhà, Chân Trân đành nhận Uyển Lan làm con nuôi. Bí mật này chỉ có 2 cô con gái cùng bà giúp việc Mai Liên được biết. Trớ trêu là 500 năm nay họ vẫn giữ quan hệ mẹ con, chủ tớ nên với kiếp này vẫn không có gì thay đổi. Uyển Lan bất đắc dĩ trở thành một bà mẹ nhí.Bà già trong lốt trẻ em vừa ngây thơ vừa già dặn, sử dụng phép thuật đôi khi khá tùy tiện, gây những hiểu lầm đáng tiếc cho những người bình thường chung quanh. Tuy hành xử ngoài khuôn phép và trật tự thông thường của đời sống, nhưng bà mẹ vẫn giữ được phẩm chất của một bậc sinh thành. Bà luôn lo lắng hết mình cho sự an nguy, niềm vui, hạnh phúc trong cuộc đời của 2 cô con gái, dù vốn dĩ trong kiếp sống hiện tại họ hơn tuổi của mình.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/nguoi-me-nhi-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65e48352e5f40e2ffe9af8d0"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65e48352e5f40e2ffe9af8d0/share"
+            }
+        }, {
+            "id": "65be5266ff05f1a47d0469d4",
+            "name": "Cô hầu gái (bản Việt Nam)",
+            "description": "Phim Cô Hầu Gái (bản Việt Nam) – The Housemaid (2016) không đặc biệt độc đáo hay sáng tạo nhưng với những cảnh quay đẹp mắt của Việt Nam, đây hóa ra là một biến thể rất đáng xem về một chủ đề. Nội thất chính của ngôi nhà thuộc địa tuyệt vời cũng tạo nên một khung cảnh xa hoa. Một điều hơi khó chịu đối với khán giả người Anh là sự pha trộn giữa những người nói tiếng Việt và tiếng Anh địa phương thực sự đại diện cho người bản địa và quân xâm lược Pháp vào thời điểm xảy ra xung đột vào đầu những năm 50 ở nơi được gọi là Đông Dương.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/co-hau-gai-ban-viet-nam-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "single",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65be5266ff05f1a47d0469d4"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65be5266ff05f1a47d0469d4/share"
+            }
+        }, {
+            "id": "65617fbcaa7d07ce5c9f884c",
+            "name": "Kẻ Ẩn Danh",
+            "description": "Lâm - một người đàn ông từng là xã hội đen nhưng lại mất trí nhớ và nay đang lẩn trốn như một người bình thường, kiếm sống bằng lao động chân tay. Lâm sống cùng vợ - Hạnh và con gái riêng của cô là Hiền. Hiền vẫn chưa chấp nhận tình yêu thương của chú Lâm dành cho mình. Hiền lớn lên với sự bốc đồng và bị dụ dỗ bởi Tiến - một thanh niên đạo đức giả chuyên dụ dỗ những cô gái vào nhà thổ để trở thành gái mại dâm. Xuyên suốt bộ phim là hành trình đi tìm con gái của Lâm",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/ke-an-danh-thumb.jpg",
+                "type": "cover"
+            },
+            "type": "single",
+            "display": "text-below",
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65617fbcaa7d07ce5c9f884c"
+            },
+            "force_landscape": true,
+            "share": {
+                "url": "https://iptv.phimmoizzz.org/cr/films/65617fbcaa7d07ce5c9f884c/share"
+            }
+        }],
+        "enable_detail": true,
+        "remote_data": {
+            "url": "https://iptv.phimmoizzz.org/cr/lists/opcountry_viet-nam"
+        }
+    },
+
 }
