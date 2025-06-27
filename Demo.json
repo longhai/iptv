@@ -981,6 +981,10 @@
         "remote_data": {
             "url": "https://iptv.phimmoizzz.org/cr/lists/opcountry_viet-nam"
         }
+    }, {
+        "id": "latest",
+        "name": "Mới cập nhật",
+        "display": "vertical"
     }],
     "search": {
         "url": "https://iptv.phimmoizzz.org/search",
