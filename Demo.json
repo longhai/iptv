@@ -1,29 +1,27 @@
-
 {
   "id": "fptplay",
   "name": "FPT Play",
   "color": "#FF9E2D",
   "org_metadata": {
-    "image": "http://iptv.example.org/logo.png",
-    "title": "FPT Play - Truyền hình trực tuyến",
-    "description": "Xem truyền hình, phim, thể thao miễn phí."
+    "image": "http://iptv.nhadai.org/s-banner.png",
+    "title": "FPT Play - Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
+    "description": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến đỉnh cao..."
   },
-  "description": "Xem truyền hình, phim, thể thao miễn phí.",
-  "url": "http://iptv.example.org/v1",
+  "description": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến đỉnh cao...",
+  "url": "http://iptv.nhadai.org/v1",
   "image": {
     "display": "contain",
     "shape": "square",
-    "url": "http://iptv.example.org/logo.png",
+    "url": "http://iptv.nhadai.org/logo.png",
     "height": 101,
     "width": 155
   },
   "grid_number": 1,
   "groups": [
     {
-      "id": "noi-bat",
+      "id": "ca-nhan",
       "name": "Nổi Bật",
       "display": "horizontal",
-      "preview_display": "slider",
       "channels": [
         {
           "id": "VTV1_HD",
@@ -31,7 +29,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "http://iptv.example.org/img/vtv1-hd.png",
+            "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
             "height": 101,
             "width": 155
           },
@@ -50,7 +48,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "http://iptv.example.org/img/vtv1-hd.png",
+                        "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
                         "height": 101,
                         "width": 155
                       },
@@ -58,7 +56,7 @@
                         {
                           "id": "vtv1-hd",
                           "name": "VTV1 HD",
-                          "url": "http://iptv.example.org/stream/vtv1-hd",
+                          "url": "http://iptv.nhadai.org/stream/vtv1-hd",
                           "type": "hls",
                           "default": true
                         }
@@ -71,33 +69,84 @@
             }
           ],
           "share": {
-            "url": "http://iptv.example.org/share?q=vtv1-hd"
+            "url": "http://iptv.nhadai.org/share?q=vtv1-hd"
           },
           "related": {
-            "url": "http://iptv.example.org/related?q=vtv1-hd"
+            "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
           }
         }
       ],
+      "preview_display": "slider",
       "remote_data": {
         "enable": false,
-        "url": ""
+        "url": "http://iptv.nhadai.org/group?s=CA_NHAN"
       },
       "enable_detail": false
+    },
+    {
+      "id": "co-ban",
+      "name": "Cơ Bản",
+      "display": "horizontal",
+      "channels": [
+        {
+          "id": "VTV3_HD",
+          "name": "VTV3 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv3-hd",
+              "contents": [
+                {
+                  "id": "vtv3-hd",
+                  "streams": [
+                    {
+                      "id": "vtv3-hd",
+                      "name": "VTV3 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv3-hd",
+                          "name": "VTV3 HD",
+                          "url": "http://iptv.nhadai.org/stream/vtv3-hd",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": "http://iptv.nhadai.org/share?q=vtv3-hd"
+          },
+          "related": {
+            "url": "http://iptv.nhadai.org/related?q=vtv3-hd"
+          }
+        }
+      ],
+      "preview_display": "horizontal",
+      "remote_data": {
+        "enable": true,
+        "url": "http://iptv.nhadai.org/group?s=CO_BAN"
+      },
+      "enable_detail": true
     }
-  ],
-  "search": {
-    "url": "http://iptv.example.org/search",
-    "search_key": "q",
-    "paging": {
-      "page_key": "page",
-      "size_key": "size"
-    }
-  },
-  "notice": {
-    "id": "notice-1",
-    "link": "https://t.me/xemgicungshare",
-    "text": "Telegram Support",
-    "icon": "http://iptv.example.org/tele.png",
-    "closeable": true
-  }
+  ]
 }
