@@ -1,1 +1,3012 @@
 
+{
+  "id": "iptv",
+  "name": "IPTV Custom",
+  "color": "#2196F3",
+  "description": "Danh sách IPTV từ file tải lên",
+  "url": "http://iptv.local/v1",
+  "org_metadata": {
+    "image": "https://iptv.local/logo.png",
+    "title": "IPTV",
+    "description": "Danh sách IPTV được tạo từ file"
+  },
+  "image": {
+    "display": "contain",
+    "shape": "square",
+    "url": "https://iptv.local/logo.png",
+    "height": 101,
+    "width": 155
+  },
+  "grid_number": 1,
+  "groups": [
+    {
+      "id": "tat-ca",
+      "name": "Tất Cả",
+      "display": "vertical",
+      "preview_display": "vertical",
+      "grid_columns": 2,
+      "enable_detail": true,
+      "remote_data": {
+        "enable": true,
+        "url": "http://iptv.local/group?s=TAT-CA"
+      },
+      "channels": [
+        {
+          "id": "vtv1_hd",
+          "name": "VTV1 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv1hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv1_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv1_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv1_hd",
+                      "name": "VTV1 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv1hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv1_hd",
+                          "name": "VTV1 HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtv2_hd",
+          "name": "VTV2 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv2hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv2_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv2_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv2_hd",
+                      "name": "VTV2 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv2hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv2_hd",
+                          "name": "VTV2 HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv2hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtv3_hd",
+          "name": "VTV3 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv3hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv3_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv3_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv3_hd",
+                      "name": "VTV3 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv3hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv3_hd",
+                          "name": "VTV3 HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv3hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtv3_50fps",
+          "name": "VTV3 50fps",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv3hd.fps/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv3_50fps",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv3_50fps",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv3_50fps",
+                      "name": "VTV3 50fps",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv3hd.fps/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv3_50fps",
+                          "name": "VTV3 50fps",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv3hd.fps/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtv4_hd",
+          "name": "VTV4 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv4hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv4_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv4_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv4_hd",
+                      "name": "VTV4 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv4hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv4_hd",
+                          "name": "VTV4 HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv4hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtv5_hd",
+          "name": "VTV5 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv5hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv5_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv5_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv5_hd",
+                      "name": "VTV5 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv5hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv5_hd",
+                          "name": "VTV5 HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv5hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtv5_50fps",
+          "name": "VTV5 50fps",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv5hd.fps/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv5_50fps",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv5_50fps",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv5_50fps",
+                      "name": "VTV5 50fps",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv5hd.fps/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv5_50fps",
+                          "name": "VTV5 50fps",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv5hd.fps/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtv5_t_y_nguy_n",
+          "name": "VTV5 Tây Nguyên",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv5hdtn/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv5_t_y_nguy_n",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv5_t_y_nguy_n",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv5_t_y_nguy_n",
+                      "name": "VTV5 Tây Nguyên",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv5hdtn/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv5_t_y_nguy_n",
+                          "name": "VTV5 Tây Nguyên",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv5hdtn/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtv5_t_y_nam_b_",
+          "name": "VTV5 Tây Nam Bộ",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv5hdtnb/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv5_t_y_nam_b_",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv5_t_y_nam_b_",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv5_t_y_nam_b_",
+                      "name": "VTV5 Tây Nam Bộ",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv5hdtnb/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv5_t_y_nam_b_",
+                          "name": "VTV5 Tây Nam Bộ",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv5hdtnb/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtv_c_n_th__hd",
+          "name": "VTV Cần Thơ HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv6hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv_c_n_th__hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv_c_n_th__hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv_c_n_th__hd",
+                      "name": "VTV Cần Thơ HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv6hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv_c_n_th__hd",
+                          "name": "VTV Cần Thơ HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv6hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtv7_hd",
+          "name": "VTV7 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv7hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv7_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv7_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv7_hd",
+                      "name": "VTV7 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv7hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv7_hd",
+                          "name": "VTV7 HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv7hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtv8_hd",
+          "name": "VTV8 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv8hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv8_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv8_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv8_hd",
+                      "name": "VTV8 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv8hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv8_hd",
+                          "name": "VTV8 HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv8hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtv9_hd",
+          "name": "VTV9 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtv9hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv9_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv9_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv9_hd",
+                      "name": "VTV9 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtv9hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv9_hd",
+                          "name": "VTV9 HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtv9hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k_nh_qu_c_h_i_hd",
+          "name": "Kênh quốc hội HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/quochoi/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "k_nh_qu_c_h_i_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "k_nh_qu_c_h_i_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "k_nh_qu_c_h_i_hd",
+                      "name": "Kênh quốc hội HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/quochoi/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "k_nh_qu_c_h_i_hd",
+                          "name": "Kênh quốc hội HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/quochoi/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "antv",
+          "name": "ANTV",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/antvhd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "antv",
+              "name": "",
+              "contents": [
+                {
+                  "id": "antv",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "antv",
+                      "name": "ANTV",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/antvhd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "antv",
+                          "name": "ANTV",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/antvhd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "qpvn_hd",
+          "name": "QPVN HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/qpvnhd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "qpvn_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "qpvn_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "qpvn_hd",
+                      "name": "QPVN HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/qpvnhd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "qpvn_hd",
+                          "name": "QPVN HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/qpvnhd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nh_n_d_n",
+          "name": "Nhân Dân",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/nhandan/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "nh_n_d_n",
+              "name": "",
+              "contents": [
+                {
+                  "id": "nh_n_d_n",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "nh_n_d_n",
+                      "name": "Nhân Dân",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/nhandan/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "nh_n_d_n",
+                          "name": "Nhân Dân",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/nhandan/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q_nd__s__ki_n_tr_c_ti_p_",
+          "name": "QĐND (Sự kiện trực tiếp)",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/qdnd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "q_nd__s__ki_n_tr_c_ti_p_",
+              "name": "",
+              "contents": [
+                {
+                  "id": "q_nd__s__ki_n_tr_c_ti_p_",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "q_nd__s__ki_n_tr_c_ti_p_",
+                      "name": "QĐND (Sự kiện trực tiếp)",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/qdnd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "q_nd__s__ki_n_tr_c_ti_p_",
+                          "name": "QĐND (Sự kiện trực tiếp)",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/qdnd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sctv_2___todaytv",
+          "name": "SCTV 2 - TodayTV",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/sctv2hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "sctv_2___todaytv",
+              "name": "",
+              "contents": [
+                {
+                  "id": "sctv_2___todaytv",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "sctv_2___todaytv",
+                      "name": "SCTV 2 - TodayTV",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/sctv2hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "sctv_2___todaytv",
+                          "name": "SCTV 2 - TodayTV",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/sctv2hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab_1___vie_gi_i_tr__hd",
+          "name": "VTVcab 1 - Vie Giải Trí HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab1hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab_1___vie_gi_i_tr__hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab_1___vie_gi_i_tr__hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab_1___vie_gi_i_tr__hd",
+                      "name": "VTVcab 1 - Vie Giải Trí HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab1hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab_1___vie_gi_i_tr__hd",
+                          "name": "VTVcab 1 - Vie Giải Trí HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab_2___phim_vi_t_hd",
+          "name": "VTVcab 2 - Phim Việt HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab2hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab_2___phim_vi_t_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab_2___phim_vi_t_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab_2___phim_vi_t_hd",
+                      "name": "VTVcab 2 - Phim Việt HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab2hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab_2___phim_vi_t_hd",
+                          "name": "VTVcab 2 - Phim Việt HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab10___on_cine_hd",
+          "name": "VTVcab10 - On Cine HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab10hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab10___on_cine_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab10___on_cine_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab10___on_cine_hd",
+                      "name": "VTVcab10 - On Cine HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab10hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab10___on_cine_hd",
+                          "name": "VTVcab10 - On Cine HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab10hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab19___vie_dramas",
+          "name": "VTVcab19 – Vie Dramas",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab19hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab19___vie_dramas",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab19___vie_dramas",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab19___vie_dramas",
+                      "name": "VTVcab19 – Vie Dramas",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab19hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab19___vie_dramas",
+                          "name": "VTVcab19 – Vie Dramas",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab_8_bibi_sd",
+          "name": "VTVcab 8 Bibi SD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab8hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab_8_bibi_sd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab_8_bibi_sd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab_8_bibi_sd",
+                      "name": "VTVcab 8 Bibi SD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab8hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab_8_bibi_sd",
+                          "name": "VTVcab 8 Bibi SD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab_21__cartoon_kids_hd",
+          "name": "VTVcab 21- Cartoon Kids HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab21hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab_21__cartoon_kids_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab_21__cartoon_kids_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab_21__cartoon_kids_hd",
+                      "name": "VTVcab 21- Cartoon Kids HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab21hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab_21__cartoon_kids_hd",
+                          "name": "VTVcab 21- Cartoon Kids HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab_4___on_movies",
+          "name": "Vtvcab 4 – On Movies",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab4hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab_4___on_movies",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab_4___on_movies",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab_4___on_movies",
+                      "name": "Vtvcab 4 – On Movies",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab4hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab_4___on_movies",
+                          "name": "Vtvcab 4 – On Movies",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab_5___e_channel_hd",
+          "name": "VTVcab 5 - E Channel HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab5hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab_5___e_channel_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab_5___e_channel_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab_5___e_channel_hd",
+                      "name": "VTVcab 5 - E Channel HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab5hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab_5___e_channel_hd",
+                          "name": "VTVcab 5 - E Channel HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab_12___styletv_hd",
+          "name": "VTVcab 12 - StyleTV HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab12hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab_12___styletv_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab_12___styletv_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab_12___styletv_hd",
+                      "name": "VTVcab 12 - StyleTV HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab12hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab_12___styletv_hd",
+                          "name": "VTVcab 12 - StyleTV HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab15___on_music",
+          "name": "VTVcab15 – On Music",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab15hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab15___on_music",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab15___on_music",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab15___on_music",
+                      "name": "VTVcab15 – On Music",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab15hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab15___on_music",
+                          "name": "VTVcab15 – On Music",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab17___trending_tv",
+          "name": "Vtvcab17 – Trending TV",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab17hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab17___trending_tv",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab17___trending_tv",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab17___trending_tv",
+                      "name": "Vtvcab17 – Trending TV",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab17hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab17___trending_tv",
+                          "name": "Vtvcab17 – Trending TV",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab_20___v_family_hd",
+          "name": "VTVcab 20 - V Family HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab20hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab_20___v_family_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab_20___v_family_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab_20___v_family_hd",
+                      "name": "VTVcab 20 - V Family HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab20hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab_20___v_family_hd",
+                          "name": "VTVcab 20 - V Family HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab_22___life_tv_hd",
+          "name": "VTVcab 22 - Life TV HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab22hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab_22___life_tv_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab_22___life_tv_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab_22___life_tv_hd",
+                      "name": "VTVcab 22 - Life TV HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab22hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab_22___life_tv_hd",
+                          "name": "VTVcab 22 - Life TV HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab_9___infotv_hd",
+          "name": "VTVcab 9 - InfoTV HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab9hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab_9___infotv_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab_9___infotv_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab_9___infotv_hd",
+                      "name": "VTVcab 9 - InfoTV HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab9hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab_9___infotv_hd",
+                          "name": "VTVcab 9 - InfoTV HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab13_on_homeshopping",
+          "name": "VTVcab13-On Homeshopping",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab13hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab13_on_homeshopping",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab13_on_homeshopping",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab13_on_homeshopping",
+                      "name": "VTVcab13-On Homeshopping",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab13hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab13_on_homeshopping",
+                          "name": "VTVcab13-On Homeshopping",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "o2tv",
+          "name": "O2TV",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab7hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "o2tv",
+              "name": "",
+              "contents": [
+                {
+                  "id": "o2tv",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "o2tv",
+                      "name": "O2TV",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab7hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "o2tv",
+                          "name": "O2TV",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vtvcab_23___golf_channel",
+          "name": "VTVcab 23 - Golf Channel",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/vtvcab23hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtvcab_23___golf_channel",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtvcab_23___golf_channel",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtvcab_23___golf_channel",
+                      "name": "VTVcab 23 - Golf Channel",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/vtvcab23hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtvcab_23___golf_channel",
+                          "name": "VTVcab 23 - Golf Channel",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htv1",
+          "name": "HTV1",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htv1/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htv1",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htv1",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htv1",
+                      "name": "HTV1",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htv1/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htv1",
+                          "name": "HTV1",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htv2",
+          "name": "HTV2",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htv2hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htv2",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htv2",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htv2",
+                      "name": "HTV2",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htv2hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htv2",
+                          "name": "HTV2",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htv2hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htv3",
+          "name": "HTV3",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htv3/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htv3",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htv3",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htv3",
+                      "name": "HTV3",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htv3/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htv3",
+                          "name": "HTV3",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htv3/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htv4",
+          "name": "HTV4",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htv4/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htv4",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htv4",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htv4",
+                      "name": "HTV4",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htv4/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htv4",
+                          "name": "HTV4",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htv4/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htv7_hd",
+          "name": "HTV7 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htv7hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htv7_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htv7_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htv7_hd",
+                      "name": "HTV7 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htv7hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htv7_hd",
+                          "name": "HTV7 HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htv7hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htv9_hd",
+          "name": "HTV9 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htv9hd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htv9_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htv9_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htv9_hd",
+                      "name": "HTV9 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htv9hd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htv9_hd",
+                          "name": "HTV9 HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htv9hd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htv_th__thao",
+          "name": "HTV Thể Thao",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htvthethaohd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htv_th__thao",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htv_th__thao",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htv_th__thao",
+                      "name": "HTV Thể Thao",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htvthethaohd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htv_th__thao",
+                          "name": "HTV Thể Thao",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htvthethaohd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htvc_gia___nh",
+          "name": "HTVC gia đình",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htvcgiadinhhd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htvc_gia___nh",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htvc_gia___nh",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htvc_gia___nh",
+                      "name": "HTVC gia đình",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htvcgiadinhhd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htvc_gia___nh",
+                          "name": "HTVC gia đình",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htvcgiadinhhd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htvc_ph__n_",
+          "name": "HTVC phụ Nữ",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htvcphunuhd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htvc_ph__n_",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htvc_ph__n_",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htvc_ph__n_",
+                      "name": "HTVC phụ Nữ",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htvcphunuhd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htvc_ph__n_",
+                          "name": "HTVC phụ Nữ",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htvcphunuhd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htvc_thu_n_vi_t",
+          "name": "HTVC thuần việt",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htvcthuanviet/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htvc_thu_n_vi_t",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htvc_thu_n_vi_t",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htvc_thu_n_vi_t",
+                      "name": "HTVC thuần việt",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htvcthuanviet/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htvc_thu_n_vi_t",
+                          "name": "HTVC thuần việt",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htvcthuanviet/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htvc_phim_truy_n_hd",
+          "name": "HTVC phim truyện HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htvcphimhd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htvc_phim_truy_n_hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htvc_phim_truy_n_hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htvc_phim_truy_n_hd",
+                      "name": "HTVC phim truyện HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htvcphimhd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htvc_phim_truy_n_hd",
+                          "name": "HTVC phim truyện HD",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htvcphimhd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htvc_ca_nh_c",
+          "name": "HTVC ca nhạc",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htvccanhachd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htvc_ca_nh_c",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htvc_ca_nh_c",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htvc_ca_nh_c",
+                      "name": "HTVC ca nhạc",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htvccanhachd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htvc_ca_nh_c",
+                          "name": "HTVC ca nhạc",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htvccanhachd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htvc__channel",
+          "name": "HTVC+ Channel",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htvcplushd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htvc__channel",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htvc__channel",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htvc__channel",
+                      "name": "HTVC+ Channel",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htvcplushd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htvc__channel",
+                          "name": "HTVC+ Channel",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htvcplushd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "htvc_du_l_ch___cu_c_s_ng",
+          "name": "HTVC du lịch & cuộc sống",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htvcdulichhd/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htvc_du_l_ch___cu_c_s_ng",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htvc_du_l_ch___cu_c_s_ng",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htvc_du_l_ch___cu_c_s_ng",
+                      "name": "HTVC du lịch & cuộc sống",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htvcdulichhd/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htvc_du_l_ch___cu_c_s_ng",
+                          "name": "HTVC du lịch & cuộc sống",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htvcdulichhd/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sctv6",
+          "name": "SCTV6",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/sctv6/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "sctv6",
+              "name": "",
+              "contents": [
+                {
+                  "id": "sctv6",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "sctv6",
+                      "name": "SCTV6",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/sctv6/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "sctv6",
+                          "name": "SCTV6",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/sctv6/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sctv2___today_tv",
+          "name": "SCTV2 - Today TV",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/sctv2-today-tv/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "sctv2___today_tv",
+              "name": "",
+              "contents": [
+                {
+                  "id": "sctv2___today_tv",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "sctv2___today_tv",
+                      "name": "SCTV2 - Today TV",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/sctv2-today-tv/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "sctv2___today_tv",
+                          "name": "SCTV2 - Today TV",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "v_nh_long_1",
+          "name": "Vĩnh Long 1",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/htvl1/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "v_nh_long_1",
+              "name": "",
+              "contents": [
+                {
+                  "id": "v_nh_long_1",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "v_nh_long_1",
+                      "name": "Vĩnh Long 1",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/htvl1/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "v_nh_long_1",
+                          "name": "Vĩnh Long 1",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/htvl1/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "v_nh_long_2",
+          "name": "Vĩnh Long 2",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/thvl2/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "v_nh_long_2",
+              "name": "",
+              "contents": [
+                {
+                  "id": "v_nh_long_2",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "v_nh_long_2",
+                      "name": "Vĩnh Long 2",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/thvl2/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "v_nh_long_2",
+                          "name": "Vĩnh Long 2",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/thvl2/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "v_nh_long_3",
+          "name": "Vĩnh Long 3",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/thvl3/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "v_nh_long_3",
+              "name": "",
+              "contents": [
+                {
+                  "id": "v_nh_long_3",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "v_nh_long_3",
+                      "name": "Vĩnh Long 3",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/thvl3/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "v_nh_long_3",
+                          "name": "Vĩnh Long 3",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/thvl3/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "v_nh_long_4",
+          "name": "Vĩnh Long 4",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/thvl4/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "v_nh_long_4",
+              "name": "",
+              "contents": [
+                {
+                  "id": "v_nh_long_4",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "v_nh_long_4",
+                      "name": "Vĩnh Long 4",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/thvl4/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "v_nh_long_4",
+                          "name": "Vĩnh Long 4",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/thvl4/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "qtv_3",
+          "name": "QTV 3",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/119/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "qtv_3",
+              "name": "",
+              "contents": [
+                {
+                  "id": "qtv_3",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "qtv_3",
+                      "name": "QTV 3",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/119/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "qtv_3",
+                          "name": "QTV 3",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/119/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "h_i_ph_ng__",
+          "name": "Hải Phòng +",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/120/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "h_i_ph_ng__",
+              "name": "",
+              "contents": [
+                {
+                  "id": "h_i_ph_ng__",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "h_i_ph_ng__",
+                      "name": "Hải Phòng +",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/120/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "h_i_ph_ng__",
+                          "name": "Hải Phòng +",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/120/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "h__n_i_1",
+          "name": "Hà Nội 1",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/121/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "h__n_i_1",
+              "name": "",
+              "contents": [
+                {
+                  "id": "h__n_i_1",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "h__n_i_1",
+                      "name": "Hà Nội 1",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/121/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "h__n_i_1",
+                          "name": "Hà Nội 1",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/121/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "h__n_i_2",
+          "name": "Hà Nội 2",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/122/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "h__n_i_2",
+              "name": "",
+              "contents": [
+                {
+                  "id": "h__n_i_2",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "h__n_i_2",
+                      "name": "Hà Nội 2",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/122/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "h__n_i_2",
+                          "name": "Hà Nội 2",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/122/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "an_giang",
+          "name": "An Giang",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/123/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "an_giang",
+              "name": "",
+              "contents": [
+                {
+                  "id": "an_giang",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "an_giang",
+                      "name": "An Giang",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/123/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "an_giang",
+                          "name": "An Giang",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/123/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b_c_giang",
+          "name": "Bắc Giang",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://xem.truyenhinh.click/Logo/124/KenhCoBan",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "b_c_giang",
+              "name": "",
+              "contents": [
+                {
+                  "id": "b_c_giang",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "b_c_giang",
+                      "name": "Bắc Giang",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://xem.truyenhinh.click/Logo/124/KenhCoBan",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "b_c_giang",
+                          "name": "Bắc Giang",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/124/TuyetDoiKhongKinhDoanh.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b_c_k_n",
+    
