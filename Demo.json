@@ -1,1 +1,249 @@
 
+{
+  "id": "fptplay",
+  "name": "FPT Play",
+  "color": "#FF9E2D",
+  "org_metadata": {
+    "image": "http://iptv.nhadai.org/s-banner.png",
+    "title": "FPT Play - Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
+    "description": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến..."
+  },
+  "description": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến...",
+  "url": "http://iptv.nhadai.org/v1",
+  "image": {
+    "display": "contain",
+    "shape": "square",
+    "url": "http://iptv.nhadai.org/logo.png",
+    "height": 101,
+    "width": 155
+  },
+  "grid_number": 1,
+  "groups": [
+    {
+      "id": "ca-nhan",
+      "name": "Nổi Bật",
+      "display": "horizontal",
+      "preview_display": "slider",
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "VTV1_HD",
+          "name": "VTV1 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv1-hd",
+              "contents": [
+                {
+                  "id": "vtv1-hd",
+                  "streams": [
+                    {
+                      "id": "vtv1-hd",
+                      "name": "VTV1 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv1-hd",
+                          "name": "VTV1 HD",
+                          "url": "http://iptv.nhadai.org/stream/vtv1-hd",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": "http://iptv.nhadai.org/share?q=vtv1-hd"
+          },
+          "related": {
+            "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
+          }
+        },
+        {
+          "id": "VTV3_HD",
+          "name": "VTV3 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv3-hd",
+              "contents": [
+                {
+                  "id": "vtv3-hd",
+                  "streams": [
+                    {
+                      "id": "vtv3-hd",
+                      "name": "VTV3 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv3-hd",
+                          "name": "VTV3 HD",
+                          "url": "http://iptv.nhadai.org/stream/vtv3-hd",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": "http://iptv.nhadai.org/share?q=vtv3-hd"
+          },
+          "related": {
+            "url": "http://iptv.nhadai.org/related?q=vtv3-hd"
+          }
+        }
+      ]
+    },
+    {
+      "id": "quoc-te",
+      "name": "Quốc Tế",
+      "display": "horizontal",
+      "preview_display": "horizontal",
+      "enable_detail": true,
+      "channels": [
+        {
+          "id": "KBS_WORLD",
+          "name": "KBS World",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "http://iptv.nhadai.org/img/kbs-world.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "kbs-world",
+              "contents": [
+                {
+                  "id": "kbs-world",
+                  "streams": [
+                    {
+                      "id": "kbs-world",
+                      "name": "KBS World",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "http://iptv.nhadai.org/img/kbs-world.png",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "kbs-world",
+                          "name": "KBS World",
+                          "url": "http://iptv.nhadai.org/stream/kbs-world",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": "http://iptv.nhadai.org/share?q=kbs-world"
+          },
+          "related": {
+            "url": "http://iptv.nhadai.org/related?q=kbs-world"
+          }
+        },
+        {
+          "id": "NHK_WORLD_HD",
+          "name": "NHK World HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "http://iptv.nhadai.org/img/nhk-world-hd.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "nhk-world-hd",
+              "contents": [
+                {
+                  "id": "nhk-world-hd",
+                  "streams": [
+                    {
+                      "id": "nhk-world-hd",
+                      "name": "NHK World HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "http://iptv.nhadai.org/img/nhk-world-hd.png",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "nhk-world-hd",
+                          "name": "NHK World HD",
+                          "url": "http://iptv.nhadai.org/stream/nhk-world-hd",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": "http://iptv.nhadai.org/share?q=nhk-world-hd"
+          },
+          "related": {
+            "url": "http://iptv.nhadai.org/related?q=nhk-world-hd"
+          }
+        }
+      ]
+    }
+  ]
+}
