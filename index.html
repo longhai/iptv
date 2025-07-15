@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>IPTV Viewer (Fixed Menu Toggle)</title>
+<link href="https://unpkg.com/video.js/dist/video-js.min.css" rel="stylesheet">
+<link href="https://unpkg.com/plyr/dist/plyr.css" rel="stylesheet">
+<style>
+body { margin:0; font-family:sans-serif; overflow:hidden; }
+#leftMenu, #rightMenu {
+  position:fixed; top:0; bottom:0; width:280px; background:#fff; overflow-y:auto; z-index:2;
+  transform:translateX(-100%); transition:.3s ease; padding:10px; box-shadow:2px 0 5px rgba(0,0,0,.1);
+}
+#rightMenu { right:0; left:auto; transform:translateX(100%); }
+#leftMenu.show, #rightMenu.show { transform:translateX(0); }
+#overlay { position:fixed; inset:0; background:rgba(0,0,0,.3); z-index:1; display:none; }
+#overlay.show { display:block; }
+#video-container {
+  position:fixed; inset:0; background:black; z-index:0; display:flex; justify-content:center; align-items:center;
+}
+video, .video-js, #plyr, #clappr {
+  width:100%; height:100%; object-fit:contain;
+}
+.group {
+  font-weight:bold; margin-top:8px; cursor:pointer; padding:6px 8px; background:#f0f0f0; border-radius:4px;
+  display:flex; justify-content:space-between;
+}
+.group:hover { background:#e0e0e0; }
+.group::after { content:"►"; font-size:12px; transition:.2s ease; }
+.group.collapsed::after { transform:rotate(90deg); }
+.channel-list { display:none; margin:5px 0 10px 0; }
+.channel {
+  cursor:pointer; display:flex; align-items:center; margin:3px 0; padding:4px; border-radius:4px; background:#fafafa;
+}
+.channel:hover { background:#eee; }
+.channel img {
+  width:40px; height:40px; object-fit:contain; margin-right:8px; border-radius:4px;
+}
+.channel-info { flex:1; display:flex; flex-direction:column; }
+.channel-name { font-size:16px; font-weight:bold; color:#000; }
+.epg { font-size:12px; color:#666; }
+button.menu-btn {
+  position:fixed; top:10px; z-index:3; font-size: 1.5rem; background:transparent; color:rgba(255,255,255,0.3); border:none;transition:color 0.2s ease
+}
+button.menu-btn:hover{color:rgba(255,255,255,1)}
+#leftBtn { left:10px; }
+#rightBtn { right:10px; }
+#loading {
+  position:fixed; top:50%; left:50%; transform:translate(-50%,-50%);
+  background:#000c; color:#fff; padding:10px 20px; border-radius:4px; z-index:4; display:none;
+}
+input, select {
+  width:100%; margin:5px 0; padding:5px; border:1px solid #ccc; border-radius:4px;box-sizing: border-box;
+}
+</style>
+</head>
+<body>
+
+<div id="leftMenu"></div>
+<div id="rightMenu">
+  <h3>Nhập danh sách</h3>
+  <input type="text" id="urlInput" placeholder="URL m3u/m3u8/txt hoặc kênh">
+  <input type="file" id="fileInput">
+  <h3>Chọn trình phát</h3>
+  <select id="playerSelect" onchange="changePlayer()">
+    <option value="html5">HTML5</option>
+    <option value="hlsjs">HLS.js</option>
+    <option value="videojs">Video.js</option>
+    <option value="clappr">Clappr</option>
+  </select>
+</div>
+
+<div id="overlay" onclick="setMenu(false)"></div>
+<div id="loading">📥 Đang tải…</div>
+
+<div id="video-container" onclick="setMenu(false)">
+  <video id="video" controls autoplay playsinline></video>
+</div>
+
+<button id="leftBtn" class="menu-btn" onclick="toggleMenu('left')">☰</button>
+<button id="rightBtn" class="menu-btn" onclick="toggleMenu('right')">⚙️</button>
+
+<script>
+const state = {playlist:{},currentPlayer:'html5',currentChannel:'',playerInstance:null,epgUrl:'',epgData:{},loadedLibs:{},currentTime:0};
+const $ = sel => document.querySelector(sel), $all = sel => document.querySelectorAll(sel);
+const loading = $('#loading'), video = $('#video'), container = $('#video-container');
+
+$('#fileInput').addEventListener('change', e => {
+  const f = e.target.files[0];
+  if (!f) return;
+  const r = new FileReader();
+  r.onload = () => parsePlaylist(r.result);
+  r.readAsText(f);
+});
+$('#urlInput').addEventListener('input', e => {
+  const url = e.target.value.trim();
+  if (!url) return;
+  if (url.startsWith("http")) { localStorage.setItem('iptvURL', url); loadFromURL(url); }
+  else playChannel(url);
+});
+
+function toggleMenu(side) {
+  const menu = $(`#${side}Menu`);
+  const isOpen = menu.classList.contains('show');
+  setMenu(!isOpen, side);
+}
+function setMenu(show, side='') {
+  $('#overlay').classList.toggle('show', show);
+  ['left','right'].forEach(s => {
+    const m = $(`#${s}Menu`);
+    m.classList.toggle('show', show && s===side);
+  });
+}
+
+function loadFromURL(url) {
+  if (url.match(/\.(m3u|txt)$/)) {
+    loading.style.display='block';
+    fetch(url).then(r=>r.text()).then(parsePlaylist).catch(e=>{alert(e);loading.style.display='none';});
+  } else playChannel(url);
+}
+
+function parsePlaylist(text) {
+  Object.assign(state,{playlist:{},epgUrl:'',epgData:{}});
+  const lines = text.split('\n'), first = lines[0].trim();
+  if (first.includes('url-tvg')) {
+    const m = first.match(/url-tvg="([^"]+)"/i);
+    if (m) state.epgUrl = m[1].replace(/^http:/, 'https:');
+  }
+  let tmp = {};
+  lines.forEach(line => {
+    const l = line.trim(); if (!l) return;
+    if (l.startsWith('#EXTINF')) {
+      tmp = {
+        name: (l.match(/,(.*)$/) || [,'Không tên'])[1],
+        group: (l.match(/group-title="([^"]+)"/i) || [,'Khác'])[1],
+        logo: (l.match(/tvg-logo="([^"]+)"/i) || [,''])[1],
+        tvgId: (l.match(/tvg-id="([^"]+)"/i) || [,''])[1]
+      };
+    } else if (!l.startsWith('#')) {
+      if (!state.playlist[tmp.group]) state.playlist[tmp.group]=[];
+      state.playlist[tmp.group].push({...tmp,url:l});
+    }
+  });
+  renderPlaylist(); loading.style.display='none';
+  if (state.epgUrl) loadEPG(state.epgUrl);
+  const [g]=Object.keys(state.playlist);
+  if (g&&state.playlist[g][0]) playChannel(state.playlist[g][0].url);
+}
+
+function loadEPG(url) {
+  loading.style.display='block';
+  fetch(url).then(r=>r.text()).then(txt=>{
+    const xml = new DOMParser().parseFromString(txt,'application/xml');
+    xml.querySelectorAll('programme').forEach(p=>{
+      const c=p.getAttribute('channel');
+      if (!state.epgData[c]) state.epgData[c]=[];
+      state.epgData[c].push({start:p.getAttribute('start'),stop:p.getAttribute('stop'),title:p.querySelector('title')?.textContent||''});
+    });
+    updateEPGUI(); loading.style.display='none';
+  }).catch(e=>{console.error(e);loading.style.display='none';});
+}
+
+function renderPlaylist() {
+  const m = $('#leftMenu');
+  m.innerHTML=`<h3>Danh sách kênh</h3><input type="text" id="searchInput" placeholder="🔍 Tìm kênh..." oninput="searchChannels()">`;
+  for (const g in state.playlist) {
+    const grpEl = document.createElement('div');
+    grpEl.className='group'; grpEl.textContent=`${g} (${state.playlist[g].length})`;
+    grpEl.onclick=()=>{grpEl.classList.toggle('collapsed');grpEl.nextElementSibling.style.display=grpEl.nextElementSibling.style.display==='none'?'block':'none';};
+    const list = document.createElement('div');
+    list.className='channel-list'; list.style.display='none';
+    state.playlist[g].forEach(ch=>{
+      const c = document.createElement('div'); c.className='channel'; c.onclick=()=>playChannel(ch.url);
+      if (ch.logo) { const img=document.createElement('img'); img.src=ch.logo; c.appendChild(img); }
+      const info=document.createElement('div'); info.className='channel-info';
+      info.innerHTML=`<div class="channel-name">${ch.name}</div><div class="epg" data-tvgid="${ch.tvgId}">🎬 Không có EPG</div>`;
+      c.appendChild(info); list.appendChild(c);
+    });
+    m.appendChild(grpEl); m.appendChild(list);
+  }
+}
+
+function updateEPGUI() {
+  $all('.epg').forEach(div=>{
+    const id=div.dataset.tvgid;
+    div.textContent=renderEPG(id);
+  });
+}
+
+function renderEPG(id) {
+  const d=state.epgData[id];
+  if (!id||!d?.length) return '🎬 Không có EPG';
+  const now=Date.now();
+  const cur=d.find(e=>parseEPGTime(e.start)<=now&&parseEPGTime(e.stop)>now);
+  return cur?`🎬 ${cur.title}`:'🎬 Không có chương trình đang phát';
+}
+const parseEPGTime = s => new Date(`${s.slice(0,4)}-${s.slice(4,6)}-${s.slice(6,8)}T${s.slice(8,10)}:${s.slice(10,12)}:00`).getTime();
+
+function playChannel(url, startTime=0) {
+  state.currentChannel=url;
+  setMenu(false);
+  destroyPlayers();
+  const onReady = () => {
+    if (startTime > 0) {
+      if (state.currentPlayer==='html5'||state.currentPlayer==='hlsjs') video.currentTime=startTime;
+      else if (state.playerInstance?.currentTime) state.playerInstance.currentTime(startTime);
+    }
+  };
+  const players = {
+    html5: ()=>{ video.src=url; video.style.display='block'; video.play().then(onReady); },
+    hlsjs: ()=>{ video.style.display='block'; loadLib('hls.js','https://unpkg.com/hls.js').then(()=>{
+      const hls=new Hls(); hls.attachMedia(video); hls.loadSource(url);
+      hls.on(Hls.Events.MANIFEST_PARSED,()=>{ state.playerInstance=hls; video.play().then(onReady); });
+    }); },
+    videojs: ()=>initPlayer('videojs','https://unpkg.com/video.js/dist/video.min.js','video',(el)=>{
+      el.className='video-js';
+      el.innerHTML=`<source src="${url}" type="application/x-mpegURL">`;
+      state.playerInstance=videojs(el);
+    }),
+    clappr: ()=>initPlayer('clappr','https://unpkg.com/clappr/dist/clappr.js','div',(el)=>{
+      state.playerInstance=new Clappr.Player({source:url,parentId:'#clappr',autoPlay:true,width:'100%',height:'100%'}); onReady();
+    })
+  };
+  players[state.currentPlayer]();
+}
+
+function initPlayer(name,url,tag,cb) {
+  video.style.display='none';
+  loadLib(name,url).then(()=>{
+    const el=document.createElement(tag);
+    el.id=name; el.autoplay=el.controls=el.playsInline=true;
+    container.appendChild(el); cb(el);
+  });
+}
+
+function changePlayer() {
+  if (!isNaN(video.currentTime)) state.currentTime=video.currentTime;
+  state.currentPlayer=$('#playerSelect').value;
+  localStorage.setItem('iptvPlayer', state.currentPlayer);
+  if (state.currentChannel) playChannel(state.currentChannel,state.currentTime);
+}
+
+function destroyPlayers() {
+  if (state.playerInstance) {
+    if(state.playerInstance.destroy) state.playerInstance.destroy();
+    if(state.playerInstance.dispose) state.playerInstance.dispose();
+    state.playerInstance=null;
+  }
+  ['videojs','plyr','clappr'].forEach(id=>$(`#${id}`)?.remove());
+  video.pause(); video.src=''; video.style.display='block';
+}
+
+function loadLib(name,url) {
+  return new Promise((res,rej)=>{
+    if(state.loadedLibs[name])return res();
+    const s=document.createElement('script');
+    s.src=url; s.onload=()=>{state.loadedLibs[name]=true;res();};
+    s.onerror=()=>rej(`Failed to load ${name}`);
+    document.head.appendChild(s);
+  });
+}
+
+function searchChannels() {
+  const q=$('#searchInput').value.trim().toLowerCase();
+  $all('.group').forEach(grp=>{
+    const list=grp.nextElementSibling; let match=false;
+    list.querySelectorAll('.channel').forEach(c=>{
+      const name=c.querySelector('.channel-name').textContent.toLowerCase();
+      const ok=name.includes(q); c.style.display=ok?'':'none'; if(ok)match=true;
+    });
+    grp.style.display=match||q===''?'':'none';
+    list.style.display=match&&q!==''?'block':'none';
+    grp.classList.toggle('collapsed',!match&&q!=='');
+  });
+}
+
+window.onload=()=>{
+  const savedURL=localStorage.getItem('iptvURL');
+  if(savedURL){$('#urlInput').value=savedURL;loadFromURL(savedURL);}
+  const savedPlayer=localStorage.getItem('iptvPlayer');
+  if(savedPlayer){state.currentPlayer=savedPlayer;$('#playerSelect').value=savedPlayer;}
+};
+</script>
+</body>
+</html>
