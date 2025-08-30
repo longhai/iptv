@@ -101,6 +101,8 @@ http://stream2.mobiradio.vn/vovradio/vovgthn.stream/playlist.m3u8
 http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOVGT Mekong
 https://stream.vovmedia.vn/vovmekong
+#EXTINF:-1 group-title="Radio Việt",Xone FM
+https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
 #EXTINF:-1 group-title="Radio Việt", Vĩnh Long Radio
 https://catchup.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNkMDY2ZjkxLWE5OGEtNDhlMy04ZWRhLWFlZTU1NmRhYmM1ZSIsImV4cCI6MTcyNjU3OTAwMSwidXJpIjoiL3JhZGlvIiwiaWF0IjoxNzI2NTU3NDAxfQ.EOgm-QIPU-XZGxeofmgA9VB-fGJAZA_Yo_1OtcYfaoQ-/radio/chunks.m3u8
 #EXTINF:-1 group-title="Radio Việt", Yên Bái Radio
@@ -160,4 +162,5 @@ https://stream.zeno.fm/drpeyn452d0uv.mp3
 https://stream.zeno.fm/umt5gqmg3reuv.mp3
 #EXTINF:-1 group-title="Radio Hải Ngoại",Cherry Radio - NHẠC TRỮ TÌNH 24/7
 https://stream.zeno.fm/wppep1n7qpeuv.mp3
+
 
