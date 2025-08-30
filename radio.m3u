@@ -74,11 +74,11 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOH FM 99.9MHz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV1 FM 100MHz
-https://stream-cdn.vov.vn/live/vov1-audio_only.m3u8
+https://audio-lss.vov.vn/han/live/vov1/audio/manifest.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV2 FM 96.5 MHz
-https://stream-cdn.vov.vn/live/vov2-audio_only.m3u8
+https://media-audio.vov.vn/vov2.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV3 FM 102.7 MHz
-https://stream-cdn.vov.vn/live/vov3-audio_only.m3u8
+https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV4 DBSCL
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV4 Miền Trung
@@ -86,9 +86,9 @@ http://media.kythuatvov.vn:1936/live/VOV4_MT.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV4 Tây Bắc
 http://118.70.205.22:1935/vovlive/vov4.TayBac.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV4 Tây Nguyên
-http://media.kythuatvov.vn:7039/;stream/
+https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV English 24/7
-https://streaming1.vov.vn:8443/audio/vovvn1_vov247.stream_aac/playlist.m3u8
+https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV5 FM 105.5MHz
 https://stream-cdn.vov.vn/live/vov5-audio_only.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV FM 89
@@ -108,7 +108,7 @@ https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 #EXTINF:-1 group-title="Radio Việt", Đà Nẵng Radio
 http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", Đồng Tháp Radio
-https://64d0d74b76158.streamlock.net/THDTR/thdtradio/playlist.m3u8
+https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio Hải Ngoại",Nationwide Viet Radio
 http://162.244.80.33:4480/;stream.mp3:4480/
@@ -160,3 +160,4 @@ https://stream.zeno.fm/drpeyn452d0uv.mp3
 https://stream.zeno.fm/umt5gqmg3reuv.mp3
 #EXTINF:-1 group-title="Radio Hải Ngoại",Cherry Radio - NHẠC TRỮ TÌNH 24/7
 https://stream.zeno.fm/wppep1n7qpeuv.mp3
+
