@@ -112,6 +112,27 @@ http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", Đồng Tháp Radio
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
 
+#EXTINF:-1 group-title="Radio Việt", Vpop
+https://vnso-pt-50-tf-multi-playlist-zmp3.zmdcdn.me/JB2zPitWC-s/zhls/playback-realtime/audio/6ddadf76e3330a6d5322/audio.m3u8
+#EXTINF:-1 group-title="Radio Việt", Chạm
+https://vnso-pt-49-tf-multi-playlist-zmp3.zmdcdn.me/j20SDlO5EQk/zhls/playback-realtime/audio/59a2ee0ed24b3b15625a/audio.m3u8
+#EXTINF:-1 group-title="Radio Việt", Bolero
+https://vnso-pt-51-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8
+#EXTINF:-1 group-title="Radio Việt", US-UK
+https://vnno-cm-1-tf-multi-playlist-zmp3.zmdcdn.me/5k37-bBNjIU/zhls/playback-realtime/audio/f49e38320477ed29b466/audio.m3u8
+#EXTINF:-1 group-title="Radio Việt", K-Pop
+https://vnso-zn-28-tf-multi-playlist-zmp3.zmdcdn.me/XoQlAlw4O08/zhls/playback-realtime/audio/6600baac86e96fb736f8/audio.m3u8
+#EXTINF:-1 group-title="Radio Việt", Acoustic
+https://vnno-ne-6-tf-multi-playlist-zmp3.zmdcdn.me/4TX5Vj5v__E/zhls/playback-realtime/audio/9b7b55d7699280ccd983/audio.m3u8
+#EXTINF:-1 group-title="Radio Việt", Ráp Việt
+https://vnso-pt-37-tf-multi-playlist-zmp3.zmdcdn.me/7k45_gFb6I8/zhls/playback-realtime/audio/cef1015d3d18d4468d09/audio.m3u8
+#EXTINF:-1 group-title="Radio Việt", EDM
+https://vnno-cm-8-tf-multi-playlist-zmp3.zmdcdn.me/AkjPOEj66pI/zhls/playback-realtime/audio/7386bb2a876f6e31377e/audio.m3u8
+#EXTINF:-1 group-title="Radio Việt", C-Pop
+https://vnso-pt-33-tf-multi-playlist-zmp3.zmdcdn.me/nDOW7B2Y4NI/zhls/playback-realtime/audio/97b35e1f625a8b04d24b/audio.m3u8
+#EXTINF:-1 group-title="Radio Việt", Nhạc không lời
+https://vnso-pt-55-tf-multi-playlist-zmp3.zmdcdn.me/KOY-wvc-pKE/zhls/playback-realtime/audio/1f36d59ae9df008159ce/audio.m3u8
+
 #EXTINF:-1 group-title="Radio Hải Ngoại",Nationwide Viet Radio
 http://162.244.80.33:4480/;stream.mp3:4480/
 #EXTINF:-1 group-title="Radio Hải Ngoại",Radio Viet Nam Hai Ngoai
@@ -162,5 +183,6 @@ https://stream.zeno.fm/drpeyn452d0uv.mp3
 https://stream.zeno.fm/umt5gqmg3reuv.mp3
 #EXTINF:-1 group-title="Radio Hải Ngoại",Cherry Radio - NHẠC TRỮ TÌNH 24/7
 https://stream.zeno.fm/wppep1n7qpeuv.mp3
+
 
 
