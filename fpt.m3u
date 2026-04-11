@@ -30,10 +30,6 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="vtvcantho" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://i.imgur.com/7sSpkMV.png",VTVCT
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="vtv7hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png",VTV7
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
@@ -45,6 +41,10 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/3840px-VTV9_logo_2013_final.svg.png",VTV9
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="vtvcantho" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755",VTV10
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="vietnamtoday" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",VietNamToday
 #EXTVLCOPT:http-user-agent=dovietsy
@@ -467,103 +467,3 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/150px-Outdoor_Channel_logo_2017.svg.png", Outdoor Channel
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 1
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 2
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 3
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 4
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 5
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 6
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 7
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzch1/thethao07_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 8
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzch1/thethao08_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 9
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzch1/thethao09_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 14
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao14_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 15
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 16
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao16_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 17
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 18
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao18_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 19
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao19_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 20
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao20_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 109
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/channel/thethao109/playlist_mx_1080p1.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 139
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao139_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 246
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzch1/thethao246_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 261
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao261_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 262
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao262_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 263
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao263_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 264
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao264_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 265
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao265_mx.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", FPT The Thao 266
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao266_mx.smil/chunklist.m3u8
