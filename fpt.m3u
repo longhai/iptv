@@ -76,6 +76,10 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 
+#EXTINF:0 tvg-id="vinhlong5hd" group-title="🏞️| Quê hương FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2026/01/06/o1zkzgyk_thumb-06-01-20269ec565e4e1a3ec3262481832babbed53_296_168.png",💚| Vĩnh Long 5
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8
+
 #EXTINF:0 tvg-id="antvhd"  group-title="🏞️| Quê hương FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/29/6wcqgx0o_antv6f5c0b4042fc7777d54ce1b0ba22a056_296_168.png",An Ninh TV
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
