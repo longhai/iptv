@@ -1,70 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Radio Việt", Bà Rịa Vũng Tàu Radio
-http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Bình Phước Radio
-https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
-#EXTINF:-1 group-title="Radio Việt", Bình Thuận Radio
-http://202.43.109.142:1935/thbtradio/btradio/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Bạc Liêu Radio
-http://118.69.205.213/radio/radio.m3u8
-#EXTINF:-1 group-title="Radio Việt", Bắc Giang Radio
-https://cdn.mediatech.vn/bgtvlive/radiolive/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Bến Tre Radio
-http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/audiostream.m3u8
-#EXTINF:-1 group-title="Radio Việt", Cà Mau Radio
-http://tv.ctvcamau.vn/live/radio/radio.m3u8
-#EXTINF:-1 group-title="Radio Việt", Cần Thơ Radio
-https://tv.canthotv.vn/live/radio/radio.m3u8
-#EXTINF:-1 group-title="Radio Việt", Gia Lai Radio
-http://113.161.25.3:8134/hls/radio/radio.m3u8
-#EXTINF:-1 group-title="Radio Việt", Hà Nội Radio 90MHz
-http://cdn.mediatech.vn/hntvRadio/fm90.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Hà Nội Radio 96MHz
-http://cdn.mediatech.vn/hntvRadio/fm96.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Hưng Yên Radio
-http://cdn.hytv.mediatech.vn/hytvlive/radio.m3u8
-#EXTINF:-1 group-title="Radio Việt", Hải Phòng 1 Radio
-https://live.thhp.vn/937/index.m3u8
-#EXTINF:-1 group-title="Radio Việt", Hải Phòng 2 Radio
-https://live.thhp.vn/radio/102/index.m3u8
-#EXTINF:-1 group-title="Radio Việt", Hậu Giang Radio
-https://haugiangfm.htvc.catchup.vnroute.com/haugiang-fm.tms/index.m3u8
-#EXTINF:-1 group-title="Radio Việt", JoyFM 98.9MHz
-http://cdn.mediatech.vn/hntvRadio/joyfm.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Khánh Hòa Radio
-http://210.245.20.94/hls/radio.m3u8
-#EXTINF:-1 group-title="Radio Việt", Long An Radio
-http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/radio.m3u8
-#EXTINF:-1 group-title="Radio Việt", Lâm Đồng Radio
-http://203.171.21.216:1935/radio/lamdong_aac/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Nghệ An Radio
-https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
-#EXTINF:-1 group-title="Radio Việt", Ninh Bình Radio
-https://nbtv.vncdn.vn/nbtvlive/radio.m3u8
-#EXTINF:-1 group-title="Radio Việt", Phú Yên Radio
-http://113.161.4.48:8080/phuyen/radio.m3u8
-#EXTINF:-1 group-title="Radio Việt", Quảng Nam Radio
-rtmp://113.161.6.157:1935/live/audiostream
-#EXTINF:-1 group-title="Radio Việt", Quảng Ngãi Radio
-http://203.171.21.216:1935/radio/quangngai_aac/chunklist_w1148923709.m3u8
-#EXTINF:-1 group-title="Radio Việt", Quảng Ninh 1 Radio
-http://qtv.vncdn.vn/qtvlive/qnr1.m3u8
-#EXTINF:-1 group-title="Radio Việt", Quảng Ninh 2 Radio
-http://qtv.vncdn.vn/qtvlive/qnr2.m3u8
-#EXTINF:-1 group-title="Radio Việt", Sóc Trăng Radio
-https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamf.m3u8
-#EXTINF:-1 group-title="Radio Việt", Sơn La Radio
-http://203.171.21.216:1935/radio/sonla_aac/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Thái Bình Radio
-http://118.70.118.191:1935/tbtvlive/radio/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Thừa Thiên Huế Radio
-rtmp://118.69.176.149:1936/live/radio
-#EXTINF:-1 group-title="Radio Việt", Tiền Giang Radio
-http://thtg.vn:8002/radiolive.m3u8
-#EXTINF:-1 group-title="Radio Việt", Tuyên Quang Radio
-https://live.tuyenquangtv.vn/hls/radio.m3u8
-#EXTINF:-1 group-title="Radio Việt", Tây Ninh Radio
-http://202.43.109.142:1935/radio11/tnradio/playlist.m3u8
+
 #EXTINF:-1 group-title="Radio Việt", VOH AM 610kHz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOH FM 87.7MHz
@@ -74,11 +9,11 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOH FM 99.9MHz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV1 FM 100MHz
-https://audio-lss.vov.vn/han/live/vov1/audio/manifest.m3u8
+https://audio-lss.vov.vn/live/vov1.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV2 FM 96.5 MHz
-https://media-audio.vov.vn/vov2.sdp_aac/playlist.m3u8
+https://audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV3 FM 102.7 MHz
-https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
+https://audio-lss.vov.vn/live/vov3.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV4 DBSCL
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV4 Miền Trung
@@ -90,25 +25,19 @@ https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV English 24/7
 https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV5 FM 105.5MHz
-https://stream-cdn.vov.vn/live/vov5-audio_only.m3u8
+https://audio-lss.vov.vn/live/vov5.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOV FM 89
 http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOVGT HCM
 http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOVGT HN
-http://stream2.mobiradio.vn/vovradio/vovgthn.stream/playlist.m3u8
+https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOVGT Mekong
 http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", VOVGT Mekong
 https://stream.vovmedia.vn/vovmekong
 #EXTINF:-1 group-title="Radio Việt",Xone FM
 https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
-#EXTINF:-1 group-title="Radio Việt", Vĩnh Long Radio
-https://catchup.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNkMDY2ZjkxLWE5OGEtNDhlMy04ZWRhLWFlZTU1NmRhYmM1ZSIsImV4cCI6MTcyNjU3OTAwMSwidXJpIjoiL3JhZGlvIiwiaWF0IjoxNzI2NTU3NDAxfQ.EOgm-QIPU-XZGxeofmgA9VB-fGJAZA_Yo_1OtcYfaoQ-/radio/chunks.m3u8
-#EXTINF:-1 group-title="Radio Việt", Yên Bái Radio
-https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
-#EXTINF:-1 group-title="Radio Việt", Đà Nẵng Radio
-http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", Đồng Tháp Radio
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
 
@@ -173,7 +102,7 @@ https://stream.zeno.fm/38paz80m268uv.mp3
 https://stream.zeno.fm/qa3v2zyrqy5tv.mp3
 #EXTINF:-1 group-title="Radio Hải Ngoại",VIEN THAO
 https://stream.zeno.fm/dw22656b8e9uv.mp3
-#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FvD4EGWgZwbSew8U3oqw5OFi-mc-hXNFHMbDKq9e1HWA%2Frs%3Afit%3A270%3A270%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0E2THlrOEFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0FnUEg3bkFvTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNzB4MjcwJnVwZGF0ZWQ9MTYyNzc3MTg1OTAwMA.webp&w=384&q=75" group-title="Radio Hải Ngoại",Divine Mercy Vietnamese Radio
+#EXTINF:-1 tvg-logo="" group-title="Radio Hải Ngoại",Divine Mercy Vietnamese Radio
 https://stream.zeno.fm/acwm8eq8uy5tv.mp3
 #EXTINF:-1 group-title="Radio Hải Ngoại",Radio PHỐ ĐÊM
 https://stream.zeno.fm/9c0w88h5feruv.mp3
@@ -183,6 +112,13 @@ https://stream.zeno.fm/drpeyn452d0uv.mp3
 https://stream.zeno.fm/umt5gqmg3reuv.mp3
 #EXTINF:-1 group-title="Radio Hải Ngoại",Cherry Radio - NHẠC TRỮ TÌNH 24/7
 https://a11.asurahosting.com:6750/radio.mp3
+#EXTINF:-1 group-title="Radio Hải Ngoại",vietradio HOU
+https://cdn20.swarm.v247.com/3rdout/radio.hou.std2/icecast.audio
+#EXTINF:-1 group-title="Radio Hải Ngoại",vietradio DFW
+https://cdn20.swarm.v247.com/3rdout/radio.dfw/icecast.audio
+
+#EXTINF:-1 group-title="Radio",oneway Công Giáo
+https://oneway.out.airtime.pro/oneway_a
 
 
 
