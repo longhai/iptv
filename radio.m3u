@@ -11,6 +11,36 @@ http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 https://live-hq.evgcdn.net/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8
 #EXTINF:-1 group-title="Radio Việt", Cà Mau
 https://tv.ctvcamau.vn/live/radio/radio.m3u8
+#EXTINF:-1 group-title="Radio Việt", Lâm Đồng
+https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Đăk Lăk
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Gia Lai
+https://tv.gialaitv.vn/radio.m3u8
+#EXTINF:-1 group-title="Radio Việt", Đà Nẵng 
+https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Quảng ngãi
+https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Huế FM 93MHz
+https://live.huetv.com.vn/Radio-online/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Nghệ An 
+https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+#EXTINF:-1 group-title="Radio Việt", Thanh Hóa
+https://s3-fpt-cdn.sohatv.vn/live/pull/Y5Kan2X7I7GHo4VN/thth-live/2DzDaj9NBVpQch8d/337a54767a7233703637564336316a6da787b0c003b711788b575225c3663c9abb5dc357b504356a65c3031ab7fe0feebd8f4c52719032575413ecf516e10e3cb291a197277ba8d3375d0bff7a69b238a221a9e6fc27abbe3344121654bc878c78c01bf1a3d3f1d724252c63c4d586e4a3ba2ca9f07175c6a948f4716a6f0d2fd15b1e25bd8ba24280c6496d7297f82b74c6cbde3c5f79ee749a591341f7f1aecc4cf3855d1185dd7db0956b1e8855b0/mobile.m3u8
+#EXTINF:-1 group-title="Radio Việt", Ninh Bình
+https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Phú Thọ
+https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
+#EXTINF:-1 group-title="Radio Việt", Sơn La
+https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Điện Biên
+https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/playlist.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Radio Việt", VOH AM 610kHz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
