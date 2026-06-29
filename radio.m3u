@@ -35,10 +35,12 @@ https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
 https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", Điện Biên
 https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/playlist.m3u8
-
-
-
-
+#EXTINF:-1 group-title="Radio Việt", Bác Ninh
+https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Hưng Yên 
+https://1253218859.e.cdneverest.net/K__kk9xFgdqqLhwnuLuSAw/1782775471/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Hải Phòng
+https://cdn.thhp.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
 
 
 
