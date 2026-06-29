@@ -40,6 +40,12 @@ https://stream.vovmedia.vn/vovmekong
 https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
 #EXTINF:-1 group-title="Radio Việt", Đồng Tháp Radio
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 97,3 Mhz
+https://live.canthotv.vn/live/radio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 89,6 Mhz
+https://live.canthotv.vn/live/radiocs2/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Radio Việt", Vpop
 https://vnso-pt-50-tf-multi-playlist-zmp3.zmdcdn.me/JB2zPitWC-s/zhls/playback-realtime/audio/6ddadf76e3330a6d5322/audio.m3u8
@@ -112,9 +118,9 @@ https://stream.zeno.fm/drpeyn452d0uv.mp3
 https://stream.zeno.fm/umt5gqmg3reuv.mp3
 #EXTINF:-1 group-title="Radio Hải Ngoại",Cherry Radio - NHẠC TRỮ TÌNH 24/7
 https://a11.asurahosting.com:6750/radio.mp3
-#EXTINF:-1 group-title="Radio Hải Ngoại",vietradio HOU
+#EXTINF:-1 group-title="Radio Hải Ngoại",vietradio HOUSTON 1560 AM
 https://cdn20.swarm.v247.com/3rdout/radio.hou.std2/icecast.audio
-#EXTINF:-1 group-title="Radio Hải Ngoại",vietradio DFW
+#EXTINF:-1 group-title="Radio Hải Ngoại",vietradio DALLAS  1480 AM
 https://cdn20.swarm.v247.com/3rdout/radio.dfw/icecast.audio
 
 #EXTINF:-1 group-title="Radio",oneway Công Giáo
