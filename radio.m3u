@@ -38,11 +38,11 @@ http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
 https://stream.vovmedia.vn/vovmekong
 #EXTINF:-1 group-title="Radio Việt",Xone FM
 https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
-#EXTINF:-1 group-title="Radio Việt", Đồng Tháp Radio
+#EXTINF:-1 group-title="Radio Việt", Đồng Tháp FM 98.4 MHz
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 97,3 Mhz
+#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 97,3 MHz
 https://live.canthotv.vn/live/radio/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 89,6 Mhz
+#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 89,6 MHz
 https://live.canthotv.vn/live/radiocs2/playlist.m3u8
 
 
