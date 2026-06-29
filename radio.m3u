@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="Radio Việt", Đồng Tháp FM 98.4 MHz
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 97,3 MHz
+#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 97.3 MHz
 https://live.canthotv.vn/live/radio/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 89,6 MHz
+#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 89.6 MHz
 https://live.canthotv.vn/live/radiocs2/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt", Đồng Nai 97.5 MHz
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
