@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="Radio Việt", Đồng Tháp FM 98.4 MHz
+https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 97,3 MHz
+https://live.canthotv.vn/live/radio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 89,6 MHz
+https://live.canthotv.vn/live/radiocs2/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Đồng Nai 97.5 MHz
+http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Tây Ninh FM 103.1 MHz | FM 96.9 MHz
+https://live-hq.evgcdn.net/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8
+#EXTINF:-1 group-title="Radio Việt", Cà Mau
+https://tv.ctvcamau.vn/live/radio/radio.m3u8
+
+
 
 #EXTINF:-1 group-title="Radio Việt", VOH AM 610kHz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
@@ -38,14 +52,6 @@ http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
 https://stream.vovmedia.vn/vovmekong
 #EXTINF:-1 group-title="Radio Việt",Xone FM
 https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
-#EXTINF:-1 group-title="Radio Việt", Đồng Tháp FM 98.4 MHz
-https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 97,3 MHz
-https://live.canthotv.vn/live/radio/playlist.m3u8
-#EXTINF:-1 group-title="Radio Việt", Cần Thơ FM 89,6 MHz
-https://live.canthotv.vn/live/radiocs2/playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="Radio Việt", Vpop
 https://vnso-pt-50-tf-multi-playlist-zmp3.zmdcdn.me/JB2zPitWC-s/zhls/playback-realtime/audio/6ddadf76e3330a6d5322/audio.m3u8
